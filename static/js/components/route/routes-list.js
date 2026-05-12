@@ -59,9 +59,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">March</a>  (April in not available yet).",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_3.pdf\" target=\"_blank\">март</a> (на апрель данных пока нет).",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">მარტისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -154,9 +154,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">March</a>  (April in not available yet).",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_3.pdf\" target=\"_blank\">март</a> (на апрель данных пока нет).",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">მარტისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "stations": [
          {
             "code": "yerevan",
@@ -3803,7 +3803,7 @@ export const routes = [
       "name:ka": "ქუთაისი → რიონი",
       "name:en": "Kutaisi → Rioni",
       "name:ru": "Кутаиси → Риони",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748822400000,
       "end_date": null,
@@ -3813,9 +3813,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "kutaisi1",
@@ -3848,14 +3848,11 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6355"
-      ]
+      "analogue": []
    },
    {
       "id": 18681731,
@@ -3863,7 +3860,7 @@ export const routes = [
       "name:ka": "რიონი → ქუთაისი",
       "name:en": "Rioni → Kutaisi",
       "name:ru": "Риони → Кутаиси",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748822400000,
       "end_date": null,
@@ -3873,9 +3870,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "rioni",
@@ -3908,14 +3905,11 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6356"
-      ]
+      "analogue": []
    },
    {
       "id": 18681732,
@@ -3923,7 +3917,7 @@ export const routes = [
       "name:ka": "ქუთაისი → რიონი",
       "name:en": "Kutaisi → Rioni",
       "name:ru": "Кутаиси → Риони",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748736000000,
       "end_date": null,
@@ -3933,9 +3927,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "kutaisi1",
@@ -3968,14 +3962,11 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6353"
-      ]
+      "analogue": []
    },
    {
       "id": 18681730,
@@ -3983,7 +3974,7 @@ export const routes = [
       "name:ka": "რიონი → ქუთაისი",
       "name:en": "Rioni → Kutaisi",
       "name:ru": "Риони → Кутаиси",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748736000000,
       "end_date": null,
@@ -3993,9 +3984,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "rioni",
@@ -4028,14 +4019,11 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6354"
-      ]
+      "analogue": []
    },
    {
       "id": 16011187,
