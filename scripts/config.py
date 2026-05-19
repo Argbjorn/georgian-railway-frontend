@@ -7,4 +7,5 @@ ROUTES_LIST_JS_PATH = os.path.join(PROJECT_ROOT, 'static', 'js', 'components', '
 ROUTES_JSON_PATH = os.path.join(PROJECT_ROOT, 'data', 'routes.json')
 STATIONS_LIST_JS_PATH = os.path.join(PROJECT_ROOT, 'static', 'js', 'components', 'station', 'stations-list.js')
 STATIONS_JSON_PATH = os.path.join(PROJECT_ROOT, 'data', 'stations.json')
+ROUTES_GEODATA_DIR = os.path.join(PROJECT_ROOT, 'static', 'data', 'routes_geodata')
 ROUTES_REFS_FOR_PARSING = []

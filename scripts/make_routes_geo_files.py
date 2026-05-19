@@ -1,8 +1,11 @@
+# Этот скрипт берет все маршруты их таблицы маршрутов и через Overpass API получает их геоданные, которые сохраняет в виде отдельных json файлов в папке geodata. Эти файлы потом используются для отображения маршрутов на карте (непосредственной отрисовки).
+
 import sys
 import os
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
+from config import ROUTES_GEODATA_DIR
 from utils.overpass_handler import OverpassHandler
 from utils.geo_routes_excel_handler import GeoRoutesExcelHandler
 import json
@@ -16,7 +19,7 @@ routes_data = overpass.get_routes_data(routes)
 print('Overpass data was received')
 
 for route in routes_data['elements']:
-    with open(f'C:/Users/user/georgian_railway_2025/static/data/routes_geodata/{route["id"]}.json', 'w', encoding="utf-8") as json_file:
+    file_path = os.path.join(ROUTES_GEODATA_DIR, f'{route["id"]}.json')
+    with open(file_path, 'w', encoding="utf-8") as json_file:
         json_file.write(json.dumps(route))
     print(f'{route["id"]}.json was successfully updated')
-
