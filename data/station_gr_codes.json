@@ -1,0 +1,630 @@
+[
+    {
+        "Code": 56014,
+        "Name": "Tbilisi-pass."
+    },
+    {
+        "Code": 57151,
+        "Name": "Batumi"
+    },
+    {
+        "Code": 57290,
+        "Name": "Zugdidi"
+    },
+    {
+        "Code": 57100,
+        "Name": "Ozurgeti"
+    },
+    {
+        "Code": 57530,
+        "Name": "Kutaisi I"
+    },
+    {
+        "Code": 57450,
+        "Name": "Kutaisi International Airport"
+    },
+    {
+        "Code": 57190,
+        "Name": "Senaki"
+    },
+    {
+        "Code": 57000,
+        "Name": "Samtredia"
+    },
+    {
+        "Code": 57120,
+        "Name": "Kobuleti"
+    },
+    {
+        "Code": 57070,
+        "Name": "Ureki"
+    },
+    {
+        "Code": 57510,
+        "Name": "Rioni"
+    },
+    {
+        "Code": 57170,
+        "Name": "Abasha"
+    },
+    {
+        "Code": 57600,
+        "Name": "Zestafoni"
+    },
+    {
+        "Code": 57040,
+        "Name": "Lanchkhuti"
+    },
+    {
+        "Code": 57250,
+        "Name": "Khobi"
+    },
+    {
+        "Code": 57900,
+        "Name": "Gori"
+    },
+    {
+        "Code": 57680,
+        "Name": "Kharagauli"
+    },
+    {
+        "Code": 57720,
+        "Name": "Khashuri"
+    },
+    {
+        "Code": 57210,
+        "Name": "Poti"
+    },
+    {
+        "Code": 57690,
+        "Name": "Marelisi"
+    },
+    {
+        "Code": 57700,
+        "Name": "Moliti"
+    },
+    {
+        "Code": 57080,
+        "Name": "Natanebi"
+    },
+    {
+        "Code": 57060,
+        "Name": "Supsa"
+    },
+    {
+        "Code": 57050,
+        "Name": "Djumati"
+    },
+    {
+        "Code": 56080,
+        "Name": "Kaspi"
+    },
+    {
+        "Code": 57702,
+        "Name": "Tsipa"
+    },
+    {
+        "Code": 57252,
+        "Name": "Kheta"
+    },
+    {
+        "Code": 57090,
+        "Name": "Meria"
+    },
+    {
+        "Code": 56040,
+        "Name": "Mtskheta"
+    },
+    {
+        "Code": 57030,
+        "Name": "Nigoiti"
+    },
+    {
+        "Code": 57880,
+        "Name": "Kareli"
+    },
+    {
+        "Code": 57580,
+        "Name": "Sviri"
+    },
+    {
+        "Code": 56021,
+        "Name": "Didube"
+    },
+    {
+        "Code": 57280,
+        "Name": "Ingiri"
+    },
+    {
+        "Code": 57020,
+        "Name": "Sadjevakho"
+    },
+    {
+        "Code": 57670,
+        "Name": "Dzirula"
+    },
+    {
+        "Code": 57194,
+        "Name": "Kvaloni"
+    },
+    {
+        "Code": 57031,
+        "Name": "Shukhuti"
+    },
+    {
+        "Code": 57832,
+        "Name": "Persa"
+    },
+    {
+        "Code": 57870,
+        "Name": "Agara"
+    },
+    {
+        "Code": 57111,
+        "Name": "Aguris karkhana"
+    },
+    {
+        "Code": 57180,
+        "Name": "Agur-karkhana (junc)"
+    },
+    {
+        "Code": 56030,
+        "Name": "Avchala"
+    },
+    {
+        "Code": 57590,
+        "Name": "Argveta"
+    },
+    {
+        "Code": 56042,
+        "Name": "Armazi"
+    },
+    {
+        "Code": 57830,
+        "Name": "Atskuri"
+    },
+    {
+        "Code": 57750,
+        "Name": "Akhaldaba"
+    },
+    {
+        "Code": 56320,
+        "Name": "Akhalkalaki-pass"
+    },
+    {
+        "Code": 56330,
+        "Name": "Akhalkalaki-fr."
+    },
+    {
+        "Code": 57840,
+        "Name": "Akhaltsikhe-fr."
+    },
+    {
+        "Code": 57570,
+        "Name": "Adjameti"
+    },
+    {
+        "Code": 57672,
+        "Name": "bazaleti"
+    },
+    {
+        "Code": 57091,
+        "Name": "Platform 11 km"
+    },
+    {
+        "Code": 56281,
+        "Name": "Platform 13 km"
+    },
+    {
+        "Code": 57093,
+        "Name": "Platform 16 km"
+    },
+    {
+        "Code": 56001,
+        "Name": "Platform 2 km"
+    },
+    {
+        "Code": 56271,
+        "Name": "Platform 23 km"
+    },
+    {
+        "Code": 57663,
+        "Name": "Platform 2338 km"
+    },
+    {
+        "Code": 57681,
+        "Name": "Platform 2350 km"
+    },
+    {
+        "Code": 57691,
+        "Name": "Platform 2357 km"
+    },
+    {
+        "Code": 57692,
+        "Name": "Platform 2359 km"
+    },
+    {
+        "Code": 57711,
+        "Name": "Platform 2369 km"
+    },
+    {
+        "Code": 57712,
+        "Name": "Platform 2373 km"
+    },
+    {
+        "Code": 57715,
+        "Name": "Platform 2380 km"
+    },
+    {
+        "Code": 57728,
+        "Name": "Platform 2391 km"
+    },
+    {
+        "Code": 56062,
+        "Name": "Platform 2468 km"
+    },
+    {
+        "Code": 57603,
+        "Name": "Platform 6 km"
+    },
+    {
+        "Code": 56308,
+        "Name": "Bedeni (junc.)"
+    },
+    {
+        "Code": 57072,
+        "Name": "Black Sea Arena"
+    },
+    {
+        "Code": 57760,
+        "Name": "Borjomi"
+    },
+    {
+        "Code": 57761,
+        "Name": "Borjomi-park"
+    },
+    {
+        "Code": 57461,
+        "Name": "Brotseula"
+    },
+    {
+        "Code": 56353,
+        "Name": "Ganza"
+    },
+    {
+        "Code": 56260,
+        "Name": "Gardabani"
+    },
+    {
+        "Code": 56280,
+        "Name": "Gachiani"
+    },
+    {
+        "Code": 57860,
+        "Name": "Gomi"
+    },
+    {
+        "Code": 57960,
+        "Name": "Grakali"
+    },
+    {
+        "Code": 57682,
+        "Name": "Grekhili-avedji"
+    },
+    {
+        "Code": 57051,
+        "Name": "Guria"
+    },
+    {
+        "Code": 57769,
+        "Name": "Dviri"
+    },
+    {
+        "Code": 57850,
+        "Name": "Vale"
+    },
+    {
+        "Code": 57752,
+        "Name": "Vardgineti"
+    },
+    {
+        "Code": 56290,
+        "Name": "Veli"
+    },
+    {
+        "Code": 56031,
+        "Name": "Zages (junc.)"
+    },
+    {
+        "Code": 57193,
+        "Name": "Zemo-kvaloni"
+    },
+    {
+        "Code": 56350,
+        "Name": "Taparavni"
+    },
+    {
+        "Code": 56000,
+        "Name": "Tbilisi-sort."
+    },
+    {
+        "Code": 56010,
+        "Name": "Tbilisi-cross."
+    },
+    {
+        "Code": 56390,
+        "Name": "Tetri-Tskaro"
+    },
+    {
+        "Code": 56371,
+        "Name": "Trialeti (junc.)"
+    },
+    {
+        "Code": 56070,
+        "Name": "Kavtiskhevi (junc.)"
+    },
+    {
+        "Code": 56032,
+        "Name": "karsani"
+    },
+    {
+        "Code": 57092,
+        "Name": "Kakhuri"
+    },
+    {
+        "Code": 57052,
+        "Name": "Kolshroma"
+    },
+    {
+        "Code": 56302,
+        "Name": "Kumisi"
+    },
+    {
+        "Code": 57671,
+        "Name": "Lashe"
+    },
+    {
+        "Code": 57684,
+        "Name": "Levan Megrelishvili"
+    },
+    {
+        "Code": 57042,
+        "Name": "Lesa"
+    },
+    {
+        "Code": 57713,
+        "Name": "Likhi"
+    },
+    {
+        "Code": 56303,
+        "Name": "marabda"
+    },
+    {
+        "Code": 57004,
+        "Name": "Marani"
+    },
+    {
+        "Code": 56410,
+        "Name": "Marneuli "
+    },
+    {
+        "Code": 57133,
+        "Name": "Makhindjauri"
+    },
+    {
+        "Code": 56090,
+        "Name": "Metekhi"
+    },
+    {
+        "Code": 56261,
+        "Name": "Mtavari-arkhi"
+    },
+    {
+        "Code": 56071,
+        "Name": "Mikeltskaro"
+    },
+    {
+        "Code": 57861,
+        "Name": "Mokhisi"
+    },
+    {
+        "Code": 57251,
+        "Name": "Munchia"
+    },
+    {
+        "Code": 57460,
+        "Name": "Mukhiani"
+    },
+    {
+        "Code": 57132,
+        "Name": "Mtcvane kontckhi"
+    },
+    {
+        "Code": 56263,
+        "Name": "Naghebi"
+    },
+    {
+        "Code": 56307,
+        "Name": "Nadarbazevi"
+    },
+    {
+        "Code": 56340,
+        "Name": "Ninotsminda"
+    },
+    {
+        "Code": 57181,
+        "Name": "Nosiri"
+    },
+    {
+        "Code": 57721,
+        "Name": "Osiauri stop"
+    },
+    {
+        "Code": 57110,
+        "Name": "Ochkhamuri"
+    },
+    {
+        "Code": 56352,
+        "Name": "Radionovka"
+    },
+    {
+        "Code": 56272,
+        "Name": "Rustavi -pass."
+    },
+    {
+        "Code": 56270,
+        "Name": "Rustavi-fr."
+    },
+    {
+        "Code": 56460,
+        "Name": "Sadaxlo"
+    },
+    {
+        "Code": 56355,
+        "Name": "Sadkha"
+    },
+    {
+        "Code": 57716,
+        "Name": "Savanis ubani"
+    },
+    {
+        "Code": 57006,
+        "Name": "Samtredia II"
+    },
+    {
+        "Code": 57591,
+        "Name": "Sakara"
+    },
+    {
+        "Code": 56354,
+        "Name": "Saghamo"
+    },
+    {
+        "Code": 57683,
+        "Name": "Saghandzile"
+    },
+    {
+        "Code": 57890,
+        "Name": "Skra"
+    },
+    {
+        "Code": 57714,
+        "Name": "Tezeri"
+    },
+    {
+        "Code": 57881,
+        "Name": "Urbnisi"
+    },
+    {
+        "Code": 57950,
+        "Name": "Uplistcikhe(junc)"
+    },
+    {
+        "Code": 56351,
+        "Name": "Pokani (junc.)"
+    },
+    {
+        "Code": 56300,
+        "Name": "Ponichala"
+    },
+    {
+        "Code": 57951,
+        "Name": "Kvakhreli"
+    },
+    {
+        "Code": 57023,
+        "Name": "Kviani"
+    },
+    {
+        "Code": 57160,
+        "Name": "Kolobani (junc)"
+    },
+    {
+        "Code": 56060,
+        "Name": "Ksani"
+    },
+    {
+        "Code": 56051,
+        "Name": "Shio-mghvime"
+    },
+    {
+        "Code": 57660,
+        "Name": "Shorapani"
+    },
+    {
+        "Code": 56450,
+        "Name": "Shulaveri"
+    },
+    {
+        "Code": 57130,
+        "Name": "Chaqvi"
+    },
+    {
+        "Code": 57041,
+        "Name": "Chibati"
+    },
+    {
+        "Code": 57703,
+        "Name": "Chrdili"
+    },
+    {
+        "Code": 57271,
+        "Name": "Tcaishi"
+    },
+    {
+        "Code": 57270,
+        "Name": "Tcatckhvi (junc)"
+    },
+    {
+        "Code": 57192,
+        "Name": "Tsivi Meji"
+    },
+    {
+        "Code": 57122,
+        "Name": "Tcikhis-Dziri"
+    },
+    {
+        "Code": 56304,
+        "Name": "Tckhra-dzma (junc.)"
+    },
+    {
+        "Code": 56050,
+        "Name": "Dzegvi"
+    },
+    {
+        "Code": 56370,
+        "Name": "Tsalka"
+    },
+    {
+        "Code": 57071,
+        "Name": "Tcvermaghala"
+    },
+    {
+        "Code": 57202,
+        "Name": "Chaladidi"
+    },
+    {
+        "Code": 57261,
+        "Name": "Khamiskura"
+    },
+    {
+        "Code": 56061,
+        "Name": "Khandaki"
+    },
+    {
+        "Code": 57021,
+        "Name": "Khevis-tskali"
+    },
+    {
+        "Code": 57901,
+        "Name": "Khidistavi"
+    },
+    {
+        "Code": 57201,
+        "Name": "Khorga"
+    },
+    {
+        "Code": 57022,
+        "Name": "Djapana (junc.)"
+    }
+]
