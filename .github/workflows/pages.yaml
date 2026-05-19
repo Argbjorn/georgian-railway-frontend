@@ -71,7 +71,9 @@ jobs:
 
       - name: Run make_routes_geo_files
         run: python scripts/make_routes_geo_files.py
-        continue-on-error: true
+
+      - name: Run make_stations_files
+        run: python scripts/make_stations_files.py
 
       - name: Run make_routes_files
         run: python scripts/make_routes_files.py
@@ -84,8 +86,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep -q .; then
-            git add data/routes.json static/js/components/route/routes-list.js static/data/routes_geodata/
-            git commit -m "chore: update routes data from make_routes_files [skip ci]"
+            git add data/routes.json static/js/components/route/routes-list.js static/data/routes_geodata/ data/stations.json static/js/components/station/stations-list.js
+            git commit -m "chore: update generated data files [skip ci]"
             git push origin HEAD:${{ github.ref_name }}
           fi
 
