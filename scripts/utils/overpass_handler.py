@@ -8,9 +8,12 @@ class OverpassHandler:
         self.base_url_test = 'https://maps.mail.ru/osm/tools/overpass/api/interpreter'
 
     def get_data(self, query):
-        result = requests.get(self.base_url_test, data={"data": query}, timeout=10)
+        headers = {
+            "User-Agent": "georailway",
+        }
+        result = requests.get(self.base_url, data={"data": query}, headers=headers, timeout=25)
         if result.status_code != 200:
-            raise Exception(f"Failed to get data from Overpass API: {result.status_code}")
+            raise Exception(f"Failed to get data from Overpass API: {result.status_code} {result.text}")
         return result.json()
 
     def get_route_stations_id(self, route_id):
