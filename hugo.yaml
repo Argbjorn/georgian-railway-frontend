@@ -43,10 +43,6 @@ menu:
       name: Stations
       pageRef: /stations
       weight: 3
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 4
     - identifier: about
       name: About
       pageRef: /about
