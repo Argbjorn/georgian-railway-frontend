@@ -173,5 +173,5 @@ if __name__ == '__main__':
         except Exception as e:
             if attempt == 5:
                 raise
-            print(f"Attempt {attempt} failed: {e}. Retrying in 10s...")
+            print(f"Attempt {attempt} failed: {e}. Retrying in 3s...")
             time.sleep(3)
