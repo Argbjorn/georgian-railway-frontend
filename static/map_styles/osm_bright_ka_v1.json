@@ -14,11 +14,11 @@
     "openmaptiles": {
       "type": "vector",
       "scheme": "xyz",
-      "url": "https://tiles.stadiamaps.com/data/openmaptiles.json"
+      "url": "https://tiles.openfreemap.org/planet"
     }
   },
   "sprite": "https://tiles.stadiamaps.com/styles/osm-bright/sprite",
-  "glyphs": "https://tiles.stadiamaps.com/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -1411,7 +1411,7 @@
       "minzoom": 13,
       "filter": ["all", ["==", "$type", "LineString"], ["has", "name"]],
       "layout": {
-        "text-font": ["Stadia Italic"],
+        "text-font": ["Noto Sans Italic"],
         "text-size": 14,
         "text-field": [
           "concat",
@@ -1447,7 +1447,7 @@
       "source-layer": "water_name",
       "filter": ["==", "$type", "LineString"],
       "layout": {
-        "text-font": ["Stadia Italic"],
+        "text-font": ["Noto Sans Italic"],
         "text-size": 14,
         "text-field": [
           "concat",
@@ -1485,7 +1485,7 @@
       "minzoom": 1,
       "filter": ["all", ["==", "$type", "Point"], ["!in", "class", "ocean"]],
       "layout": {
-        "text-font": ["Stadia Italic"],
+        "text-font": ["Noto Sans Italic"],
         "text-size": {"stops": [[0, 14], [6, 16]]},
         "text-field": [
           "concat",
@@ -1521,7 +1521,7 @@
       "source-layer": "water_name",
       "filter": ["all", ["==", "$type", "Point"], ["==", "class", "ocean"]],
       "layout": {
-        "text-font": ["Stadia Italic"],
+        "text-font": ["Noto Sans Italic"],
         "text-size": 18,
         "text-field": "{name:latin}",
         "text-max-width": 5,
@@ -1544,7 +1544,7 @@
       "minzoom": 16,
       "filter": ["all", ["==", "$type", "Point"]],
       "layout": {
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-field": "{housenumber}",
         "text-size": 12,
         "symbol-avoid-edges": true
@@ -1565,7 +1565,7 @@
       "filter": ["all", ["==", "$type", "Point"], [">=", "rank", 25]],
       "layout": {
         "text-padding": 2,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-anchor": "top",
         "icon-image": "{class}_11",
         "text-field": [
@@ -1609,7 +1609,7 @@
       ],
       "layout": {
         "text-padding": 2,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-anchor": "top",
         "icon-image": "{class}_11",
         "text-field": [
@@ -1653,7 +1653,7 @@
       ],
       "layout": {
         "text-padding": 2,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-anchor": "top",
         "icon-image": "{class}_11",
         "text-field": [
@@ -1699,7 +1699,7 @@
       ],
       "layout": {
         "text-padding": 2,
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-anchor": "top",
         "icon-image": "{class}_11",
         "text-field": [
@@ -1744,7 +1744,7 @@
       "filter": ["in", "class", "path", "footway"],
       "layout": {
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]},
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-field": [
           "concat",
           ["get", "name:latin"],
@@ -1782,7 +1782,7 @@
       ],
       "layout": {
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]},
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-field": [
           "concat",
           ["get", "name:latin"],
@@ -1816,7 +1816,7 @@
       "filter": ["in", "class", "primary", "secondary", "tertiary", "trunk"],
       "layout": {
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]},
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-field": [
           "concat",
           ["get", "name:latin"],
@@ -1858,7 +1858,7 @@
         "icon-image": "road_{ref_length}",
         "icon-rotation-alignment": "viewport",
         "symbol-spacing": 200,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "symbol-placement": {"base": 1, "stops": [[10, "point"], [11, "line"]]},
         "text-rotation-alignment": "viewport",
         "icon-size": 1,
@@ -1883,7 +1883,7 @@
         "icon-image": "{network}_{ref_length}",
         "icon-rotation-alignment": "viewport",
         "symbol-spacing": 200,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "symbol-placement": {
           "base": 1,
           "stops": [[7, "point"], [7, "line"], [8, "line"]]
@@ -1912,7 +1912,7 @@
         "icon-image": "{network}_{ref_length}",
         "icon-rotation-alignment": "viewport",
         "symbol-spacing": 200,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "symbol-placement": {"base": 1, "stops": [[10, "point"], [11, "line"]]},
         "symbol-avoid-edges": true,
         "text-rotation-alignment": "viewport",
@@ -1930,7 +1930,7 @@
       "filter": ["all", ["has", "iata"]],
       "layout": {
         "text-padding": 2,
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-anchor": "top",
         "icon-image": "airport_11",
         "text-field": [
@@ -1979,7 +1979,7 @@
       "layout": {
         "text-letter-spacing": 0.1,
         "text-size": {"base": 1.2, "stops": [[12, 10], [15, 14]]},
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
@@ -2012,7 +2012,7 @@
       "source-layer": "place",
       "filter": ["==", "class", "village"],
       "layout": {
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-size": {"base": 1.2, "stops": [[10, 12], [15, 22]]},
         "text-field": [
           "concat",
@@ -2046,7 +2046,7 @@
       "source-layer": "place",
       "filter": ["==", "class", "town"],
       "layout": {
-        "text-font": ["Stadia Regular"],
+        "text-font": ["Noto Sans Regular"],
         "text-size": {"base": 1.2, "stops": [[10, 14], [15, 24]]},
         "text-field": [
           "concat",
@@ -2079,7 +2079,7 @@
       "source-layer": "place",
       "filter": ["all", ["!=", "capital", 2], ["==", "class", "city"]],
       "layout": {
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-size": {"base": 1.2, "stops": [[7, 14], [11, 24]]},
         "text-field": [
           "concat",
@@ -2112,7 +2112,7 @@
       "source-layer": "place",
       "filter": ["all", ["==", "capital", 2], ["==", "class", "city"]],
       "layout": {
-        "text-font": ["Stadia Semibold"],
+        "text-font": ["Noto Sans Bold"],
         "text-size": {"base": 1.2, "stops": [[7, 14], [11, 24]]},
         "text-field": [
           "concat",
@@ -2155,7 +2155,7 @@
         ["!has", "iso_a2"]
       ],
       "layout": {
-        "text-font": ["Stadia Italic"],
+        "text-font": ["Noto Sans Italic"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
@@ -2195,7 +2195,7 @@
         ["has", "iso_a2"]
       ],
       "layout": {
-        "text-font": ["Stadia Bold"],
+        "text-font": ["Noto Sans Bold"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
@@ -2235,7 +2235,7 @@
         ["has", "iso_a2"]
       ],
       "layout": {
-        "text-font": ["Stadia Bold"],
+        "text-font": ["Noto Sans Bold"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
@@ -2275,7 +2275,7 @@
         ["has", "iso_a2"]
       ],
       "layout": {
-        "text-font": ["Stadia Bold"],
+        "text-font": ["Noto Sans Bold"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
@@ -2310,7 +2310,7 @@
       "maxzoom": 1,
       "filter": ["==", "class", "continent"],
       "layout": {
-        "text-font": ["Stadia Bold"],
+        "text-font": ["Noto Sans Bold"],
         "text-field": [
           "concat",
           ["get", "name:ka"],
