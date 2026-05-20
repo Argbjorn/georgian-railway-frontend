@@ -1,8 +1,5 @@
 export const railwayNetworkData = {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-01-27T11:23:15Z",
   "features": [
     {
       "type": "Feature",
@@ -73,8 +70,7 @@ export const railwayNetworkData = {
             42.1897961
           ]
         ]
-      },
-      "id": "way/17637501"
+      }
     },
     {
       "type": "Feature",
@@ -184,8 +180,7 @@ export const railwayNetworkData = {
             41.6850253
           ]
         ]
-      },
-      "id": "way/17702209"
+      }
     },
     {
       "type": "Feature",
@@ -227,8 +222,7 @@ export const railwayNetworkData = {
             41.8244333
           ]
         ]
-      },
-      "id": "way/17907672"
+      }
     },
     {
       "type": "Feature",
@@ -375,8 +369,7 @@ export const railwayNetworkData = {
             41.9450113
           ]
         ]
-      },
-      "id": "way/20470216"
+      }
     },
     {
       "type": "Feature",
@@ -423,8 +416,7 @@ export const railwayNetworkData = {
             41.9095489
           ]
         ]
-      },
-      "id": "way/20470227"
+      }
     },
     {
       "type": "Feature",
@@ -607,8 +599,7 @@ export const railwayNetworkData = {
             41.903751
           ]
         ]
-      },
-      "id": "way/20470314"
+      }
     },
     {
       "type": "Feature",
@@ -771,8 +762,7 @@ export const railwayNetworkData = {
             41.883056
           ]
         ]
-      },
-      "id": "way/20470383"
+      }
     },
     {
       "type": "Feature",
@@ -799,8 +789,8 @@ export const railwayNetworkData = {
             41.8481871
           ],
           [
-            44.6043024,
-            41.847841
+            44.6042932,
+            41.8478465
           ],
           [
             44.6046801,
@@ -943,8 +933,7 @@ export const railwayNetworkData = {
             41.8397266
           ]
         ]
-      },
-      "id": "way/20471088"
+      }
     },
     {
       "type": "Feature",
@@ -1005,8 +994,7 @@ export const railwayNetworkData = {
             41.8336785
           ]
         ]
-      },
-      "id": "way/20471207"
+      }
     },
     {
       "type": "Feature",
@@ -1073,8 +1061,7 @@ export const railwayNetworkData = {
             41.8511931
           ]
         ]
-      },
-      "id": "way/20471876"
+      }
     },
     {
       "type": "Feature",
@@ -1111,8 +1098,7 @@ export const railwayNetworkData = {
             41.8226743
           ]
         ]
-      },
-      "id": "way/20573341"
+      }
     },
     {
       "type": "Feature",
@@ -1139,8 +1125,7 @@ export const railwayNetworkData = {
             41.8324964
           ]
         ]
-      },
-      "id": "way/20573455"
+      }
     },
     {
       "type": "Feature",
@@ -1218,8 +1203,7 @@ export const railwayNetworkData = {
             41.8184202
           ]
         ]
-      },
-      "id": "way/20573490"
+      }
     },
     {
       "type": "Feature",
@@ -1247,8 +1231,7 @@ export const railwayNetworkData = {
             41.7855983
           ]
         ]
-      },
-      "id": "way/20587753"
+      }
     },
     {
       "type": "Feature",
@@ -1316,6 +1299,10 @@ export const railwayNetworkData = {
           [
             44.7817567,
             41.7550222
+          ],
+          [
+            44.7820916,
+            41.755737
           ],
           [
             44.78221,
@@ -1426,8 +1413,7 @@ export const railwayNetworkData = {
             41.784905
           ]
         ]
-      },
-      "id": "way/20587773"
+      }
     },
     {
       "type": "Feature",
@@ -1533,8 +1519,7 @@ export const railwayNetworkData = {
             41.8049781
           ]
         ]
-      },
-      "id": "way/20588312"
+      }
     },
     {
       "type": "Feature",
@@ -1561,8 +1546,7 @@ export const railwayNetworkData = {
             41.6821542
           ]
         ]
-      },
-      "id": "way/20619159"
+      }
     },
     {
       "type": "Feature",
@@ -1590,8 +1574,7 @@ export const railwayNetworkData = {
             41.6642971
           ]
         ]
-      },
-      "id": "way/20619731"
+      }
     },
     {
       "type": "Feature",
@@ -1648,8 +1631,7 @@ export const railwayNetworkData = {
             41.6782139
           ]
         ]
-      },
-      "id": "way/20619857"
+      }
     },
     {
       "type": "Feature",
@@ -1681,8 +1663,7 @@ export const railwayNetworkData = {
             41.6600319
           ]
         ]
-      },
-      "id": "way/20627933"
+      }
     },
     {
       "type": "Feature",
@@ -1717,8 +1698,7 @@ export const railwayNetworkData = {
             41.6607848
           ]
         ]
-      },
-      "id": "way/20627946"
+      }
     },
     {
       "type": "Feature",
@@ -1845,8 +1825,7 @@ export const railwayNetworkData = {
             41.6704294
           ]
         ]
-      },
-      "id": "way/20628035"
+      }
     },
     {
       "type": "Feature",
@@ -1874,8 +1853,7 @@ export const railwayNetworkData = {
             41.6617652
           ]
         ]
-      },
-      "id": "way/20628038"
+      }
     },
     {
       "type": "Feature",
@@ -2101,12 +2079,11 @@ export const railwayNetworkData = {
             41.681399
           ],
           [
-            44.8658802,
+            44.8658808,
             41.6816599
           ]
         ]
-      },
-      "id": "way/20628193"
+      }
     },
     {
       "type": "Feature",
@@ -2134,8 +2111,7 @@ export const railwayNetworkData = {
             41.6705485
           ]
         ]
-      },
-      "id": "way/20628200"
+      }
     },
     {
       "type": "Feature",
@@ -2164,8 +2140,7 @@ export const railwayNetworkData = {
             41.6917667
           ]
         ]
-      },
-      "id": "way/20650859"
+      }
     },
     {
       "type": "Feature",
@@ -2215,8 +2190,7 @@ export const railwayNetworkData = {
             41.6830871
           ]
         ]
-      },
-      "id": "way/20650861"
+      }
     },
     {
       "type": "Feature",
@@ -2435,8 +2409,7 @@ export const railwayNetworkData = {
             41.7045297
           ]
         ]
-      },
-      "id": "way/20651162"
+      }
     },
     {
       "type": "Feature",
@@ -2465,8 +2438,7 @@ export const railwayNetworkData = {
             41.7050649
           ]
         ]
-      },
-      "id": "way/20651303"
+      }
     },
     {
       "type": "Feature",
@@ -2697,8 +2669,7 @@ export const railwayNetworkData = {
             41.6982055
           ]
         ]
-      },
-      "id": "way/20651540"
+      }
     },
     {
       "type": "Feature",
@@ -2773,8 +2744,7 @@ export const railwayNetworkData = {
             41.692415
           ]
         ]
-      },
-      "id": "way/20651887"
+      }
     },
     {
       "type": "Feature",
@@ -2809,8 +2779,7 @@ export const railwayNetworkData = {
             41.6886098
           ]
         ]
-      },
-      "id": "way/20652445"
+      }
     },
     {
       "type": "Feature",
@@ -2865,8 +2834,7 @@ export const railwayNetworkData = {
             41.691419
           ]
         ]
-      },
-      "id": "way/20652458"
+      }
     },
     {
       "type": "Feature",
@@ -2953,8 +2921,7 @@ export const railwayNetworkData = {
             41.6877591
           ]
         ]
-      },
-      "id": "way/20815220"
+      }
     },
     {
       "type": "Feature",
@@ -3117,8 +3084,7 @@ export const railwayNetworkData = {
             41.6849193
           ]
         ]
-      },
-      "id": "way/20815660"
+      }
     },
     {
       "type": "Feature",
@@ -3145,8 +3111,7 @@ export const railwayNetworkData = {
             41.67807
           ]
         ]
-      },
-      "id": "way/20816109"
+      }
     },
     {
       "type": "Feature",
@@ -3243,8 +3208,7 @@ export const railwayNetworkData = {
             41.6693002
           ]
         ]
-      },
-      "id": "way/20816113"
+      }
     },
     {
       "type": "Feature",
@@ -3267,8 +3231,7 @@ export const railwayNetworkData = {
             41.6782562
           ]
         ]
-      },
-      "id": "way/20816226"
+      }
     },
     {
       "type": "Feature",
@@ -3389,8 +3352,7 @@ export const railwayNetworkData = {
             41.6830923
           ]
         ]
-      },
-      "id": "way/20816289"
+      }
     },
     {
       "type": "Feature",
@@ -3419,8 +3381,7 @@ export const railwayNetworkData = {
             41.6829864
           ]
         ]
-      },
-      "id": "way/20816445"
+      }
     },
     {
       "type": "Feature",
@@ -3487,8 +3448,7 @@ export const railwayNetworkData = {
             41.6832824
           ]
         ]
-      },
-      "id": "way/20816457"
+      }
     },
     {
       "type": "Feature",
@@ -3516,8 +3476,7 @@ export const railwayNetworkData = {
             41.6890158
           ]
         ]
-      },
-      "id": "way/20818581"
+      }
     },
     {
       "type": "Feature",
@@ -3545,8 +3504,7 @@ export const railwayNetworkData = {
             41.69122
           ]
         ]
-      },
-      "id": "way/20818751"
+      }
     },
     {
       "type": "Feature",
@@ -3605,8 +3563,7 @@ export const railwayNetworkData = {
             41.6891764
           ]
         ]
-      },
-      "id": "way/20818756"
+      }
     },
     {
       "type": "Feature",
@@ -3733,8 +3690,7 @@ export const railwayNetworkData = {
             41.9665482
           ]
         ]
-      },
-      "id": "way/25688730"
+      }
     },
     {
       "type": "Feature",
@@ -3763,8 +3719,7 @@ export const railwayNetworkData = {
             41.6849655
           ]
         ]
-      },
-      "id": "way/25724918"
+      }
     },
     {
       "type": "Feature",
@@ -3817,8 +3772,7 @@ export const railwayNetworkData = {
             41.675257
           ]
         ]
-      },
-      "id": "way/25758552"
+      }
     },
     {
       "type": "Feature",
@@ -3869,8 +3823,7 @@ export const railwayNetworkData = {
             41.7161385
           ]
         ]
-      },
-      "id": "way/26281641"
+      }
     },
     {
       "type": "Feature",
@@ -3899,8 +3852,7 @@ export const railwayNetworkData = {
             41.6365323
           ]
         ]
-      },
-      "id": "way/26281642"
+      }
     },
     {
       "type": "Feature",
@@ -4007,8 +3959,7 @@ export const railwayNetworkData = {
             41.6285043
           ]
         ]
-      },
-      "id": "way/26281643"
+      }
     },
     {
       "type": "Feature",
@@ -4100,8 +4051,7 @@ export const railwayNetworkData = {
             42.0938769
           ]
         ]
-      },
-      "id": "way/26343314"
+      }
     },
     {
       "type": "Feature",
@@ -4130,8 +4080,7 @@ export const railwayNetworkData = {
             42.0955171
           ]
         ]
-      },
-      "id": "way/26343315"
+      }
     },
     {
       "type": "Feature",
@@ -4282,8 +4231,7 @@ export const railwayNetworkData = {
             42.0943494
           ]
         ]
-      },
-      "id": "way/26343319"
+      }
     },
     {
       "type": "Feature",
@@ -4381,8 +4329,7 @@ export const railwayNetworkData = {
             42.1108469
           ]
         ]
-      },
-      "id": "way/26343324"
+      }
     },
     {
       "type": "Feature",
@@ -4432,8 +4379,7 @@ export const railwayNetworkData = {
             42.1803496
           ]
         ]
-      },
-      "id": "way/26343342"
+      }
     },
     {
       "type": "Feature",
@@ -4524,8 +4470,7 @@ export const railwayNetworkData = {
             42.1055726
           ]
         ]
-      },
-      "id": "way/26343344"
+      }
     },
     {
       "type": "Feature",
@@ -4562,8 +4507,7 @@ export const railwayNetworkData = {
             42.0957873
           ]
         ]
-      },
-      "id": "way/26344159"
+      }
     },
     {
       "type": "Feature",
@@ -4592,8 +4536,7 @@ export const railwayNetworkData = {
             42.0951886
           ]
         ]
-      },
-      "id": "way/26344160"
+      }
     },
     {
       "type": "Feature",
@@ -4620,8 +4563,7 @@ export const railwayNetworkData = {
             42.0950085
           ]
         ]
-      },
-      "id": "way/26344161"
+      }
     },
     {
       "type": "Feature",
@@ -4651,8 +4593,7 @@ export const railwayNetworkData = {
             42.0948166
           ]
         ]
-      },
-      "id": "way/26344164"
+      }
     },
     {
       "type": "Feature",
@@ -4689,8 +4630,7 @@ export const railwayNetworkData = {
             42.0946278
           ]
         ]
-      },
-      "id": "way/26344165"
+      }
     },
     {
       "type": "Feature",
@@ -4717,8 +4657,7 @@ export const railwayNetworkData = {
             42.1806194
           ]
         ]
-      },
-      "id": "way/26344298"
+      }
     },
     {
       "type": "Feature",
@@ -4744,16 +4683,12 @@ export const railwayNetworkData = {
             41.6778111
           ],
           [
-            41.6967787,
-            41.6780019
+            41.6968713,
+            41.6781955
           ],
           [
-            41.6968861,
-            41.6781895
-          ],
-          [
-            41.6970024,
-            41.6784317
+            41.6969892,
+            41.6784201
           ],
           [
             41.6971928,
@@ -4832,8 +4767,7 @@ export const railwayNetworkData = {
             41.6866823
           ]
         ]
-      },
-      "id": "way/26616201"
+      }
     },
     {
       "type": "Feature",
@@ -4904,8 +4838,7 @@ export const railwayNetworkData = {
             42.2686952
           ]
         ]
-      },
-      "id": "way/32898294"
+      }
     },
     {
       "type": "Feature",
@@ -4934,8 +4867,7 @@ export const railwayNetworkData = {
             42.2662221
           ]
         ]
-      },
-      "id": "way/32898295"
+      }
     },
     {
       "type": "Feature",
@@ -4963,8 +4895,7 @@ export const railwayNetworkData = {
             43.3934289
           ]
         ]
-      },
-      "id": "way/41407263"
+      }
     },
     {
       "type": "Feature",
@@ -4996,8 +4927,7 @@ export const railwayNetworkData = {
             43.3270202
           ]
         ]
-      },
-      "id": "way/41411009"
+      }
     },
     {
       "type": "Feature",
@@ -5067,8 +4997,7 @@ export const railwayNetworkData = {
             43.2740568
           ]
         ]
-      },
-      "id": "way/41411121"
+      }
     },
     {
       "type": "Feature",
@@ -5096,8 +5025,7 @@ export const railwayNetworkData = {
             43.2811851
           ]
         ]
-      },
-      "id": "way/41411122"
+      }
     },
     {
       "type": "Feature",
@@ -5140,8 +5068,7 @@ export const railwayNetworkData = {
             43.2211304
           ]
         ]
-      },
-      "id": "way/41416019"
+      }
     },
     {
       "type": "Feature",
@@ -5169,8 +5096,7 @@ export const railwayNetworkData = {
             43.2224875
           ]
         ]
-      },
-      "id": "way/41419540"
+      }
     },
     {
       "type": "Feature",
@@ -5785,8 +5711,7 @@ export const railwayNetworkData = {
             41.5845618
           ]
         ]
-      },
-      "id": "way/48754338"
+      }
     },
     {
       "type": "Feature",
@@ -5847,8 +5772,7 @@ export const railwayNetworkData = {
             41.6782562
           ]
         ]
-      },
-      "id": "way/53261953"
+      }
     },
     {
       "type": "Feature",
@@ -5893,8 +5817,7 @@ export const railwayNetworkData = {
             41.6838822
           ]
         ]
-      },
-      "id": "way/53261954"
+      }
     },
     {
       "type": "Feature",
@@ -6009,8 +5932,7 @@ export const railwayNetworkData = {
             41.7002437
           ]
         ]
-      },
-      "id": "way/57138185"
+      }
     },
     {
       "type": "Feature",
@@ -6038,8 +5960,7 @@ export const railwayNetworkData = {
             41.6390806
           ]
         ]
-      },
-      "id": "way/57768754"
+      }
     },
     {
       "type": "Feature",
@@ -6122,8 +6043,7 @@ export const railwayNetworkData = {
             41.6392219
           ]
         ]
-      },
-      "id": "way/57768758"
+      }
     },
     {
       "type": "Feature",
@@ -6151,8 +6071,7 @@ export const railwayNetworkData = {
             41.6392219
           ]
         ]
-      },
-      "id": "way/57768759"
+      }
     },
     {
       "type": "Feature",
@@ -6181,8 +6100,7 @@ export const railwayNetworkData = {
             41.8256551
           ]
         ]
-      },
-      "id": "way/57899216"
+      }
     },
     {
       "type": "Feature",
@@ -6229,8 +6147,7 @@ export const railwayNetworkData = {
             41.8194213
           ]
         ]
-      },
-      "id": "way/57899217"
+      }
     },
     {
       "type": "Feature",
@@ -6257,8 +6174,7 @@ export const railwayNetworkData = {
             41.8369695
           ]
         ]
-      },
-      "id": "way/58404226"
+      }
     },
     {
       "type": "Feature",
@@ -6397,8 +6313,7 @@ export const railwayNetworkData = {
             41.6397365
           ]
         ]
-      },
-      "id": "way/59531172"
+      }
     },
     {
       "type": "Feature",
@@ -6473,8 +6388,7 @@ export const railwayNetworkData = {
             41.608348
           ]
         ]
-      },
-      "id": "way/59531173"
+      }
     },
     {
       "type": "Feature",
@@ -6563,8 +6477,7 @@ export const railwayNetworkData = {
             41.6880861
           ]
         ]
-      },
-      "id": "way/61154664"
+      }
     },
     {
       "type": "Feature",
@@ -6657,8 +6570,7 @@ export const railwayNetworkData = {
             41.688202
           ]
         ]
-      },
-      "id": "way/61154666"
+      }
     },
     {
       "type": "Feature",
@@ -6691,8 +6603,7 @@ export const railwayNetworkData = {
             41.721053
           ]
         ]
-      },
-      "id": "way/61550587"
+      }
     },
     {
       "type": "Feature",
@@ -6720,8 +6631,7 @@ export const railwayNetworkData = {
             41.5896315
           ]
         ]
-      },
-      "id": "way/62059144"
+      }
     },
     {
       "type": "Feature",
@@ -6747,8 +6657,7 @@ export const railwayNetworkData = {
             41.607178
           ]
         ]
-      },
-      "id": "way/62059162"
+      }
     },
     {
       "type": "Feature",
@@ -6847,8 +6756,7 @@ export const railwayNetworkData = {
             41.5900155
           ]
         ]
-      },
-      "id": "way/62059163"
+      }
     },
     {
       "type": "Feature",
@@ -7060,8 +6968,7 @@ export const railwayNetworkData = {
             41.5387827
           ]
         ]
-      },
-      "id": "way/62059165"
+      }
     },
     {
       "type": "Feature",
@@ -7130,8 +7037,7 @@ export const railwayNetworkData = {
             41.6847945
           ]
         ]
-      },
-      "id": "way/62288566"
+      }
     },
     {
       "type": "Feature",
@@ -7158,8 +7064,7 @@ export const railwayNetworkData = {
             41.68217
           ]
         ]
-      },
-      "id": "way/62288571"
+      }
     },
     {
       "type": "Feature",
@@ -7207,8 +7112,7 @@ export const railwayNetworkData = {
             41.6824291
           ]
         ]
-      },
-      "id": "way/62307000"
+      }
     },
     {
       "type": "Feature",
@@ -7280,8 +7184,7 @@ export const railwayNetworkData = {
             41.6865782
           ]
         ]
-      },
-      "id": "way/62324618"
+      }
     },
     {
       "type": "Feature",
@@ -7341,8 +7244,7 @@ export const railwayNetworkData = {
             43.0044132
           ]
         ]
-      },
-      "id": "way/64096780"
+      }
     },
     {
       "type": "Feature",
@@ -7484,8 +7386,7 @@ export const railwayNetworkData = {
             43.078489
           ]
         ]
-      },
-      "id": "way/66214652"
+      }
     },
     {
       "type": "Feature",
@@ -7515,8 +7416,7 @@ export const railwayNetworkData = {
             43.0852625
           ]
         ]
-      },
-      "id": "way/66214655"
+      }
     },
     {
       "type": "Feature",
@@ -7543,8 +7443,7 @@ export const railwayNetworkData = {
             43.3269289
           ]
         ]
-      },
-      "id": "way/66924589"
+      }
     },
     {
       "type": "Feature",
@@ -7618,8 +7517,7 @@ export const railwayNetworkData = {
             42.7453902
           ]
         ]
-      },
-      "id": "way/72149014"
+      }
     },
     {
       "type": "Feature",
@@ -7826,8 +7724,7 @@ export const railwayNetworkData = {
             41.5791694
           ]
         ]
-      },
-      "id": "way/74668810"
+      }
     },
     {
       "type": "Feature",
@@ -7889,8 +7786,7 @@ export const railwayNetworkData = {
             42.0081613
           ]
         ]
-      },
-      "id": "way/76388752"
+      }
     },
     {
       "type": "Feature",
@@ -8022,8 +7918,7 @@ export const railwayNetworkData = {
             41.9986703
           ]
         ]
-      },
-      "id": "way/76556699"
+      }
     },
     {
       "type": "Feature",
@@ -8121,8 +8016,7 @@ export const railwayNetworkData = {
             41.986452
           ]
         ]
-      },
-      "id": "way/76556701"
+      }
     },
     {
       "type": "Feature",
@@ -8149,8 +8043,7 @@ export const railwayNetworkData = {
             41.6961587
           ]
         ]
-      },
-      "id": "way/76559025"
+      }
     },
     {
       "type": "Feature",
@@ -8220,8 +8113,7 @@ export const railwayNetworkData = {
             41.70647
           ]
         ]
-      },
-      "id": "way/76559026"
+      }
     },
     {
       "type": "Feature",
@@ -8293,8 +8185,7 @@ export const railwayNetworkData = {
             41.6418606
           ]
         ]
-      },
-      "id": "way/77871630"
+      }
     },
     {
       "type": "Feature",
@@ -8354,8 +8245,7 @@ export const railwayNetworkData = {
             41.6781124
           ]
         ]
-      },
-      "id": "way/78240703"
+      }
     },
     {
       "type": "Feature",
@@ -8381,8 +8271,7 @@ export const railwayNetworkData = {
             43.0920914
           ]
         ]
-      },
-      "id": "way/78475142"
+      }
     },
     {
       "type": "Feature",
@@ -8442,8 +8331,7 @@ export const railwayNetworkData = {
             42.996171
           ]
         ]
-      },
-      "id": "way/78749773"
+      }
     },
     {
       "type": "Feature",
@@ -8473,8 +8361,7 @@ export const railwayNetworkData = {
             43.0024029
           ]
         ]
-      },
-      "id": "way/78749778"
+      }
     },
     {
       "type": "Feature",
@@ -8525,8 +8412,7 @@ export const railwayNetworkData = {
             42.9985004
           ]
         ]
-      },
-      "id": "way/78749780"
+      }
     },
     {
       "type": "Feature",
@@ -8597,8 +8483,7 @@ export const railwayNetworkData = {
             42.9920486
           ]
         ]
-      },
-      "id": "way/78749782"
+      }
     },
     {
       "type": "Feature",
@@ -8626,8 +8511,7 @@ export const railwayNetworkData = {
             43.0028392
           ]
         ]
-      },
-      "id": "way/78749786"
+      }
     },
     {
       "type": "Feature",
@@ -8670,8 +8554,7 @@ export const railwayNetworkData = {
             43.0116212
           ]
         ]
-      },
-      "id": "way/78749789"
+      }
     },
     {
       "type": "Feature",
@@ -8701,8 +8584,7 @@ export const railwayNetworkData = {
             43.0030925
           ]
         ]
-      },
-      "id": "way/78749793"
+      }
     },
     {
       "type": "Feature",
@@ -8730,8 +8612,7 @@ export const railwayNetworkData = {
             43.0004635
           ]
         ]
-      },
-      "id": "way/78749797"
+      }
     },
     {
       "type": "Feature",
@@ -8760,8 +8641,7 @@ export const railwayNetworkData = {
             43.0161093
           ]
         ]
-      },
-      "id": "way/78749807"
+      }
     },
     {
       "type": "Feature",
@@ -8789,8 +8669,7 @@ export const railwayNetworkData = {
             43.0037625
           ]
         ]
-      },
-      "id": "way/78749808"
+      }
     },
     {
       "type": "Feature",
@@ -8818,8 +8697,7 @@ export const railwayNetworkData = {
             43.0069998
           ]
         ]
-      },
-      "id": "way/79142965"
+      }
     },
     {
       "type": "Feature",
@@ -8881,8 +8759,7 @@ export const railwayNetworkData = {
             43.0083982
           ]
         ]
-      },
-      "id": "way/79142975"
+      }
     },
     {
       "type": "Feature",
@@ -8915,8 +8792,7 @@ export const railwayNetworkData = {
             41.7494515
           ]
         ]
-      },
-      "id": "way/79612255"
+      }
     },
     {
       "type": "Feature",
@@ -8944,8 +8820,7 @@ export const railwayNetworkData = {
             41.7622394
           ]
         ]
-      },
-      "id": "way/79613047"
+      }
     },
     {
       "type": "Feature",
@@ -9125,8 +9000,7 @@ export const railwayNetworkData = {
             41.7771125
           ]
         ]
-      },
-      "id": "way/79613048"
+      }
     },
     {
       "type": "Feature",
@@ -9135,7 +9009,6 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "oneway": "yes",
         "operator": "სს \"საქართველოს რკინიგზა\"",
         "passenger_lines": "2",
         "railway": "rail",
@@ -9170,8 +9043,7 @@ export const railwayNetworkData = {
             42.0309239
           ]
         ]
-      },
-      "id": "way/79620803"
+      }
     },
     {
       "type": "Feature",
@@ -9199,8 +9071,7 @@ export const railwayNetworkData = {
             42.0317668
           ]
         ]
-      },
-      "id": "way/79620804"
+      }
     },
     {
       "type": "Feature",
@@ -9228,8 +9099,7 @@ export const railwayNetworkData = {
             42.0323943
           ]
         ]
-      },
-      "id": "way/79620805"
+      }
     },
     {
       "type": "Feature",
@@ -9238,7 +9108,6 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "oneway": "yes",
         "operator": "სს \"საქართველოს რკინიგზა\"",
         "railway": "rail",
         "usage": "main",
@@ -9268,8 +9137,7 @@ export const railwayNetworkData = {
             42.0332953
           ]
         ]
-      },
-      "id": "way/79620806"
+      }
     },
     {
       "type": "Feature",
@@ -9299,8 +9167,7 @@ export const railwayNetworkData = {
             41.7471839
           ]
         ]
-      },
-      "id": "way/79650331"
+      }
     },
     {
       "type": "Feature",
@@ -9380,8 +9247,7 @@ export const railwayNetworkData = {
             41.7475177
           ]
         ]
-      },
-      "id": "way/79650332"
+      }
     },
     {
       "type": "Feature",
@@ -9409,8 +9275,7 @@ export const railwayNetworkData = {
             43.3933969
           ]
         ]
-      },
-      "id": "way/80718104"
+      }
     },
     {
       "type": "Feature",
@@ -9437,8 +9302,7 @@ export const railwayNetworkData = {
             43.3931523
           ]
         ]
-      },
-      "id": "way/80718105"
+      }
     },
     {
       "type": "Feature",
@@ -9516,8 +9380,7 @@ export const railwayNetworkData = {
             43.3690073
           ]
         ]
-      },
-      "id": "way/80721275"
+      }
     },
     {
       "type": "Feature",
@@ -9545,8 +9408,7 @@ export const railwayNetworkData = {
             43.3806834
           ]
         ]
-      },
-      "id": "way/80721335"
+      }
     },
     {
       "type": "Feature",
@@ -9574,8 +9436,7 @@ export const railwayNetworkData = {
             43.337653
           ]
         ]
-      },
-      "id": "way/80728953"
+      }
     },
     {
       "type": "Feature",
@@ -9709,8 +9570,7 @@ export const railwayNetworkData = {
             43.3324626
           ]
         ]
-      },
-      "id": "way/80728954"
+      }
     },
     {
       "type": "Feature",
@@ -9738,8 +9598,7 @@ export const railwayNetworkData = {
             43.3594454
           ]
         ]
-      },
-      "id": "way/80738046"
+      }
     },
     {
       "type": "Feature",
@@ -9833,8 +9692,7 @@ export const railwayNetworkData = {
             43.3511438
           ]
         ]
-      },
-      "id": "way/80738047"
+      }
     },
     {
       "type": "Feature",
@@ -9874,8 +9732,7 @@ export const railwayNetworkData = {
             43.3319497
           ]
         ]
-      },
-      "id": "way/80747312"
+      }
     },
     {
       "type": "Feature",
@@ -9925,8 +9782,7 @@ export const railwayNetworkData = {
             43.2588031
           ]
         ]
-      },
-      "id": "way/80764850"
+      }
     },
     {
       "type": "Feature",
@@ -9954,8 +9810,7 @@ export const railwayNetworkData = {
             43.168208
           ]
         ]
-      },
-      "id": "way/81071297"
+      }
     },
     {
       "type": "Feature",
@@ -10069,8 +9924,7 @@ export const railwayNetworkData = {
             43.1336925
           ]
         ]
-      },
-      "id": "way/81071298"
+      }
     },
     {
       "type": "Feature",
@@ -10112,8 +9966,7 @@ export const railwayNetworkData = {
             43.1300115
           ]
         ]
-      },
-      "id": "way/81090025"
+      }
     },
     {
       "type": "Feature",
@@ -10141,8 +9994,7 @@ export const railwayNetworkData = {
             43.1328361
           ]
         ]
-      },
-      "id": "way/81090027"
+      }
     },
     {
       "type": "Feature",
@@ -10191,8 +10043,7 @@ export const railwayNetworkData = {
             43.1814905
           ]
         ]
-      },
-      "id": "way/81091001"
+      }
     },
     {
       "type": "Feature",
@@ -10306,8 +10157,7 @@ export const railwayNetworkData = {
             43.1093428
           ]
         ]
-      },
-      "id": "way/81101566"
+      }
     },
     {
       "type": "Feature",
@@ -10335,8 +10185,7 @@ export const railwayNetworkData = {
             43.1024498
           ]
         ]
-      },
-      "id": "way/81113686"
+      }
     },
     {
       "type": "Feature",
@@ -10374,8 +10223,7 @@ export const railwayNetworkData = {
             43.1016771
           ]
         ]
-      },
-      "id": "way/81113687"
+      }
     },
     {
       "type": "Feature",
@@ -10401,8 +10249,7 @@ export const railwayNetworkData = {
             43.1025574
           ]
         ]
-      },
-      "id": "way/81145186"
+      }
     },
     {
       "type": "Feature",
@@ -10430,8 +10277,7 @@ export const railwayNetworkData = {
             43.1036235
           ]
         ]
-      },
-      "id": "way/81145187"
+      }
     },
     {
       "type": "Feature",
@@ -10493,8 +10339,7 @@ export const railwayNetworkData = {
             43.1007726
           ]
         ]
-      },
-      "id": "way/81145533"
+      }
     },
     {
       "type": "Feature",
@@ -10522,8 +10367,7 @@ export const railwayNetworkData = {
             43.1016293
           ]
         ]
-      },
-      "id": "way/81145534"
+      }
     },
     {
       "type": "Feature",
@@ -10551,8 +10395,7 @@ export const railwayNetworkData = {
             43.1007237
           ]
         ]
-      },
-      "id": "way/81145705"
+      }
     },
     {
       "type": "Feature",
@@ -10654,8 +10497,7 @@ export const railwayNetworkData = {
             43.092736
           ]
         ]
-      },
-      "id": "way/81145706"
+      }
     },
     {
       "type": "Feature",
@@ -10721,8 +10563,7 @@ export const railwayNetworkData = {
             43.0885162
           ]
         ]
-      },
-      "id": "way/81148803"
+      }
     },
     {
       "type": "Feature",
@@ -10750,8 +10591,7 @@ export const railwayNetworkData = {
             43.0927122
           ]
         ]
-      },
-      "id": "way/81148815"
+      }
     },
     {
       "type": "Feature",
@@ -10801,8 +10641,7 @@ export const railwayNetworkData = {
             43.0887272
           ]
         ]
-      },
-      "id": "way/81162141"
+      }
     },
     {
       "type": "Feature",
@@ -10830,8 +10669,7 @@ export const railwayNetworkData = {
             42.8454213
           ]
         ]
-      },
-      "id": "way/81209089"
+      }
     },
     {
       "type": "Feature",
@@ -10877,8 +10715,7 @@ export const railwayNetworkData = {
             42.8419277
           ]
         ]
-      },
-      "id": "way/81209096"
+      }
     },
     {
       "type": "Feature",
@@ -10940,8 +10777,7 @@ export const railwayNetworkData = {
             42.9629934
           ]
         ]
-      },
-      "id": "way/81216212"
+      }
     },
     {
       "type": "Feature",
@@ -10969,8 +10805,7 @@ export const railwayNetworkData = {
             42.9711284
           ]
         ]
-      },
-      "id": "way/81216218"
+      }
     },
     {
       "type": "Feature",
@@ -11029,8 +10864,7 @@ export const railwayNetworkData = {
             42.7731499
           ]
         ]
-      },
-      "id": "way/81322476"
+      }
     },
     {
       "type": "Feature",
@@ -11058,8 +10892,7 @@ export const railwayNetworkData = {
             42.7797611
           ]
         ]
-      },
-      "id": "way/81322478"
+      }
     },
     {
       "type": "Feature",
@@ -11101,8 +10934,7 @@ export const railwayNetworkData = {
             42.7564163
           ]
         ]
-      },
-      "id": "way/81349426"
+      }
     },
     {
       "type": "Feature",
@@ -11130,8 +10962,7 @@ export const railwayNetworkData = {
             42.7649592
           ]
         ]
-      },
-      "id": "way/81349427"
+      }
     },
     {
       "type": "Feature",
@@ -11159,8 +10990,7 @@ export const railwayNetworkData = {
             42.7560066
           ]
         ]
-      },
-      "id": "way/81349430"
+      }
     },
     {
       "type": "Feature",
@@ -11326,8 +11156,7 @@ export const railwayNetworkData = {
             42.7136735
           ]
         ]
-      },
-      "id": "way/81349827"
+      }
     },
     {
       "type": "Feature",
@@ -11356,8 +11185,7 @@ export const railwayNetworkData = {
             42.4600052
           ]
         ]
-      },
-      "id": "way/81351884"
+      }
     },
     {
       "type": "Feature",
@@ -11386,8 +11214,7 @@ export const railwayNetworkData = {
             42.423025
           ]
         ]
-      },
-      "id": "way/81351887"
+      }
     },
     {
       "type": "Feature",
@@ -11450,8 +11277,7 @@ export const railwayNetworkData = {
             42.4488253
           ]
         ]
-      },
-      "id": "way/81351891"
+      }
     },
     {
       "type": "Feature",
@@ -11526,8 +11352,7 @@ export const railwayNetworkData = {
             42.4940312
           ]
         ]
-      },
-      "id": "way/81351905"
+      }
     },
     {
       "type": "Feature",
@@ -11597,8 +11422,7 @@ export const railwayNetworkData = {
             42.3319355
           ]
         ]
-      },
-      "id": "way/81352468"
+      }
     },
     {
       "type": "Feature",
@@ -11626,8 +11450,7 @@ export const railwayNetworkData = {
             42.3299782
           ]
         ]
-      },
-      "id": "way/81352469"
+      }
     },
     {
       "type": "Feature",
@@ -11655,8 +11478,7 @@ export const railwayNetworkData = {
             42.7207121
           ]
         ]
-      },
-      "id": "way/81427623"
+      }
     },
     {
       "type": "Feature",
@@ -11750,8 +11572,7 @@ export const railwayNetworkData = {
             42.7208483
           ]
         ]
-      },
-      "id": "way/81511770"
+      }
     },
     {
       "type": "Feature",
@@ -11779,8 +11600,7 @@ export const railwayNetworkData = {
             42.7452453
           ]
         ]
-      },
-      "id": "way/81511771"
+      }
     },
     {
       "type": "Feature",
@@ -11807,8 +11627,7 @@ export const railwayNetworkData = {
             43.0506159
           ]
         ]
-      },
-      "id": "way/82078677"
+      }
     },
     {
       "type": "Feature",
@@ -11837,8 +11656,7 @@ export const railwayNetworkData = {
             43.0510376
           ]
         ]
-      },
-      "id": "way/82078678"
+      }
     },
     {
       "type": "Feature",
@@ -11886,8 +11704,7 @@ export const railwayNetworkData = {
             43.0068353
           ]
         ]
-      },
-      "id": "way/82181940"
+      }
     },
     {
       "type": "Feature",
@@ -11933,8 +11750,7 @@ export const railwayNetworkData = {
             42.9823336
           ]
         ]
-      },
-      "id": "way/82254790"
+      }
     },
     {
       "type": "Feature",
@@ -11962,8 +11778,7 @@ export const railwayNetworkData = {
             42.9855792
           ]
         ]
-      },
-      "id": "way/82254792"
+      }
     },
     {
       "type": "Feature",
@@ -11991,8 +11806,7 @@ export const railwayNetworkData = {
             42.9628587
           ]
         ]
-      },
-      "id": "way/82255442"
+      }
     },
     {
       "type": "Feature",
@@ -12050,8 +11864,7 @@ export const railwayNetworkData = {
             42.9507286
           ]
         ]
-      },
-      "id": "way/82255443"
+      }
     },
     {
       "type": "Feature",
@@ -12079,8 +11892,7 @@ export const railwayNetworkData = {
             42.9503028
           ]
         ]
-      },
-      "id": "way/82255689"
+      }
     },
     {
       "type": "Feature",
@@ -12158,8 +11970,7 @@ export const railwayNetworkData = {
             42.9325052
           ]
         ]
-      },
-      "id": "way/82255691"
+      }
     },
     {
       "type": "Feature",
@@ -12193,8 +12004,7 @@ export const railwayNetworkData = {
             42.9294561
           ]
         ]
-      },
-      "id": "way/82257224"
+      }
     },
     {
       "type": "Feature",
@@ -12222,8 +12032,7 @@ export const railwayNetworkData = {
             42.9321792
           ]
         ]
-      },
-      "id": "way/82257225"
+      }
     },
     {
       "type": "Feature",
@@ -12251,8 +12060,7 @@ export const railwayNetworkData = {
             42.9188765
           ]
         ]
-      },
-      "id": "way/82261350"
+      }
     },
     {
       "type": "Feature",
@@ -12302,8 +12110,7 @@ export const railwayNetworkData = {
             42.8957385
           ]
         ]
-      },
-      "id": "way/82261352"
+      }
     },
     {
       "type": "Feature",
@@ -12405,8 +12212,7 @@ export const railwayNetworkData = {
             42.845816
           ]
         ]
-      },
-      "id": "way/82284778"
+      }
     },
     {
       "type": "Feature",
@@ -12434,8 +12240,7 @@ export const railwayNetworkData = {
             42.876761
           ]
         ]
-      },
-      "id": "way/82284779"
+      }
     },
     {
       "type": "Feature",
@@ -12463,8 +12268,7 @@ export const railwayNetworkData = {
             42.8954497
           ]
         ]
-      },
-      "id": "way/82287729"
+      }
     },
     {
       "type": "Feature",
@@ -12502,8 +12306,7 @@ export const railwayNetworkData = {
             42.8799434
           ]
         ]
-      },
-      "id": "way/82287734"
+      }
     },
     {
       "type": "Feature",
@@ -12529,8 +12332,7 @@ export const railwayNetworkData = {
             42.8769483
           ]
         ]
-      },
-      "id": "way/82288974"
+      }
     },
     {
       "type": "Feature",
@@ -12558,8 +12360,7 @@ export const railwayNetworkData = {
             42.8797535
           ]
         ]
-      },
-      "id": "way/82288975"
+      }
     },
     {
       "type": "Feature",
@@ -12593,8 +12394,7 @@ export const railwayNetworkData = {
             42.8370878
           ]
         ]
-      },
-      "id": "way/82312039"
+      }
     },
     {
       "type": "Feature",
@@ -12622,8 +12422,7 @@ export const railwayNetworkData = {
             42.8398967
           ]
         ]
-      },
-      "id": "way/82312041"
+      }
     },
     {
       "type": "Feature",
@@ -12651,8 +12450,7 @@ export const railwayNetworkData = {
             42.8417483
           ]
         ]
-      },
-      "id": "way/82312042"
+      }
     },
     {
       "type": "Feature",
@@ -12682,8 +12480,7 @@ export const railwayNetworkData = {
             42.8400139
           ]
         ]
-      },
-      "id": "way/82312045"
+      }
     },
     {
       "type": "Feature",
@@ -12725,8 +12522,7 @@ export const railwayNetworkData = {
             42.8270574
           ]
         ]
-      },
-      "id": "way/82312410"
+      }
     },
     {
       "type": "Feature",
@@ -12754,8 +12550,7 @@ export const railwayNetworkData = {
             42.8369568
           ]
         ]
-      },
-      "id": "way/82312412"
+      }
     },
     {
       "type": "Feature",
@@ -12793,8 +12588,7 @@ export const railwayNetworkData = {
             42.8242219
           ]
         ]
-      },
-      "id": "way/82314422"
+      }
     },
     {
       "type": "Feature",
@@ -12822,8 +12616,7 @@ export const railwayNetworkData = {
             42.8268685
           ]
         ]
-      },
-      "id": "way/82314452"
+      }
     },
     {
       "type": "Feature",
@@ -12851,8 +12644,7 @@ export const railwayNetworkData = {
             42.8241023
           ]
         ]
-      },
-      "id": "way/82314490"
+      }
     },
     {
       "type": "Feature",
@@ -12902,8 +12694,7 @@ export const railwayNetworkData = {
             42.8129508
           ]
         ]
-      },
-      "id": "way/82314491"
+      }
     },
     {
       "type": "Feature",
@@ -12931,8 +12722,7 @@ export const railwayNetworkData = {
             42.7879755
           ]
         ]
-      },
-      "id": "way/82314736"
+      }
     },
     {
       "type": "Feature",
@@ -13006,8 +12796,7 @@ export const railwayNetworkData = {
             42.7800592
           ]
         ]
-      },
-      "id": "way/82314738"
+      }
     },
     {
       "type": "Feature",
@@ -13513,8 +13302,7 @@ export const railwayNetworkData = {
             43.1684897
           ]
         ]
-      },
-      "id": "way/83155761"
+      }
     },
     {
       "type": "Feature",
@@ -13562,8 +13350,7 @@ export const railwayNetworkData = {
             43.2207393
           ]
         ]
-      },
-      "id": "way/83155762"
+      }
     },
     {
       "type": "Feature",
@@ -13591,8 +13378,7 @@ export const railwayNetworkData = {
             43.1298422
           ]
         ]
-      },
-      "id": "way/83166683"
+      }
     },
     {
       "type": "Feature",
@@ -13650,8 +13436,7 @@ export const railwayNetworkData = {
             43.1208821
           ]
         ]
-      },
-      "id": "way/83166686"
+      }
     },
     {
       "type": "Feature",
@@ -13679,8 +13464,7 @@ export const railwayNetworkData = {
             43.120809
           ]
         ]
-      },
-      "id": "way/83177715"
+      }
     },
     {
       "type": "Feature",
@@ -13742,8 +13526,7 @@ export const railwayNetworkData = {
             43.1144269
           ]
         ]
-      },
-      "id": "way/83177716"
+      }
     },
     {
       "type": "Feature",
@@ -13771,8 +13554,7 @@ export const railwayNetworkData = {
             43.1143428
           ]
         ]
-      },
-      "id": "way/83185428"
+      }
     },
     {
       "type": "Feature",
@@ -13810,8 +13592,7 @@ export const railwayNetworkData = {
             43.1115752
           ]
         ]
-      },
-      "id": "way/83185429"
+      }
     },
     {
       "type": "Feature",
@@ -13839,8 +13620,7 @@ export const railwayNetworkData = {
             43.1114633
           ]
         ]
-      },
-      "id": "way/83185937"
+      }
     },
     {
       "type": "Feature",
@@ -13868,8 +13648,7 @@ export const railwayNetworkData = {
             42.8128836
           ]
         ]
-      },
-      "id": "way/83296153"
+      }
     },
     {
       "type": "Feature",
@@ -13911,8 +13690,7 @@ export const railwayNetworkData = {
             42.8054517
           ]
         ]
-      },
-      "id": "way/83296154"
+      }
     },
     {
       "type": "Feature",
@@ -13943,8 +13721,7 @@ export const railwayNetworkData = {
             42.7655851
           ]
         ]
-      },
-      "id": "way/83364952"
+      }
     },
     {
       "type": "Feature",
@@ -13972,8 +13749,7 @@ export const railwayNetworkData = {
             42.7730393
           ]
         ]
-      },
-      "id": "way/83364954"
+      }
     },
     {
       "type": "Feature",
@@ -14037,8 +13813,7 @@ export const railwayNetworkData = {
             43.0069261
           ]
         ]
-      },
-      "id": "way/84152865"
+      }
     },
     {
       "type": "Feature",
@@ -14078,8 +13853,7 @@ export const railwayNetworkData = {
             43.0069899
           ]
         ]
-      },
-      "id": "way/84152867"
+      }
     },
     {
       "type": "Feature",
@@ -14108,8 +13882,7 @@ export const railwayNetworkData = {
             43.0068483
           ]
         ]
-      },
-      "id": "way/84152880"
+      }
     },
     {
       "type": "Feature",
@@ -14138,8 +13911,7 @@ export const railwayNetworkData = {
             43.0071864
           ]
         ]
-      },
-      "id": "way/84152888"
+      }
     },
     {
       "type": "Feature",
@@ -14177,8 +13949,7 @@ export const railwayNetworkData = {
             42.9897451
           ]
         ]
-      },
-      "id": "way/87173945"
+      }
     },
     {
       "type": "Feature",
@@ -14206,8 +13977,7 @@ export const railwayNetworkData = {
             42.9919779
           ]
         ]
-      },
-      "id": "way/87173946"
+      }
     },
     {
       "type": "Feature",
@@ -14249,8 +14019,7 @@ export const railwayNetworkData = {
             42.9856453
           ]
         ]
-      },
-      "id": "way/87174323"
+      }
     },
     {
       "type": "Feature",
@@ -14278,8 +14047,7 @@ export const railwayNetworkData = {
             42.989678
           ]
         ]
-      },
-      "id": "way/87174324"
+      }
     },
     {
       "type": "Feature",
@@ -14307,8 +14075,7 @@ export const railwayNetworkData = {
             43.3924222
           ]
         ]
-      },
-      "id": "way/87352723"
+      }
     },
     {
       "type": "Feature",
@@ -14338,8 +14105,7 @@ export const railwayNetworkData = {
             43.3913895
           ]
         ]
-      },
-      "id": "way/87352724"
+      }
     },
     {
       "type": "Feature",
@@ -14367,8 +14133,7 @@ export const railwayNetworkData = {
             43.3874208
           ]
         ]
-      },
-      "id": "way/87536966"
+      }
     },
     {
       "type": "Feature",
@@ -14442,8 +14207,7 @@ export const railwayNetworkData = {
             43.3850763
           ]
         ]
-      },
-      "id": "way/87536968"
+      }
     },
     {
       "type": "Feature",
@@ -14471,8 +14235,7 @@ export const railwayNetworkData = {
             43.3850093
           ]
         ]
-      },
-      "id": "way/88407905"
+      }
     },
     {
       "type": "Feature",
@@ -14530,8 +14293,7 @@ export const railwayNetworkData = {
             43.3808146
           ]
         ]
-      },
-      "id": "way/88407906"
+      }
     },
     {
       "type": "Feature",
@@ -14569,8 +14331,7 @@ export const railwayNetworkData = {
             43.3806834
           ]
         ]
-      },
-      "id": "way/88491932"
+      }
     },
     {
       "type": "Feature",
@@ -14598,8 +14359,7 @@ export const railwayNetworkData = {
             43.3767707
           ]
         ]
-      },
-      "id": "way/88491933"
+      }
     },
     {
       "type": "Feature",
@@ -14643,8 +14403,7 @@ export const railwayNetworkData = {
             41.694738
           ]
         ]
-      },
-      "id": "way/91369439"
+      }
     },
     {
       "type": "Feature",
@@ -14671,8 +14430,7 @@ export const railwayNetworkData = {
             41.8983243
           ]
         ]
-      },
-      "id": "way/93178649"
+      }
     },
     {
       "type": "Feature",
@@ -14718,8 +14476,7 @@ export const railwayNetworkData = {
             41.8910284
           ]
         ]
-      },
-      "id": "way/93178650"
+      }
     },
     {
       "type": "Feature",
@@ -14769,8 +14526,7 @@ export const railwayNetworkData = {
             41.9255557
           ]
         ]
-      },
-      "id": "way/93178651"
+      }
     },
     {
       "type": "Feature",
@@ -14798,8 +14554,7 @@ export const railwayNetworkData = {
             41.9161489
           ]
         ]
-      },
-      "id": "way/93178652"
+      }
     },
     {
       "type": "Feature",
@@ -14826,8 +14581,7 @@ export const railwayNetworkData = {
             41.8913872
           ]
         ]
-      },
-      "id": "way/93178653"
+      }
     },
     {
       "type": "Feature",
@@ -14881,8 +14635,7 @@ export const railwayNetworkData = {
             41.9155941
           ]
         ]
-      },
-      "id": "way/93178654"
+      }
     },
     {
       "type": "Feature",
@@ -14906,8 +14659,7 @@ export const railwayNetworkData = {
             41.881637
           ]
         ]
-      },
-      "id": "way/93178655"
+      }
     },
     {
       "type": "Feature",
@@ -14941,8 +14693,7 @@ export const railwayNetworkData = {
             41.897943
           ]
         ]
-      },
-      "id": "way/93178656"
+      }
     },
     {
       "type": "Feature",
@@ -14970,8 +14721,7 @@ export const railwayNetworkData = {
             41.7990524
           ]
         ]
-      },
-      "id": "way/93180506"
+      }
     },
     {
       "type": "Feature",
@@ -14999,8 +14749,7 @@ export const railwayNetworkData = {
             41.8040612
           ]
         ]
-      },
-      "id": "way/93180507"
+      }
     },
     {
       "type": "Feature",
@@ -15038,8 +14787,7 @@ export const railwayNetworkData = {
             41.8032439
           ]
         ]
-      },
-      "id": "way/93180511"
+      }
     },
     {
       "type": "Feature",
@@ -15149,8 +14897,7 @@ export const railwayNetworkData = {
             41.8170331
           ]
         ]
-      },
-      "id": "way/93180512"
+      }
     },
     {
       "type": "Feature",
@@ -15177,8 +14924,7 @@ export const railwayNetworkData = {
             41.9865963
           ]
         ]
-      },
-      "id": "way/93187599"
+      }
     },
     {
       "type": "Feature",
@@ -15232,8 +14978,7 @@ export const railwayNetworkData = {
             41.9817027
           ]
         ]
-      },
-      "id": "way/93187601"
+      }
     },
     {
       "type": "Feature",
@@ -15291,8 +15036,7 @@ export const railwayNetworkData = {
             41.7240886
           ]
         ]
-      },
-      "id": "way/93292845"
+      }
     },
     {
       "type": "Feature",
@@ -15320,8 +15064,7 @@ export const railwayNetworkData = {
             41.7243707
           ]
         ]
-      },
-      "id": "way/93292846"
+      }
     },
     {
       "type": "Feature",
@@ -15467,8 +15210,7 @@ export const railwayNetworkData = {
             41.7465642
           ]
         ]
-      },
-      "id": "way/93292847"
+      }
     },
     {
       "type": "Feature",
@@ -15496,8 +15238,7 @@ export const railwayNetworkData = {
             41.7169308
           ]
         ]
-      },
-      "id": "way/93292848"
+      }
     },
     {
       "type": "Feature",
@@ -15525,8 +15266,7 @@ export const railwayNetworkData = {
             41.7723015
           ]
         ]
-      },
-      "id": "way/93292900"
+      }
     },
     {
       "type": "Feature",
@@ -15656,8 +15396,7 @@ export const railwayNetworkData = {
             41.7985869
           ]
         ]
-      },
-      "id": "way/93292901"
+      }
     },
     {
       "type": "Feature",
@@ -15727,12 +15466,11 @@ export const railwayNetworkData = {
             41.6723108
           ],
           [
-            41.6905308,
-            41.6719603
+            41.6904768,
+            41.6719048
           ]
         ]
-      },
-      "id": "way/93294260"
+      }
     },
     {
       "type": "Feature",
@@ -15750,16 +15488,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6902354,
-            41.6717309
+            41.6901963,
+            41.6716983
           ],
           [
             41.6899621,
             41.6714899
           ]
         ]
-      },
-      "id": "way/93294261"
+      }
     },
     {
       "type": "Feature",
@@ -15825,12 +15562,11 @@ export const railwayNetworkData = {
             41.6682756
           ],
           [
-            41.6858872,
-            41.6666076
+            41.6858693,
+            41.6666137
           ]
         ]
-      },
-      "id": "way/93294263"
+      }
     },
     {
       "type": "Feature",
@@ -15850,16 +15586,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6905308,
-            41.6719603
+            41.6904768,
+            41.6719048
           ],
           [
-            41.6902354,
-            41.6717309
+            41.6901963,
+            41.6716983
           ]
         ]
-      },
-      "id": "way/93294264"
+      }
     },
     {
       "type": "Feature",
@@ -15878,16 +15613,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6842616,
-            41.6643077
+            41.6842707,
+            41.6643821
           ],
           [
-            41.6837893,
-            41.663647
+            41.6838142,
+            41.6637379
           ]
         ]
-      },
-      "id": "way/93294265"
+      }
     },
     {
       "type": "Feature",
@@ -15914,8 +15648,7 @@ export const railwayNetworkData = {
             41.6707527
           ]
         ]
-      },
-      "id": "way/93294266"
+      }
     },
     {
       "type": "Feature",
@@ -15925,6 +15658,7 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
+        "layer": "1",
         "operator": "სს \"საქართველოს რკინიგზა\"",
         "railway": "rail",
         "voltage": "3000"
@@ -15933,16 +15667,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6648591,
-            41.646989
+            41.664802,
+            41.6469743
           ],
           [
-            41.6644785,
-            41.6468598
+            41.664502,
+            41.6468725
           ]
         ]
-      },
-      "id": "way/93294267"
+      }
     },
     {
       "type": "Feature",
@@ -16100,8 +15833,7 @@ export const railwayNetworkData = {
             41.932805
           ]
         ]
-      },
-      "id": "way/93310177"
+      }
     },
     {
       "type": "Feature",
@@ -16129,8 +15861,7 @@ export const railwayNetworkData = {
             41.9347811
           ]
         ]
-      },
-      "id": "way/93311117"
+      }
     },
     {
       "type": "Feature",
@@ -16464,8 +16195,7 @@ export const railwayNetworkData = {
             41.9352117
           ]
         ]
-      },
-      "id": "way/93311131"
+      }
     },
     {
       "type": "Feature",
@@ -16493,8 +16223,7 @@ export const railwayNetworkData = {
             41.9477658
           ]
         ]
-      },
-      "id": "way/93311133"
+      }
     },
     {
       "type": "Feature",
@@ -16644,8 +16373,7 @@ export const railwayNetworkData = {
             41.9280107
           ]
         ]
-      },
-      "id": "way/93311134"
+      }
     },
     {
       "type": "Feature",
@@ -16799,8 +16527,7 @@ export const railwayNetworkData = {
             41.9430013
           ]
         ]
-      },
-      "id": "way/93419735"
+      }
     },
     {
       "type": "Feature",
@@ -16828,8 +16555,7 @@ export const railwayNetworkData = {
             41.9814522
           ]
         ]
-      },
-      "id": "way/93419736"
+      }
     },
     {
       "type": "Feature",
@@ -16853,8 +16579,7 @@ export const railwayNetworkData = {
             41.9428783
           ]
         ]
-      },
-      "id": "way/93451291"
+      }
     },
     {
       "type": "Feature",
@@ -16940,8 +16665,7 @@ export const railwayNetworkData = {
             41.936425
           ]
         ]
-      },
-      "id": "way/93451292"
+      }
     },
     {
       "type": "Feature",
@@ -16985,8 +16709,7 @@ export const railwayNetworkData = {
             41.2729912
           ]
         ]
-      },
-      "id": "way/95611792"
+      }
     },
     {
       "type": "Feature",
@@ -16995,7 +16718,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -17073,8 +16801,7 @@ export const railwayNetworkData = {
             41.2724726
           ]
         ]
-      },
-      "id": "way/95611816"
+      }
     },
     {
       "type": "Feature",
@@ -17083,8 +16810,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "name:tr": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -17142,8 +16873,7 @@ export const railwayNetworkData = {
             41.2817376
           ]
         ]
-      },
-      "id": "way/95976509"
+      }
     },
     {
       "type": "Feature",
@@ -17184,8 +16914,7 @@ export const railwayNetworkData = {
             41.6473159
           ]
         ]
-      },
-      "id": "way/96035129"
+      }
     },
     {
       "type": "Feature",
@@ -17234,8 +16963,7 @@ export const railwayNetworkData = {
             41.647247
           ]
         ]
-      },
-      "id": "way/96035130"
+      }
     },
     {
       "type": "Feature",
@@ -17260,8 +16988,7 @@ export const railwayNetworkData = {
             41.6476771
           ]
         ]
-      },
-      "id": "way/96035136"
+      }
     },
     {
       "type": "Feature",
@@ -17290,8 +17017,7 @@ export const railwayNetworkData = {
             42.2003374
           ]
         ]
-      },
-      "id": "way/100287260"
+      }
     },
     {
       "type": "Feature",
@@ -17333,8 +17059,7 @@ export const railwayNetworkData = {
             42.1995368
           ]
         ]
-      },
-      "id": "way/100287299"
+      }
     },
     {
       "type": "Feature",
@@ -17361,8 +17086,7 @@ export const railwayNetworkData = {
             41.9327538
           ]
         ]
-      },
-      "id": "way/102248015"
+      }
     },
     {
       "type": "Feature",
@@ -17408,8 +17132,7 @@ export const railwayNetworkData = {
             41.9315486
           ]
         ]
-      },
-      "id": "way/102248016"
+      }
     },
     {
       "type": "Feature",
@@ -17583,8 +17306,7 @@ export const railwayNetworkData = {
             41.9335367
           ]
         ]
-      },
-      "id": "way/102248022"
+      }
     },
     {
       "type": "Feature",
@@ -17611,8 +17333,7 @@ export const railwayNetworkData = {
             41.9314957
           ]
         ]
-      },
-      "id": "way/102248035"
+      }
     },
     {
       "type": "Feature",
@@ -17639,8 +17360,7 @@ export const railwayNetworkData = {
             41.9335938
           ]
         ]
-      },
-      "id": "way/102251994"
+      }
     },
     {
       "type": "Feature",
@@ -17862,8 +17582,7 @@ export const railwayNetworkData = {
             41.9406112
           ]
         ]
-      },
-      "id": "way/102251995"
+      }
     },
     {
       "type": "Feature",
@@ -17892,8 +17611,7 @@ export const railwayNetworkData = {
             42.1927014
           ]
         ]
-      },
-      "id": "way/102335547"
+      }
     },
     {
       "type": "Feature",
@@ -17922,8 +17640,7 @@ export const railwayNetworkData = {
             41.9839799
           ]
         ]
-      },
-      "id": "way/103734391"
+      }
     },
     {
       "type": "Feature",
@@ -17966,8 +17683,7 @@ export const railwayNetworkData = {
             41.990039
           ]
         ]
-      },
-      "id": "way/103734401"
+      }
     },
     {
       "type": "Feature",
@@ -18101,8 +17817,7 @@ export const railwayNetworkData = {
             41.9861416
           ]
         ]
-      },
-      "id": "way/103771543"
+      }
     },
     {
       "type": "Feature",
@@ -18130,8 +17845,7 @@ export const railwayNetworkData = {
             41.9962954
           ]
         ]
-      },
-      "id": "way/103771731"
+      }
     },
     {
       "type": "Feature",
@@ -18329,8 +18043,7 @@ export const railwayNetworkData = {
             41.9315333
           ]
         ]
-      },
-      "id": "way/103771863"
+      }
     },
     {
       "type": "Feature",
@@ -18401,8 +18114,7 @@ export const railwayNetworkData = {
             43.0058603
           ]
         ]
-      },
-      "id": "way/106495137"
+      }
     },
     {
       "type": "Feature",
@@ -18430,8 +18142,7 @@ export const railwayNetworkData = {
             43.0114978
           ]
         ]
-      },
-      "id": "way/106495139"
+      }
     },
     {
       "type": "Feature",
@@ -18578,8 +18289,7 @@ export const railwayNetworkData = {
             43.0061743
           ]
         ]
-      },
-      "id": "way/106497730"
+      }
     },
     {
       "type": "Feature",
@@ -18608,8 +18318,7 @@ export const railwayNetworkData = {
             43.005777
           ]
         ]
-      },
-      "id": "way/106497732"
+      }
     },
     {
       "type": "Feature",
@@ -18635,8 +18344,7 @@ export const railwayNetworkData = {
             43.0039086
           ]
         ]
-      },
-      "id": "way/106748338"
+      }
     },
     {
       "type": "Feature",
@@ -18645,7 +18353,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -18791,8 +18504,7 @@ export const railwayNetworkData = {
             41.2895259
           ]
         ]
-      },
-      "id": "way/106861344"
+      }
     },
     {
       "type": "Feature",
@@ -18801,7 +18513,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -18883,8 +18600,7 @@ export const railwayNetworkData = {
             41.2906716
           ]
         ]
-      },
-      "id": "way/106861353"
+      }
     },
     {
       "type": "Feature",
@@ -18913,8 +18629,7 @@ export const railwayNetworkData = {
             41.2843909
           ]
         ]
-      },
-      "id": "way/106861404"
+      }
     },
     {
       "type": "Feature",
@@ -18923,7 +18638,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -19053,8 +18773,7 @@ export const railwayNetworkData = {
             41.2842672
           ]
         ]
-      },
-      "id": "way/106861406"
+      }
     },
     {
       "type": "Feature",
@@ -19082,8 +18801,7 @@ export const railwayNetworkData = {
             42.9821559
           ]
         ]
-      },
-      "id": "way/107580066"
+      }
     },
     {
       "type": "Feature",
@@ -19177,8 +18895,7 @@ export const railwayNetworkData = {
             42.9719495
           ]
         ]
-      },
-      "id": "way/107580074"
+      }
     },
     {
       "type": "Feature",
@@ -19206,8 +18923,7 @@ export const railwayNetworkData = {
             42.3435465
           ]
         ]
-      },
-      "id": "way/120005297"
+      }
     },
     {
       "type": "Feature",
@@ -19277,8 +18993,7 @@ export const railwayNetworkData = {
             42.3693603
           ]
         ]
-      },
-      "id": "way/120005299"
+      }
     },
     {
       "type": "Feature",
@@ -19306,8 +19021,7 @@ export const railwayNetworkData = {
             41.8171298
           ]
         ]
-      },
-      "id": "way/120150362"
+      }
     },
     {
       "type": "Feature",
@@ -19521,8 +19235,7 @@ export const railwayNetworkData = {
             41.8699051
           ]
         ]
-      },
-      "id": "way/120150366"
+      }
     },
     {
       "type": "Feature",
@@ -19588,8 +19301,7 @@ export const railwayNetworkData = {
             43.1038937
           ]
         ]
-      },
-      "id": "way/121854312"
+      }
     },
     {
       "type": "Feature",
@@ -19664,8 +19376,7 @@ export const railwayNetworkData = {
             42.0027864
           ]
         ]
-      },
-      "id": "way/122094680"
+      }
     },
     {
       "type": "Feature",
@@ -19694,8 +19405,7 @@ export const railwayNetworkData = {
             42.0114949
           ]
         ]
-      },
-      "id": "way/122094681"
+      }
     },
     {
       "type": "Feature",
@@ -19723,8 +19433,7 @@ export const railwayNetworkData = {
             42.0028213
           ]
         ]
-      },
-      "id": "way/122098596"
+      }
     },
     {
       "type": "Feature",
@@ -19754,8 +19463,7 @@ export const railwayNetworkData = {
             41.9979677
           ]
         ]
-      },
-      "id": "way/122102103"
+      }
     },
     {
       "type": "Feature",
@@ -19783,8 +19491,7 @@ export const railwayNetworkData = {
             41.9981444
           ]
         ]
-      },
-      "id": "way/122102105"
+      }
     },
     {
       "type": "Feature",
@@ -19812,8 +19519,7 @@ export const railwayNetworkData = {
             42.9253261
           ]
         ]
-      },
-      "id": "way/123650792"
+      }
     },
     {
       "type": "Feature",
@@ -19859,13 +19565,13 @@ export const railwayNetworkData = {
             42.9189971
           ]
         ]
-      },
-      "id": "way/123650795"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/124797554",
+        "branch": "С-КАВ",
         "bridge": "yes",
         "electrified": "contact_line",
         "frequency": "0",
@@ -19889,8 +19595,7 @@ export const railwayNetworkData = {
             43.3936608
           ]
         ]
-      },
-      "id": "way/124797554"
+      }
     },
     {
       "type": "Feature",
@@ -19918,8 +19623,7 @@ export const railwayNetworkData = {
             42.1989697
           ]
         ]
-      },
-      "id": "way/125629061"
+      }
     },
     {
       "type": "Feature",
@@ -19990,8 +19694,7 @@ export const railwayNetworkData = {
             42.2007459
           ]
         ]
-      },
-      "id": "way/125629064"
+      }
     },
     {
       "type": "Feature",
@@ -20094,8 +19797,7 @@ export const railwayNetworkData = {
             41.4404565
           ]
         ]
-      },
-      "id": "way/126867589"
+      }
     },
     {
       "type": "Feature",
@@ -20124,8 +19826,7 @@ export const railwayNetworkData = {
             41.484746
           ]
         ]
-      },
-      "id": "way/126867590"
+      }
     },
     {
       "type": "Feature",
@@ -20154,8 +19855,7 @@ export const railwayNetworkData = {
             41.8396695
           ]
         ]
-      },
-      "id": "way/127163062"
+      }
     },
     {
       "type": "Feature",
@@ -20242,8 +19942,7 @@ export const railwayNetworkData = {
             41.838016
           ]
         ]
-      },
-      "id": "way/127163064"
+      }
     },
     {
       "type": "Feature",
@@ -20272,8 +19971,7 @@ export const railwayNetworkData = {
             41.9038786
           ]
         ]
-      },
-      "id": "way/127478175"
+      }
     },
     {
       "type": "Feature",
@@ -20332,8 +20030,7 @@ export const railwayNetworkData = {
             41.908584
           ]
         ]
-      },
-      "id": "way/127478176"
+      }
     },
     {
       "type": "Feature",
@@ -20361,8 +20058,7 @@ export const railwayNetworkData = {
             41.819285
           ]
         ]
-      },
-      "id": "way/127479776"
+      }
     },
     {
       "type": "Feature",
@@ -20392,8 +20088,7 @@ export const railwayNetworkData = {
             41.8184202
           ]
         ]
-      },
-      "id": "way/127479778"
+      }
     },
     {
       "type": "Feature",
@@ -20422,8 +20117,7 @@ export const railwayNetworkData = {
             41.8524073
           ]
         ]
-      },
-      "id": "way/129212464"
+      }
     },
     {
       "type": "Feature",
@@ -20562,8 +20256,7 @@ export const railwayNetworkData = {
             41.864277
           ]
         ]
-      },
-      "id": "way/129212467"
+      }
     },
     {
       "type": "Feature",
@@ -20637,8 +20330,7 @@ export const railwayNetworkData = {
             41.6940555
           ]
         ]
-      },
-      "id": "way/129728415"
+      }
     },
     {
       "type": "Feature",
@@ -20666,8 +20358,7 @@ export const railwayNetworkData = {
             41.6869499
           ]
         ]
-      },
-      "id": "way/129728416"
+      }
     },
     {
       "type": "Feature",
@@ -20753,8 +20444,7 @@ export const railwayNetworkData = {
             43.3403213
           ]
         ]
-      },
-      "id": "way/129922286"
+      }
     },
     {
       "type": "Feature",
@@ -20782,8 +20472,7 @@ export const railwayNetworkData = {
             43.3464508
           ]
         ]
-      },
-      "id": "way/129922287"
+      }
     },
     {
       "type": "Feature",
@@ -20811,8 +20500,7 @@ export const railwayNetworkData = {
             42.2471129
           ]
         ]
-      },
-      "id": "way/130546183"
+      }
     },
     {
       "type": "Feature",
@@ -20846,8 +20534,7 @@ export const railwayNetworkData = {
             41.724741
           ]
         ]
-      },
-      "id": "way/131592730"
+      }
     },
     {
       "type": "Feature",
@@ -20910,8 +20597,7 @@ export const railwayNetworkData = {
             41.6912847
           ]
         ]
-      },
-      "id": "way/149099643"
+      }
     },
     {
       "type": "Feature",
@@ -20939,8 +20625,7 @@ export const railwayNetworkData = {
             41.8236645
           ]
         ]
-      },
-      "id": "way/149101902"
+      }
     },
     {
       "type": "Feature",
@@ -20971,8 +20656,7 @@ export const railwayNetworkData = {
             41.8211502
           ]
         ]
-      },
-      "id": "way/149101905"
+      }
     },
     {
       "type": "Feature",
@@ -21087,8 +20771,7 @@ export const railwayNetworkData = {
             41.6934433
           ]
         ]
-      },
-      "id": "way/149136870"
+      }
     },
     {
       "type": "Feature",
@@ -21176,8 +20859,7 @@ export const railwayNetworkData = {
             41.732675
           ]
         ]
-      },
-      "id": "way/149140732"
+      }
     },
     {
       "type": "Feature",
@@ -21206,8 +20888,7 @@ export const railwayNetworkData = {
             41.8321656
           ]
         ]
-      },
-      "id": "way/151184806"
+      }
     },
     {
       "type": "Feature",
@@ -21266,8 +20947,7 @@ export const railwayNetworkData = {
             41.8257567
           ]
         ]
-      },
-      "id": "way/151184807"
+      }
     },
     {
       "type": "Feature",
@@ -21362,8 +21042,7 @@ export const railwayNetworkData = {
             42.2048741
           ]
         ]
-      },
-      "id": "way/151493071"
+      }
     },
     {
       "type": "Feature",
@@ -21386,124 +21065,228 @@ export const railwayNetworkData = {
             42.2048741
           ],
           [
-            42.6516079,
-            42.2064999
+            42.6515936,
+            42.2064773
           ],
           [
-            42.6536179,
-            42.2094761
+            42.6530577,
+            42.2086667
           ],
           [
-            42.6536943,
-            42.2095884
+            42.6533917,
+            42.2091798
           ],
           [
-            42.6580801,
-            42.2162081
+            42.6536961,
+            42.2096223
           ],
           [
-            42.6584351,
-            42.2167269
+            42.6550707,
+            42.2116695
           ],
           [
-            42.6600305,
-            42.2190796
+            42.6566827,
+            42.2140818
+          ],
+          [
+            42.6569764,
+            42.2145118
+          ],
+          [
+            42.65753,
+            42.2153335
+          ],
+          [
+            42.6581435,
+            42.2162463
+          ],
+          [
+            42.6584493,
+            42.2167005
+          ],
+          [
+            42.659713,
+            42.2185702
+          ],
+          [
+            42.6600549,
+            42.2190743
           ],
           [
             42.6606706,
             42.2199776
           ],
           [
-            42.6632826,
-            42.2237775
+            42.661677,
+            42.2214723
           ],
           [
-            42.6633653,
-            42.2238926
+            42.6633245,
+            42.2239124
           ],
           [
-            42.664803,
-            42.226043
+            42.6640152,
+            42.2249294
           ],
           [
-            42.6673456,
-            42.2297662
+            42.6647682,
+            42.2260406
           ],
           [
-            42.6684087,
-            42.2313468
+            42.6653476,
+            42.2269046
           ],
           [
-            42.6699784,
-            42.2336804
+            42.6660229,
+            42.2278987
           ],
           [
-            42.6717982,
-            42.2363692
+            42.6665003,
+            42.2286015
           ],
           [
-            42.6718177,
-            42.236398
+            42.6673284,
+            42.2298341
           ],
           [
-            42.6723182,
-            42.2371375
+            42.6683678,
+            42.2313698
           ],
           [
-            42.6740845,
-            42.2397833
+            42.6699369,
+            42.2336919
           ],
           [
-            42.6753764,
-            42.241688
+            42.671735,
+            42.2363602
           ],
           [
-            42.6760045,
-            42.242619
+            42.6723006,
+            42.237196
           ],
           [
-            42.6776903,
-            42.2450985
+            42.6727847,
+            42.2379164
           ],
           [
-            42.6797902,
-            42.24829
+            42.6731689,
+            42.2384783
           ],
           [
-            42.6800268,
-            42.2487388
+            42.6734881,
+            42.2389609
           ],
           [
-            42.6801348,
+            42.6738717,
+            42.2395243
+          ],
+          [
+            42.6741989,
+            42.2400143
+          ],
+          [
+            42.6753395,
+            42.2417046
+          ],
+          [
+            42.6757687,
+            42.242345
+          ],
+          [
+            42.6760999,
+            42.2428395
+          ],
+          [
+            42.6765532,
+            42.2435151
+          ],
+          [
+            42.6770622,
+            42.2442701
+          ],
+          [
+            42.6776261,
+            42.245107
+          ],
+          [
+            42.6783168,
+            42.246136
+          ],
+          [
+            42.6791067,
+            42.2472996
+          ],
+          [
+            42.6796398,
+            42.2480952
+          ],
+          [
+            42.6798235,
+            42.2483831
+          ],
+          [
+            42.6799415,
+            42.2485956
+          ],
+          [
+            42.6800468,
+            42.2488204
+          ],
+          [
+            42.6801138,
             42.2490036
           ],
           [
-            42.68023,
-            42.2494304
+            42.6801675,
+            42.2491843
           ],
           [
-            42.6802368,
-            42.2499014
+            42.6801983,
+            42.2493426
           ],
           [
-            42.6801865,
-            42.2502708
+            42.6802258,
+            42.2495928
           ],
           [
-            42.6801193,
-            42.2505588
+            42.6802251,
+            42.2498355
+          ],
+          [
+            42.680205,
+            42.2500688
+          ],
+          [
+            42.6801628,
+            42.2502758
+          ],
+          [
+            42.6801299,
+            42.2503939
+          ],
+          [
+            42.6800977,
+            42.2504981
+          ],
+          [
+            42.680028,
+            42.2506738
+          ],
+          [
+            42.6799422,
+            42.25086
           ],
           [
             42.6798557,
             42.2510134
           ],
           [
-            42.6797595,
-            42.2511652
+            42.6797554,
+            42.2511622
           ],
           [
-            42.6797118,
-            42.2512317
+            42.6797098,
+            42.2512275
           ],
           [
             42.6796672,
@@ -21526,24 +21309,32 @@ export const railwayNetworkData = {
             42.2519068
           ],
           [
-            42.6788626,
-            42.252027
+            42.6788633,
+            42.2520288
           ],
           [
-            42.6785447,
-            42.2522132
+            42.6786386,
+            42.2521768
           ],
           [
-            42.678062,
-            42.252447
+            42.6783986,
+            42.2523093
           ],
           [
-            42.6777812,
-            42.2525875
+            42.678072,
+            42.2524681
           ],
           [
-            42.6771679,
-            42.2528586
+            42.6777897,
+            42.2525907
+          ],
+          [
+            42.6774028,
+            42.2527669
+          ],
+          [
+            42.6771708,
+            42.2528642
           ],
           [
             42.6762948,
@@ -21566,8 +21357,7 @@ export const railwayNetworkData = {
             42.2560136
           ]
         ]
-      },
-      "id": "way/151493076"
+      }
     },
     {
       "type": "Feature",
@@ -21593,8 +21383,7 @@ export const railwayNetworkData = {
             42.1994758
           ]
         ]
-      },
-      "id": "way/151494540"
+      }
     },
     {
       "type": "Feature",
@@ -21660,8 +21449,7 @@ export const railwayNetworkData = {
             42.2621936
           ]
         ]
-      },
-      "id": "way/151494542"
+      }
     },
     {
       "type": "Feature",
@@ -21811,8 +21599,7 @@ export const railwayNetworkData = {
             42.2613497
           ]
         ]
-      },
-      "id": "way/151495726"
+      }
     },
     {
       "type": "Feature",
@@ -21886,8 +21673,7 @@ export const railwayNetworkData = {
             42.1039628
           ]
         ]
-      },
-      "id": "way/151568093"
+      }
     },
     {
       "type": "Feature",
@@ -21915,8 +21701,7 @@ export const railwayNetworkData = {
             42.1002174
           ]
         ]
-      },
-      "id": "way/151568095"
+      }
     },
     {
       "type": "Feature",
@@ -21944,8 +21729,7 @@ export const railwayNetworkData = {
             42.1043927
           ]
         ]
-      },
-      "id": "way/151568096"
+      }
     },
     {
       "type": "Feature",
@@ -22127,8 +21911,7 @@ export const railwayNetworkData = {
             42.1178285
           ]
         ]
-      },
-      "id": "way/151568097"
+      }
     },
     {
       "type": "Feature",
@@ -22160,8 +21943,7 @@ export const railwayNetworkData = {
             42.1192983
           ]
         ]
-      },
-      "id": "way/151568098"
+      }
     },
     {
       "type": "Feature",
@@ -22231,8 +22013,7 @@ export const railwayNetworkData = {
             42.1239524
           ]
         ]
-      },
-      "id": "way/151568099"
+      }
     },
     {
       "type": "Feature",
@@ -22258,8 +22039,7 @@ export const railwayNetworkData = {
             42.1250075
           ]
         ]
-      },
-      "id": "way/151568100"
+      }
     },
     {
       "type": "Feature",
@@ -22417,8 +22197,7 @@ export const railwayNetworkData = {
             42.1324574
           ]
         ]
-      },
-      "id": "way/151568101"
+      }
     },
     {
       "type": "Feature",
@@ -22446,8 +22225,7 @@ export const railwayNetworkData = {
             42.1248107
           ]
         ]
-      },
-      "id": "way/151568102"
+      }
     },
     {
       "type": "Feature",
@@ -22475,8 +22253,7 @@ export const railwayNetworkData = {
             42.1257355
           ]
         ]
-      },
-      "id": "way/151568103"
+      }
     },
     {
       "type": "Feature",
@@ -22520,8 +22297,7 @@ export const railwayNetworkData = {
             42.1346294
           ]
         ]
-      },
-      "id": "way/151568105"
+      }
     },
     {
       "type": "Feature",
@@ -22563,8 +22339,7 @@ export const railwayNetworkData = {
             42.1374056
           ]
         ]
-      },
-      "id": "way/151568106"
+      }
     },
     {
       "type": "Feature",
@@ -22594,8 +22369,7 @@ export const railwayNetworkData = {
             42.1423569
           ]
         ]
-      },
-      "id": "way/151568108"
+      }
     },
     {
       "type": "Feature",
@@ -22635,8 +22409,7 @@ export const railwayNetworkData = {
             42.1441923
           ]
         ]
-      },
-      "id": "way/151568110"
+      }
     },
     {
       "type": "Feature",
@@ -22666,8 +22439,7 @@ export const railwayNetworkData = {
             42.1522728
           ]
         ]
-      },
-      "id": "way/151568113"
+      }
     },
     {
       "type": "Feature",
@@ -22695,8 +22467,7 @@ export const railwayNetworkData = {
             42.1514635
           ]
         ]
-      },
-      "id": "way/151568114"
+      }
     },
     {
       "type": "Feature",
@@ -22736,8 +22507,7 @@ export const railwayNetworkData = {
             42.1531577
           ]
         ]
-      },
-      "id": "way/151568115"
+      }
     },
     {
       "type": "Feature",
@@ -22803,8 +22573,7 @@ export const railwayNetworkData = {
             42.1548412
           ]
         ]
-      },
-      "id": "way/151568116"
+      }
     },
     {
       "type": "Feature",
@@ -22848,8 +22617,7 @@ export const railwayNetworkData = {
             42.159254
           ]
         ]
-      },
-      "id": "way/151568117"
+      }
     },
     {
       "type": "Feature",
@@ -22879,8 +22647,7 @@ export const railwayNetworkData = {
             42.1601819
           ]
         ]
-      },
-      "id": "way/151568118"
+      }
     },
     {
       "type": "Feature",
@@ -22912,8 +22679,7 @@ export const railwayNetworkData = {
             42.160863
           ]
         ]
-      },
-      "id": "way/151568119"
+      }
     },
     {
       "type": "Feature",
@@ -22943,8 +22709,7 @@ export const railwayNetworkData = {
             42.1614156
           ]
         ]
-      },
-      "id": "way/151568120"
+      }
     },
     {
       "type": "Feature",
@@ -22980,8 +22745,7 @@ export const railwayNetworkData = {
             42.1620043
           ]
         ]
-      },
-      "id": "way/151568121"
+      }
     },
     {
       "type": "Feature",
@@ -23017,8 +22781,7 @@ export const railwayNetworkData = {
             42.1649112
           ]
         ]
-      },
-      "id": "way/151568123"
+      }
     },
     {
       "type": "Feature",
@@ -23072,8 +22835,7 @@ export const railwayNetworkData = {
             42.1660054
           ]
         ]
-      },
-      "id": "way/151568124"
+      }
     },
     {
       "type": "Feature",
@@ -23113,8 +22875,7 @@ export const railwayNetworkData = {
             42.169164
           ]
         ]
-      },
-      "id": "way/151568126"
+      }
     },
     {
       "type": "Feature",
@@ -23280,8 +23041,7 @@ export const railwayNetworkData = {
             42.1709187
           ]
         ]
-      },
-      "id": "way/151568127"
+      }
     },
     {
       "type": "Feature",
@@ -23317,8 +23077,7 @@ export const railwayNetworkData = {
             42.1834654
           ]
         ]
-      },
-      "id": "way/151568128"
+      }
     },
     {
       "type": "Feature",
@@ -23348,8 +23107,7 @@ export const railwayNetworkData = {
             42.184397
           ]
         ]
-      },
-      "id": "way/151568129"
+      }
     },
     {
       "type": "Feature",
@@ -23377,8 +23135,7 @@ export const railwayNetworkData = {
             42.1853385
           ]
         ]
-      },
-      "id": "way/151568130"
+      }
     },
     {
       "type": "Feature",
@@ -23436,8 +23193,7 @@ export const railwayNetworkData = {
             42.194097
           ]
         ]
-      },
-      "id": "way/151568131"
+      }
     },
     {
       "type": "Feature",
@@ -23465,8 +23221,7 @@ export const railwayNetworkData = {
             42.1979994
           ]
         ]
-      },
-      "id": "way/151568132"
+      }
     },
     {
       "type": "Feature",
@@ -23502,8 +23257,7 @@ export const railwayNetworkData = {
             42.1987468
           ]
         ]
-      },
-      "id": "way/151568133"
+      }
     },
     {
       "type": "Feature",
@@ -23569,8 +23323,7 @@ export const railwayNetworkData = {
             42.2004714
           ]
         ]
-      },
-      "id": "way/151568134"
+      }
     },
     {
       "type": "Feature",
@@ -23606,8 +23359,7 @@ export const railwayNetworkData = {
             42.2035476
           ]
         ]
-      },
-      "id": "way/151568135"
+      }
     },
     {
       "type": "Feature",
@@ -23639,8 +23391,7 @@ export const railwayNetworkData = {
             42.2042364
           ]
         ]
-      },
-      "id": "way/151568137"
+      }
     },
     {
       "type": "Feature",
@@ -23668,8 +23419,7 @@ export const railwayNetworkData = {
             42.2057029
           ]
         ]
-      },
-      "id": "way/151568138"
+      }
     },
     {
       "type": "Feature",
@@ -23751,6 +23501,10 @@ export const railwayNetworkData = {
             42.2148841
           ],
           [
+            43.175434,
+            42.21463
+          ],
+          [
             43.1751533,
             42.2144042
           ],
@@ -23799,8 +23553,7 @@ export const railwayNetworkData = {
             42.20925
           ]
         ]
-      },
-      "id": "way/151568139"
+      }
     },
     {
       "type": "Feature",
@@ -23840,8 +23593,7 @@ export const railwayNetworkData = {
             42.2233825
           ]
         ]
-      },
-      "id": "way/151568140"
+      }
     },
     {
       "type": "Feature",
@@ -23919,8 +23671,7 @@ export const railwayNetworkData = {
             42.2232833
           ]
         ]
-      },
-      "id": "way/151568141"
+      }
     },
     {
       "type": "Feature",
@@ -23947,8 +23698,7 @@ export const railwayNetworkData = {
             42.2251977
           ]
         ]
-      },
-      "id": "way/151568142"
+      }
     },
     {
       "type": "Feature",
@@ -23976,8 +23726,7 @@ export const railwayNetworkData = {
             42.2253704
           ]
         ]
-      },
-      "id": "way/151568143"
+      }
     },
     {
       "type": "Feature",
@@ -24005,8 +23754,7 @@ export const railwayNetworkData = {
             42.2292014
           ]
         ]
-      },
-      "id": "way/151568144"
+      }
     },
     {
       "type": "Feature",
@@ -24060,8 +23808,7 @@ export const railwayNetworkData = {
             42.2299059
           ]
         ]
-      },
-      "id": "way/151568145"
+      }
     },
     {
       "type": "Feature",
@@ -24097,8 +23844,7 @@ export const railwayNetworkData = {
             42.2322199
           ]
         ]
-      },
-      "id": "way/151568146"
+      }
     },
     {
       "type": "Feature",
@@ -24156,8 +23902,7 @@ export const railwayNetworkData = {
             42.2329305
           ]
         ]
-      },
-      "id": "way/151568147"
+      }
     },
     {
       "type": "Feature",
@@ -24201,8 +23946,7 @@ export const railwayNetworkData = {
             42.2332159
           ]
         ]
-      },
-      "id": "way/151568148"
+      }
     },
     {
       "type": "Feature",
@@ -24264,8 +24008,7 @@ export const railwayNetworkData = {
             42.2340297
           ]
         ]
-      },
-      "id": "way/151568149"
+      }
     },
     {
       "type": "Feature",
@@ -24305,8 +24048,7 @@ export const railwayNetworkData = {
             42.2417179
           ]
         ]
-      },
-      "id": "way/151568150"
+      }
     },
     {
       "type": "Feature",
@@ -24388,8 +24130,7 @@ export const railwayNetworkData = {
             42.2432664
           ]
         ]
-      },
-      "id": "way/151568151"
+      }
     },
     {
       "type": "Feature",
@@ -24417,8 +24158,7 @@ export const railwayNetworkData = {
             42.2531878
           ]
         ]
-      },
-      "id": "way/151568152"
+      }
     },
     {
       "type": "Feature",
@@ -24452,8 +24192,7 @@ export const railwayNetworkData = {
             42.2539649
           ]
         ]
-      },
-      "id": "way/151568153"
+      }
     },
     {
       "type": "Feature",
@@ -24481,8 +24220,7 @@ export const railwayNetworkData = {
             42.2544931
           ]
         ]
-      },
-      "id": "way/151568154"
+      }
     },
     {
       "type": "Feature",
@@ -24588,8 +24326,7 @@ export const railwayNetworkData = {
             42.2545963
           ]
         ]
-      },
-      "id": "way/151568156"
+      }
     },
     {
       "type": "Feature",
@@ -24621,8 +24358,7 @@ export const railwayNetworkData = {
             42.2639574
           ]
         ]
-      },
-      "id": "way/151568157"
+      }
     },
     {
       "type": "Feature",
@@ -24652,8 +24388,7 @@ export const railwayNetworkData = {
             42.2646907
           ]
         ]
-      },
-      "id": "way/151568158"
+      }
     },
     {
       "type": "Feature",
@@ -24681,8 +24416,7 @@ export const railwayNetworkData = {
             42.2652589
           ]
         ]
-      },
-      "id": "way/151568159"
+      }
     },
     {
       "type": "Feature",
@@ -24710,8 +24444,7 @@ export const railwayNetworkData = {
             42.2662031
           ]
         ]
-      },
-      "id": "way/151568160"
+      }
     },
     {
       "type": "Feature",
@@ -24769,8 +24502,7 @@ export const railwayNetworkData = {
             42.2673627
           ]
         ]
-      },
-      "id": "way/151568161"
+      }
     },
     {
       "type": "Feature",
@@ -24798,8 +24530,7 @@ export const railwayNetworkData = {
             42.2695868
           ]
         ]
-      },
-      "id": "way/151568162"
+      }
     },
     {
       "type": "Feature",
@@ -24849,8 +24580,7 @@ export const railwayNetworkData = {
             42.2704336
           ]
         ]
-      },
-      "id": "way/151568163"
+      }
     },
     {
       "type": "Feature",
@@ -24894,8 +24624,7 @@ export const railwayNetworkData = {
             42.2715917
           ]
         ]
-      },
-      "id": "way/151568164"
+      }
     },
     {
       "type": "Feature",
@@ -25025,8 +24754,7 @@ export const railwayNetworkData = {
             42.2731496
           ]
         ]
-      },
-      "id": "way/151568165"
+      }
     },
     {
       "type": "Feature",
@@ -25066,8 +24794,7 @@ export const railwayNetworkData = {
             42.2781267
           ]
         ]
-      },
-      "id": "way/151568166"
+      }
     },
     {
       "type": "Feature",
@@ -25153,8 +24880,7 @@ export const railwayNetworkData = {
             42.2789906
           ]
         ]
-      },
-      "id": "way/151568167"
+      }
     },
     {
       "type": "Feature",
@@ -25181,8 +24907,7 @@ export const railwayNetworkData = {
             42.283154
           ]
         ]
-      },
-      "id": "way/151568168"
+      }
     },
     {
       "type": "Feature",
@@ -25736,8 +25461,7 @@ export const railwayNetworkData = {
             42.2894468
           ]
         ]
-      },
-      "id": "way/151568170"
+      }
     },
     {
       "type": "Feature",
@@ -25769,8 +25493,7 @@ export const railwayNetworkData = {
             42.3149859
           ]
         ]
-      },
-      "id": "way/151568171"
+      }
     },
     {
       "type": "Feature",
@@ -25868,8 +25591,7 @@ export const railwayNetworkData = {
             42.315683
           ]
         ]
-      },
-      "id": "way/151568172"
+      }
     },
     {
       "type": "Feature",
@@ -25901,8 +25623,7 @@ export const railwayNetworkData = {
             42.321188
           ]
         ]
-      },
-      "id": "way/151568173"
+      }
     },
     {
       "type": "Feature",
@@ -25952,8 +25673,7 @@ export const railwayNetworkData = {
             42.3350273
           ]
         ]
-      },
-      "id": "way/151568174"
+      }
     },
     {
       "type": "Feature",
@@ -25991,8 +25711,7 @@ export const railwayNetworkData = {
             41.998307
           ]
         ]
-      },
-      "id": "way/151568901"
+      }
     },
     {
       "type": "Feature",
@@ -26036,8 +25755,7 @@ export const railwayNetworkData = {
             41.7136629
           ]
         ]
-      },
-      "id": "way/151573428"
+      }
     },
     {
       "type": "Feature",
@@ -26213,8 +25931,7 @@ export const railwayNetworkData = {
             41.7048652
           ]
         ]
-      },
-      "id": "way/151573432"
+      }
     },
     {
       "type": "Feature",
@@ -26298,8 +26015,7 @@ export const railwayNetworkData = {
             41.7068219
           ]
         ]
-      },
-      "id": "way/151573433"
+      }
     },
     {
       "type": "Feature",
@@ -26395,8 +26111,7 @@ export const railwayNetworkData = {
             41.7037822
           ]
         ]
-      },
-      "id": "way/151573436"
+      }
     },
     {
       "type": "Feature",
@@ -26656,8 +26371,7 @@ export const railwayNetworkData = {
             41.7046031
           ]
         ]
-      },
-      "id": "way/151573440"
+      }
     },
     {
       "type": "Feature",
@@ -26689,8 +26403,7 @@ export const railwayNetworkData = {
             41.7035215
           ]
         ]
-      },
-      "id": "way/151573441"
+      }
     },
     {
       "type": "Feature",
@@ -26730,8 +26443,7 @@ export const railwayNetworkData = {
             41.7032507
           ]
         ]
-      },
-      "id": "way/151573443"
+      }
     },
     {
       "type": "Feature",
@@ -26775,8 +26487,7 @@ export const railwayNetworkData = {
             41.7071342
           ]
         ]
-      },
-      "id": "way/151573446"
+      }
     },
     {
       "type": "Feature",
@@ -26806,8 +26517,7 @@ export const railwayNetworkData = {
             41.7075695
           ]
         ]
-      },
-      "id": "way/151573450"
+      }
     },
     {
       "type": "Feature",
@@ -26837,8 +26547,7 @@ export const railwayNetworkData = {
             41.7045876
           ]
         ]
-      },
-      "id": "way/151573455"
+      }
     },
     {
       "type": "Feature",
@@ -26868,8 +26577,7 @@ export const railwayNetworkData = {
             41.7040436
           ]
         ]
-      },
-      "id": "way/151573456"
+      }
     },
     {
       "type": "Feature",
@@ -26899,8 +26607,7 @@ export const railwayNetworkData = {
             41.7137619
           ]
         ]
-      },
-      "id": "way/151574057"
+      }
     },
     {
       "type": "Feature",
@@ -26930,8 +26637,7 @@ export const railwayNetworkData = {
             41.7150453
           ]
         ]
-      },
-      "id": "way/151574058"
+      }
     },
     {
       "type": "Feature",
@@ -26975,8 +26681,7 @@ export const railwayNetworkData = {
             41.7149427
           ]
         ]
-      },
-      "id": "way/151574059"
+      }
     },
     {
       "type": "Feature",
@@ -27006,8 +26711,7 @@ export const railwayNetworkData = {
             41.7032507
           ]
         ]
-      },
-      "id": "way/151574062"
+      }
     },
     {
       "type": "Feature",
@@ -27037,8 +26741,7 @@ export const railwayNetworkData = {
             41.7036906
           ]
         ]
-      },
-      "id": "way/151574063"
+      }
     },
     {
       "type": "Feature",
@@ -27068,8 +26771,7 @@ export const railwayNetworkData = {
             41.7035215
           ]
         ]
-      },
-      "id": "way/151574064"
+      }
     },
     {
       "type": "Feature",
@@ -27078,7 +26780,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "passenger_lines": "1",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -27258,8 +26965,7 @@ export const railwayNetworkData = {
             41.5173181
           ]
         ]
-      },
-      "id": "way/155940100"
+      }
     },
     {
       "type": "Feature",
@@ -27289,8 +26995,7 @@ export const railwayNetworkData = {
             41.5173181
           ]
         ]
-      },
-      "id": "way/155940107"
+      }
     },
     {
       "type": "Feature",
@@ -27299,7 +27004,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -27645,8 +27355,7 @@ export const railwayNetworkData = {
             41.524774
           ]
         ]
-      },
-      "id": "way/155940120"
+      }
     },
     {
       "type": "Feature",
@@ -27948,8 +27657,7 @@ export const railwayNetworkData = {
             42.1512176
           ]
         ]
-      },
-      "id": "way/163193247"
+      }
     },
     {
       "type": "Feature",
@@ -28002,8 +27710,7 @@ export const railwayNetworkData = {
             42.2480952
           ]
         ]
-      },
-      "id": "way/163193389"
+      }
     },
     {
       "type": "Feature",
@@ -28031,8 +27738,7 @@ export const railwayNetworkData = {
             43.0784018
           ]
         ]
-      },
-      "id": "way/163783262"
+      }
     },
     {
       "type": "Feature",
@@ -28087,8 +27793,7 @@ export const railwayNetworkData = {
             43.0773805
           ]
         ]
-      },
-      "id": "way/163783263"
+      }
     },
     {
       "type": "Feature",
@@ -28271,8 +27976,7 @@ export const railwayNetworkData = {
             41.6821592
           ]
         ]
-      },
-      "id": "way/169690940"
+      }
     },
     {
       "type": "Feature",
@@ -28375,8 +28079,7 @@ export const railwayNetworkData = {
             41.7018885
           ]
         ]
-      },
-      "id": "way/169690942"
+      }
     },
     {
       "type": "Feature",
@@ -28405,8 +28108,7 @@ export const railwayNetworkData = {
             41.6751737
           ]
         ]
-      },
-      "id": "way/169690943"
+      }
     },
     {
       "type": "Feature",
@@ -28435,8 +28137,7 @@ export const railwayNetworkData = {
             41.6822854
           ]
         ]
-      },
-      "id": "way/169690946"
+      }
     },
     {
       "type": "Feature",
@@ -28517,8 +28218,7 @@ export const railwayNetworkData = {
             43.0522715
           ]
         ]
-      },
-      "id": "way/171250262"
+      }
     },
     {
       "type": "Feature",
@@ -28545,8 +28245,7 @@ export const railwayNetworkData = {
             43.019803
           ]
         ]
-      },
-      "id": "way/171250265"
+      }
     },
     {
       "type": "Feature",
@@ -28716,8 +28415,7 @@ export const railwayNetworkData = {
             43.0198705
           ]
         ]
-      },
-      "id": "way/171250267"
+      }
     },
     {
       "type": "Feature",
@@ -28748,8 +28446,7 @@ export const railwayNetworkData = {
             43.0512546
           ]
         ]
-      },
-      "id": "way/171250270"
+      }
     },
     {
       "type": "Feature",
@@ -28785,8 +28482,7 @@ export const railwayNetworkData = {
             43.0377972
           ]
         ]
-      },
-      "id": "way/171250272"
+      }
     },
     {
       "type": "Feature",
@@ -28825,8 +28521,7 @@ export const railwayNetworkData = {
             43.0185861
           ]
         ]
-      },
-      "id": "way/171250274"
+      }
     },
     {
       "type": "Feature",
@@ -28855,8 +28550,7 @@ export const railwayNetworkData = {
             42.001415
           ]
         ]
-      },
-      "id": "way/177371539"
+      }
     },
     {
       "type": "Feature",
@@ -28885,8 +28579,7 @@ export const railwayNetworkData = {
             41.9986817
           ]
         ]
-      },
-      "id": "way/177371540"
+      }
     },
     {
       "type": "Feature",
@@ -28915,8 +28608,7 @@ export const railwayNetworkData = {
             41.9989789
           ]
         ]
-      },
-      "id": "way/177371541"
+      }
     },
     {
       "type": "Feature",
@@ -28945,8 +28637,7 @@ export const railwayNetworkData = {
             42.0028941
           ]
         ]
-      },
-      "id": "way/177371542"
+      }
     },
     {
       "type": "Feature",
@@ -28981,8 +28672,7 @@ export const railwayNetworkData = {
             42.0022387
           ]
         ]
-      },
-      "id": "way/177371543"
+      }
     },
     {
       "type": "Feature",
@@ -29015,8 +28705,7 @@ export const railwayNetworkData = {
             42.0050205
           ]
         ]
-      },
-      "id": "way/177371544"
+      }
     },
     {
       "type": "Feature",
@@ -29082,8 +28771,7 @@ export const railwayNetworkData = {
             42.0067837
           ]
         ]
-      },
-      "id": "way/177371545"
+      }
     },
     {
       "type": "Feature",
@@ -29130,8 +28818,7 @@ export const railwayNetworkData = {
             41.9988526
           ]
         ]
-      },
-      "id": "way/177371546"
+      }
     },
     {
       "type": "Feature",
@@ -29178,8 +28865,7 @@ export const railwayNetworkData = {
             42.0046962
           ]
         ]
-      },
-      "id": "way/177371547"
+      }
     },
     {
       "type": "Feature",
@@ -29254,8 +28940,7 @@ export const railwayNetworkData = {
             42.0010356
           ]
         ]
-      },
-      "id": "way/177371548"
+      }
     },
     {
       "type": "Feature",
@@ -29426,8 +29111,7 @@ export const railwayNetworkData = {
             41.8397108
           ]
         ]
-      },
-      "id": "way/178328680"
+      }
     },
     {
       "type": "Feature",
@@ -29436,8 +29120,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "name:tr": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Esri, Maxar",
@@ -29488,8 +29176,7 @@ export const railwayNetworkData = {
             41.2744269
           ]
         ]
-      },
-      "id": "way/182168512"
+      }
     },
     {
       "type": "Feature",
@@ -29518,8 +29205,7 @@ export const railwayNetworkData = {
             41.9665476
           ]
         ]
-      },
-      "id": "way/184538026"
+      }
     },
     {
       "type": "Feature",
@@ -29582,8 +29268,7 @@ export const railwayNetworkData = {
             41.9690938
           ]
         ]
-      },
-      "id": "way/184538027"
+      }
     },
     {
       "type": "Feature",
@@ -29612,8 +29297,7 @@ export const railwayNetworkData = {
             41.7166066
           ]
         ]
-      },
-      "id": "way/186135867"
+      }
     },
     {
       "type": "Feature",
@@ -29688,8 +29372,7 @@ export const railwayNetworkData = {
             41.7117583
           ]
         ]
-      },
-      "id": "way/186135871"
+      }
     },
     {
       "type": "Feature",
@@ -29719,8 +29402,7 @@ export const railwayNetworkData = {
             42.1117558
           ]
         ]
-      },
-      "id": "way/188316180"
+      }
     },
     {
       "type": "Feature",
@@ -29748,8 +29430,7 @@ export const railwayNetworkData = {
             42.1111007
           ]
         ]
-      },
-      "id": "way/188316181"
+      }
     },
     {
       "type": "Feature",
@@ -29905,8 +29586,7 @@ export const railwayNetworkData = {
             41.6824273
           ]
         ]
-      },
-      "id": "way/189492527"
+      }
     },
     {
       "type": "Feature",
@@ -30213,8 +29893,7 @@ export const railwayNetworkData = {
             41.6750765
           ]
         ]
-      },
-      "id": "way/189492544"
+      }
     },
     {
       "type": "Feature",
@@ -30245,8 +29924,7 @@ export const railwayNetworkData = {
             41.6756245
           ]
         ]
-      },
-      "id": "way/193898746"
+      }
     },
     {
       "type": "Feature",
@@ -30359,8 +30037,7 @@ export const railwayNetworkData = {
             41.6744691
           ]
         ]
-      },
-      "id": "way/193898752"
+      }
     },
     {
       "type": "Feature",
@@ -30478,8 +30155,7 @@ export const railwayNetworkData = {
             43.2816555
           ]
         ]
-      },
-      "id": "way/194028458"
+      }
     },
     {
       "type": "Feature",
@@ -30507,8 +30183,7 @@ export const railwayNetworkData = {
             43.2977119
           ]
         ]
-      },
-      "id": "way/194028459"
+      }
     },
     {
       "type": "Feature",
@@ -30714,8 +30389,7 @@ export const railwayNetworkData = {
             43.2189289
           ]
         ]
-      },
-      "id": "way/197222467"
+      }
     },
     {
       "type": "Feature",
@@ -30742,8 +30416,7 @@ export const railwayNetworkData = {
             43.2538873
           ]
         ]
-      },
-      "id": "way/197420340"
+      }
     },
     {
       "type": "Feature",
@@ -30771,8 +30444,7 @@ export const railwayNetworkData = {
             43.2582222
           ]
         ]
-      },
-      "id": "way/197420341"
+      }
     },
     {
       "type": "Feature",
@@ -30800,8 +30472,7 @@ export const railwayNetworkData = {
             43.2517912
           ]
         ]
-      },
-      "id": "way/197420342"
+      }
     },
     {
       "type": "Feature",
@@ -30828,8 +30499,7 @@ export const railwayNetworkData = {
             43.2474594
           ]
         ]
-      },
-      "id": "way/197420343"
+      }
     },
     {
       "type": "Feature",
@@ -30857,8 +30527,7 @@ export const railwayNetworkData = {
             43.2328861
           ]
         ]
-      },
-      "id": "way/197420344"
+      }
     },
     {
       "type": "Feature",
@@ -31052,8 +30721,7 @@ export const railwayNetworkData = {
             43.2165254
           ]
         ]
-      },
-      "id": "way/197420346"
+      }
     },
     {
       "type": "Feature",
@@ -31083,8 +30751,7 @@ export const railwayNetworkData = {
             43.2519401
           ]
         ]
-      },
-      "id": "way/197420347"
+      }
     },
     {
       "type": "Feature",
@@ -31222,8 +30889,7 @@ export const railwayNetworkData = {
             43.2330458
           ]
         ]
-      },
-      "id": "way/197420348"
+      }
     },
     {
       "type": "Feature",
@@ -31271,8 +30937,7 @@ export const railwayNetworkData = {
             43.217771
           ]
         ]
-      },
-      "id": "way/197420350"
+      }
     },
     {
       "type": "Feature",
@@ -31426,8 +31091,7 @@ export const railwayNetworkData = {
             43.2248776
           ]
         ]
-      },
-      "id": "way/197420351"
+      }
     },
     {
       "type": "Feature",
@@ -31469,8 +31133,7 @@ export const railwayNetworkData = {
             43.254019
           ]
         ]
-      },
-      "id": "way/197420353"
+      }
     },
     {
       "type": "Feature",
@@ -31512,8 +31175,7 @@ export const railwayNetworkData = {
             43.2476202
           ]
         ]
-      },
-      "id": "way/197420355"
+      }
     },
     {
       "type": "Feature",
@@ -31547,8 +31209,7 @@ export const railwayNetworkData = {
             42.9266783
           ]
         ]
-      },
-      "id": "way/198579392"
+      }
     },
     {
       "type": "Feature",
@@ -31576,8 +31237,7 @@ export const railwayNetworkData = {
             42.9293427
           ]
         ]
-      },
-      "id": "way/198579409"
+      }
     },
     {
       "type": "Feature",
@@ -31627,8 +31287,7 @@ export const railwayNetworkData = {
             42.7881189
           ]
         ]
-      },
-      "id": "way/198642999"
+      }
     },
     {
       "type": "Feature",
@@ -31656,8 +31315,7 @@ export const railwayNetworkData = {
             42.8016176
           ]
         ]
-      },
-      "id": "way/198643022"
+      }
     },
     {
       "type": "Feature",
@@ -31707,8 +31365,7 @@ export const railwayNetworkData = {
             42.8016369
           ]
         ]
-      },
-      "id": "way/198654648"
+      }
     },
     {
       "type": "Feature",
@@ -31736,8 +31393,7 @@ export const railwayNetworkData = {
             42.8054123
           ]
         ]
-      },
-      "id": "way/198654657"
+      }
     },
     {
       "type": "Feature",
@@ -31763,8 +31419,7 @@ export const railwayNetworkData = {
             43.3924499
           ]
         ]
-      },
-      "id": "way/201558144"
+      }
     },
     {
       "type": "Feature",
@@ -31792,8 +31447,7 @@ export const railwayNetworkData = {
             43.393113
           ]
         ]
-      },
-      "id": "way/201558148"
+      }
     },
     {
       "type": "Feature",
@@ -31843,8 +31497,7 @@ export const railwayNetworkData = {
             43.3874376
           ]
         ]
-      },
-      "id": "way/201570618"
+      }
     },
     {
       "type": "Feature",
@@ -31898,8 +31551,7 @@ export const railwayNetworkData = {
             43.3467722
           ]
         ]
-      },
-      "id": "way/202158876"
+      }
     },
     {
       "type": "Feature",
@@ -31927,8 +31579,7 @@ export const railwayNetworkData = {
             43.3510767
           ]
         ]
-      },
-      "id": "way/202158881"
+      }
     },
     {
       "type": "Feature",
@@ -31958,8 +31609,7 @@ export const railwayNetworkData = {
             43.3376992
           ]
         ]
-      },
-      "id": "way/202169876"
+      }
     },
     {
       "type": "Feature",
@@ -31987,8 +31637,7 @@ export const railwayNetworkData = {
             43.3402961
           ]
         ]
-      },
-      "id": "way/202169879"
+      }
     },
     {
       "type": "Feature",
@@ -32064,8 +31713,7 @@ export const railwayNetworkData = {
             43.3218745
           ]
         ]
-      },
-      "id": "way/202177497"
+      }
     },
     {
       "type": "Feature",
@@ -32093,8 +31741,7 @@ export const railwayNetworkData = {
             43.3160265
           ]
         ]
-      },
-      "id": "way/202181034"
+      }
     },
     {
       "type": "Feature",
@@ -32140,8 +31787,7 @@ export const railwayNetworkData = {
             43.3133624
           ]
         ]
-      },
-      "id": "way/202181059"
+      }
     },
     {
       "type": "Feature",
@@ -32198,8 +31844,7 @@ export const railwayNetworkData = {
             43.3272585
           ]
         ]
-      },
-      "id": "way/202235873"
+      }
     },
     {
       "type": "Feature",
@@ -32277,8 +31922,7 @@ export const railwayNetworkData = {
             43.3296315
           ]
         ]
-      },
-      "id": "way/202235874"
+      }
     },
     {
       "type": "Feature",
@@ -32332,8 +31976,7 @@ export const railwayNetworkData = {
             43.3163215
           ]
         ]
-      },
-      "id": "way/202288475"
+      }
     },
     {
       "type": "Feature",
@@ -32361,8 +32004,7 @@ export const railwayNetworkData = {
             43.2651595
           ]
         ]
-      },
-      "id": "way/202393616"
+      }
     },
     {
       "type": "Feature",
@@ -32400,8 +32042,7 @@ export const railwayNetworkData = {
             43.2623403
           ]
         ]
-      },
-      "id": "way/202393621"
+      }
     },
     {
       "type": "Feature",
@@ -32459,8 +32100,7 @@ export const railwayNetworkData = {
             43.2978135
           ]
         ]
-      },
-      "id": "way/202420321"
+      }
     },
     {
       "type": "Feature",
@@ -32488,8 +32128,7 @@ export const railwayNetworkData = {
             43.3132677
           ]
         ]
-      },
-      "id": "way/202420324"
+      }
     },
     {
       "type": "Feature",
@@ -32517,8 +32156,7 @@ export const railwayNetworkData = {
             43.2739374
           ]
         ]
-      },
-      "id": "way/202556231"
+      }
     },
     {
       "type": "Feature",
@@ -32604,8 +32242,7 @@ export const railwayNetworkData = {
             43.2653779
           ]
         ]
-      },
-      "id": "way/202556236"
+      }
     },
     {
       "type": "Feature",
@@ -32707,8 +32344,7 @@ export const railwayNetworkData = {
             43.2176399
           ]
         ]
-      },
-      "id": "way/202688656"
+      }
     },
     {
       "type": "Feature",
@@ -32758,8 +32394,7 @@ export const railwayNetworkData = {
             43.1114633
           ]
         ]
-      },
-      "id": "way/203615543"
+      }
     },
     {
       "type": "Feature",
@@ -32787,8 +32422,7 @@ export const railwayNetworkData = {
             43.1093932
           ]
         ]
-      },
-      "id": "way/203615551"
+      }
     },
     {
       "type": "Feature",
@@ -32838,8 +32472,7 @@ export const railwayNetworkData = {
             43.0840849
           ]
         ]
-      },
-      "id": "way/203729546"
+      }
     },
     {
       "type": "Feature",
@@ -32867,8 +32500,7 @@ export const railwayNetworkData = {
             43.0835085
           ]
         ]
-      },
-      "id": "way/203729555"
+      }
     },
     {
       "type": "Feature",
@@ -32932,8 +32564,7 @@ export const railwayNetworkData = {
             43.0920955
           ]
         ]
-      },
-      "id": "way/203730858"
+      }
     },
     {
       "type": "Feature",
@@ -33039,8 +32670,7 @@ export const railwayNetworkData = {
             43.0914093
           ]
         ]
-      },
-      "id": "way/203730859"
+      }
     },
     {
       "type": "Feature",
@@ -33068,8 +32698,7 @@ export const railwayNetworkData = {
             43.0855095
           ]
         ]
-      },
-      "id": "way/203730860"
+      }
     },
     {
       "type": "Feature",
@@ -33097,8 +32726,7 @@ export const railwayNetworkData = {
             43.0842313
           ]
         ]
-      },
-      "id": "way/203730864"
+      }
     },
     {
       "type": "Feature",
@@ -33127,8 +32755,7 @@ export const railwayNetworkData = {
             41.2965249
           ]
         ]
-      },
-      "id": "way/203731894"
+      }
     },
     {
       "type": "Feature",
@@ -33157,8 +32784,7 @@ export const railwayNetworkData = {
             41.2894628
           ]
         ]
-      },
-      "id": "way/203731896"
+      }
     },
     {
       "type": "Feature",
@@ -33167,8 +32793,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "name:tr": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -33218,8 +32848,7 @@ export const railwayNetworkData = {
             41.2968493
           ]
         ]
-      },
-      "id": "way/203731899"
+      }
     },
     {
       "type": "Feature",
@@ -33227,10 +32856,15 @@ export const railwayNetworkData = {
         "@id": "way/203731900",
         "electrified": "no",
         "gauge": "1435",
-        "name": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "name:en": "Tbilisi-Kars-Railway",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -33578,8 +33212,7 @@ export const railwayNetworkData = {
             41.3314845
           ]
         ]
-      },
-      "id": "way/203731900"
+      }
     },
     {
       "type": "Feature",
@@ -33654,8 +33287,7 @@ export const railwayNetworkData = {
             43.0832771
           ]
         ]
-      },
-      "id": "way/203801521"
+      }
     },
     {
       "type": "Feature",
@@ -33842,8 +33474,7 @@ export const railwayNetworkData = {
             43.0642866
           ]
         ]
-      },
-      "id": "way/203804872"
+      }
     },
     {
       "type": "Feature",
@@ -33872,8 +33503,7 @@ export const railwayNetworkData = {
             43.0773623
           ]
         ]
-      },
-      "id": "way/203804883"
+      }
     },
     {
       "type": "Feature",
@@ -33948,8 +33578,7 @@ export const railwayNetworkData = {
             42.1903139
           ]
         ]
-      },
-      "id": "way/205196931"
+      }
     },
     {
       "type": "Feature",
@@ -33977,8 +33606,7 @@ export const railwayNetworkData = {
             42.158764
           ]
         ]
-      },
-      "id": "way/205382616"
+      }
     },
     {
       "type": "Feature",
@@ -34044,8 +33672,7 @@ export const railwayNetworkData = {
             42.1593968
           ]
         ]
-      },
-      "id": "way/205382620"
+      }
     },
     {
       "type": "Feature",
@@ -34073,8 +33700,7 @@ export const railwayNetworkData = {
             42.1981425
           ]
         ]
-      },
-      "id": "way/205384079"
+      }
     },
     {
       "type": "Feature",
@@ -34120,8 +33746,7 @@ export const railwayNetworkData = {
             42.1952519
           ]
         ]
-      },
-      "id": "way/205384080"
+      }
     },
     {
       "type": "Feature",
@@ -34155,8 +33780,7 @@ export const railwayNetworkData = {
             42.1953531
           ]
         ]
-      },
-      "id": "way/205384086"
+      }
     },
     {
       "type": "Feature",
@@ -34315,8 +33939,7 @@ export const railwayNetworkData = {
             42.200263
           ]
         ]
-      },
-      "id": "way/205384091"
+      }
     },
     {
       "type": "Feature",
@@ -34344,8 +33967,7 @@ export const railwayNetworkData = {
             42.1988548
           ]
         ]
-      },
-      "id": "way/205384095"
+      }
     },
     {
       "type": "Feature",
@@ -34375,8 +33997,7 @@ export const railwayNetworkData = {
             42.198052
           ]
         ]
-      },
-      "id": "way/205599608"
+      }
     },
     {
       "type": "Feature",
@@ -34405,8 +34026,7 @@ export const railwayNetworkData = {
             42.1994112
           ]
         ]
-      },
-      "id": "way/205599614"
+      }
     },
     {
       "type": "Feature",
@@ -34489,8 +34109,7 @@ export const railwayNetworkData = {
             42.267626
           ]
         ]
-      },
-      "id": "way/211449875"
+      }
     },
     {
       "type": "Feature",
@@ -34519,8 +34138,7 @@ export const railwayNetworkData = {
             42.266185
           ]
         ]
-      },
-      "id": "way/211449908"
+      }
     },
     {
       "type": "Feature",
@@ -34549,8 +34167,7 @@ export const railwayNetworkData = {
             42.2601235
           ]
         ]
-      },
-      "id": "way/212312603"
+      }
     },
     {
       "type": "Feature",
@@ -34594,8 +34211,7 @@ export const railwayNetworkData = {
             42.2662221
           ]
         ]
-      },
-      "id": "way/212312613"
+      }
     },
     {
       "type": "Feature",
@@ -34638,8 +34254,7 @@ export const railwayNetworkData = {
             42.2598687
           ]
         ]
-      },
-      "id": "way/212313395"
+      }
     },
     {
       "type": "Feature",
@@ -34663,8 +34278,7 @@ export const railwayNetworkData = {
             42.2524032
           ]
         ]
-      },
-      "id": "way/212313399"
+      }
     },
     {
       "type": "Feature",
@@ -34722,8 +34336,7 @@ export const railwayNetworkData = {
             42.3002825
           ]
         ]
-      },
-      "id": "way/212324099"
+      }
     },
     {
       "type": "Feature",
@@ -34751,8 +34364,7 @@ export const railwayNetworkData = {
             42.2828249
           ]
         ]
-      },
-      "id": "way/212324104"
+      }
     },
     {
       "type": "Feature",
@@ -34846,8 +34458,7 @@ export const railwayNetworkData = {
             42.2824329
           ]
         ]
-      },
-      "id": "way/212339971"
+      }
     },
     {
       "type": "Feature",
@@ -34875,8 +34486,7 @@ export const railwayNetworkData = {
             42.2688415
           ]
         ]
-      },
-      "id": "way/212339972"
+      }
     },
     {
       "type": "Feature",
@@ -34905,8 +34515,7 @@ export const railwayNetworkData = {
             42.2663028
           ]
         ]
-      },
-      "id": "way/212339975"
+      }
     },
     {
       "type": "Feature",
@@ -34945,8 +34554,7 @@ export const railwayNetworkData = {
             42.2666132
           ]
         ]
-      },
-      "id": "way/212339977"
+      }
     },
     {
       "type": "Feature",
@@ -35010,8 +34618,7 @@ export const railwayNetworkData = {
             42.0938052
           ]
         ]
-      },
-      "id": "way/212391292"
+      }
     },
     {
       "type": "Feature",
@@ -35039,8 +34646,7 @@ export const railwayNetworkData = {
             42.2286377
           ]
         ]
-      },
-      "id": "way/213744740"
+      }
     },
     {
       "type": "Feature",
@@ -35122,8 +34728,7 @@ export const railwayNetworkData = {
             42.2489931
           ]
         ]
-      },
-      "id": "way/213744743"
+      }
     },
     {
       "type": "Feature",
@@ -35151,8 +34756,7 @@ export const railwayNetworkData = {
             42.2627434
           ]
         ]
-      },
-      "id": "way/213747650"
+      }
     },
     {
       "type": "Feature",
@@ -35195,8 +34799,7 @@ export const railwayNetworkData = {
             42.266185
           ]
         ]
-      },
-      "id": "way/213747656"
+      }
     },
     {
       "type": "Feature",
@@ -35249,8 +34852,7 @@ export const railwayNetworkData = {
             42.2428382
           ]
         ]
-      },
-      "id": "way/213751545"
+      }
     },
     {
       "type": "Feature",
@@ -35320,8 +34922,7 @@ export const railwayNetworkData = {
             42.2626024
           ]
         ]
-      },
-      "id": "way/213751547"
+      }
     },
     {
       "type": "Feature",
@@ -35386,8 +34987,7 @@ export const railwayNetworkData = {
             42.2481764
           ]
         ]
-      },
-      "id": "way/213751548"
+      }
     },
     {
       "type": "Feature",
@@ -35415,8 +35015,7 @@ export const railwayNetworkData = {
             42.2492335
           ]
         ]
-      },
-      "id": "way/213751550"
+      }
     },
     {
       "type": "Feature",
@@ -35444,8 +35043,7 @@ export const railwayNetworkData = {
             41.7115125
           ]
         ]
-      },
-      "id": "way/214674119"
+      }
     },
     {
       "type": "Feature",
@@ -35473,8 +35071,7 @@ export const railwayNetworkData = {
             42.0354074
           ]
         ]
-      },
-      "id": "way/215061149"
+      }
     },
     {
       "type": "Feature",
@@ -35584,8 +35181,7 @@ export const railwayNetworkData = {
             42.0213073
           ]
         ]
-      },
-      "id": "way/215061151"
+      }
     },
     {
       "type": "Feature",
@@ -35624,8 +35220,7 @@ export const railwayNetworkData = {
             41.936425
           ]
         ]
-      },
-      "id": "way/215062018"
+      }
     },
     {
       "type": "Feature",
@@ -35651,8 +35246,7 @@ export const railwayNetworkData = {
             42.0910703
           ]
         ]
-      },
-      "id": "way/215557230"
+      }
     },
     {
       "type": "Feature",
@@ -35750,8 +35344,7 @@ export const railwayNetworkData = {
             42.0866911
           ]
         ]
-      },
-      "id": "way/215557232"
+      }
     },
     {
       "type": "Feature",
@@ -35771,16 +35364,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6858872,
-            41.6666076
+            41.6858693,
+            41.6666137
           ],
           [
-            41.6858116,
-            41.666494
+            41.6857865,
+            41.6665029
           ]
         ]
-      },
-      "id": "way/220847597"
+      }
     },
     {
       "type": "Feature",
@@ -35798,24 +35390,19 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6858116,
-            41.666494
+            41.6857865,
+            41.6665029
           ],
           [
-            41.6854759,
-            41.6660242
+            41.6844514,
+            41.6646248
           ],
           [
-            41.6844843,
-            41.6646148
-          ],
-          [
-            41.6842616,
-            41.6643077
+            41.6842707,
+            41.6643821
           ]
         ]
-      },
-      "id": "way/220847600"
+      }
     },
     {
       "type": "Feature",
@@ -35867,8 +35454,7 @@ export const railwayNetworkData = {
             42.1374056
           ]
         ]
-      },
-      "id": "way/223253385"
+      }
     },
     {
       "type": "Feature",
@@ -35934,8 +35520,7 @@ export const railwayNetworkData = {
             42.1396367
           ]
         ]
-      },
-      "id": "way/223253390"
+      }
     },
     {
       "type": "Feature",
@@ -35973,8 +35558,7 @@ export const railwayNetworkData = {
             42.0943137
           ]
         ]
-      },
-      "id": "way/223260030"
+      }
     },
     {
       "type": "Feature",
@@ -36026,8 +35610,7 @@ export const railwayNetworkData = {
             41.4592164
           ]
         ]
-      },
-      "id": "way/223672404"
+      }
     },
     {
       "type": "Feature",
@@ -36079,8 +35662,7 @@ export const railwayNetworkData = {
             41.4603804
           ]
         ]
-      },
-      "id": "way/223672405"
+      }
     },
     {
       "type": "Feature",
@@ -36300,8 +35882,7 @@ export const railwayNetworkData = {
             41.4603804
           ]
         ]
-      },
-      "id": "way/223672852"
+      }
     },
     {
       "type": "Feature",
@@ -36532,8 +36113,7 @@ export const railwayNetworkData = {
             42.0965406
           ]
         ]
-      },
-      "id": "way/224706058"
+      }
     },
     {
       "type": "Feature",
@@ -36562,8 +36142,7 @@ export const railwayNetworkData = {
             42.0963614
           ]
         ]
-      },
-      "id": "way/224706059"
+      }
     },
     {
       "type": "Feature",
@@ -36572,7 +36151,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -36774,8 +36358,7 @@ export const railwayNetworkData = {
             41.5149145
           ]
         ]
-      },
-      "id": "way/227095883"
+      }
     },
     {
       "type": "Feature",
@@ -36784,7 +36367,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -37190,8 +36778,7 @@ export const railwayNetworkData = {
             41.6100625
           ]
         ]
-      },
-      "id": "way/229646436"
+      }
     },
     {
       "type": "Feature",
@@ -37219,8 +36806,7 @@ export const railwayNetworkData = {
             41.9860575
           ]
         ]
-      },
-      "id": "way/231892237"
+      }
     },
     {
       "type": "Feature",
@@ -37248,8 +36834,7 @@ export const railwayNetworkData = {
             41.9822982
           ]
         ]
-      },
-      "id": "way/231892238"
+      }
     },
     {
       "type": "Feature",
@@ -37335,8 +36920,7 @@ export const railwayNetworkData = {
             41.9810225
           ]
         ]
-      },
-      "id": "way/231892239"
+      }
     },
     {
       "type": "Feature",
@@ -37382,8 +36966,7 @@ export const railwayNetworkData = {
             41.9852781
           ]
         ]
-      },
-      "id": "way/231892241"
+      }
     },
     {
       "type": "Feature",
@@ -37412,8 +36995,7 @@ export const railwayNetworkData = {
             41.9792638
           ]
         ]
-      },
-      "id": "way/231900119"
+      }
     },
     {
       "type": "Feature",
@@ -37492,8 +37074,7 @@ export const railwayNetworkData = {
             41.9793633
           ]
         ]
-      },
-      "id": "way/231900120"
+      }
     },
     {
       "type": "Feature",
@@ -37547,8 +37128,7 @@ export const railwayNetworkData = {
             41.994684
           ]
         ]
-      },
-      "id": "way/231900121"
+      }
     },
     {
       "type": "Feature",
@@ -37710,8 +37290,7 @@ export const railwayNetworkData = {
             41.9943608
           ]
         ]
-      },
-      "id": "way/231900122"
+      }
     },
     {
       "type": "Feature",
@@ -37744,8 +37323,7 @@ export const railwayNetworkData = {
             41.969456
           ]
         ]
-      },
-      "id": "way/231900123"
+      }
     },
     {
       "type": "Feature",
@@ -37781,8 +37359,7 @@ export const railwayNetworkData = {
             41.9951261
           ]
         ]
-      },
-      "id": "way/231900124"
+      }
     },
     {
       "type": "Feature",
@@ -37826,8 +37403,7 @@ export const railwayNetworkData = {
             41.9841902
           ]
         ]
-      },
-      "id": "way/231900125"
+      }
     },
     {
       "type": "Feature",
@@ -37867,8 +37443,7 @@ export const railwayNetworkData = {
             41.9966245
           ]
         ]
-      },
-      "id": "way/231900126"
+      }
     },
     {
       "type": "Feature",
@@ -37939,8 +37514,7 @@ export const railwayNetworkData = {
             41.9786061
           ]
         ]
-      },
-      "id": "way/231900127"
+      }
     },
     {
       "type": "Feature",
@@ -37991,8 +37565,7 @@ export const railwayNetworkData = {
             41.9730113
           ]
         ]
-      },
-      "id": "way/231900128"
+      }
     },
     {
       "type": "Feature",
@@ -38018,8 +37591,7 @@ export const railwayNetworkData = {
             42.0081798
           ]
         ]
-      },
-      "id": "way/231900129"
+      }
     },
     {
       "type": "Feature",
@@ -38075,8 +37647,7 @@ export const railwayNetworkData = {
             41.9882991
           ]
         ]
-      },
-      "id": "way/231900130"
+      }
     },
     {
       "type": "Feature",
@@ -38126,8 +37697,7 @@ export const railwayNetworkData = {
             41.9850314
           ]
         ]
-      },
-      "id": "way/231900132"
+      }
     },
     {
       "type": "Feature",
@@ -38156,8 +37726,7 @@ export const railwayNetworkData = {
             42.1200552
           ]
         ]
-      },
-      "id": "way/232860501"
+      }
     },
     {
       "type": "Feature",
@@ -38211,8 +37780,7 @@ export const railwayNetworkData = {
             42.15613
           ]
         ]
-      },
-      "id": "way/232866876"
+      }
     },
     {
       "type": "Feature",
@@ -38278,8 +37846,7 @@ export const railwayNetworkData = {
             42.0952782
           ]
         ]
-      },
-      "id": "way/232866884"
+      }
     },
     {
       "type": "Feature",
@@ -38333,8 +37900,7 @@ export const railwayNetworkData = {
             42.1648617
           ]
         ]
-      },
-      "id": "way/232866885"
+      }
     },
     {
       "type": "Feature",
@@ -38362,8 +37928,7 @@ export const railwayNetworkData = {
             42.1562122
           ]
         ]
-      },
-      "id": "way/232866890"
+      }
     },
     {
       "type": "Feature",
@@ -38391,8 +37956,7 @@ export const railwayNetworkData = {
             42.0977889
           ]
         ]
-      },
-      "id": "way/232866893"
+      }
     },
     {
       "type": "Feature",
@@ -38420,8 +37984,7 @@ export const railwayNetworkData = {
             42.15613
           ]
         ]
-      },
-      "id": "way/232866895"
+      }
     },
     {
       "type": "Feature",
@@ -38450,8 +38013,7 @@ export const railwayNetworkData = {
             42.1903495
           ]
         ]
-      },
-      "id": "way/232867715"
+      }
     },
     {
       "type": "Feature",
@@ -38488,6 +38050,10 @@ export const railwayNetworkData = {
           [
             42.2181937,
             42.1946569
+          ],
+          [
+            42.2159788,
+            42.1957434
           ],
           [
             42.2159702,
@@ -38574,8 +38140,7 @@ export const railwayNetworkData = {
             42.2138473
           ]
         ]
-      },
-      "id": "way/232867716"
+      }
     },
     {
       "type": "Feature",
@@ -38657,8 +38222,7 @@ export const railwayNetworkData = {
             42.0031975
           ]
         ]
-      },
-      "id": "way/233850661"
+      }
     },
     {
       "type": "Feature",
@@ -38686,8 +38250,7 @@ export const railwayNetworkData = {
             42.0081786
           ]
         ]
-      },
-      "id": "way/233850662"
+      }
     },
     {
       "type": "Feature",
@@ -38716,8 +38279,7 @@ export const railwayNetworkData = {
             41.9788265
           ]
         ]
-      },
-      "id": "way/233850663"
+      }
     },
     {
       "type": "Feature",
@@ -38745,8 +38307,7 @@ export const railwayNetworkData = {
             42.0057505
           ]
         ]
-      },
-      "id": "way/233850664"
+      }
     },
     {
       "type": "Feature",
@@ -38844,8 +38405,7 @@ export const railwayNetworkData = {
             41.9984887
           ]
         ]
-      },
-      "id": "way/233850666"
+      }
     },
     {
       "type": "Feature",
@@ -39124,8 +38684,7 @@ export const railwayNetworkData = {
             41.9696139
           ]
         ]
-      },
-      "id": "way/233850667"
+      }
     },
     {
       "type": "Feature",
@@ -39191,8 +38750,7 @@ export const railwayNetworkData = {
             42.0059804
           ]
         ]
-      },
-      "id": "way/233850668"
+      }
     },
     {
       "type": "Feature",
@@ -39402,8 +38960,7 @@ export const railwayNetworkData = {
             42.1089836
           ]
         ]
-      },
-      "id": "way/239434062"
+      }
     },
     {
       "type": "Feature",
@@ -39462,8 +39019,7 @@ export const railwayNetworkData = {
             42.0793704
           ]
         ]
-      },
-      "id": "way/239543151"
+      }
     },
     {
       "type": "Feature",
@@ -39550,8 +39106,7 @@ export const railwayNetworkData = {
             42.0527619
           ]
         ]
-      },
-      "id": "way/239547672"
+      }
     },
     {
       "type": "Feature",
@@ -39702,8 +39257,7 @@ export const railwayNetworkData = {
             42.0683848
           ]
         ]
-      },
-      "id": "way/239547675"
+      }
     },
     {
       "type": "Feature",
@@ -39890,8 +39444,7 @@ export const railwayNetworkData = {
             42.0714446
           ]
         ]
-      },
-      "id": "way/239547677"
+      }
     },
     {
       "type": "Feature",
@@ -39962,8 +39515,7 @@ export const railwayNetworkData = {
             42.0523303
           ]
         ]
-      },
-      "id": "way/239548022"
+      }
     },
     {
       "type": "Feature",
@@ -39992,8 +39544,7 @@ export const railwayNetworkData = {
             42.0465231
           ]
         ]
-      },
-      "id": "way/239548024"
+      }
     },
     {
       "type": "Feature",
@@ -40080,8 +39631,7 @@ export const railwayNetworkData = {
             42.0579737
           ]
         ]
-      },
-      "id": "way/239548025"
+      }
     },
     {
       "type": "Feature",
@@ -40184,8 +39734,7 @@ export const railwayNetworkData = {
             42.0460576
           ]
         ]
-      },
-      "id": "way/239548792"
+      }
     },
     {
       "type": "Feature",
@@ -40214,8 +39763,7 @@ export const railwayNetworkData = {
             42.0253563
           ]
         ]
-      },
-      "id": "way/239549408"
+      }
     },
     {
       "type": "Feature",
@@ -40244,8 +39792,7 @@ export const railwayNetworkData = {
             42.0158727
           ]
         ]
-      },
-      "id": "way/239549849"
+      }
     },
     {
       "type": "Feature",
@@ -40368,8 +39915,7 @@ export const railwayNetworkData = {
             42.0250906
           ]
         ]
-      },
-      "id": "way/239549853"
+      }
     },
     {
       "type": "Feature",
@@ -40408,8 +39954,7 @@ export const railwayNetworkData = {
             41.9986469
           ]
         ]
-      },
-      "id": "way/239551015"
+      }
     },
     {
       "type": "Feature",
@@ -40438,8 +39983,7 @@ export const railwayNetworkData = {
             41.998914
           ]
         ]
-      },
-      "id": "way/239551016"
+      }
     },
     {
       "type": "Feature",
@@ -40514,8 +40058,7 @@ export const railwayNetworkData = {
             41.998914
           ]
         ]
-      },
-      "id": "way/239551017"
+      }
     },
     {
       "type": "Feature",
@@ -40544,8 +40087,7 @@ export const railwayNetworkData = {
             41.3506504
           ]
         ]
-      },
-      "id": "way/240107464"
+      }
     },
     {
       "type": "Feature",
@@ -40554,7 +40096,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -40632,8 +40179,7 @@ export const railwayNetworkData = {
             41.3860422
           ]
         ]
-      },
-      "id": "way/240107465"
+      }
     },
     {
       "type": "Feature",
@@ -40662,8 +40208,7 @@ export const railwayNetworkData = {
             41.3253655
           ]
         ]
-      },
-      "id": "way/240107906"
+      }
     },
     {
       "type": "Feature",
@@ -40692,8 +40237,7 @@ export const railwayNetworkData = {
             41.2907867
           ]
         ]
-      },
-      "id": "way/240107907"
+      }
     },
     {
       "type": "Feature",
@@ -40702,7 +40246,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -40748,8 +40297,7 @@ export const railwayNetworkData = {
             41.349777
           ]
         ]
-      },
-      "id": "way/240107908"
+      }
     },
     {
       "type": "Feature",
@@ -40758,7 +40306,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -40996,8 +40549,7 @@ export const railwayNetworkData = {
             41.3252688
           ]
         ]
-      },
-      "id": "way/240107910"
+      }
     },
     {
       "type": "Feature",
@@ -41011,6 +40563,8 @@ export const railwayNetworkData = {
         "name:en": "Tbilisi-Kars-Railway",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -41026,8 +40580,7 @@ export const railwayNetworkData = {
             41.3317925
           ]
         ]
-      },
-      "id": "way/240108909"
+      }
     },
     {
       "type": "Feature",
@@ -41077,8 +40630,7 @@ export const railwayNetworkData = {
             41.3183983
           ]
         ]
-      },
-      "id": "way/240108910"
+      }
     },
     {
       "type": "Feature",
@@ -41204,8 +40756,7 @@ export const railwayNetworkData = {
             42.1447977
           ]
         ]
-      },
-      "id": "way/243753590"
+      }
     },
     {
       "type": "Feature",
@@ -41251,8 +40802,7 @@ export const railwayNetworkData = {
             42.1649112
           ]
         ]
-      },
-      "id": "way/243753591"
+      }
     },
     {
       "type": "Feature",
@@ -41272,16 +40822,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            42.7209404,
-            42.197823
+            42.7209277,
+            42.1978399
           ],
           [
-            42.7206636,
-            42.1977415
+            42.7206133,
+            42.197749
           ]
         ]
-      },
-      "id": "way/253890908"
+      }
     },
     {
       "type": "Feature",
@@ -41299,8 +40848,8 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            42.7204661,
-            42.1976876
+            42.7204627,
+            42.1977134
           ],
           [
             42.7198189,
@@ -41355,8 +40904,7 @@ export const railwayNetworkData = {
             42.1985653
           ]
         ]
-      },
-      "id": "way/253890909"
+      }
     },
     {
       "type": "Feature",
@@ -41400,8 +40948,7 @@ export const railwayNetworkData = {
             42.1620899
           ]
         ]
-      },
-      "id": "way/257602368"
+      }
     },
     {
       "type": "Feature",
@@ -41465,8 +41012,7 @@ export const railwayNetworkData = {
             42.1315836
           ]
         ]
-      },
-      "id": "way/257602846"
+      }
     },
     {
       "type": "Feature",
@@ -41530,8 +41076,7 @@ export const railwayNetworkData = {
             42.1372232
           ]
         ]
-      },
-      "id": "way/257602847"
+      }
     },
     {
       "type": "Feature",
@@ -41557,8 +41102,7 @@ export const railwayNetworkData = {
             42.2659857
           ]
         ]
-      },
-      "id": "way/259713997"
+      }
     },
     {
       "type": "Feature",
@@ -41697,8 +41241,7 @@ export const railwayNetworkData = {
             42.1200552
           ]
         ]
-      },
-      "id": "way/276683710"
+      }
     },
     {
       "type": "Feature",
@@ -41804,8 +41347,7 @@ export const railwayNetworkData = {
             41.9990489
           ]
         ]
-      },
-      "id": "way/279419584"
+      }
     },
     {
       "type": "Feature",
@@ -41834,8 +41376,7 @@ export const railwayNetworkData = {
             41.8415246
           ]
         ]
-      },
-      "id": "way/279578646"
+      }
     },
     {
       "type": "Feature",
@@ -41878,8 +41419,7 @@ export const railwayNetworkData = {
             41.8418706
           ]
         ]
-      },
-      "id": "way/279578647"
+      }
     },
     {
       "type": "Feature",
@@ -42026,8 +41566,7 @@ export const railwayNetworkData = {
             41.5232262
           ]
         ]
-      },
-      "id": "way/284099514"
+      }
     },
     {
       "type": "Feature",
@@ -42056,8 +41595,7 @@ export const railwayNetworkData = {
             41.5431258
           ]
         ]
-      },
-      "id": "way/284099520"
+      }
     },
     {
       "type": "Feature",
@@ -42086,8 +41624,7 @@ export const railwayNetworkData = {
             41.6415937
           ]
         ]
-      },
-      "id": "way/284122197"
+      }
     },
     {
       "type": "Feature",
@@ -42150,8 +41687,7 @@ export const railwayNetworkData = {
             41.6377822
           ]
         ]
-      },
-      "id": "way/284122198"
+      }
     },
     {
       "type": "Feature",
@@ -42854,8 +42390,7 @@ export const railwayNetworkData = {
             41.4609028
           ]
         ]
-      },
-      "id": "way/284154391"
+      }
     },
     {
       "type": "Feature",
@@ -42884,8 +42419,7 @@ export const railwayNetworkData = {
             41.5156733
           ]
         ]
-      },
-      "id": "way/284154392"
+      }
     },
     {
       "type": "Feature",
@@ -42914,8 +42448,7 @@ export const railwayNetworkData = {
             41.5201262
           ]
         ]
-      },
-      "id": "way/284154393"
+      }
     },
     {
       "type": "Feature",
@@ -42958,8 +42491,7 @@ export const railwayNetworkData = {
             41.5158086
           ]
         ]
-      },
-      "id": "way/284154394"
+      }
     },
     {
       "type": "Feature",
@@ -43050,8 +42582,7 @@ export const railwayNetworkData = {
             41.6663733
           ]
         ]
-      },
-      "id": "way/287416828"
+      }
     },
     {
       "type": "Feature",
@@ -43080,8 +42611,7 @@ export const railwayNetworkData = {
             41.7162311
           ]
         ]
-      },
-      "id": "way/287416829"
+      }
     },
     {
       "type": "Feature",
@@ -43110,8 +42640,7 @@ export const railwayNetworkData = {
             41.6661731
           ]
         ]
-      },
-      "id": "way/287416830"
+      }
     },
     {
       "type": "Feature",
@@ -43140,8 +42669,7 @@ export const railwayNetworkData = {
             41.7209604
           ]
         ]
-      },
-      "id": "way/287416831"
+      }
     },
     {
       "type": "Feature",
@@ -43170,8 +42698,7 @@ export const railwayNetworkData = {
             41.6726907
           ]
         ]
-      },
-      "id": "way/287416832"
+      }
     },
     {
       "type": "Feature",
@@ -43246,8 +42773,7 @@ export const railwayNetworkData = {
             41.72253
           ]
         ]
-      },
-      "id": "way/287416833"
+      }
     },
     {
       "type": "Feature",
@@ -43450,8 +42976,7 @@ export const railwayNetworkData = {
             41.713737
           ]
         ]
-      },
-      "id": "way/287416834"
+      }
     },
     {
       "type": "Feature",
@@ -43638,8 +43163,7 @@ export const railwayNetworkData = {
             41.6474384
           ]
         ]
-      },
-      "id": "way/287416835"
+      }
     },
     {
       "type": "Feature",
@@ -43668,8 +43192,7 @@ export const railwayNetworkData = {
             41.5789677
           ]
         ]
-      },
-      "id": "way/288668708"
+      }
     },
     {
       "type": "Feature",
@@ -43804,8 +43327,7 @@ export const railwayNetworkData = {
             41.5433628
           ]
         ]
-      },
-      "id": "way/288668709"
+      }
     },
     {
       "type": "Feature",
@@ -44259,8 +43781,7 @@ export const railwayNetworkData = {
             41.86106
           ]
         ]
-      },
-      "id": "way/291855969"
+      }
     },
     {
       "type": "Feature",
@@ -44315,8 +43836,7 @@ export const railwayNetworkData = {
             42.3858663
           ]
         ]
-      },
-      "id": "way/305128662"
+      }
     },
     {
       "type": "Feature",
@@ -44344,8 +43864,7 @@ export const railwayNetworkData = {
             42.369558
           ]
         ]
-      },
-      "id": "way/305128663"
+      }
     },
     {
       "type": "Feature",
@@ -44400,8 +43919,7 @@ export const railwayNetworkData = {
             42.4224262
           ]
         ]
-      },
-      "id": "way/305128664"
+      }
     },
     {
       "type": "Feature",
@@ -44430,8 +43948,7 @@ export const railwayNetworkData = {
             42.4083178
           ]
         ]
-      },
-      "id": "way/305128665"
+      }
     },
     {
       "type": "Feature",
@@ -44460,8 +43977,7 @@ export const railwayNetworkData = {
             42.4490264
           ]
         ]
-      },
-      "id": "way/305129285"
+      }
     },
     {
       "type": "Feature",
@@ -44512,8 +44028,7 @@ export const railwayNetworkData = {
             42.4590866
           ]
         ]
-      },
-      "id": "way/305129286"
+      }
     },
     {
       "type": "Feature",
@@ -44542,8 +44057,7 @@ export const railwayNetworkData = {
             41.947598
           ]
         ]
-      },
-      "id": "way/310352234"
+      }
     },
     {
       "type": "Feature",
@@ -44606,8 +44120,7 @@ export const railwayNetworkData = {
             41.9558177
           ]
         ]
-      },
-      "id": "way/310352237"
+      }
     },
     {
       "type": "Feature",
@@ -44642,8 +44155,7 @@ export const railwayNetworkData = {
             41.8650818
           ]
         ]
-      },
-      "id": "way/310355079"
+      }
     },
     {
       "type": "Feature",
@@ -44672,8 +44184,7 @@ export const railwayNetworkData = {
             41.8643653
           ]
         ]
-      },
-      "id": "way/310355080"
+      }
     },
     {
       "type": "Feature",
@@ -44682,7 +44193,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Mapbox",
@@ -44867,6 +44383,10 @@ export const railwayNetworkData = {
           [
             43.8607746,
             41.4648331
+          ],
+          [
+            43.8609934,
+            41.4645864
           ],
           [
             43.8611763,
@@ -45209,8 +44729,7 @@ export const railwayNetworkData = {
             41.4153705
           ]
         ]
-      },
-      "id": "way/317913883"
+      }
     },
     {
       "type": "Feature",
@@ -45219,7 +44738,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -45309,8 +44833,7 @@ export const railwayNetworkData = {
             41.4061817
           ]
         ]
-      },
-      "id": "way/358875614"
+      }
     },
     {
       "type": "Feature",
@@ -45356,8 +44879,7 @@ export const railwayNetworkData = {
             42.1003497
           ]
         ]
-      },
-      "id": "way/370498288"
+      }
     },
     {
       "type": "Feature",
@@ -45386,8 +44908,7 @@ export const railwayNetworkData = {
             41.7017074
           ]
         ]
-      },
-      "id": "way/377530797"
+      }
     },
     {
       "type": "Feature",
@@ -45570,8 +45091,7 @@ export const railwayNetworkData = {
             41.6727103
           ]
         ]
-      },
-      "id": "way/377530798"
+      }
     },
     {
       "type": "Feature",
@@ -45594,8 +45114,7 @@ export const railwayNetworkData = {
             41.9791492
           ]
         ]
-      },
-      "id": "way/382004351"
+      }
     },
     {
       "type": "Feature",
@@ -45631,8 +45150,7 @@ export const railwayNetworkData = {
             41.8367628
           ]
         ]
-      },
-      "id": "way/384144271"
+      }
     },
     {
       "type": "Feature",
@@ -45668,8 +45186,7 @@ export const railwayNetworkData = {
             41.8449528
           ]
         ]
-      },
-      "id": "way/384144274"
+      }
     },
     {
       "type": "Feature",
@@ -45739,8 +45256,7 @@ export const railwayNetworkData = {
             41.8417558
           ]
         ]
-      },
-      "id": "way/384144276"
+      }
     },
     {
       "type": "Feature",
@@ -45871,8 +45387,7 @@ export const railwayNetworkData = {
             41.8418706
           ]
         ]
-      },
-      "id": "way/384144278"
+      }
     },
     {
       "type": "Feature",
@@ -46012,8 +45527,7 @@ export const railwayNetworkData = {
             41.8246845
           ]
         ]
-      },
-      "id": "way/384144284"
+      }
     },
     {
       "type": "Feature",
@@ -46159,8 +45673,7 @@ export const railwayNetworkData = {
             41.8477414
           ]
         ]
-      },
-      "id": "way/384144302"
+      }
     },
     {
       "type": "Feature",
@@ -46187,8 +45700,7 @@ export const railwayNetworkData = {
             41.8608367
           ]
         ]
-      },
-      "id": "way/384144308"
+      }
     },
     {
       "type": "Feature",
@@ -46299,8 +45811,7 @@ export const railwayNetworkData = {
             41.8358277
           ]
         ]
-      },
-      "id": "way/384144312"
+      }
     },
     {
       "type": "Feature",
@@ -46495,8 +46006,7 @@ export const railwayNetworkData = {
             41.6676825
           ]
         ]
-      },
-      "id": "way/384149763"
+      }
     },
     {
       "type": "Feature",
@@ -46536,8 +46046,7 @@ export const railwayNetworkData = {
             41.7522899
           ]
         ]
-      },
-      "id": "way/384150097"
+      }
     },
     {
       "type": "Feature",
@@ -46586,8 +46095,7 @@ export const railwayNetworkData = {
             41.7781846
           ]
         ]
-      },
-      "id": "way/384150292"
+      }
     },
     {
       "type": "Feature",
@@ -46699,8 +46207,7 @@ export const railwayNetworkData = {
             41.7874708
           ]
         ]
-      },
-      "id": "way/384150293"
+      }
     },
     {
       "type": "Feature",
@@ -46728,8 +46235,7 @@ export const railwayNetworkData = {
             41.8476665
           ]
         ]
-      },
-      "id": "way/384164814"
+      }
     },
     {
       "type": "Feature",
@@ -46799,8 +46305,7 @@ export const railwayNetworkData = {
             41.8455587
           ]
         ]
-      },
-      "id": "way/384164815"
+      }
     },
     {
       "type": "Feature",
@@ -46851,8 +46356,7 @@ export const railwayNetworkData = {
             41.9470195
           ]
         ]
-      },
-      "id": "way/390812016"
+      }
     },
     {
       "type": "Feature",
@@ -46881,8 +46385,7 @@ export const railwayNetworkData = {
             41.9450433
           ]
         ]
-      },
-      "id": "way/390812017"
+      }
     },
     {
       "type": "Feature",
@@ -47238,8 +46741,7 @@ export const railwayNetworkData = {
             41.6416211
           ]
         ]
-      },
-      "id": "way/394542171"
+      }
     },
     {
       "type": "Feature",
@@ -47259,8 +46761,7 @@ export const railwayNetworkData = {
             42.2008996
           ]
         ]
-      },
-      "id": "way/395762624"
+      }
     },
     {
       "type": "Feature",
@@ -47299,8 +46800,7 @@ export const railwayNetworkData = {
             42.2002454
           ]
         ]
-      },
-      "id": "way/395762627"
+      }
     },
     {
       "type": "Feature",
@@ -47343,8 +46843,7 @@ export const railwayNetworkData = {
             42.2008996
           ]
         ]
-      },
-      "id": "way/395762630"
+      }
     },
     {
       "type": "Feature",
@@ -47387,8 +46886,7 @@ export const railwayNetworkData = {
             42.2001191
           ]
         ]
-      },
-      "id": "way/395762774"
+      }
     },
     {
       "type": "Feature",
@@ -47397,7 +46895,10 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "passenger_lines": "1",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -47509,8 +47010,7 @@ export const railwayNetworkData = {
             41.5147735
           ]
         ]
-      },
-      "id": "way/413170884"
+      }
     },
     {
       "type": "Feature",
@@ -47519,7 +47019,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "passenger_lines": "1",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -47591,8 +47096,7 @@ export const railwayNetworkData = {
             41.5173457
           ]
         ]
-      },
-      "id": "way/413170885"
+      }
     },
     {
       "type": "Feature",
@@ -47623,8 +47127,7 @@ export const railwayNetworkData = {
             41.5179849
           ]
         ]
-      },
-      "id": "way/413170886"
+      }
     },
     {
       "type": "Feature",
@@ -47654,8 +47157,7 @@ export const railwayNetworkData = {
             41.5192059
           ]
         ]
-      },
-      "id": "way/413170888"
+      }
     },
     {
       "type": "Feature",
@@ -47664,7 +47166,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "passenger_lines": "1",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -47776,8 +47283,7 @@ export const railwayNetworkData = {
             41.5180117
           ]
         ]
-      },
-      "id": "way/413170889"
+      }
     },
     {
       "type": "Feature",
@@ -47812,8 +47318,7 @@ export const railwayNetworkData = {
             41.5139584
           ]
         ]
-      },
-      "id": "way/413170890"
+      }
     },
     {
       "type": "Feature",
@@ -47822,7 +47327,10 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:en": "Baku-Tbilisi Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "passenger_lines": "1",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -47994,8 +47502,7 @@ export const railwayNetworkData = {
             41.5179445
           ]
         ]
-      },
-      "id": "way/413170891"
+      }
     },
     {
       "type": "Feature",
@@ -48004,7 +47511,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Jumpstart International",
@@ -48079,8 +47591,7 @@ export const railwayNetworkData = {
             41.519581
           ]
         ]
-      },
-      "id": "way/413238959"
+      }
     },
     {
       "type": "Feature",
@@ -48110,8 +47621,7 @@ export const railwayNetworkData = {
             41.5247221
           ]
         ]
-      },
-      "id": "way/413238960"
+      }
     },
     {
       "type": "Feature",
@@ -48120,7 +47630,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Jumpstart International",
@@ -48163,8 +47678,7 @@ export const railwayNetworkData = {
             41.5192124
           ]
         ]
-      },
-      "id": "way/413238961"
+      }
     },
     {
       "type": "Feature",
@@ -48173,7 +47687,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -48483,8 +48002,7 @@ export const railwayNetworkData = {
             41.5564897
           ]
         ]
-      },
-      "id": "way/413378042"
+      }
     },
     {
       "type": "Feature",
@@ -48493,7 +48011,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Jumpstart International",
@@ -48568,8 +48091,7 @@ export const railwayNetworkData = {
             41.5852158
           ]
         ]
-      },
-      "id": "way/413383848"
+      }
     },
     {
       "type": "Feature",
@@ -48599,8 +48121,7 @@ export const railwayNetworkData = {
             41.5849507
           ]
         ]
-      },
-      "id": "way/413383849"
+      }
     },
     {
       "type": "Feature",
@@ -48629,8 +48150,7 @@ export const railwayNetworkData = {
             41.5867092
           ]
         ]
-      },
-      "id": "way/413383850"
+      }
     },
     {
       "type": "Feature",
@@ -48659,8 +48179,7 @@ export const railwayNetworkData = {
             41.6002371
           ]
         ]
-      },
-      "id": "way/413384706"
+      }
     },
     {
       "type": "Feature",
@@ -48669,7 +48188,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -48871,8 +48395,7 @@ export const railwayNetworkData = {
             41.6001055
           ]
         ]
-      },
-      "id": "way/413384707"
+      }
     },
     {
       "type": "Feature",
@@ -48901,8 +48424,7 @@ export const railwayNetworkData = {
             41.6160875
           ]
         ]
-      },
-      "id": "way/413385938"
+      }
     },
     {
       "type": "Feature",
@@ -48911,7 +48433,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -49081,8 +48608,7 @@ export const railwayNetworkData = {
             41.6160468
           ]
         ]
-      },
-      "id": "way/413385939"
+      }
     },
     {
       "type": "Feature",
@@ -49111,8 +48637,7 @@ export const railwayNetworkData = {
             41.5787901
           ]
         ]
-      },
-      "id": "way/413386128"
+      }
     },
     {
       "type": "Feature",
@@ -49121,7 +48646,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -49279,8 +48809,7 @@ export const railwayNetworkData = {
             41.5788841
           ]
         ]
-      },
-      "id": "way/413386129"
+      }
     },
     {
       "type": "Feature",
@@ -49354,8 +48883,7 @@ export const railwayNetworkData = {
             41.7160231
           ]
         ]
-      },
-      "id": "way/425222583"
+      }
     },
     {
       "type": "Feature",
@@ -49383,8 +48911,7 @@ export const railwayNetworkData = {
             41.7065577
           ]
         ]
-      },
-      "id": "way/425222584"
+      }
     },
     {
       "type": "Feature",
@@ -49574,8 +49101,7 @@ export const railwayNetworkData = {
             41.8156096
           ]
         ]
-      },
-      "id": "way/430764244"
+      }
     },
     {
       "type": "Feature",
@@ -49653,8 +49179,7 @@ export const railwayNetworkData = {
             41.8226311
           ]
         ]
-      },
-      "id": "way/430764245"
+      }
     },
     {
       "type": "Feature",
@@ -49698,8 +49223,7 @@ export const railwayNetworkData = {
             41.8244224
           ]
         ]
-      },
-      "id": "way/430764246"
+      }
     },
     {
       "type": "Feature",
@@ -49727,8 +49251,7 @@ export const railwayNetworkData = {
             41.7475233
           ]
         ]
-      },
-      "id": "way/444870777"
+      }
     },
     {
       "type": "Feature",
@@ -49754,8 +49277,7 @@ export const railwayNetworkData = {
             41.8050114
           ]
         ]
-      },
-      "id": "way/444872119"
+      }
     },
     {
       "type": "Feature",
@@ -49845,8 +49367,7 @@ export const railwayNetworkData = {
             41.8057605
           ]
         ]
-      },
-      "id": "way/444872120"
+      }
     },
     {
       "type": "Feature",
@@ -49876,8 +49397,7 @@ export const railwayNetworkData = {
             41.6946328
           ]
         ]
-      },
-      "id": "way/448832351"
+      }
     },
     {
       "type": "Feature",
@@ -50261,8 +49781,7 @@ export const railwayNetworkData = {
             41.6946301
           ]
         ]
-      },
-      "id": "way/448832352"
+      }
     },
     {
       "type": "Feature",
@@ -50357,8 +49876,7 @@ export const railwayNetworkData = {
             42.2048741
           ]
         ]
-      },
-      "id": "way/450602417"
+      }
     },
     {
       "type": "Feature",
@@ -50378,8 +49896,7 @@ export const railwayNetworkData = {
             42.2001604
           ]
         ]
-      },
-      "id": "way/450602418"
+      }
     },
     {
       "type": "Feature",
@@ -50442,8 +49959,7 @@ export const railwayNetworkData = {
             42.2007459
           ]
         ]
-      },
-      "id": "way/450605671"
+      }
     },
     {
       "type": "Feature",
@@ -50522,8 +50038,7 @@ export const railwayNetworkData = {
             42.1989316
           ]
         ]
-      },
-      "id": "way/450605672"
+      }
     },
     {
       "type": "Feature",
@@ -50544,8 +50059,7 @@ export const railwayNetworkData = {
             42.198052
           ]
         ]
-      },
-      "id": "way/450605673"
+      }
     },
     {
       "type": "Feature",
@@ -50604,8 +50118,7 @@ export const railwayNetworkData = {
             42.2006817
           ]
         ]
-      },
-      "id": "way/450605674"
+      }
     },
     {
       "type": "Feature",
@@ -50628,8 +50141,7 @@ export const railwayNetworkData = {
             42.1112358
           ]
         ]
-      },
-      "id": "way/450756682"
+      }
     },
     {
       "type": "Feature",
@@ -50655,8 +50167,7 @@ export const railwayNetworkData = {
             42.108919
           ]
         ]
-      },
-      "id": "way/450756683"
+      }
     },
     {
       "type": "Feature",
@@ -50887,8 +50398,7 @@ export const railwayNetworkData = {
             42.1089392
           ]
         ]
-      },
-      "id": "way/450756684"
+      }
     },
     {
       "type": "Feature",
@@ -50914,8 +50424,7 @@ export const railwayNetworkData = {
             42.1088302
           ]
         ]
-      },
-      "id": "way/450756685"
+      }
     },
     {
       "type": "Feature",
@@ -50960,8 +50469,7 @@ export const railwayNetworkData = {
             42.1775216
           ]
         ]
-      },
-      "id": "way/450824539"
+      }
     },
     {
       "type": "Feature",
@@ -50987,8 +50495,7 @@ export const railwayNetworkData = {
             42.1648617
           ]
         ]
-      },
-      "id": "way/450841717"
+      }
     },
     {
       "type": "Feature",
@@ -51027,8 +50534,7 @@ export const railwayNetworkData = {
             42.1712105
           ]
         ]
-      },
-      "id": "way/450841718"
+      }
     },
     {
       "type": "Feature",
@@ -51055,8 +50561,7 @@ export const railwayNetworkData = {
             41.6933364
           ]
         ]
-      },
-      "id": "way/452136322"
+      }
     },
     {
       "type": "Feature",
@@ -51083,8 +50588,7 @@ export const railwayNetworkData = {
             41.6931067
           ]
         ]
-      },
-      "id": "way/452282508"
+      }
     },
     {
       "type": "Feature",
@@ -51166,8 +50670,7 @@ export const railwayNetworkData = {
             41.6644945
           ]
         ]
-      },
-      "id": "way/453248431"
+      }
     },
     {
       "type": "Feature",
@@ -51310,8 +50813,7 @@ export const railwayNetworkData = {
             41.6643331
           ]
         ]
-      },
-      "id": "way/453248432"
+      }
     },
     {
       "type": "Feature",
@@ -51364,8 +50866,7 @@ export const railwayNetworkData = {
             41.6742772
           ]
         ]
-      },
-      "id": "way/453267695"
+      }
     },
     {
       "type": "Feature",
@@ -51404,8 +50905,7 @@ export const railwayNetworkData = {
             41.3902163
           ]
         ]
-      },
-      "id": "way/453284165"
+      }
     },
     {
       "type": "Feature",
@@ -51480,8 +50980,7 @@ export const railwayNetworkData = {
             41.7166335
           ]
         ]
-      },
-      "id": "way/457829313"
+      }
     },
     {
       "type": "Feature",
@@ -51524,8 +51023,7 @@ export const railwayNetworkData = {
             41.7181805
           ]
         ]
-      },
-      "id": "way/457829316"
+      }
     },
     {
       "type": "Feature",
@@ -51651,6 +51149,10 @@ export const railwayNetworkData = {
             41.7565129
           ],
           [
+            44.7822412,
+            41.7562025
+          ],
+          [
             44.7820853,
             41.7558736
           ],
@@ -51667,8 +51169,7 @@ export const railwayNetworkData = {
             41.7543379
           ]
         ]
-      },
-      "id": "way/459765597"
+      }
     },
     {
       "type": "Feature",
@@ -51696,8 +51197,7 @@ export const railwayNetworkData = {
             41.7849172
           ]
         ]
-      },
-      "id": "way/459765598"
+      }
     },
     {
       "type": "Feature",
@@ -51735,8 +51235,7 @@ export const railwayNetworkData = {
             41.7856085
           ]
         ]
-      },
-      "id": "way/459765599"
+      }
     },
     {
       "type": "Feature",
@@ -51826,8 +51325,7 @@ export const railwayNetworkData = {
             41.7908878
           ]
         ]
-      },
-      "id": "way/459765600"
+      }
     },
     {
       "type": "Feature",
@@ -51859,8 +51357,7 @@ export const railwayNetworkData = {
             41.8050076
           ]
         ]
-      },
-      "id": "way/459765601"
+      }
     },
     {
       "type": "Feature",
@@ -52106,8 +51603,7 @@ export const railwayNetworkData = {
             41.8266154
           ]
         ]
-      },
-      "id": "way/459765602"
+      }
     },
     {
       "type": "Feature",
@@ -52135,8 +51631,7 @@ export const railwayNetworkData = {
             41.9665048
           ]
         ]
-      },
-      "id": "way/482057850"
+      }
     },
     {
       "type": "Feature",
@@ -52295,8 +51790,7 @@ export const railwayNetworkData = {
             41.9581894
           ]
         ]
-      },
-      "id": "way/482057851"
+      }
     },
     {
       "type": "Feature",
@@ -52351,8 +51845,7 @@ export const railwayNetworkData = {
             41.9477496
           ]
         ]
-      },
-      "id": "way/482057857"
+      }
     },
     {
       "type": "Feature",
@@ -52402,8 +51895,7 @@ export const railwayNetworkData = {
             41.9421375
           ]
         ]
-      },
-      "id": "way/482057858"
+      }
     },
     {
       "type": "Feature",
@@ -52431,8 +51923,7 @@ export const railwayNetworkData = {
             41.9399905
           ]
         ]
-      },
-      "id": "way/482057859"
+      }
     },
     {
       "type": "Feature",
@@ -52460,8 +51951,7 @@ export const railwayNetworkData = {
             41.9250742
           ]
         ]
-      },
-      "id": "way/482057863"
+      }
     },
     {
       "type": "Feature",
@@ -52516,8 +52006,7 @@ export const railwayNetworkData = {
             41.9397411
           ]
         ]
-      },
-      "id": "way/482057864"
+      }
     },
     {
       "type": "Feature",
@@ -52545,8 +52034,7 @@ export const railwayNetworkData = {
             41.9181031
           ]
         ]
-      },
-      "id": "way/482057865"
+      }
     },
     {
       "type": "Feature",
@@ -52621,8 +52109,7 @@ export const railwayNetworkData = {
             41.9249638
           ]
         ]
-      },
-      "id": "way/482057866"
+      }
     },
     {
       "type": "Feature",
@@ -52716,8 +52203,7 @@ export const railwayNetworkData = {
             42.1557613
           ]
         ]
-      },
-      "id": "way/485202254"
+      }
     },
     {
       "type": "Feature",
@@ -52820,8 +52306,7 @@ export const railwayNetworkData = {
             41.4754395
           ]
         ]
-      },
-      "id": "way/490879217"
+      }
     },
     {
       "type": "Feature",
@@ -52869,8 +52354,7 @@ export const railwayNetworkData = {
             41.6418082
           ]
         ]
-      },
-      "id": "way/491058805"
+      }
     },
     {
       "type": "Feature",
@@ -52934,8 +52418,7 @@ export const railwayNetworkData = {
             41.6409819
           ]
         ]
-      },
-      "id": "way/491058806"
+      }
     },
     {
       "type": "Feature",
@@ -53066,8 +52549,7 @@ export const railwayNetworkData = {
             41.673324
           ]
         ]
-      },
-      "id": "way/491058808"
+      }
     },
     {
       "type": "Feature",
@@ -53096,8 +52578,7 @@ export const railwayNetworkData = {
             41.6645305
           ]
         ]
-      },
-      "id": "way/491058812"
+      }
     },
     {
       "type": "Feature",
@@ -53121,8 +52602,7 @@ export const railwayNetworkData = {
             41.650976
           ]
         ]
-      },
-      "id": "way/491058813"
+      }
     },
     {
       "type": "Feature",
@@ -53149,8 +52629,7 @@ export const railwayNetworkData = {
             41.6821904
           ]
         ]
-      },
-      "id": "way/491058814"
+      }
     },
     {
       "type": "Feature",
@@ -53170,8 +52649,7 @@ export const railwayNetworkData = {
             41.6409775
           ]
         ]
-      },
-      "id": "way/491058817"
+      }
     },
     {
       "type": "Feature",
@@ -53208,8 +52686,7 @@ export const railwayNetworkData = {
             41.6824668
           ]
         ]
-      },
-      "id": "way/491058822"
+      }
     },
     {
       "type": "Feature",
@@ -53238,8 +52715,7 @@ export const railwayNetworkData = {
             41.716997
           ]
         ]
-      },
-      "id": "way/491102324"
+      }
     },
     {
       "type": "Feature",
@@ -53268,8 +52744,7 @@ export const railwayNetworkData = {
             41.7117832
           ]
         ]
-      },
-      "id": "way/491102325"
+      }
     },
     {
       "type": "Feature",
@@ -53415,8 +52890,7 @@ export const railwayNetworkData = {
             41.9869123
           ]
         ]
-      },
-      "id": "way/519541127"
+      }
     },
     {
       "type": "Feature",
@@ -53444,66 +52918,7 @@ export const railwayNetworkData = {
             42.0059204
           ]
         ]
-      },
-      "id": "way/519541128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/523465476",
-        "electrified": "no",
-        "gauge": "1435",
-        "layer": "-1",
-        "name": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "name:en": "Tbilisi-Kars-Railway",
-        "operator": "TCDD",
-        "railway": "rail",
-        "railway:traffic_mode": "freight",
-        "tunnel": "yes",
-        "usage": "main"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.296411,
-            41.1679616
-          ],
-          [
-            43.2965948,
-            41.186354
-          ],
-          [
-            43.2962387,
-            41.19283
-          ],
-          [
-            43.2962429,
-            41.1957191
-          ],
-          [
-            43.2964325,
-            41.1985805
-          ],
-          [
-            43.2969474,
-            41.2009377
-          ],
-          [
-            43.2981062,
-            41.2035531
-          ],
-          [
-            43.2994291,
-            41.2057095
-          ],
-          [
-            43.3007761,
-            41.207481
-          ]
-        ]
-      },
-      "id": "way/523465476"
+      }
     },
     {
       "type": "Feature",
@@ -53511,11 +52926,15 @@ export const railwayNetworkData = {
         "@id": "way/523465488",
         "electrified": "no",
         "gauge": "1435",
-        "name": "ბაქო-თბილისი-ყარსი",
-        "name:en": "Tbilisi-Kars-Railway",
-        "name:tr": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -53731,8 +53150,7 @@ export const railwayNetworkData = {
             41.2628623
           ]
         ]
-      },
-      "id": "way/523465488"
+      }
     },
     {
       "type": "Feature",
@@ -53761,8 +53179,7 @@ export const railwayNetworkData = {
             41.6099107
           ]
         ]
-      },
-      "id": "way/531304310"
+      }
     },
     {
       "type": "Feature",
@@ -53771,7 +53188,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -53913,8 +53335,7 @@ export const railwayNetworkData = {
             41.6043943
           ]
         ]
-      },
-      "id": "way/531304311"
+      }
     },
     {
       "type": "Feature",
@@ -53993,8 +53414,7 @@ export const railwayNetworkData = {
             41.9669512
           ]
         ]
-      },
-      "id": "way/543899676"
+      }
     },
     {
       "type": "Feature",
@@ -54060,8 +53480,7 @@ export const railwayNetworkData = {
             41.9631065
           ]
         ]
-      },
-      "id": "way/543899677"
+      }
     },
     {
       "type": "Feature",
@@ -54075,6 +53494,8 @@ export const railwayNetworkData = {
         "name:en": "Tbilisi-Kars-Railway",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -54094,8 +53515,7 @@ export const railwayNetworkData = {
             41.2611334
           ]
         ]
-      },
-      "id": "way/545646382"
+      }
     },
     {
       "type": "Feature",
@@ -54103,10 +53523,15 @@ export const railwayNetworkData = {
         "@id": "way/545646384",
         "electrified": "no",
         "gauge": "1435",
-        "name": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "name:en": "Tbilisi-Kars-Railway",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -54134,8 +53559,7 @@ export const railwayNetworkData = {
             41.2612343
           ]
         ]
-      },
-      "id": "way/545646384"
+      }
     },
     {
       "type": "Feature",
@@ -54149,6 +53573,8 @@ export const railwayNetworkData = {
         "name:en": "Tbilisi-Kars-Railway",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -54164,8 +53590,7 @@ export const railwayNetworkData = {
             41.2623971
           ]
         ]
-      },
-      "id": "way/545646385"
+      }
     },
     {
       "type": "Feature",
@@ -54404,8 +53829,7 @@ export const railwayNetworkData = {
             41.4930106
           ]
         ]
-      },
-      "id": "way/546681734"
+      }
     },
     {
       "type": "Feature",
@@ -54413,11 +53837,15 @@ export const railwayNetworkData = {
         "@id": "way/546683476",
         "electrified": "no",
         "gauge": "1435",
-        "name": "ბაქო-თბილისი-ყარსი",
-        "name:en": "Tbilisi-Kars-Railway",
-        "name:tr": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -54493,8 +53921,7 @@ export const railwayNetworkData = {
             41.3309024
           ]
         ]
-      },
-      "id": "way/546683476"
+      }
     },
     {
       "type": "Feature",
@@ -54541,8 +53968,7 @@ export const railwayNetworkData = {
             41.7259455
           ]
         ]
-      },
-      "id": "way/547078543"
+      }
     },
     {
       "type": "Feature",
@@ -54570,8 +53996,7 @@ export const railwayNetworkData = {
             41.7247771
           ]
         ]
-      },
-      "id": "way/547088972"
+      }
     },
     {
       "type": "Feature",
@@ -54599,8 +54024,7 @@ export const railwayNetworkData = {
             41.7263416
           ]
         ]
-      },
-      "id": "way/547088973"
+      }
     },
     {
       "type": "Feature",
@@ -54699,8 +54123,7 @@ export const railwayNetworkData = {
             41.7437646
           ]
         ]
-      },
-      "id": "way/547088974"
+      }
     },
     {
       "type": "Feature",
@@ -54803,8 +54226,7 @@ export const railwayNetworkData = {
             41.8374043
           ]
         ]
-      },
-      "id": "way/547460329"
+      }
     },
     {
       "type": "Feature",
@@ -54830,8 +54252,7 @@ export const railwayNetworkData = {
             43.0887272
           ]
         ]
-      },
-      "id": "way/550210905"
+      }
     },
     {
       "type": "Feature",
@@ -54859,8 +54280,7 @@ export const railwayNetworkData = {
             43.0885907
           ]
         ]
-      },
-      "id": "way/550210906"
+      }
     },
     {
       "type": "Feature",
@@ -55018,8 +54438,7 @@ export const railwayNetworkData = {
             41.7719006
           ]
         ]
-      },
-      "id": "way/569588767"
+      }
     },
     {
       "type": "Feature",
@@ -55069,8 +54488,7 @@ export const railwayNetworkData = {
             41.7585349
           ]
         ]
-      },
-      "id": "way/569588768"
+      }
     },
     {
       "type": "Feature",
@@ -55178,8 +54596,7 @@ export const railwayNetworkData = {
             41.5266947
           ]
         ]
-      },
-      "id": "way/586093224"
+      }
     },
     {
       "type": "Feature",
@@ -55213,8 +54630,7 @@ export const railwayNetworkData = {
             41.9975308
           ]
         ]
-      },
-      "id": "way/596569648"
+      }
     },
     {
       "type": "Feature",
@@ -55250,8 +54666,7 @@ export const railwayNetworkData = {
             41.997593
           ]
         ]
-      },
-      "id": "way/596569655"
+      }
     },
     {
       "type": "Feature",
@@ -55273,8 +54688,7 @@ export const railwayNetworkData = {
             41.9982925
           ]
         ]
-      },
-      "id": "way/596569660"
+      }
     },
     {
       "type": "Feature",
@@ -55306,8 +54720,7 @@ export const railwayNetworkData = {
             41.998555
           ]
         ]
-      },
-      "id": "way/596569682"
+      }
     },
     {
       "type": "Feature",
@@ -55423,8 +54836,7 @@ export const railwayNetworkData = {
             42.0027518
           ]
         ]
-      },
-      "id": "way/596569684"
+      }
     },
     {
       "type": "Feature",
@@ -55452,8 +54864,7 @@ export const railwayNetworkData = {
             41.9982925
           ]
         ]
-      },
-      "id": "way/596569687"
+      }
     },
     {
       "type": "Feature",
@@ -55475,8 +54886,7 @@ export const railwayNetworkData = {
             42.0027272
           ]
         ]
-      },
-      "id": "way/596569781"
+      }
     },
     {
       "type": "Feature",
@@ -55559,8 +54969,7 @@ export const railwayNetworkData = {
             42.0113883
           ]
         ]
-      },
-      "id": "way/596569784"
+      }
     },
     {
       "type": "Feature",
@@ -55638,8 +55047,7 @@ export const railwayNetworkData = {
             42.0341386
           ]
         ]
-      },
-      "id": "way/596791790"
+      }
     },
     {
       "type": "Feature",
@@ -55648,7 +55056,6 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "oneway": "yes",
         "operator": "სს \"საქართველოს რკინიგზა\"",
         "railway": "rail",
         "usage": "main",
@@ -55690,8 +55097,7 @@ export const railwayNetworkData = {
             42.0323238
           ]
         ]
-      },
-      "id": "way/596791797"
+      }
     },
     {
       "type": "Feature",
@@ -55749,8 +55155,7 @@ export const railwayNetworkData = {
             42.0341013
           ]
         ]
-      },
-      "id": "way/596791798"
+      }
     },
     {
       "type": "Feature",
@@ -55868,8 +55273,7 @@ export const railwayNetworkData = {
             42.0318401
           ]
         ]
-      },
-      "id": "way/596791800"
+      }
     },
     {
       "type": "Feature",
@@ -56000,8 +55404,7 @@ export const railwayNetworkData = {
             41.9826456
           ]
         ]
-      },
-      "id": "way/596807087"
+      }
     },
     {
       "type": "Feature",
@@ -56084,8 +55487,7 @@ export const railwayNetworkData = {
             41.9690938
           ]
         ]
-      },
-      "id": "way/596807088"
+      }
     },
     {
       "type": "Feature",
@@ -56260,8 +55662,7 @@ export const railwayNetworkData = {
             41.9805837
           ]
         ]
-      },
-      "id": "way/596807089"
+      }
     },
     {
       "type": "Feature",
@@ -56328,8 +55729,7 @@ export const railwayNetworkData = {
             41.9665045
           ]
         ]
-      },
-      "id": "way/596807092"
+      }
     },
     {
       "type": "Feature",
@@ -56452,8 +55852,7 @@ export const railwayNetworkData = {
             41.9806279
           ]
         ]
-      },
-      "id": "way/596807110"
+      }
     },
     {
       "type": "Feature",
@@ -56536,8 +55935,7 @@ export const railwayNetworkData = {
             41.9095952
           ]
         ]
-      },
-      "id": "way/596849403"
+      }
     },
     {
       "type": "Feature",
@@ -56559,8 +55957,7 @@ export const railwayNetworkData = {
             41.917473
           ]
         ]
-      },
-      "id": "way/596849405"
+      }
     },
     {
       "type": "Feature",
@@ -56635,8 +56032,7 @@ export const railwayNetworkData = {
             41.9249969
           ]
         ]
-      },
-      "id": "way/596849407"
+      }
     },
     {
       "type": "Feature",
@@ -56727,8 +56123,7 @@ export const railwayNetworkData = {
             41.8622185
           ]
         ]
-      },
-      "id": "way/596863560"
+      }
     },
     {
       "type": "Feature",
@@ -56879,8 +56274,8 @@ export const railwayNetworkData = {
             41.8477078
           ],
           [
-            44.6043585,
-            41.8478623
+            44.6043345,
+            41.847882
           ],
           [
             44.6041536,
@@ -56935,8 +56330,7 @@ export const railwayNetworkData = {
             41.8512124
           ]
         ]
-      },
-      "id": "way/597271275"
+      }
     },
     {
       "type": "Feature",
@@ -56965,8 +56359,7 @@ export const railwayNetworkData = {
             41.8524174
           ]
         ]
-      },
-      "id": "way/597271276"
+      }
     },
     {
       "type": "Feature",
@@ -57049,8 +56442,7 @@ export const railwayNetworkData = {
             41.8622185
           ]
         ]
-      },
-      "id": "way/597271277"
+      }
     },
     {
       "type": "Feature",
@@ -57073,8 +56465,7 @@ export const railwayNetworkData = {
             41.8397108
           ]
         ]
-      },
-      "id": "way/597281554"
+      }
     },
     {
       "type": "Feature",
@@ -57102,8 +56493,7 @@ export const railwayNetworkData = {
             41.8388323
           ]
         ]
-      },
-      "id": "way/597281558"
+      }
     },
     {
       "type": "Feature",
@@ -57150,8 +56540,7 @@ export const railwayNetworkData = {
             41.8257004
           ]
         ]
-      },
-      "id": "way/597281577"
+      }
     },
     {
       "type": "Feature",
@@ -57210,8 +56599,7 @@ export const railwayNetworkData = {
             41.8370231
           ]
         ]
-      },
-      "id": "way/597281582"
+      }
     },
     {
       "type": "Feature",
@@ -57237,8 +56625,7 @@ export const railwayNetworkData = {
             42.0034123
           ]
         ]
-      },
-      "id": "way/600565498"
+      }
     },
     {
       "type": "Feature",
@@ -57344,8 +56731,7 @@ export const railwayNetworkData = {
             42.0031975
           ]
         ]
-      },
-      "id": "way/600565520"
+      }
     },
     {
       "type": "Feature",
@@ -57411,8 +56797,7 @@ export const railwayNetworkData = {
             42.2059774
           ]
         ]
-      },
-      "id": "way/604847471"
+      }
     },
     {
       "type": "Feature",
@@ -57422,6 +56807,7 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
+        "layer": "1",
         "railway": "rail",
         "source": "Jumpstart International",
         "usage": "main",
@@ -57439,8 +56825,7 @@ export const railwayNetworkData = {
             42.2091637
           ]
         ]
-      },
-      "id": "way/604847500"
+      }
     },
     {
       "type": "Feature",
@@ -57468,8 +56853,7 @@ export const railwayNetworkData = {
             42.2245245
           ]
         ]
-      },
-      "id": "way/604847542"
+      }
     },
     {
       "type": "Feature",
@@ -57495,8 +56879,7 @@ export const railwayNetworkData = {
             41.3378734
           ]
         ]
-      },
-      "id": "way/617030626"
+      }
     },
     {
       "type": "Feature",
@@ -57564,8 +56947,7 @@ export const railwayNetworkData = {
             41.3250816
           ]
         ]
-      },
-      "id": "way/617030631"
+      }
     },
     {
       "type": "Feature",
@@ -57592,8 +56974,7 @@ export const railwayNetworkData = {
             41.6781482
           ]
         ]
-      },
-      "id": "way/617489488"
+      }
     },
     {
       "type": "Feature",
@@ -57715,8 +57096,7 @@ export const railwayNetworkData = {
             43.0834863
           ]
         ]
-      },
-      "id": "way/617628307"
+      }
     },
     {
       "type": "Feature",
@@ -57744,8 +57124,7 @@ export const railwayNetworkData = {
             43.0920883
           ]
         ]
-      },
-      "id": "way/617886941"
+      }
     },
     {
       "type": "Feature",
@@ -57783,8 +57162,7 @@ export const railwayNetworkData = {
             43.0919489
           ]
         ]
-      },
-      "id": "way/617886942"
+      }
     },
     {
       "type": "Feature",
@@ -57867,8 +57245,7 @@ export const railwayNetworkData = {
             41.4850324
           ]
         ]
-      },
-      "id": "way/620061722"
+      }
     },
     {
       "type": "Feature",
@@ -57897,8 +57274,7 @@ export const railwayNetworkData = {
             41.7773494
           ]
         ]
-      },
-      "id": "way/626676352"
+      }
     },
     {
       "type": "Feature",
@@ -58070,8 +57446,7 @@ export const railwayNetworkData = {
             41.7775428
           ]
         ]
-      },
-      "id": "way/626676353"
+      }
     },
     {
       "type": "Feature",
@@ -58099,8 +57474,7 @@ export const railwayNetworkData = {
             41.9453437
           ]
         ]
-      },
-      "id": "way/627219684"
+      }
     },
     {
       "type": "Feature",
@@ -58190,8 +57564,7 @@ export const railwayNetworkData = {
             41.9550928
           ]
         ]
-      },
-      "id": "way/627219685"
+      }
     },
     {
       "type": "Feature",
@@ -58219,8 +57592,7 @@ export const railwayNetworkData = {
             41.9712641
           ]
         ]
-      },
-      "id": "way/627219713"
+      }
     },
     {
       "type": "Feature",
@@ -58271,8 +57643,7 @@ export const railwayNetworkData = {
             41.9702167
           ]
         ]
-      },
-      "id": "way/627219714"
+      }
     },
     {
       "type": "Feature",
@@ -58330,8 +57701,7 @@ export const railwayNetworkData = {
             42.1994936
           ]
         ]
-      },
-      "id": "way/629067258"
+      }
     },
     {
       "type": "Feature",
@@ -58358,8 +57728,7 @@ export const railwayNetworkData = {
             42.2333831
           ]
         ]
-      },
-      "id": "way/630738574"
+      }
     },
     {
       "type": "Feature",
@@ -58428,8 +57797,7 @@ export const railwayNetworkData = {
             42.2259156
           ]
         ]
-      },
-      "id": "way/630738578"
+      }
     },
     {
       "type": "Feature",
@@ -58456,8 +57824,7 @@ export const railwayNetworkData = {
             42.2011731
           ]
         ]
-      },
-      "id": "way/630738599"
+      }
     },
     {
       "type": "Feature",
@@ -58518,8 +57885,7 @@ export const railwayNetworkData = {
             42.2010129
           ]
         ]
-      },
-      "id": "way/630738600"
+      }
     },
     {
       "type": "Feature",
@@ -58586,8 +57952,7 @@ export const railwayNetworkData = {
             42.1903317
           ]
         ]
-      },
-      "id": "way/633016572"
+      }
     },
     {
       "type": "Feature",
@@ -58701,8 +58066,7 @@ export const railwayNetworkData = {
             42.1556627
           ]
         ]
-      },
-      "id": "way/633016573"
+      }
     },
     {
       "type": "Feature",
@@ -58730,8 +58094,7 @@ export const railwayNetworkData = {
             43.2258502
           ]
         ]
-      },
-      "id": "way/636065111"
+      }
     },
     {
       "type": "Feature",
@@ -58829,8 +58192,7 @@ export const railwayNetworkData = {
             43.2258492
           ]
         ]
-      },
-      "id": "way/636065112"
+      }
     },
     {
       "type": "Feature",
@@ -58858,8 +58220,7 @@ export const railwayNetworkData = {
             42.3600839
           ]
         ]
-      },
-      "id": "way/636937532"
+      }
     },
     {
       "type": "Feature",
@@ -58921,8 +58282,7 @@ export const railwayNetworkData = {
             42.3598907
           ]
         ]
-      },
-      "id": "way/636937533"
+      }
     },
     {
       "type": "Feature",
@@ -58988,8 +58348,7 @@ export const railwayNetworkData = {
             42.3432798
           ]
         ]
-      },
-      "id": "way/636937575"
+      }
     },
     {
       "type": "Feature",
@@ -59017,8 +58376,7 @@ export const railwayNetworkData = {
             42.3319831
           ]
         ]
-      },
-      "id": "way/636937576"
+      }
     },
     {
       "type": "Feature",
@@ -59053,8 +58411,7 @@ export const railwayNetworkData = {
             42.3911037
           ]
         ]
-      },
-      "id": "way/636937629"
+      }
     },
     {
       "type": "Feature",
@@ -59083,8 +58440,7 @@ export const railwayNetworkData = {
             42.3859891
           ]
         ]
-      },
-      "id": "way/636937630"
+      }
     },
     {
       "type": "Feature",
@@ -59113,8 +58469,7 @@ export const railwayNetworkData = {
             42.3797358
           ]
         ]
-      },
-      "id": "way/636937632"
+      }
     },
     {
       "type": "Feature",
@@ -59161,8 +58516,7 @@ export const railwayNetworkData = {
             42.3795952
           ]
         ]
-      },
-      "id": "way/636937633"
+      }
     },
     {
       "type": "Feature",
@@ -59191,8 +58545,7 @@ export const railwayNetworkData = {
             42.4322162
           ]
         ]
-      },
-      "id": "way/636937648"
+      }
     },
     {
       "type": "Feature",
@@ -59231,8 +58584,7 @@ export const railwayNetworkData = {
             42.432041
           ]
         ]
-      },
-      "id": "way/636937649"
+      }
     },
     {
       "type": "Feature",
@@ -59258,8 +58610,7 @@ export const railwayNetworkData = {
             42.3181175
           ]
         ]
-      },
-      "id": "way/636937667"
+      }
     },
     {
       "type": "Feature",
@@ -59287,8 +58638,7 @@ export const railwayNetworkData = {
             42.3158853
           ]
         ]
-      },
-      "id": "way/636937669"
+      }
     },
     {
       "type": "Feature",
@@ -59390,8 +58740,7 @@ export const railwayNetworkData = {
             42.327747
           ]
         ]
-      },
-      "id": "way/636937679"
+      }
     },
     {
       "type": "Feature",
@@ -59419,8 +58768,7 @@ export const railwayNetworkData = {
             42.3182854
           ]
         ]
-      },
-      "id": "way/636937682"
+      }
     },
     {
       "type": "Feature",
@@ -59449,8 +58797,7 @@ export const railwayNetworkData = {
             42.3759123
           ]
         ]
-      },
-      "id": "way/636937698"
+      }
     },
     {
       "type": "Feature",
@@ -59505,8 +58852,7 @@ export const railwayNetworkData = {
             42.3757716
           ]
         ]
-      },
-      "id": "way/636937699"
+      }
     },
     {
       "type": "Feature",
@@ -59557,8 +58903,7 @@ export const railwayNetworkData = {
             42.4000764
           ]
         ]
-      },
-      "id": "way/636937708"
+      }
     },
     {
       "type": "Feature",
@@ -59587,8 +58932,7 @@ export const railwayNetworkData = {
             42.3912959
           ]
         ]
-      },
-      "id": "way/636937709"
+      }
     },
     {
       "type": "Feature",
@@ -59635,8 +58979,7 @@ export const railwayNetworkData = {
             42.4077045
           ]
         ]
-      },
-      "id": "way/636937710"
+      }
     },
     {
       "type": "Feature",
@@ -59665,8 +59008,7 @@ export const railwayNetworkData = {
             42.4001903
           ]
         ]
-      },
-      "id": "way/636937711"
+      }
     },
     {
       "type": "Feature",
@@ -59703,8 +59045,7 @@ export const railwayNetworkData = {
             41.601901
           ]
         ]
-      },
-      "id": "way/673541724"
+      }
     },
     {
       "type": "Feature",
@@ -59713,7 +59054,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -59807,8 +59153,7 @@ export const railwayNetworkData = {
             41.5887158
           ]
         ]
-      },
-      "id": "way/673541725"
+      }
     },
     {
       "type": "Feature",
@@ -59838,8 +59183,7 @@ export const railwayNetworkData = {
             41.6033645
           ]
         ]
-      },
-      "id": "way/673541726"
+      }
     },
     {
       "type": "Feature",
@@ -59848,7 +59192,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -59870,8 +59219,7 @@ export const railwayNetworkData = {
             41.6023595
           ]
         ]
-      },
-      "id": "way/673541727"
+      }
     },
     {
       "type": "Feature",
@@ -59939,8 +59287,7 @@ export const railwayNetworkData = {
             41.8324138
           ]
         ]
-      },
-      "id": "way/680784426"
+      }
     },
     {
       "type": "Feature",
@@ -59969,8 +59316,7 @@ export const railwayNetworkData = {
             41.8249999
           ]
         ]
-      },
-      "id": "way/680784427"
+      }
     },
     {
       "type": "Feature",
@@ -60337,8 +59683,7 @@ export const railwayNetworkData = {
             41.2562365
           ]
         ]
-      },
-      "id": "way/687412822"
+      }
     },
     {
       "type": "Feature",
@@ -60367,8 +59712,7 @@ export const railwayNetworkData = {
             41.404507
           ]
         ]
-      },
-      "id": "way/687412823"
+      }
     },
     {
       "type": "Feature",
@@ -60396,8 +59740,7 @@ export const railwayNetworkData = {
             41.6912635
           ]
         ]
-      },
-      "id": "way/691294441"
+      }
     },
     {
       "type": "Feature",
@@ -60680,8 +60023,7 @@ export const railwayNetworkData = {
             41.7115369
           ]
         ]
-      },
-      "id": "way/691294442"
+      }
     },
     {
       "type": "Feature",
@@ -60709,8 +60051,7 @@ export const railwayNetworkData = {
             41.6890483
           ]
         ]
-      },
-      "id": "way/691294445"
+      }
     },
     {
       "type": "Feature",
@@ -60773,8 +60114,7 @@ export const railwayNetworkData = {
             41.6912635
           ]
         ]
-      },
-      "id": "way/691294446"
+      }
     },
     {
       "type": "Feature",
@@ -60833,8 +60173,7 @@ export const railwayNetworkData = {
             41.6890483
           ]
         ]
-      },
-      "id": "way/691294447"
+      }
     },
     {
       "type": "Feature",
@@ -60854,8 +60193,7 @@ export const railwayNetworkData = {
             41.6865488
           ]
         ]
-      },
-      "id": "way/691294462"
+      }
     },
     {
       "type": "Feature",
@@ -60941,8 +60279,7 @@ export const railwayNetworkData = {
             41.97531
           ]
         ]
-      },
-      "id": "way/707631322"
+      }
     },
     {
       "type": "Feature",
@@ -61050,8 +60387,7 @@ export const railwayNetworkData = {
             41.7444185
           ]
         ]
-      },
-      "id": "way/710517078"
+      }
     },
     {
       "type": "Feature",
@@ -61081,8 +60417,7 @@ export const railwayNetworkData = {
             41.7408089
           ]
         ]
-      },
-      "id": "way/710517079"
+      }
     },
     {
       "type": "Feature",
@@ -61108,8 +60443,7 @@ export const railwayNetworkData = {
             43.0698834
           ]
         ]
-      },
-      "id": "way/711143690"
+      }
     },
     {
       "type": "Feature",
@@ -61239,8 +60573,7 @@ export const railwayNetworkData = {
             43.0885594
           ]
         ]
-      },
-      "id": "way/714495651"
+      }
     },
     {
       "type": "Feature",
@@ -61272,8 +60605,7 @@ export const railwayNetworkData = {
             43.0884831
           ]
         ]
-      },
-      "id": "way/714495652"
+      }
     },
     {
       "type": "Feature",
@@ -61335,8 +60667,7 @@ export const railwayNetworkData = {
             42.2894468
           ]
         ]
-      },
-      "id": "way/714673547"
+      }
     },
     {
       "type": "Feature",
@@ -61416,8 +60747,7 @@ export const railwayNetworkData = {
             42.2844227
           ]
         ]
-      },
-      "id": "way/725906418"
+      }
     },
     {
       "type": "Feature",
@@ -61473,8 +60803,7 @@ export const railwayNetworkData = {
             42.2892447
           ]
         ]
-      },
-      "id": "way/725906419"
+      }
     },
     {
       "type": "Feature",
@@ -61526,8 +60855,7 @@ export const railwayNetworkData = {
             42.2890331
           ]
         ]
-      },
-      "id": "way/725911702"
+      }
     },
     {
       "type": "Feature",
@@ -61575,8 +60903,7 @@ export const railwayNetworkData = {
             42.2887344
           ]
         ]
-      },
-      "id": "way/725911703"
+      }
     },
     {
       "type": "Feature",
@@ -61950,8 +61277,7 @@ export const railwayNetworkData = {
             42.3215078
           ]
         ]
-      },
-      "id": "way/726828264"
+      }
     },
     {
       "type": "Feature",
@@ -61986,8 +61312,7 @@ export const railwayNetworkData = {
             42.1895835
           ]
         ]
-      },
-      "id": "way/727127367"
+      }
     },
     {
       "type": "Feature",
@@ -62013,8 +61338,7 @@ export const railwayNetworkData = {
             42.2056336
           ]
         ]
-      },
-      "id": "way/730106253"
+      }
     },
     {
       "type": "Feature",
@@ -62043,8 +61367,7 @@ export const railwayNetworkData = {
             41.9251154
           ]
         ]
-      },
-      "id": "way/741498113"
+      }
     },
     {
       "type": "Feature",
@@ -62103,8 +61426,7 @@ export const railwayNetworkData = {
             41.9398349
           ]
         ]
-      },
-      "id": "way/741498114"
+      }
     },
     {
       "type": "Feature",
@@ -62131,8 +61453,7 @@ export const railwayNetworkData = {
             41.9183727
           ]
         ]
-      },
-      "id": "way/741498121"
+      }
     },
     {
       "type": "Feature",
@@ -62161,8 +61482,7 @@ export const railwayNetworkData = {
             41.9182064
           ]
         ]
-      },
-      "id": "way/741498122"
+      }
     },
     {
       "type": "Feature",
@@ -62213,8 +61533,7 @@ export const railwayNetworkData = {
             42.1557769
           ]
         ]
-      },
-      "id": "way/741672138"
+      }
     },
     {
       "type": "Feature",
@@ -62247,8 +61566,7 @@ export const railwayNetworkData = {
             42.0892576
           ]
         ]
-      },
-      "id": "way/745544843"
+      }
     },
     {
       "type": "Feature",
@@ -62279,8 +61597,7 @@ export const railwayNetworkData = {
             42.0833559
           ]
         ]
-      },
-      "id": "way/745544844"
+      }
     },
     {
       "type": "Feature",
@@ -62336,8 +61653,7 @@ export const railwayNetworkData = {
             42.0808126
           ]
         ]
-      },
-      "id": "way/745544845"
+      }
     },
     {
       "type": "Feature",
@@ -62373,8 +61689,7 @@ export const railwayNetworkData = {
             41.8373225
           ]
         ]
-      },
-      "id": "way/749061097"
+      }
     },
     {
       "type": "Feature",
@@ -62401,8 +61716,7 @@ export const railwayNetworkData = {
             41.8337051
           ]
         ]
-      },
-      "id": "way/749107076"
+      }
     },
     {
       "type": "Feature",
@@ -62431,8 +61745,7 @@ export const railwayNetworkData = {
             41.8325114
           ]
         ]
-      },
-      "id": "way/749107077"
+      }
     },
     {
       "type": "Feature",
@@ -62460,8 +61773,7 @@ export const railwayNetworkData = {
             43.00227
           ]
         ]
-      },
-      "id": "way/749147432"
+      }
     },
     {
       "type": "Feature",
@@ -62503,8 +61815,7 @@ export const railwayNetworkData = {
             43.0006934
           ]
         ]
-      },
-      "id": "way/749147433"
+      }
     },
     {
       "type": "Feature",
@@ -62544,8 +61855,7 @@ export const railwayNetworkData = {
             41.9187733
           ]
         ]
-      },
-      "id": "way/751804338"
+      }
     },
     {
       "type": "Feature",
@@ -62628,8 +61938,7 @@ export const railwayNetworkData = {
             41.9177793
           ]
         ]
-      },
-      "id": "way/751804344"
+      }
     },
     {
       "type": "Feature",
@@ -62658,8 +61967,7 @@ export const railwayNetworkData = {
             41.9157751
           ]
         ]
-      },
-      "id": "way/751804345"
+      }
     },
     {
       "type": "Feature",
@@ -62754,8 +62062,7 @@ export const railwayNetworkData = {
             41.917855
           ]
         ]
-      },
-      "id": "way/751804346"
+      }
     },
     {
       "type": "Feature",
@@ -62784,8 +62091,7 @@ export const railwayNetworkData = {
             41.9158201
           ]
         ]
-      },
-      "id": "way/751804347"
+      }
     },
     {
       "type": "Feature",
@@ -62860,8 +62166,7 @@ export const railwayNetworkData = {
             41.9157872
           ]
         ]
-      },
-      "id": "way/751804348"
+      }
     },
     {
       "type": "Feature",
@@ -62890,8 +62195,7 @@ export const railwayNetworkData = {
             41.9096386
           ]
         ]
-      },
-      "id": "way/751804349"
+      }
     },
     {
       "type": "Feature",
@@ -62958,8 +62262,7 @@ export const railwayNetworkData = {
             41.9157415
           ]
         ]
-      },
-      "id": "way/751804350"
+      }
     },
     {
       "type": "Feature",
@@ -62988,8 +62291,7 @@ export const railwayNetworkData = {
             41.9095983
           ]
         ]
-      },
-      "id": "way/751804351"
+      }
     },
     {
       "type": "Feature",
@@ -63015,8 +62317,7 @@ export const railwayNetworkData = {
             42.9254522
           ]
         ]
-      },
-      "id": "way/751942134"
+      }
     },
     {
       "type": "Feature",
@@ -63044,8 +62345,7 @@ export const railwayNetworkData = {
             42.9264918
           ]
         ]
-      },
-      "id": "way/751942135"
+      }
     },
     {
       "type": "Feature",
@@ -63167,8 +62467,7 @@ export const railwayNetworkData = {
             42.155963
           ]
         ]
-      },
-      "id": "way/786561335"
+      }
     },
     {
       "type": "Feature",
@@ -63197,8 +62496,7 @@ export const railwayNetworkData = {
             41.8644712
           ]
         ]
-      },
-      "id": "way/787906574"
+      }
     },
     {
       "type": "Feature",
@@ -63239,8 +62537,7 @@ export const railwayNetworkData = {
             41.8669009
           ]
         ]
-      },
-      "id": "way/787906575"
+      }
     },
     {
       "type": "Feature",
@@ -63269,8 +62566,7 @@ export const railwayNetworkData = {
             41.7019472
           ]
         ]
-      },
-      "id": "way/798952922"
+      }
     },
     {
       "type": "Feature",
@@ -63293,8 +62589,7 @@ export const railwayNetworkData = {
             42.0966022
           ]
         ]
-      },
-      "id": "way/799408425"
+      }
     },
     {
       "type": "Feature",
@@ -63327,8 +62622,7 @@ export const railwayNetworkData = {
             42.0964272
           ]
         ]
-      },
-      "id": "way/799408426"
+      }
     },
     {
       "type": "Feature",
@@ -63348,8 +62642,7 @@ export const railwayNetworkData = {
             42.0962802
           ]
         ]
-      },
-      "id": "way/799408427"
+      }
     },
     {
       "type": "Feature",
@@ -63378,8 +62671,7 @@ export const railwayNetworkData = {
             42.0943675
           ]
         ]
-      },
-      "id": "way/799408450"
+      }
     },
     {
       "type": "Feature",
@@ -63442,8 +62734,7 @@ export const railwayNetworkData = {
             42.0956395
           ]
         ]
-      },
-      "id": "way/799408451"
+      }
     },
     {
       "type": "Feature",
@@ -63650,8 +62941,7 @@ export const railwayNetworkData = {
             41.6868866
           ]
         ]
-      },
-      "id": "way/814968065"
+      }
     },
     {
       "type": "Feature",
@@ -63701,8 +62991,7 @@ export const railwayNetworkData = {
             41.9966073
           ]
         ]
-      },
-      "id": "way/842610572"
+      }
     },
     {
       "type": "Feature",
@@ -63730,8 +63019,7 @@ export const railwayNetworkData = {
             41.9977242
           ]
         ]
-      },
-      "id": "way/842610573"
+      }
     },
     {
       "type": "Feature",
@@ -63759,8 +63047,7 @@ export const railwayNetworkData = {
             42.0952627
           ]
         ]
-      },
-      "id": "way/843473373"
+      }
     },
     {
       "type": "Feature",
@@ -63930,8 +63217,7 @@ export const railwayNetworkData = {
             42.0910946
           ]
         ]
-      },
-      "id": "way/843473374"
+      }
     },
     {
       "type": "Feature",
@@ -63964,8 +63250,7 @@ export const railwayNetworkData = {
             42.1055226
           ]
         ]
-      },
-      "id": "way/843477045"
+      }
     },
     {
       "type": "Feature",
@@ -64080,8 +63365,7 @@ export const railwayNetworkData = {
             42.0978769
           ]
         ]
-      },
-      "id": "way/843477046"
+      }
     },
     {
       "type": "Feature",
@@ -64141,8 +63425,7 @@ export const railwayNetworkData = {
             41.3348126
           ]
         ]
-      },
-      "id": "way/844180486"
+      }
     },
     {
       "type": "Feature",
@@ -64214,8 +63497,7 @@ export const railwayNetworkData = {
             41.336277
           ]
         ]
-      },
-      "id": "way/844180488"
+      }
     },
     {
       "type": "Feature",
@@ -64255,8 +63537,7 @@ export const railwayNetworkData = {
             41.3347553
           ]
         ]
-      },
-      "id": "way/844180489"
+      }
     },
     {
       "type": "Feature",
@@ -64308,8 +63589,7 @@ export const railwayNetworkData = {
             41.3312078
           ]
         ]
-      },
-      "id": "way/844180491"
+      }
     },
     {
       "type": "Feature",
@@ -64325,48 +63605,47 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            43.4926068,
-            41.3331399
-          ],
-          [
-            43.4925456,
-            41.3335053
-          ],
-          [
-            43.4924708,
-            41.3339542
-          ],
-          [
-            43.4924443,
-            41.3341652
-          ],
-          [
-            43.4924562,
-            41.3344016
-          ],
-          [
-            43.4924657,
-            41.3346153
-          ],
-          [
-            43.4924535,
-            41.3348119
-          ],
-          [
-            43.4923759,
-            41.3350906
+            43.4921519,
+            41.3355534
           ],
           [
             43.4922339,
             41.3354006
           ],
           [
-            43.4921519,
-            41.3355534
+            43.4923759,
+            41.3350906
+          ],
+          [
+            43.4924535,
+            41.3348119
+          ],
+          [
+            43.4924657,
+            41.3346153
+          ],
+          [
+            43.4924562,
+            41.3344016
+          ],
+          [
+            43.4924443,
+            41.3341652
+          ],
+          [
+            43.4924708,
+            41.3339542
+          ],
+          [
+            43.4925456,
+            41.3335053
+          ],
+          [
+            43.4926068,
+            41.3331399
           ]
         ]
-      },
-      "id": "way/844180492"
+      }
     },
     {
       "type": "Feature",
@@ -64422,8 +63701,7 @@ export const railwayNetworkData = {
             41.3325459
           ]
         ]
-      },
-      "id": "way/844180493"
+      }
     },
     {
       "type": "Feature",
@@ -64467,8 +63745,7 @@ export const railwayNetworkData = {
             41.3325838
           ]
         ]
-      },
-      "id": "way/844180494"
+      }
     },
     {
       "type": "Feature",
@@ -64484,28 +63761,27 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            43.4931094,
-            41.3331857
-          ],
-          [
-            43.4929374,
-            41.3341423
-          ],
-          [
-            43.4928356,
-            41.3344249
+            43.4924331,
+            41.3350965
           ],
           [
             43.4927085,
             41.3346717
           ],
           [
-            43.4924331,
-            41.3350965
+            43.4928356,
+            41.3344249
+          ],
+          [
+            43.4929374,
+            41.3341423
+          ],
+          [
+            43.4931094,
+            41.3331857
           ]
         ]
-      },
-      "id": "way/844180495"
+      }
     },
     {
       "type": "Feature",
@@ -64561,8 +63837,7 @@ export const railwayNetworkData = {
             41.3304301
           ]
         ]
-      },
-      "id": "way/844180496"
+      }
     },
     {
       "type": "Feature",
@@ -64622,8 +63897,7 @@ export const railwayNetworkData = {
             41.3291914
           ]
         ]
-      },
-      "id": "way/844180497"
+      }
     },
     {
       "type": "Feature",
@@ -64723,8 +63997,7 @@ export const railwayNetworkData = {
             41.3218988
           ]
         ]
-      },
-      "id": "way/844180498"
+      }
     },
     {
       "type": "Feature",
@@ -64764,8 +64037,7 @@ export const railwayNetworkData = {
             41.3211797
           ]
         ]
-      },
-      "id": "way/844180501"
+      }
     },
     {
       "type": "Feature",
@@ -64816,8 +64088,7 @@ export const railwayNetworkData = {
             41.3234068
           ]
         ]
-      },
-      "id": "way/844180504"
+      }
     },
     {
       "type": "Feature",
@@ -64847,8 +64118,7 @@ export const railwayNetworkData = {
             41.7874754
           ]
         ]
-      },
-      "id": "way/850022316"
+      }
     },
     {
       "type": "Feature",
@@ -65240,8 +64510,7 @@ export const railwayNetworkData = {
             41.8230948
           ]
         ]
-      },
-      "id": "way/850022317"
+      }
     },
     {
       "type": "Feature",
@@ -65417,8 +64686,7 @@ export const railwayNetworkData = {
             41.7281072
           ]
         ]
-      },
-      "id": "way/850092381"
+      }
     },
     {
       "type": "Feature",
@@ -65448,8 +64716,7 @@ export const railwayNetworkData = {
             41.6946847
           ]
         ]
-      },
-      "id": "way/850092382"
+      }
     },
     {
       "type": "Feature",
@@ -65477,8 +64744,7 @@ export const railwayNetworkData = {
             41.762248
           ]
         ]
-      },
-      "id": "way/850412085"
+      }
     },
     {
       "type": "Feature",
@@ -65508,8 +64774,7 @@ export const railwayNetworkData = {
             41.7623006
           ]
         ]
-      },
-      "id": "way/850412086"
+      }
     },
     {
       "type": "Feature",
@@ -65661,8 +64926,7 @@ export const railwayNetworkData = {
             41.7623091
           ]
         ]
-      },
-      "id": "way/850412112"
+      }
     },
     {
       "type": "Feature",
@@ -65692,8 +64956,7 @@ export const railwayNetworkData = {
             41.7523823
           ]
         ]
-      },
-      "id": "way/850412113"
+      }
     },
     {
       "type": "Feature",
@@ -65753,8 +65016,7 @@ export const railwayNetworkData = {
             41.7486385
           ]
         ]
-      },
-      "id": "way/850412122"
+      }
     },
     {
       "type": "Feature",
@@ -65784,8 +65046,7 @@ export const railwayNetworkData = {
             41.7444503
           ]
         ]
-      },
-      "id": "way/850412123"
+      }
     },
     {
       "type": "Feature",
@@ -65883,8 +65144,7 @@ export const railwayNetworkData = {
             42.0309239
           ]
         ]
-      },
-      "id": "way/852000208"
+      }
     },
     {
       "type": "Feature",
@@ -65912,8 +65172,7 @@ export const railwayNetworkData = {
             42.0275561
           ]
         ]
-      },
-      "id": "way/852000209"
+      }
     },
     {
       "type": "Feature",
@@ -65991,8 +65250,7 @@ export const railwayNetworkData = {
             42.0121075
           ]
         ]
-      },
-      "id": "way/852000210"
+      }
     },
     {
       "type": "Feature",
@@ -66021,8 +65279,7 @@ export const railwayNetworkData = {
             42.0121075
           ]
         ]
-      },
-      "id": "way/852000211"
+      }
     },
     {
       "type": "Feature",
@@ -66050,8 +65307,7 @@ export const railwayNetworkData = {
             42.0275895
           ]
         ]
-      },
-      "id": "way/852000224"
+      }
     },
     {
       "type": "Feature",
@@ -66121,8 +65377,7 @@ export const railwayNetworkData = {
             42.0274729
           ]
         ]
-      },
-      "id": "way/852000227"
+      }
     },
     {
       "type": "Feature",
@@ -66173,8 +65428,7 @@ export const railwayNetworkData = {
             42.017476
           ]
         ]
-      },
-      "id": "way/852000228"
+      }
     },
     {
       "type": "Feature",
@@ -66202,8 +65456,7 @@ export const railwayNetworkData = {
             42.0175159
           ]
         ]
-      },
-      "id": "way/852000229"
+      }
     },
     {
       "type": "Feature",
@@ -66231,8 +65484,7 @@ export const railwayNetworkData = {
             42.0173793
           ]
         ]
-      },
-      "id": "way/852000230"
+      }
     },
     {
       "type": "Feature",
@@ -66260,8 +65512,7 @@ export const railwayNetworkData = {
             42.0018276
           ]
         ]
-      },
-      "id": "way/852005179"
+      }
     },
     {
       "type": "Feature",
@@ -66320,8 +65571,7 @@ export const railwayNetworkData = {
             42.0120705
           ]
         ]
-      },
-      "id": "way/852005180"
+      }
     },
     {
       "type": "Feature",
@@ -66349,8 +65599,7 @@ export const railwayNetworkData = {
             42.0019024
           ]
         ]
-      },
-      "id": "way/852005181"
+      }
     },
     {
       "type": "Feature",
@@ -66522,8 +65771,7 @@ export const railwayNetworkData = {
             42.0018706
           ]
         ]
-      },
-      "id": "way/852005186"
+      }
     },
     {
       "type": "Feature",
@@ -66552,8 +65800,7 @@ export const railwayNetworkData = {
             41.9806826
           ]
         ]
-      },
-      "id": "way/852005187"
+      }
     },
     {
       "type": "Feature",
@@ -66740,8 +65987,7 @@ export const railwayNetworkData = {
             41.9806395
           ]
         ]
-      },
-      "id": "way/852005188"
+      }
     },
     {
       "type": "Feature",
@@ -66770,8 +66016,7 @@ export const railwayNetworkData = {
             41.9806395
           ]
         ]
-      },
-      "id": "way/852005189"
+      }
     },
     {
       "type": "Feature",
@@ -66881,8 +66126,7 @@ export const railwayNetworkData = {
             42.0121099
           ]
         ]
-      },
-      "id": "way/852079704"
+      }
     },
     {
       "type": "Feature",
@@ -66910,8 +66154,7 @@ export const railwayNetworkData = {
             42.0121478
           ]
         ]
-      },
-      "id": "way/852079705"
+      }
     },
     {
       "type": "Feature",
@@ -66997,8 +66240,7 @@ export const railwayNetworkData = {
             42.0174193
           ]
         ]
-      },
-      "id": "way/852079706"
+      }
     },
     {
       "type": "Feature",
@@ -67026,8 +66268,7 @@ export const railwayNetworkData = {
             41.324987
           ]
         ]
-      },
-      "id": "way/853244728"
+      }
     },
     {
       "type": "Feature",
@@ -67071,8 +66312,7 @@ export const railwayNetworkData = {
             41.3360303
           ]
         ]
-      },
-      "id": "way/853244729"
+      }
     },
     {
       "type": "Feature",
@@ -67132,8 +66372,7 @@ export const railwayNetworkData = {
             41.3308087
           ]
         ]
-      },
-      "id": "way/853244730"
+      }
     },
     {
       "type": "Feature",
@@ -67169,8 +66408,7 @@ export const railwayNetworkData = {
             41.2485296
           ]
         ]
-      },
-      "id": "way/854135594"
+      }
     },
     {
       "type": "Feature",
@@ -67206,8 +66444,7 @@ export const railwayNetworkData = {
             41.5418193
           ]
         ]
-      },
-      "id": "way/857720401"
+      }
     },
     {
       "type": "Feature",
@@ -67251,8 +66488,7 @@ export const railwayNetworkData = {
             41.5487442
           ]
         ]
-      },
-      "id": "way/857720402"
+      }
     },
     {
       "type": "Feature",
@@ -67272,8 +66508,7 @@ export const railwayNetworkData = {
             41.5421475
           ]
         ]
-      },
-      "id": "way/857720405"
+      }
     },
     {
       "type": "Feature",
@@ -67302,8 +66537,7 @@ export const railwayNetworkData = {
             42.0113883
           ]
         ]
-      },
-      "id": "way/857787678"
+      }
     },
     {
       "type": "Feature",
@@ -67417,8 +66651,7 @@ export const railwayNetworkData = {
             42.0114949
           ]
         ]
-      },
-      "id": "way/857787698"
+      }
     },
     {
       "type": "Feature",
@@ -67540,8 +66773,7 @@ export const railwayNetworkData = {
             42.0341013
           ]
         ]
-      },
-      "id": "way/857820458"
+      }
     },
     {
       "type": "Feature",
@@ -67569,8 +66801,7 @@ export const railwayNetworkData = {
             41.9861037
           ]
         ]
-      },
-      "id": "way/858057549"
+      }
     },
     {
       "type": "Feature",
@@ -67598,8 +66829,7 @@ export const railwayNetworkData = {
             41.982129
           ]
         ]
-      },
-      "id": "way/858057550"
+      }
     },
     {
       "type": "Feature",
@@ -67645,8 +66875,7 @@ export const railwayNetworkData = {
             41.982289
           ]
         ]
-      },
-      "id": "way/858057551"
+      }
     },
     {
       "type": "Feature",
@@ -67744,8 +66973,7 @@ export const railwayNetworkData = {
             41.9743696
           ]
         ]
-      },
-      "id": "way/858057552"
+      }
     },
     {
       "type": "Feature",
@@ -67839,8 +67067,7 @@ export const railwayNetworkData = {
             41.9821382
           ]
         ]
-      },
-      "id": "way/858057553"
+      }
     },
     {
       "type": "Feature",
@@ -67910,8 +67137,7 @@ export const railwayNetworkData = {
             41.9806515
           ]
         ]
-      },
-      "id": "way/858057554"
+      }
     },
     {
       "type": "Feature",
@@ -67981,8 +67207,7 @@ export const railwayNetworkData = {
             41.9805943
           ]
         ]
-      },
-      "id": "way/858057555"
+      }
     },
     {
       "type": "Feature",
@@ -68008,8 +67233,7 @@ export const railwayNetworkData = {
             41.9742154
           ]
         ]
-      },
-      "id": "way/858057557"
+      }
     },
     {
       "type": "Feature",
@@ -68099,8 +67323,7 @@ export const railwayNetworkData = {
             41.9860196
           ]
         ]
-      },
-      "id": "way/858057559"
+      }
     },
     {
       "type": "Feature",
@@ -68126,8 +67349,7 @@ export const railwayNetworkData = {
             41.9810225
           ]
         ]
-      },
-      "id": "way/858057560"
+      }
     },
     {
       "type": "Feature",
@@ -68249,8 +67471,7 @@ export const railwayNetworkData = {
             41.9942429
           ]
         ]
-      },
-      "id": "way/858057568"
+      }
     },
     {
       "type": "Feature",
@@ -68278,8 +67499,7 @@ export const railwayNetworkData = {
             41.9963123
           ]
         ]
-      },
-      "id": "way/858057576"
+      }
     },
     {
       "type": "Feature",
@@ -68341,8 +67561,7 @@ export const railwayNetworkData = {
             41.985242
           ]
         ]
-      },
-      "id": "way/858809555"
+      }
     },
     {
       "type": "Feature",
@@ -68368,8 +67587,7 @@ export const railwayNetworkData = {
             42.0081025
           ]
         ]
-      },
-      "id": "way/858809556"
+      }
     },
     {
       "type": "Feature",
@@ -68431,8 +67649,7 @@ export const railwayNetworkData = {
             42.0081295
           ]
         ]
-      },
-      "id": "way/858809557"
+      }
     },
     {
       "type": "Feature",
@@ -68460,8 +67677,7 @@ export const railwayNetworkData = {
             42.0081295
           ]
         ]
-      },
-      "id": "way/858809558"
+      }
     },
     {
       "type": "Feature",
@@ -68489,8 +67705,7 @@ export const railwayNetworkData = {
             42.005957
           ]
         ]
-      },
-      "id": "way/858809559"
+      }
     },
     {
       "type": "Feature",
@@ -68518,8 +67733,7 @@ export const railwayNetworkData = {
             41.9976536
           ]
         ]
-      },
-      "id": "way/858809566"
+      }
     },
     {
       "type": "Feature",
@@ -68569,8 +67783,7 @@ export const railwayNetworkData = {
             41.9976536
           ]
         ]
-      },
-      "id": "way/858809567"
+      }
     },
     {
       "type": "Feature",
@@ -68616,8 +67829,7 @@ export const railwayNetworkData = {
             41.9946109
           ]
         ]
-      },
-      "id": "way/858809568"
+      }
     },
     {
       "type": "Feature",
@@ -68657,8 +67869,7 @@ export const railwayNetworkData = {
             41.9965729
           ]
         ]
-      },
-      "id": "way/858809569"
+      }
     },
     {
       "type": "Feature",
@@ -68694,8 +67905,7 @@ export const railwayNetworkData = {
             41.9951113
           ]
         ]
-      },
-      "id": "way/858809570"
+      }
     },
     {
       "type": "Feature",
@@ -68857,8 +68067,7 @@ export const railwayNetworkData = {
             41.9965729
           ]
         ]
-      },
-      "id": "way/858809572"
+      }
     },
     {
       "type": "Feature",
@@ -68890,8 +68099,7 @@ export const railwayNetworkData = {
             41.9946544
           ]
         ]
-      },
-      "id": "way/858809573"
+      }
     },
     {
       "type": "Feature",
@@ -68933,8 +68141,7 @@ export const railwayNetworkData = {
             41.9951503
           ]
         ]
-      },
-      "id": "way/858809574"
+      }
     },
     {
       "type": "Feature",
@@ -68966,8 +68173,7 @@ export const railwayNetworkData = {
             41.9943096
           ]
         ]
-      },
-      "id": "way/858809575"
+      }
     },
     {
       "type": "Feature",
@@ -69051,8 +68257,7 @@ export const railwayNetworkData = {
             41.9812197
           ]
         ]
-      },
-      "id": "way/858809576"
+      }
     },
     {
       "type": "Feature",
@@ -69104,8 +68309,7 @@ export const railwayNetworkData = {
             41.9937202
           ]
         ]
-      },
-      "id": "way/858809577"
+      }
     },
     {
       "type": "Feature",
@@ -69159,8 +68363,7 @@ export const railwayNetworkData = {
             41.9950846
           ]
         ]
-      },
-      "id": "way/858809578"
+      }
     },
     {
       "type": "Feature",
@@ -69212,8 +68415,7 @@ export const railwayNetworkData = {
             41.9946438
           ]
         ]
-      },
-      "id": "way/858809579"
+      }
     },
     {
       "type": "Feature",
@@ -69319,8 +68521,7 @@ export const railwayNetworkData = {
             41.9898704
           ]
         ]
-      },
-      "id": "way/858809580"
+      }
     },
     {
       "type": "Feature",
@@ -69380,8 +68581,7 @@ export const railwayNetworkData = {
             41.9898348
           ]
         ]
-      },
-      "id": "way/858809582"
+      }
     },
     {
       "type": "Feature",
@@ -69491,8 +68691,7 @@ export const railwayNetworkData = {
             41.9936789
           ]
         ]
-      },
-      "id": "way/858809583"
+      }
     },
     {
       "type": "Feature",
@@ -69536,8 +68735,7 @@ export const railwayNetworkData = {
             41.9850226
           ]
         ]
-      },
-      "id": "way/858809585"
+      }
     },
     {
       "type": "Feature",
@@ -69587,8 +68785,7 @@ export const railwayNetworkData = {
             41.9883032
           ]
         ]
-      },
-      "id": "way/858809586"
+      }
     },
     {
       "type": "Feature",
@@ -69859,8 +69056,7 @@ export const railwayNetworkData = {
             41.9787829
           ]
         ]
-      },
-      "id": "way/858809595"
+      }
     },
     {
       "type": "Feature",
@@ -69927,8 +69123,7 @@ export const railwayNetworkData = {
             41.979071
           ]
         ]
-      },
-      "id": "way/858809596"
+      }
     },
     {
       "type": "Feature",
@@ -69957,8 +69152,7 @@ export const railwayNetworkData = {
             41.978563
           ]
         ]
-      },
-      "id": "way/858809597"
+      }
     },
     {
       "type": "Feature",
@@ -69991,8 +69185,7 @@ export const railwayNetworkData = {
             41.9695707
           ]
         ]
-      },
-      "id": "way/858809599"
+      }
     },
     {
       "type": "Feature",
@@ -70047,8 +69240,7 @@ export const railwayNetworkData = {
             41.9694197
           ]
         ]
-      },
-      "id": "way/858809600"
+      }
     },
     {
       "type": "Feature",
@@ -70115,8 +69307,7 @@ export const railwayNetworkData = {
             41.9712309
           ]
         ]
-      },
-      "id": "way/858809613"
+      }
     },
     {
       "type": "Feature",
@@ -70183,8 +69374,7 @@ export const railwayNetworkData = {
             41.9760448
           ]
         ]
-      },
-      "id": "way/858809614"
+      }
     },
     {
       "type": "Feature",
@@ -70387,8 +69577,7 @@ export const railwayNetworkData = {
             41.9830667
           ]
         ]
-      },
-      "id": "way/858809615"
+      }
     },
     {
       "type": "Feature",
@@ -70417,8 +69606,7 @@ export const railwayNetworkData = {
             41.9986386
           ]
         ]
-      },
-      "id": "way/858809617"
+      }
     },
     {
       "type": "Feature",
@@ -70447,8 +69635,7 @@ export const railwayNetworkData = {
             42.0010136
           ]
         ]
-      },
-      "id": "way/858809618"
+      }
     },
     {
       "type": "Feature",
@@ -70477,8 +69664,7 @@ export const railwayNetworkData = {
             42.0022245
           ]
         ]
-      },
-      "id": "way/858809619"
+      }
     },
     {
       "type": "Feature",
@@ -70613,8 +69799,7 @@ export const railwayNetworkData = {
             42.0049774
           ]
         ]
-      },
-      "id": "way/858809620"
+      }
     },
     {
       "type": "Feature",
@@ -70661,8 +69846,7 @@ export const railwayNetworkData = {
             42.0028826
           ]
         ]
-      },
-      "id": "way/858809621"
+      }
     },
     {
       "type": "Feature",
@@ -70724,8 +69908,7 @@ export const railwayNetworkData = {
             42.0141623
           ]
         ]
-      },
-      "id": "way/858809622"
+      }
     },
     {
       "type": "Feature",
@@ -70760,8 +69943,7 @@ export const railwayNetworkData = {
             42.0013957
           ]
         ]
-      },
-      "id": "way/858809623"
+      }
     },
     {
       "type": "Feature",
@@ -71112,8 +70294,7 @@ export const railwayNetworkData = {
             41.9759009
           ]
         ]
-      },
-      "id": "way/858933959"
+      }
     },
     {
       "type": "Feature",
@@ -71304,8 +70485,7 @@ export const railwayNetworkData = {
             41.9830407
           ]
         ]
-      },
-      "id": "way/858933984"
+      }
     },
     {
       "type": "Feature",
@@ -71338,8 +70518,7 @@ export const railwayNetworkData = {
             42.0046575
           ]
         ]
-      },
-      "id": "way/858934016"
+      }
     },
     {
       "type": "Feature",
@@ -71368,8 +70547,7 @@ export const railwayNetworkData = {
             42.0156965
           ]
         ]
-      },
-      "id": "way/858934019"
+      }
     },
     {
       "type": "Feature",
@@ -71755,8 +70933,7 @@ export const railwayNetworkData = {
             41.8966269
           ]
         ]
-      },
-      "id": "way/859597499"
+      }
     },
     {
       "type": "Feature",
@@ -71784,8 +70961,7 @@ export const railwayNetworkData = {
             41.9314456
           ]
         ]
-      },
-      "id": "way/859597500"
+      }
     },
     {
       "type": "Feature",
@@ -71815,8 +70991,7 @@ export const railwayNetworkData = {
             41.9537873
           ]
         ]
-      },
-      "id": "way/859633036"
+      }
     },
     {
       "type": "Feature",
@@ -71844,8 +71019,7 @@ export const railwayNetworkData = {
             41.9549839
           ]
         ]
-      },
-      "id": "way/859633037"
+      }
     },
     {
       "type": "Feature",
@@ -71899,8 +71073,7 @@ export const railwayNetworkData = {
             41.9460134
           ]
         ]
-      },
-      "id": "way/859633038"
+      }
     },
     {
       "type": "Feature",
@@ -71928,8 +71101,7 @@ export const railwayNetworkData = {
             41.9537068
           ]
         ]
-      },
-      "id": "way/859633039"
+      }
     },
     {
       "type": "Feature",
@@ -71955,8 +71127,7 @@ export const railwayNetworkData = {
             42.1895329
           ]
         ]
-      },
-      "id": "way/861006946"
+      }
     },
     {
       "type": "Feature",
@@ -72007,8 +71178,7 @@ export const railwayNetworkData = {
             42.1894196
           ]
         ]
-      },
-      "id": "way/861006947"
+      }
     },
     {
       "type": "Feature",
@@ -72034,8 +71204,7 @@ export const railwayNetworkData = {
             42.1903266
           ]
         ]
-      },
-      "id": "way/861006948"
+      }
     },
     {
       "type": "Feature",
@@ -72106,8 +71275,7 @@ export const railwayNetworkData = {
             42.1807095
           ]
         ]
-      },
-      "id": "way/861006949"
+      }
     },
     {
       "type": "Feature",
@@ -72182,8 +71350,7 @@ export const railwayNetworkData = {
             42.1806194
           ]
         ]
-      },
-      "id": "way/861006950"
+      }
     },
     {
       "type": "Feature",
@@ -72210,8 +71377,7 @@ export const railwayNetworkData = {
             42.1804297
           ]
         ]
-      },
-      "id": "way/861006951"
+      }
     },
     {
       "type": "Feature",
@@ -72237,8 +71403,7 @@ export const railwayNetworkData = {
             42.1706857
           ]
         ]
-      },
-      "id": "way/861267727"
+      }
     },
     {
       "type": "Feature",
@@ -72288,8 +71453,7 @@ export const railwayNetworkData = {
             42.1778269
           ]
         ]
-      },
-      "id": "way/861267754"
+      }
     },
     {
       "type": "Feature",
@@ -72317,8 +71481,7 @@ export const railwayNetworkData = {
             42.1706857
           ]
         ]
-      },
-      "id": "way/861267755"
+      }
     },
     {
       "type": "Feature",
@@ -72345,8 +71508,7 @@ export const railwayNetworkData = {
             42.1710755
           ]
         ]
-      },
-      "id": "way/861267756"
+      }
     },
     {
       "type": "Feature",
@@ -72393,8 +71555,7 @@ export const railwayNetworkData = {
             42.2060437
           ]
         ]
-      },
-      "id": "way/861267763"
+      }
     },
     {
       "type": "Feature",
@@ -72423,8 +71584,7 @@ export const railwayNetworkData = {
             42.2139731
           ]
         ]
-      },
-      "id": "way/861267764"
+      }
     },
     {
       "type": "Feature",
@@ -72487,8 +71647,7 @@ export const railwayNetworkData = {
             42.2279296
           ]
         ]
-      },
-      "id": "way/861267765"
+      }
     },
     {
       "type": "Feature",
@@ -72515,8 +71674,7 @@ export const railwayNetworkData = {
             42.1574084
           ]
         ]
-      },
-      "id": "way/861307202"
+      }
     },
     {
       "type": "Feature",
@@ -72563,8 +71721,7 @@ export const railwayNetworkData = {
             42.159111
           ]
         ]
-      },
-      "id": "way/861307205"
+      }
     },
     {
       "type": "Feature",
@@ -72595,8 +71752,7 @@ export const railwayNetworkData = {
             42.1594782
           ]
         ]
-      },
-      "id": "way/861307209"
+      }
     },
     {
       "type": "Feature",
@@ -72664,8 +71820,7 @@ export const railwayNetworkData = {
             42.1626009
           ]
         ]
-      },
-      "id": "way/861307221"
+      }
     },
     {
       "type": "Feature",
@@ -72692,8 +71847,7 @@ export const railwayNetworkData = {
             42.1605868
           ]
         ]
-      },
-      "id": "way/861307225"
+      }
     },
     {
       "type": "Feature",
@@ -72720,8 +71874,7 @@ export const railwayNetworkData = {
             42.1603606
           ]
         ]
-      },
-      "id": "way/861307226"
+      }
     },
     {
       "type": "Feature",
@@ -72748,8 +71901,7 @@ export const railwayNetworkData = {
             42.1598058
           ]
         ]
-      },
-      "id": "way/861307227"
+      }
     },
     {
       "type": "Feature",
@@ -72776,8 +71928,7 @@ export const railwayNetworkData = {
             42.1626537
           ]
         ]
-      },
-      "id": "way/861307233"
+      }
     },
     {
       "type": "Feature",
@@ -72804,8 +71955,7 @@ export const railwayNetworkData = {
             42.1631824
           ]
         ]
-      },
-      "id": "way/861307234"
+      }
     },
     {
       "type": "Feature",
@@ -72836,8 +71986,7 @@ export const railwayNetworkData = {
             42.1633968
           ]
         ]
-      },
-      "id": "way/861307235"
+      }
     },
     {
       "type": "Feature",
@@ -72864,8 +72013,7 @@ export const railwayNetworkData = {
             42.1638933
           ]
         ]
-      },
-      "id": "way/861307236"
+      }
     },
     {
       "type": "Feature",
@@ -72911,8 +72059,7 @@ export const railwayNetworkData = {
             42.162424
           ]
         ]
-      },
-      "id": "way/861307237"
+      }
     },
     {
       "type": "Feature",
@@ -72938,8 +72085,7 @@ export const railwayNetworkData = {
             42.1640704
           ]
         ]
-      },
-      "id": "way/861307242"
+      }
     },
     {
       "type": "Feature",
@@ -72988,8 +72134,7 @@ export const railwayNetworkData = {
             42.1605868
           ]
         ]
-      },
-      "id": "way/861307243"
+      }
     },
     {
       "type": "Feature",
@@ -73142,8 +72287,7 @@ export const railwayNetworkData = {
             42.1641444
           ]
         ]
-      },
-      "id": "way/861726803"
+      }
     },
     {
       "type": "Feature",
@@ -73273,8 +72417,7 @@ export const railwayNetworkData = {
             42.176626
           ]
         ]
-      },
-      "id": "way/861726804"
+      }
     },
     {
       "type": "Feature",
@@ -73301,8 +72444,7 @@ export const railwayNetworkData = {
             42.1774599
           ]
         ]
-      },
-      "id": "way/861726805"
+      }
     },
     {
       "type": "Feature",
@@ -73330,8 +72472,7 @@ export const railwayNetworkData = {
             42.1774691
           ]
         ]
-      },
-      "id": "way/861726806"
+      }
     },
     {
       "type": "Feature",
@@ -73360,8 +72501,7 @@ export const railwayNetworkData = {
             42.1994978
           ]
         ]
-      },
-      "id": "way/863316452"
+      }
     },
     {
       "type": "Feature",
@@ -73377,8 +72517,8 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            42.720997,
-            42.1977915
+            42.7209896,
+            42.1978044
           ],
           [
             42.7217537,
@@ -73389,8 +72529,7 @@ export const railwayNetworkData = {
             42.1982496
           ]
         ]
-      },
-      "id": "way/863316453"
+      }
     },
     {
       "type": "Feature",
@@ -73404,16 +72543,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            42.7207329,
-            42.1977153
+            42.7206618,
+            42.1977128
           ],
           [
-            42.720997,
-            42.1977915
+            42.7209896,
+            42.1978044
           ]
         ]
-      },
-      "id": "way/863316454"
+      }
     },
     {
       "type": "Feature",
@@ -73478,15 +72616,14 @@ export const railwayNetworkData = {
           ],
           [
             42.7204866,
-            42.1976509
+            42.1976554
           ],
           [
-            42.7207329,
-            42.1977153
+            42.7206618,
+            42.1977128
           ]
         ]
-      },
-      "id": "way/863316476"
+      }
     },
     {
       "type": "Feature",
@@ -73508,8 +72645,7 @@ export const railwayNetworkData = {
             42.1994487
           ]
         ]
-      },
-      "id": "way/863316477"
+      }
     },
     {
       "type": "Feature",
@@ -73539,12 +72675,12 @@ export const railwayNetworkData = {
             42.1997506
           ],
           [
-            42.7043386,
-            42.1998925
+            42.704296,
+            42.1998614
           ],
           [
-            42.703733,
-            42.1999778
+            42.7037609,
+            42.1999479
           ],
           [
             42.702954,
@@ -74015,8 +73151,7 @@ export const railwayNetworkData = {
             42.2466192
           ]
         ]
-      },
-      "id": "way/863316478"
+      }
     },
     {
       "type": "Feature",
@@ -74036,8 +73171,7 @@ export const railwayNetworkData = {
             42.198512
           ]
         ]
-      },
-      "id": "way/863316480"
+      }
     },
     {
       "type": "Feature",
@@ -74079,8 +73213,7 @@ export const railwayNetworkData = {
             42.2002475
           ]
         ]
-      },
-      "id": "way/863316484"
+      }
     },
     {
       "type": "Feature",
@@ -74109,8 +73242,7 @@ export const railwayNetworkData = {
             42.2001731
           ]
         ]
-      },
-      "id": "way/863316485"
+      }
     },
     {
       "type": "Feature",
@@ -74264,8 +73396,7 @@ export const railwayNetworkData = {
             42.1986818
           ]
         ]
-      },
-      "id": "way/863316486"
+      }
     },
     {
       "type": "Feature",
@@ -74335,8 +73466,7 @@ export const railwayNetworkData = {
             42.1940463
           ]
         ]
-      },
-      "id": "way/863316487"
+      }
     },
     {
       "type": "Feature",
@@ -74364,8 +73494,7 @@ export const railwayNetworkData = {
             42.1778774
           ]
         ]
-      },
-      "id": "way/863316488"
+      }
     },
     {
       "type": "Feature",
@@ -74393,8 +73522,7 @@ export const railwayNetworkData = {
             42.1777079
           ]
         ]
-      },
-      "id": "way/863316489"
+      }
     },
     {
       "type": "Feature",
@@ -74422,8 +73550,7 @@ export const railwayNetworkData = {
             42.1722241
           ]
         ]
-      },
-      "id": "way/863316491"
+      }
     },
     {
       "type": "Feature",
@@ -74453,8 +73580,7 @@ export const railwayNetworkData = {
             42.1777552
           ]
         ]
-      },
-      "id": "way/863316492"
+      }
     },
     {
       "type": "Feature",
@@ -74482,8 +73608,7 @@ export const railwayNetworkData = {
             42.1720331
           ]
         ]
-      },
-      "id": "way/863316493"
+      }
     },
     {
       "type": "Feature",
@@ -74517,8 +73642,7 @@ export const railwayNetworkData = {
             42.1720657
           ]
         ]
-      },
-      "id": "way/863316494"
+      }
     },
     {
       "type": "Feature",
@@ -74546,8 +73670,7 @@ export const railwayNetworkData = {
             42.1588939
           ]
         ]
-      },
-      "id": "way/863316498"
+      }
     },
     {
       "type": "Feature",
@@ -74665,8 +73788,7 @@ export const railwayNetworkData = {
             42.1589733
           ]
         ]
-      },
-      "id": "way/863316499"
+      }
     },
     {
       "type": "Feature",
@@ -74693,8 +73815,7 @@ export const railwayNetworkData = {
             42.1372232
           ]
         ]
-      },
-      "id": "way/863316500"
+      }
     },
     {
       "type": "Feature",
@@ -74721,8 +73842,7 @@ export const railwayNetworkData = {
             42.1372972
           ]
         ]
-      },
-      "id": "way/863316501"
+      }
     },
     {
       "type": "Feature",
@@ -74792,8 +73912,7 @@ export const railwayNetworkData = {
             42.132272
           ]
         ]
-      },
-      "id": "way/863316507"
+      }
     },
     {
       "type": "Feature",
@@ -74820,8 +73939,7 @@ export const railwayNetworkData = {
             42.1320563
           ]
         ]
-      },
-      "id": "way/863316508"
+      }
     },
     {
       "type": "Feature",
@@ -74883,8 +74001,7 @@ export const railwayNetworkData = {
             42.1203617
           ]
         ]
-      },
-      "id": "way/863472205"
+      }
     },
     {
       "type": "Feature",
@@ -75010,8 +74127,7 @@ export const railwayNetworkData = {
             42.1117558
           ]
         ]
-      },
-      "id": "way/863472209"
+      }
     },
     {
       "type": "Feature",
@@ -75039,8 +74155,7 @@ export const railwayNetworkData = {
             42.1203902
           ]
         ]
-      },
-      "id": "way/863472210"
+      }
     },
     {
       "type": "Feature",
@@ -75102,8 +74217,7 @@ export const railwayNetworkData = {
             42.1320563
           ]
         ]
-      },
-      "id": "way/863472211"
+      }
     },
     {
       "type": "Feature",
@@ -75131,8 +74245,7 @@ export const railwayNetworkData = {
             42.120288
           ]
         ]
-      },
-      "id": "way/863472212"
+      }
     },
     {
       "type": "Feature",
@@ -75158,8 +74271,7 @@ export const railwayNetworkData = {
             42.1111281
           ]
         ]
-      },
-      "id": "way/863472216"
+      }
     },
     {
       "type": "Feature",
@@ -75187,8 +74299,7 @@ export const railwayNetworkData = {
             42.1111281
           ]
         ]
-      },
-      "id": "way/863472217"
+      }
     },
     {
       "type": "Feature",
@@ -75286,8 +74397,7 @@ export const railwayNetworkData = {
             42.1078294
           ]
         ]
-      },
-      "id": "way/863472218"
+      }
     },
     {
       "type": "Feature",
@@ -75417,8 +74527,7 @@ export const railwayNetworkData = {
             42.1203119
           ]
         ]
-      },
-      "id": "way/863472220"
+      }
     },
     {
       "type": "Feature",
@@ -75445,8 +74554,7 @@ export const railwayNetworkData = {
             42.1593968
           ]
         ]
-      },
-      "id": "way/863588513"
+      }
     },
     {
       "type": "Feature",
@@ -75504,8 +74612,7 @@ export const railwayNetworkData = {
             42.1583222
           ]
         ]
-      },
-      "id": "way/863588514"
+      }
     },
     {
       "type": "Feature",
@@ -75619,8 +74726,7 @@ export const railwayNetworkData = {
             42.1375642
           ]
         ]
-      },
-      "id": "way/863588515"
+      }
     },
     {
       "type": "Feature",
@@ -75658,8 +74764,7 @@ export const railwayNetworkData = {
             42.1620075
           ]
         ]
-      },
-      "id": "way/863588540"
+      }
     },
     {
       "type": "Feature",
@@ -75701,8 +74806,7 @@ export const railwayNetworkData = {
             42.159548
           ]
         ]
-      },
-      "id": "way/863588541"
+      }
     },
     {
       "type": "Feature",
@@ -75732,8 +74836,7 @@ export const railwayNetworkData = {
             42.1721914
           ]
         ]
-      },
-      "id": "way/863588543"
+      }
     },
     {
       "type": "Feature",
@@ -75803,8 +74906,7 @@ export const railwayNetworkData = {
             42.1778301
           ]
         ]
-      },
-      "id": "way/863588545"
+      }
     },
     {
       "type": "Feature",
@@ -75862,8 +74964,7 @@ export const railwayNetworkData = {
             42.1982998
           ]
         ]
-      },
-      "id": "way/863588547"
+      }
     },
     {
       "type": "Feature",
@@ -75938,8 +75039,7 @@ export const railwayNetworkData = {
             42.0464859
           ]
         ]
-      },
-      "id": "way/864974743"
+      }
     },
     {
       "type": "Feature",
@@ -76042,8 +75142,7 @@ export const railwayNetworkData = {
             41.4299795
           ]
         ]
-      },
-      "id": "way/870706084"
+      }
     },
     {
       "type": "Feature",
@@ -76063,8 +75162,7 @@ export const railwayNetworkData = {
             41.4800808
           ]
         ]
-      },
-      "id": "way/870706085"
+      }
     },
     {
       "type": "Feature",
@@ -76084,8 +75182,7 @@ export const railwayNetworkData = {
             41.4806976
           ]
         ]
-      },
-      "id": "way/870706086"
+      }
     },
     {
       "type": "Feature",
@@ -76132,8 +75229,7 @@ export const railwayNetworkData = {
             41.5161598
           ]
         ]
-      },
-      "id": "way/870706087"
+      }
     },
     {
       "type": "Feature",
@@ -76162,8 +75258,7 @@ export const railwayNetworkData = {
             41.5160036
           ]
         ]
-      },
-      "id": "way/870706088"
+      }
     },
     {
       "type": "Feature",
@@ -76266,8 +75361,7 @@ export const railwayNetworkData = {
             41.5271601
           ]
         ]
-      },
-      "id": "way/870706089"
+      }
     },
     {
       "type": "Feature",
@@ -76296,8 +75390,7 @@ export const railwayNetworkData = {
             41.5160244
           ]
         ]
-      },
-      "id": "way/870706090"
+      }
     },
     {
       "type": "Feature",
@@ -76336,8 +75429,7 @@ export const railwayNetworkData = {
             41.4140686
           ]
         ]
-      },
-      "id": "way/870706091"
+      }
     },
     {
       "type": "Feature",
@@ -76366,8 +75458,7 @@ export const railwayNetworkData = {
             41.4297619
           ]
         ]
-      },
-      "id": "way/870706092"
+      }
     },
     {
       "type": "Feature",
@@ -76402,8 +75493,7 @@ export const railwayNetworkData = {
             41.4297943
           ]
         ]
-      },
-      "id": "way/870706093"
+      }
     },
     {
       "type": "Feature",
@@ -76432,8 +75522,7 @@ export const railwayNetworkData = {
             41.4297943
           ]
         ]
-      },
-      "id": "way/870706094"
+      }
     },
     {
       "type": "Feature",
@@ -76454,8 +75543,7 @@ export const railwayNetworkData = {
             41.5995472
           ]
         ]
-      },
-      "id": "way/870802897"
+      }
     },
     {
       "type": "Feature",
@@ -76516,8 +75604,7 @@ export const railwayNetworkData = {
             41.6085287
           ]
         ]
-      },
-      "id": "way/870802898"
+      }
     },
     {
       "type": "Feature",
@@ -76537,8 +75624,7 @@ export const railwayNetworkData = {
             41.6075114
           ]
         ]
-      },
-      "id": "way/870802899"
+      }
     },
     {
       "type": "Feature",
@@ -76558,8 +75644,7 @@ export const railwayNetworkData = {
             41.3657024
           ]
         ]
-      },
-      "id": "way/872716227"
+      }
     },
     {
       "type": "Feature",
@@ -76898,8 +75983,7 @@ export const railwayNetworkData = {
             41.5411848
           ]
         ]
-      },
-      "id": "way/872721762"
+      }
     },
     {
       "type": "Feature",
@@ -76928,8 +76012,7 @@ export const railwayNetworkData = {
             41.5843501
           ]
         ]
-      },
-      "id": "way/872721763"
+      }
     },
     {
       "type": "Feature",
@@ -76955,8 +76038,7 @@ export const railwayNetworkData = {
             42.1089836
           ]
         ]
-      },
-      "id": "way/875164434"
+      }
     },
     {
       "type": "Feature",
@@ -77063,8 +76145,7 @@ export const railwayNetworkData = {
             42.1098371
           ]
         ]
-      },
-      "id": "way/875164435"
+      }
     },
     {
       "type": "Feature",
@@ -77102,8 +76183,7 @@ export const railwayNetworkData = {
             42.1088302
           ]
         ]
-      },
-      "id": "way/875164436"
+      }
     },
     {
       "type": "Feature",
@@ -77193,8 +76273,7 @@ export const railwayNetworkData = {
             42.1672418
           ]
         ]
-      },
-      "id": "way/879573168"
+      }
     },
     {
       "type": "Feature",
@@ -77222,8 +76301,7 @@ export const railwayNetworkData = {
             42.1675558
           ]
         ]
-      },
-      "id": "way/879573169"
+      }
     },
     {
       "type": "Feature",
@@ -77258,8 +76336,7 @@ export const railwayNetworkData = {
             41.8668814
           ]
         ]
-      },
-      "id": "way/879605166"
+      }
     },
     {
       "type": "Feature",
@@ -77288,8 +76365,7 @@ export const railwayNetworkData = {
             41.8669348
           ]
         ]
-      },
-      "id": "way/879605167"
+      }
     },
     {
       "type": "Feature",
@@ -77372,8 +76448,7 @@ export const railwayNetworkData = {
             41.9037951
           ]
         ]
-      },
-      "id": "way/879606832"
+      }
     },
     {
       "type": "Feature",
@@ -77420,8 +76495,7 @@ export const railwayNetworkData = {
             41.9052107
           ]
         ]
-      },
-      "id": "way/879606833"
+      }
     },
     {
       "type": "Feature",
@@ -77450,8 +76524,7 @@ export const railwayNetworkData = {
             41.9039258
           ]
         ]
-      },
-      "id": "way/879606834"
+      }
     },
     {
       "type": "Feature",
@@ -77526,8 +76599,7 @@ export const railwayNetworkData = {
             41.947598
           ]
         ]
-      },
-      "id": "way/879773128"
+      }
     },
     {
       "type": "Feature",
@@ -77555,8 +76627,7 @@ export const railwayNetworkData = {
             41.9701818
           ]
         ]
-      },
-      "id": "way/879815650"
+      }
     },
     {
       "type": "Feature",
@@ -77577,8 +76648,7 @@ export const railwayNetworkData = {
             42.25951
           ]
         ]
-      },
-      "id": "way/880110503"
+      }
     },
     {
       "type": "Feature",
@@ -77616,8 +76686,7 @@ export const railwayNetworkData = {
             42.2583572
           ]
         ]
-      },
-      "id": "way/880110507"
+      }
     },
     {
       "type": "Feature",
@@ -77672,8 +76741,7 @@ export const railwayNetworkData = {
             42.2666132
           ]
         ]
-      },
-      "id": "way/880544951"
+      }
     },
     {
       "type": "Feature",
@@ -77702,8 +76770,7 @@ export const railwayNetworkData = {
             42.2676175
           ]
         ]
-      },
-      "id": "way/880544952"
+      }
     },
     {
       "type": "Feature",
@@ -77849,8 +76916,7 @@ export const railwayNetworkData = {
             42.0363024
           ]
         ]
-      },
-      "id": "way/880900861"
+      }
     },
     {
       "type": "Feature",
@@ -77878,8 +76944,7 @@ export const railwayNetworkData = {
             42.0486042
           ]
         ]
-      },
-      "id": "way/880900862"
+      }
     },
     {
       "type": "Feature",
@@ -78033,8 +77098,7 @@ export const railwayNetworkData = {
             42.0498439
           ]
         ]
-      },
-      "id": "way/880900867"
+      }
     },
     {
       "type": "Feature",
@@ -78062,8 +77126,7 @@ export const railwayNetworkData = {
             42.0603245
           ]
         ]
-      },
-      "id": "way/880900868"
+      }
     },
     {
       "type": "Feature",
@@ -78093,8 +77156,7 @@ export const railwayNetworkData = {
             41.8813378
           ]
         ]
-      },
-      "id": "way/880978447"
+      }
     },
     {
       "type": "Feature",
@@ -78122,8 +77184,7 @@ export const railwayNetworkData = {
             41.8795961
           ]
         ]
-      },
-      "id": "way/880978448"
+      }
     },
     {
       "type": "Feature",
@@ -78193,8 +77254,7 @@ export const railwayNetworkData = {
             41.8794975
           ]
         ]
-      },
-      "id": "way/880980335"
+      }
     },
     {
       "type": "Feature",
@@ -78222,8 +77282,7 @@ export const railwayNetworkData = {
             41.8701264
           ]
         ]
-      },
-      "id": "way/880980336"
+      }
     },
     {
       "type": "Feature",
@@ -78261,8 +77320,7 @@ export const railwayNetworkData = {
             41.6554331
           ]
         ]
-      },
-      "id": "way/880998566"
+      }
     },
     {
       "type": "Feature",
@@ -78295,8 +77353,7 @@ export const railwayNetworkData = {
             41.6463141
           ]
         ]
-      },
-      "id": "way/880998697"
+      }
     },
     {
       "type": "Feature",
@@ -78321,8 +77378,7 @@ export const railwayNetworkData = {
             41.6466248
           ]
         ]
-      },
-      "id": "way/881002764"
+      }
     },
     {
       "type": "Feature",
@@ -78340,8 +77396,8 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            41.6837893,
-            41.663647
+            41.6838142,
+            41.6637379
           ],
           [
             41.6831673,
@@ -78384,8 +77440,7 @@ export const railwayNetworkData = {
             41.6599768
           ]
         ]
-      },
-      "id": "way/881012205"
+      }
     },
     {
       "type": "Feature",
@@ -78411,8 +77466,7 @@ export const railwayNetworkData = {
             41.6599768
           ]
         ]
-      },
-      "id": "way/881012206"
+      }
     },
     {
       "type": "Feature",
@@ -78449,8 +77503,7 @@ export const railwayNetworkData = {
             41.6462214
           ]
         ]
-      },
-      "id": "way/881012211"
+      }
     },
     {
       "type": "Feature",
@@ -78479,8 +77532,7 @@ export const railwayNetworkData = {
             41.6886775
           ]
         ]
-      },
-      "id": "way/897326229"
+      }
     },
     {
       "type": "Feature",
@@ -78675,8 +77727,7 @@ export const railwayNetworkData = {
             41.5896429
           ]
         ]
-      },
-      "id": "way/897571446"
+      }
     },
     {
       "type": "Feature",
@@ -78697,8 +77748,7 @@ export const railwayNetworkData = {
             41.5271601
           ]
         ]
-      },
-      "id": "way/897589666"
+      }
     },
     {
       "type": "Feature",
@@ -78719,8 +77769,7 @@ export const railwayNetworkData = {
             41.5288576
           ]
         ]
-      },
-      "id": "way/897589667"
+      }
     },
     {
       "type": "Feature",
@@ -78740,8 +77789,7 @@ export const railwayNetworkData = {
             41.6864923
           ]
         ]
-      },
-      "id": "way/897895146"
+      }
     },
     {
       "type": "Feature",
@@ -78761,8 +77809,7 @@ export const railwayNetworkData = {
             41.6848934
           ]
         ]
-      },
-      "id": "way/897895147"
+      }
     },
     {
       "type": "Feature",
@@ -78933,8 +77980,7 @@ export const railwayNetworkData = {
             41.9451006
           ]
         ]
-      },
-      "id": "way/902273157"
+      }
     },
     {
       "type": "Feature",
@@ -78962,8 +78008,7 @@ export const railwayNetworkData = {
             41.9400633
           ]
         ]
-      },
-      "id": "way/902273158"
+      }
     },
     {
       "type": "Feature",
@@ -79046,8 +78091,7 @@ export const railwayNetworkData = {
             41.9477937
           ]
         ]
-      },
-      "id": "way/902630071"
+      }
     },
     {
       "type": "Feature",
@@ -79076,8 +78120,7 @@ export const railwayNetworkData = {
             41.9451327
           ]
         ]
-      },
-      "id": "way/902630072"
+      }
     },
     {
       "type": "Feature",
@@ -79106,8 +78149,7 @@ export const railwayNetworkData = {
             41.9476537
           ]
         ]
-      },
-      "id": "way/902630073"
+      }
     },
     {
       "type": "Feature",
@@ -79182,8 +78224,7 @@ export const railwayNetworkData = {
             41.9484109
           ]
         ]
-      },
-      "id": "way/902630074"
+      }
     },
     {
       "type": "Feature",
@@ -79210,8 +78251,7 @@ export const railwayNetworkData = {
             41.9475688
           ]
         ]
-      },
-      "id": "way/902630075"
+      }
     },
     {
       "type": "Feature",
@@ -79238,8 +78278,7 @@ export const railwayNetworkData = {
             41.9484883
           ]
         ]
-      },
-      "id": "way/902630076"
+      }
     },
     {
       "type": "Feature",
@@ -79266,8 +78305,7 @@ export const railwayNetworkData = {
             41.9482154
           ]
         ]
-      },
-      "id": "way/902630077"
+      }
     },
     {
       "type": "Feature",
@@ -79346,8 +78384,7 @@ export const railwayNetworkData = {
             41.9482154
           ]
         ]
-      },
-      "id": "way/902630078"
+      }
     },
     {
       "type": "Feature",
@@ -79390,8 +78427,7 @@ export const railwayNetworkData = {
             41.958227
           ]
         ]
-      },
-      "id": "way/903010639"
+      }
     },
     {
       "type": "Feature",
@@ -79462,8 +78498,7 @@ export const railwayNetworkData = {
             41.4766143
           ]
         ]
-      },
-      "id": "way/909305817"
+      }
     },
     {
       "type": "Feature",
@@ -79492,8 +78527,7 @@ export const railwayNetworkData = {
             41.4764673
           ]
         ]
-      },
-      "id": "way/909305818"
+      }
     },
     {
       "type": "Feature",
@@ -79740,8 +78774,7 @@ export const railwayNetworkData = {
             41.8997782
           ]
         ]
-      },
-      "id": "way/912685826"
+      }
     },
     {
       "type": "Feature",
@@ -79764,8 +78797,7 @@ export const railwayNetworkData = {
             41.8669566
           ]
         ]
-      },
-      "id": "way/912685827"
+      }
     },
     {
       "type": "Feature",
@@ -79800,8 +78832,7 @@ export const railwayNetworkData = {
             42.0942656
           ]
         ]
-      },
-      "id": "way/912697071"
+      }
     },
     {
       "type": "Feature",
@@ -79838,8 +78869,7 @@ export const railwayNetworkData = {
             42.0938317
           ]
         ]
-      },
-      "id": "way/912697072"
+      }
     },
     {
       "type": "Feature",
@@ -79868,8 +78898,7 @@ export const railwayNetworkData = {
             42.0949583
           ]
         ]
-      },
-      "id": "way/912697073"
+      }
     },
     {
       "type": "Feature",
@@ -79898,8 +78927,7 @@ export const railwayNetworkData = {
             42.0945801
           ]
         ]
-      },
-      "id": "way/912697074"
+      }
     },
     {
       "type": "Feature",
@@ -79928,8 +78956,7 @@ export const railwayNetworkData = {
             42.0951354
           ]
         ]
-      },
-      "id": "way/912697075"
+      }
     },
     {
       "type": "Feature",
@@ -79956,8 +78983,7 @@ export const railwayNetworkData = {
             42.0947692
           ]
         ]
-      },
-      "id": "way/912697076"
+      }
     },
     {
       "type": "Feature",
@@ -79994,8 +79020,7 @@ export const railwayNetworkData = {
             42.095467
           ]
         ]
-      },
-      "id": "way/912697077"
+      }
     },
     {
       "type": "Feature",
@@ -80134,8 +79159,7 @@ export const railwayNetworkData = {
             42.0957387
           ]
         ]
-      },
-      "id": "way/912697078"
+      }
     },
     {
       "type": "Feature",
@@ -80198,8 +79222,7 @@ export const railwayNetworkData = {
             42.094328
           ]
         ]
-      },
-      "id": "way/912699598"
+      }
     },
     {
       "type": "Feature",
@@ -80228,8 +79251,7 @@ export const railwayNetworkData = {
             42.09431
           ]
         ]
-      },
-      "id": "way/912699599"
+      }
     },
     {
       "type": "Feature",
@@ -80268,8 +79290,7 @@ export const railwayNetworkData = {
             42.0955931
           ]
         ]
-      },
-      "id": "way/912699600"
+      }
     },
     {
       "type": "Feature",
@@ -80304,8 +79325,7 @@ export const railwayNetworkData = {
             42.1993687
           ]
         ]
-      },
-      "id": "way/912702685"
+      }
     },
     {
       "type": "Feature",
@@ -80332,8 +79352,7 @@ export const railwayNetworkData = {
             41.4067735
           ]
         ]
-      },
-      "id": "way/912706182"
+      }
     },
     {
       "type": "Feature",
@@ -80364,8 +79383,7 @@ export const railwayNetworkData = {
             41.6073064
           ]
         ]
-      },
-      "id": "way/912723810"
+      }
     },
     {
       "type": "Feature",
@@ -80386,8 +79404,7 @@ export const railwayNetworkData = {
             41.6693002
           ]
         ]
-      },
-      "id": "way/912724987"
+      }
     },
     {
       "type": "Feature",
@@ -80415,8 +79432,7 @@ export const railwayNetworkData = {
             41.8192396
           ]
         ]
-      },
-      "id": "way/912730062"
+      }
     },
     {
       "type": "Feature",
@@ -80471,8 +79487,7 @@ export const railwayNetworkData = {
             41.832189
           ]
         ]
-      },
-      "id": "way/912730909"
+      }
     },
     {
       "type": "Feature",
@@ -80501,8 +79516,7 @@ export const railwayNetworkData = {
             41.8257981
           ]
         ]
-      },
-      "id": "way/912730910"
+      }
     },
     {
       "type": "Feature",
@@ -80557,8 +79571,7 @@ export const railwayNetworkData = {
             41.5992481
           ]
         ]
-      },
-      "id": "way/912735172"
+      }
     },
     {
       "type": "Feature",
@@ -80587,8 +79600,7 @@ export const railwayNetworkData = {
             41.5900336
           ]
         ]
-      },
-      "id": "way/912735173"
+      }
     },
     {
       "type": "Feature",
@@ -80609,8 +79621,7 @@ export const railwayNetworkData = {
             41.5992481
           ]
         ]
-      },
-      "id": "way/912735174"
+      }
     },
     {
       "type": "Feature",
@@ -80632,8 +79643,7 @@ export const railwayNetworkData = {
             42.0151329
           ]
         ]
-      },
-      "id": "way/917839754"
+      }
     },
     {
       "type": "Feature",
@@ -80716,8 +79726,7 @@ export const railwayNetworkData = {
             42.5104941
           ]
         ]
-      },
-      "id": "way/923651575"
+      }
     },
     {
       "type": "Feature",
@@ -80746,8 +79755,7 @@ export const railwayNetworkData = {
             42.5074871
           ]
         ]
-      },
-      "id": "way/923651576"
+      }
     },
     {
       "type": "Feature",
@@ -80863,8 +79871,7 @@ export const railwayNetworkData = {
             42.5074929
           ]
         ]
-      },
-      "id": "way/923655791"
+      }
     },
     {
       "type": "Feature",
@@ -80893,8 +79900,7 @@ export const railwayNetworkData = {
             42.494202
           ]
         ]
-      },
-      "id": "way/923655792"
+      }
     },
     {
       "type": "Feature",
@@ -80929,8 +79935,7 @@ export const railwayNetworkData = {
             41.841529
           ]
         ]
-      },
-      "id": "way/930780681"
+      }
     },
     {
       "type": "Feature",
@@ -80959,8 +79964,7 @@ export const railwayNetworkData = {
             41.6877627
           ]
         ]
-      },
-      "id": "way/947668520"
+      }
     },
     {
       "type": "Feature",
@@ -80987,8 +79991,7 @@ export const railwayNetworkData = {
             41.406785
           ]
         ]
-      },
-      "id": "way/949812395"
+      }
     },
     {
       "type": "Feature",
@@ -81101,8 +80104,7 @@ export const railwayNetworkData = {
             41.9880667
           ]
         ]
-      },
-      "id": "way/957534072"
+      }
     },
     {
       "type": "Feature",
@@ -81172,8 +80174,7 @@ export const railwayNetworkData = {
             42.0788704
           ]
         ]
-      },
-      "id": "way/957534073"
+      }
     },
     {
       "type": "Feature",
@@ -81182,7 +80183,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Jumpstart International",
@@ -81365,8 +80371,7 @@ export const railwayNetworkData = {
             41.5462761
           ]
         ]
-      },
-      "id": "way/1002950735"
+      }
     },
     {
       "type": "Feature",
@@ -81396,8 +80401,7 @@ export const railwayNetworkData = {
             41.556379
           ]
         ]
-      },
-      "id": "way/1002950736"
+      }
     },
     {
       "type": "Feature",
@@ -81425,8 +80429,7 @@ export const railwayNetworkData = {
             43.3690518
           ]
         ]
-      },
-      "id": "way/1004439967"
+      }
     },
     {
       "type": "Feature",
@@ -81434,10 +80437,15 @@ export const railwayNetworkData = {
         "@id": "way/1011689824",
         "electrified": "no",
         "gauge": "1435",
-        "name": "Bakü-Tiflis-Kars Demiryolu Hattı",
-        "name:en": "Tbilisi-Kars-Railway",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -81525,8 +80533,7 @@ export const railwayNetworkData = {
             41.2726305
           ]
         ]
-      },
-      "id": "way/1011689824"
+      }
     },
     {
       "type": "Feature",
@@ -81540,6 +80547,8 @@ export const railwayNetworkData = {
         "name:en": "Tbilisi-Kars-Railway",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
         "railway:traffic_mode": "freight",
         "usage": "main"
       },
@@ -81559,8 +80568,7 @@ export const railwayNetworkData = {
             41.2731953
           ]
         ]
-      },
-      "id": "way/1011689825"
+      }
     },
     {
       "type": "Feature",
@@ -81569,7 +80577,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -81599,8 +80612,7 @@ export const railwayNetworkData = {
             41.4074113
           ]
         ]
-      },
-      "id": "way/1011697247"
+      }
     },
     {
       "type": "Feature",
@@ -81611,7 +80623,12 @@ export const railwayNetworkData = {
         "frequency": "0",
         "gauge": "1520",
         "layer": "1",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -81629,8 +80646,7 @@ export const railwayNetworkData = {
             41.406396
           ]
         ]
-      },
-      "id": "way/1011697248"
+      }
     },
     {
       "type": "Feature",
@@ -81684,8 +80700,7 @@ export const railwayNetworkData = {
             42.0627885
           ]
         ]
-      },
-      "id": "way/1014254532"
+      }
     },
     {
       "type": "Feature",
@@ -81713,8 +80728,7 @@ export const railwayNetworkData = {
             42.0840049
           ]
         ]
-      },
-      "id": "way/1014254533"
+      }
     },
     {
       "type": "Feature",
@@ -81808,8 +80822,7 @@ export const railwayNetworkData = {
             42.0784727
           ]
         ]
-      },
-      "id": "way/1034714141"
+      }
     },
     {
       "type": "Feature",
@@ -81837,8 +80850,7 @@ export const railwayNetworkData = {
             42.078389
           ]
         ]
-      },
-      "id": "way/1034714142"
+      }
     },
     {
       "type": "Feature",
@@ -81884,8 +80896,7 @@ export const railwayNetworkData = {
             42.073064
           ]
         ]
-      },
-      "id": "way/1034723717"
+      }
     },
     {
       "type": "Feature",
@@ -81913,8 +80924,7 @@ export const railwayNetworkData = {
             42.0709152
           ]
         ]
-      },
-      "id": "way/1034723718"
+      }
     },
     {
       "type": "Feature",
@@ -81944,8 +80954,7 @@ export const railwayNetworkData = {
             42.0685791
           ]
         ]
-      },
-      "id": "way/1034723720"
+      }
     },
     {
       "type": "Feature",
@@ -81973,8 +80982,7 @@ export const railwayNetworkData = {
             42.0685425
           ]
         ]
-      },
-      "id": "way/1034723721"
+      }
     },
     {
       "type": "Feature",
@@ -82032,8 +81040,7 @@ export const railwayNetworkData = {
             42.0655364
           ]
         ]
-      },
-      "id": "way/1034723725"
+      }
     },
     {
       "type": "Feature",
@@ -82061,8 +81068,7 @@ export const railwayNetworkData = {
             42.0655077
           ]
         ]
-      },
-      "id": "way/1034723726"
+      }
     },
     {
       "type": "Feature",
@@ -82096,8 +81102,7 @@ export const railwayNetworkData = {
             42.0486503
           ]
         ]
-      },
-      "id": "way/1041475412"
+      }
     },
     {
       "type": "Feature",
@@ -82125,8 +81130,7 @@ export const railwayNetworkData = {
             42.04981
           ]
         ]
-      },
-      "id": "way/1041475413"
+      }
     },
     {
       "type": "Feature",
@@ -82159,8 +81163,7 @@ export const railwayNetworkData = {
             42.2332492
           ]
         ]
-      },
-      "id": "way/1043242628"
+      }
     },
     {
       "type": "Feature",
@@ -82187,8 +81190,7 @@ export const railwayNetworkData = {
             42.2260067
           ]
         ]
-      },
-      "id": "way/1043242629"
+      }
     },
     {
       "type": "Feature",
@@ -82266,8 +81268,7 @@ export const railwayNetworkData = {
             42.006078
           ]
         ]
-      },
-      "id": "way/1046944797"
+      }
     },
     {
       "type": "Feature",
@@ -82295,8 +81296,7 @@ export const railwayNetworkData = {
             42.0212488
           ]
         ]
-      },
-      "id": "way/1046944798"
+      }
     },
     {
       "type": "Feature",
@@ -82342,8 +81342,7 @@ export const railwayNetworkData = {
             42.3157847
           ]
         ]
-      },
-      "id": "way/1055471118"
+      }
     },
     {
       "type": "Feature",
@@ -82371,8 +81370,7 @@ export const railwayNetworkData = {
             42.3003565
           ]
         ]
-      },
-      "id": "way/1055471119"
+      }
     },
     {
       "type": "Feature",
@@ -82434,8 +81432,7 @@ export const railwayNetworkData = {
             42.0840566
           ]
         ]
-      },
-      "id": "way/1055669239"
+      }
     },
     {
       "type": "Feature",
@@ -82463,8 +81460,7 @@ export const railwayNetworkData = {
             42.093535
           ]
         ]
-      },
-      "id": "way/1055669240"
+      }
     },
     {
       "type": "Feature",
@@ -82638,8 +81634,7 @@ export const railwayNetworkData = {
             41.9479495
           ]
         ]
-      },
-      "id": "way/1056828813"
+      }
     },
     {
       "type": "Feature",
@@ -82667,8 +81662,7 @@ export const railwayNetworkData = {
             41.9406349
           ]
         ]
-      },
-      "id": "way/1056828814"
+      }
     },
     {
       "type": "Feature",
@@ -82713,8 +81707,7 @@ export const railwayNetworkData = {
             41.7189499
           ]
         ]
-      },
-      "id": "way/1080979565"
+      }
     },
     {
       "type": "Feature",
@@ -82783,8 +81776,7 @@ export const railwayNetworkData = {
             42.0807681
           ]
         ]
-      },
-      "id": "way/1084666920"
+      }
     },
     {
       "type": "Feature",
@@ -82815,8 +81807,7 @@ export const railwayNetworkData = {
             42.0892295
           ]
         ]
-      },
-      "id": "way/1084666921"
+      }
     },
     {
       "type": "Feature",
@@ -82849,8 +81840,7 @@ export const railwayNetworkData = {
             42.090451
           ]
         ]
-      },
-      "id": "way/1084666922"
+      }
     },
     {
       "type": "Feature",
@@ -82941,8 +81931,7 @@ export const railwayNetworkData = {
             42.090451
           ]
         ]
-      },
-      "id": "way/1084666923"
+      }
     },
     {
       "type": "Feature",
@@ -82968,8 +81957,7 @@ export const railwayNetworkData = {
             42.1989083
           ]
         ]
-      },
-      "id": "way/1098296309"
+      }
     },
     {
       "type": "Feature",
@@ -83007,8 +81995,7 @@ export const railwayNetworkData = {
             42.2629206
           ]
         ]
-      },
-      "id": "way/1098296310"
+      }
     },
     {
       "type": "Feature",
@@ -83035,8 +82022,7 @@ export const railwayNetworkData = {
             42.1993687
           ]
         ]
-      },
-      "id": "way/1098296316"
+      }
     },
     {
       "type": "Feature",
@@ -83062,8 +82048,7 @@ export const railwayNetworkData = {
             42.199325
           ]
         ]
-      },
-      "id": "way/1098296317"
+      }
     },
     {
       "type": "Feature",
@@ -83093,8 +82078,7 @@ export const railwayNetworkData = {
             42.1600919
           ]
         ]
-      },
-      "id": "way/1098296318"
+      }
     },
     {
       "type": "Feature",
@@ -83119,8 +82103,7 @@ export const railwayNetworkData = {
             42.1601372
           ]
         ]
-      },
-      "id": "way/1098296319"
+      }
     },
     {
       "type": "Feature",
@@ -83165,8 +82148,7 @@ export const railwayNetworkData = {
             42.1626537
           ]
         ]
-      },
-      "id": "way/1098359425"
+      }
     },
     {
       "type": "Feature",
@@ -83212,8 +82194,7 @@ export const railwayNetworkData = {
             42.1603262
           ]
         ]
-      },
-      "id": "way/1098359426"
+      }
     },
     {
       "type": "Feature",
@@ -83243,8 +82224,7 @@ export const railwayNetworkData = {
             42.1634826
           ]
         ]
-      },
-      "id": "way/1098359429"
+      }
     },
     {
       "type": "Feature",
@@ -83271,8 +82251,7 @@ export const railwayNetworkData = {
             41.9761018
           ]
         ]
-      },
-      "id": "way/1101831309"
+      }
     },
     {
       "type": "Feature",
@@ -83298,8 +82277,7 @@ export const railwayNetworkData = {
             41.9982435
           ]
         ]
-      },
-      "id": "way/1101831310"
+      }
     },
     {
       "type": "Feature",
@@ -83329,8 +82307,7 @@ export const railwayNetworkData = {
             42.108919
           ]
         ]
-      },
-      "id": "way/1101831311"
+      }
     },
     {
       "type": "Feature",
@@ -83368,8 +82345,7 @@ export const railwayNetworkData = {
             42.1078294
           ]
         ]
-      },
-      "id": "way/1101831312"
+      }
     },
     {
       "type": "Feature",
@@ -84052,8 +83028,7 @@ export const railwayNetworkData = {
             41.2118565
           ]
         ]
-      },
-      "id": "way/1103672429"
+      }
     },
     {
       "type": "Feature",
@@ -84082,8 +83057,7 @@ export const railwayNetworkData = {
             41.2557121
           ]
         ]
-      },
-      "id": "way/1103672430"
+      }
     },
     {
       "type": "Feature",
@@ -84117,8 +83091,7 @@ export const railwayNetworkData = {
             42.1586846
           ]
         ]
-      },
-      "id": "way/1122792062"
+      }
     },
     {
       "type": "Feature",
@@ -84146,8 +83119,7 @@ export const railwayNetworkData = {
             42.1583294
           ]
         ]
-      },
-      "id": "way/1122792063"
+      }
     },
     {
       "type": "Feature",
@@ -84167,8 +83139,7 @@ export const railwayNetworkData = {
             42.2912588
           ]
         ]
-      },
-      "id": "way/1122866125"
+      }
     },
     {
       "type": "Feature",
@@ -84216,8 +83187,7 @@ export const railwayNetworkData = {
             42.2836402
           ]
         ]
-      },
-      "id": "way/1122949680"
+      }
     },
     {
       "type": "Feature",
@@ -84257,8 +83227,7 @@ export const railwayNetworkData = {
             42.2824502
           ]
         ]
-      },
-      "id": "way/1122949681"
+      }
     },
     {
       "type": "Feature",
@@ -84278,8 +83247,7 @@ export const railwayNetworkData = {
             42.2775857
           ]
         ]
-      },
-      "id": "way/1122949683"
+      }
     },
     {
       "type": "Feature",
@@ -84317,8 +83285,7 @@ export const railwayNetworkData = {
             42.2844227
           ]
         ]
-      },
-      "id": "way/1122949686"
+      }
     },
     {
       "type": "Feature",
@@ -84338,8 +83305,7 @@ export const railwayNetworkData = {
             42.2831908
           ]
         ]
-      },
-      "id": "way/1122950538"
+      }
     },
     {
       "type": "Feature",
@@ -84361,8 +83327,7 @@ export const railwayNetworkData = {
             42.2832992
           ]
         ]
-      },
-      "id": "way/1122950539"
+      }
     },
     {
       "type": "Feature",
@@ -84390,8 +83355,7 @@ export const railwayNetworkData = {
             42.2841079
           ]
         ]
-      },
-      "id": "way/1122950540"
+      }
     },
     {
       "type": "Feature",
@@ -84415,8 +83379,7 @@ export const railwayNetworkData = {
             42.2846087
           ]
         ]
-      },
-      "id": "way/1122950541"
+      }
     },
     {
       "type": "Feature",
@@ -84436,8 +83399,7 @@ export const railwayNetworkData = {
             42.2845231
           ]
         ]
-      },
-      "id": "way/1122950542"
+      }
     },
     {
       "type": "Feature",
@@ -84475,8 +83437,7 @@ export const railwayNetworkData = {
             42.2844227
           ]
         ]
-      },
-      "id": "way/1122950543"
+      }
     },
     {
       "type": "Feature",
@@ -84536,8 +83497,7 @@ export const railwayNetworkData = {
             42.2891151
           ]
         ]
-      },
-      "id": "way/1122950544"
+      }
     },
     {
       "type": "Feature",
@@ -84592,8 +83552,7 @@ export const railwayNetworkData = {
             42.0788704
           ]
         ]
-      },
-      "id": "way/1126095121"
+      }
     },
     {
       "type": "Feature",
@@ -84628,8 +83587,7 @@ export const railwayNetworkData = {
             42.0683848
           ]
         ]
-      },
-      "id": "way/1126095124"
+      }
     },
     {
       "type": "Feature",
@@ -84676,8 +83634,7 @@ export const railwayNetworkData = {
             42.0714257
           ]
         ]
-      },
-      "id": "way/1126095126"
+      }
     },
     {
       "type": "Feature",
@@ -84757,8 +83714,7 @@ export const railwayNetworkData = {
             42.079333
           ]
         ]
-      },
-      "id": "way/1126095127"
+      }
     },
     {
       "type": "Feature",
@@ -84834,8 +83790,7 @@ export const railwayNetworkData = {
             42.0803056
           ]
         ]
-      },
-      "id": "way/1126095128"
+      }
     },
     {
       "type": "Feature",
@@ -84905,8 +83860,7 @@ export const railwayNetworkData = {
             42.0789096
           ]
         ]
-      },
-      "id": "way/1126095129"
+      }
     },
     {
       "type": "Feature",
@@ -84935,8 +83889,7 @@ export const railwayNetworkData = {
             42.0802667
           ]
         ]
-      },
-      "id": "way/1126095130"
+      }
     },
     {
       "type": "Feature",
@@ -84965,8 +83918,7 @@ export const railwayNetworkData = {
             42.0808126
           ]
         ]
-      },
-      "id": "way/1126095131"
+      }
     },
     {
       "type": "Feature",
@@ -84999,8 +83951,7 @@ export const railwayNetworkData = {
             41.9846098
           ]
         ]
-      },
-      "id": "way/1130703093"
+      }
     },
     {
       "type": "Feature",
@@ -85051,8 +84002,7 @@ export const railwayNetworkData = {
             41.9846098
           ]
         ]
-      },
-      "id": "way/1130703094"
+      }
     },
     {
       "type": "Feature",
@@ -85165,8 +84115,7 @@ export const railwayNetworkData = {
             41.9880654
           ]
         ]
-      },
-      "id": "way/1130703095"
+      }
     },
     {
       "type": "Feature",
@@ -85195,8 +84144,7 @@ export const railwayNetworkData = {
             41.9929844
           ]
         ]
-      },
-      "id": "way/1130703097"
+      }
     },
     {
       "type": "Feature",
@@ -85265,8 +84213,7 @@ export const railwayNetworkData = {
             41.9922739
           ]
         ]
-      },
-      "id": "way/1130703098"
+      }
     },
     {
       "type": "Feature",
@@ -85337,8 +84284,7 @@ export const railwayNetworkData = {
             41.9685531
           ]
         ]
-      },
-      "id": "way/1130703099"
+      }
     },
     {
       "type": "Feature",
@@ -85404,8 +84350,7 @@ export const railwayNetworkData = {
             41.9630259
           ]
         ]
-      },
-      "id": "way/1130703100"
+      }
     },
     {
       "type": "Feature",
@@ -85484,8 +84429,7 @@ export const railwayNetworkData = {
             41.9667831
           ]
         ]
-      },
-      "id": "way/1130703101"
+      }
     },
     {
       "type": "Feature",
@@ -85518,8 +84462,7 @@ export const railwayNetworkData = {
             41.9843429
           ]
         ]
-      },
-      "id": "way/1130703102"
+      }
     },
     {
       "type": "Feature",
@@ -85570,8 +84513,7 @@ export const railwayNetworkData = {
             41.9846579
           ]
         ]
-      },
-      "id": "way/1130703104"
+      }
     },
     {
       "type": "Feature",
@@ -85600,8 +84542,7 @@ export const railwayNetworkData = {
             41.9930063
           ]
         ]
-      },
-      "id": "way/1130703106"
+      }
     },
     {
       "type": "Feature",
@@ -85670,8 +84611,7 @@ export const railwayNetworkData = {
             41.992286
           ]
         ]
-      },
-      "id": "way/1130703107"
+      }
     },
     {
       "type": "Feature",
@@ -85742,8 +84682,7 @@ export const railwayNetworkData = {
             41.9685532
           ]
         ]
-      },
-      "id": "way/1130703108"
+      }
     },
     {
       "type": "Feature",
@@ -85890,8 +84829,7 @@ export const railwayNetworkData = {
             41.6050749
           ]
         ]
-      },
-      "id": "way/1130917878"
+      }
     },
     {
       "type": "Feature",
@@ -85920,8 +84858,7 @@ export const railwayNetworkData = {
             41.6283188
           ]
         ]
-      },
-      "id": "way/1130917879"
+      }
     },
     {
       "type": "Feature",
@@ -85984,8 +84921,7 @@ export const railwayNetworkData = {
             41.6239602
           ]
         ]
-      },
-      "id": "way/1130917881"
+      }
     },
     {
       "type": "Feature",
@@ -86014,8 +84950,7 @@ export const railwayNetworkData = {
             41.6237784
           ]
         ]
-      },
-      "id": "way/1130917882"
+      }
     },
     {
       "type": "Feature",
@@ -86066,8 +85001,7 @@ export const railwayNetworkData = {
             42.0276917
           ]
         ]
-      },
-      "id": "way/1135217596"
+      }
     },
     {
       "type": "Feature",
@@ -86102,8 +85036,7 @@ export const railwayNetworkData = {
             42.0287745
           ]
         ]
-      },
-      "id": "way/1135217597"
+      }
     },
     {
       "type": "Feature",
@@ -86138,8 +85071,7 @@ export const railwayNetworkData = {
             42.0287447
           ]
         ]
-      },
-      "id": "way/1135217598"
+      }
     },
     {
       "type": "Feature",
@@ -86166,8 +85098,7 @@ export const railwayNetworkData = {
             42.0371499
           ]
         ]
-      },
-      "id": "way/1135217599"
+      }
     },
     {
       "type": "Feature",
@@ -86195,8 +85126,7 @@ export const railwayNetworkData = {
             42.0373546
           ]
         ]
-      },
-      "id": "way/1135217600"
+      }
     },
     {
       "type": "Feature",
@@ -86223,8 +85153,7 @@ export const railwayNetworkData = {
             42.0371121
           ]
         ]
-      },
-      "id": "way/1135217601"
+      }
     },
     {
       "type": "Feature",
@@ -86252,8 +85181,7 @@ export const railwayNetworkData = {
             42.0373267
           ]
         ]
-      },
-      "id": "way/1135217602"
+      }
     },
     {
       "type": "Feature",
@@ -86318,8 +85246,7 @@ export const railwayNetworkData = {
             42.0287745
           ]
         ]
-      },
-      "id": "way/1135217606"
+      }
     },
     {
       "type": "Feature",
@@ -86384,8 +85311,7 @@ export const railwayNetworkData = {
             42.0287447
           ]
         ]
-      },
-      "id": "way/1135217607"
+      }
     },
     {
       "type": "Feature",
@@ -86414,8 +85340,7 @@ export const railwayNetworkData = {
             42.0583855
           ]
         ]
-      },
-      "id": "way/1135419452"
+      }
     },
     {
       "type": "Feature",
@@ -86444,8 +85369,7 @@ export const railwayNetworkData = {
             42.0579724
           ]
         ]
-      },
-      "id": "way/1135419454"
+      }
     },
     {
       "type": "Feature",
@@ -86474,8 +85398,7 @@ export const railwayNetworkData = {
             42.0527844
           ]
         ]
-      },
-      "id": "way/1135419459"
+      }
     },
     {
       "type": "Feature",
@@ -86504,8 +85427,7 @@ export const railwayNetworkData = {
             42.0523092
           ]
         ]
-      },
-      "id": "way/1135419460"
+      }
     },
     {
       "type": "Feature",
@@ -86596,8 +85518,7 @@ export const railwayNetworkData = {
             42.0460084
           ]
         ]
-      },
-      "id": "way/1135419463"
+      }
     },
     {
       "type": "Feature",
@@ -86626,8 +85547,7 @@ export const railwayNetworkData = {
             42.0464859
           ]
         ]
-      },
-      "id": "way/1135419465"
+      }
     },
     {
       "type": "Feature",
@@ -86742,8 +85662,7 @@ export const railwayNetworkData = {
             42.0250643
           ]
         ]
-      },
-      "id": "way/1135419480"
+      }
     },
     {
       "type": "Feature",
@@ -86874,8 +85793,7 @@ export const railwayNetworkData = {
             41.688202
           ]
         ]
-      },
-      "id": "way/1135734158"
+      }
     },
     {
       "type": "Feature",
@@ -86908,8 +85826,7 @@ export const railwayNetworkData = {
             41.96495
           ]
         ]
-      },
-      "id": "way/1138412188"
+      }
     },
     {
       "type": "Feature",
@@ -86944,8 +85861,7 @@ export const railwayNetworkData = {
             41.9644729
           ]
         ]
-      },
-      "id": "way/1138412189"
+      }
     },
     {
       "type": "Feature",
@@ -86978,8 +85894,7 @@ export const railwayNetworkData = {
             41.9649153
           ]
         ]
-      },
-      "id": "way/1138412190"
+      }
     },
     {
       "type": "Feature",
@@ -87014,8 +85929,7 @@ export const railwayNetworkData = {
             41.9644333
           ]
         ]
-      },
-      "id": "way/1138412191"
+      }
     },
     {
       "type": "Feature",
@@ -87051,8 +85965,7 @@ export const railwayNetworkData = {
             41.9763237
           ]
         ]
-      },
-      "id": "way/1138412192"
+      }
     },
     {
       "type": "Feature",
@@ -87109,8 +86022,7 @@ export const railwayNetworkData = {
             41.9724609
           ]
         ]
-      },
-      "id": "way/1138412193"
+      }
     },
     {
       "type": "Feature",
@@ -87146,8 +86058,7 @@ export const railwayNetworkData = {
             41.9762962
           ]
         ]
-      },
-      "id": "way/1138412194"
+      }
     },
     {
       "type": "Feature",
@@ -87204,8 +86115,7 @@ export const railwayNetworkData = {
             41.9724522
           ]
         ]
-      },
-      "id": "way/1138412195"
+      }
     },
     {
       "type": "Feature",
@@ -87325,8 +86235,7 @@ export const railwayNetworkData = {
             41.740795
           ]
         ]
-      },
-      "id": "way/1138732366"
+      }
     },
     {
       "type": "Feature",
@@ -87356,8 +86265,7 @@ export const railwayNetworkData = {
             41.7305541
           ]
         ]
-      },
-      "id": "way/1138732367"
+      }
     },
     {
       "type": "Feature",
@@ -87401,8 +86309,7 @@ export const railwayNetworkData = {
             41.7305018
           ]
         ]
-      },
-      "id": "way/1139170092"
+      }
     },
     {
       "type": "Feature",
@@ -87432,8 +86339,7 @@ export const railwayNetworkData = {
             41.7281597
           ]
         ]
-      },
-      "id": "way/1139170093"
+      }
     },
     {
       "type": "Feature",
@@ -87474,8 +86380,7 @@ export const railwayNetworkData = {
             41.9773727
           ]
         ]
-      },
-      "id": "way/1155277409"
+      }
     },
     {
       "type": "Feature",
@@ -87516,8 +86421,7 @@ export const railwayNetworkData = {
             41.9773373
           ]
         ]
-      },
-      "id": "way/1155277410"
+      }
     },
     {
       "type": "Feature",
@@ -87564,8 +86468,7 @@ export const railwayNetworkData = {
             41.9817511
           ]
         ]
-      },
-      "id": "way/1155277411"
+      }
     },
     {
       "type": "Feature",
@@ -87612,8 +86515,7 @@ export const railwayNetworkData = {
             41.9817418
           ]
         ]
-      },
-      "id": "way/1155277412"
+      }
     },
     {
       "type": "Feature",
@@ -87644,8 +86546,7 @@ export const railwayNetworkData = {
             41.9830549
           ]
         ]
-      },
-      "id": "way/1155277413"
+      }
     },
     {
       "type": "Feature",
@@ -87674,8 +86575,7 @@ export const railwayNetworkData = {
             41.9823138
           ]
         ]
-      },
-      "id": "way/1155277414"
+      }
     },
     {
       "type": "Feature",
@@ -87706,8 +86606,7 @@ export const railwayNetworkData = {
             41.9830524
           ]
         ]
-      },
-      "id": "way/1155277415"
+      }
     },
     {
       "type": "Feature",
@@ -87736,8 +86635,7 @@ export const railwayNetworkData = {
             41.9823037
           ]
         ]
-      },
-      "id": "way/1155277416"
+      }
     },
     {
       "type": "Feature",
@@ -87788,8 +86686,7 @@ export const railwayNetworkData = {
             42.0276643
           ]
         ]
-      },
-      "id": "way/1155620566"
+      }
     },
     {
       "type": "Feature",
@@ -87817,8 +86714,7 @@ export const railwayNetworkData = {
             42.0253314
           ]
         ]
-      },
-      "id": "way/1155620567"
+      }
     },
     {
       "type": "Feature",
@@ -87842,8 +86738,7 @@ export const railwayNetworkData = {
             41.6847945
           ]
         ]
-      },
-      "id": "way/1158549507"
+      }
     },
     {
       "type": "Feature",
@@ -87881,8 +86776,7 @@ export const railwayNetworkData = {
             41.7210376
           ]
         ]
-      },
-      "id": "way/1158801714"
+      }
     },
     {
       "type": "Feature",
@@ -87925,8 +86819,7 @@ export const railwayNetworkData = {
             41.9740485
           ]
         ]
-      },
-      "id": "way/1158801715"
+      }
     },
     {
       "type": "Feature",
@@ -87956,8 +86849,7 @@ export const railwayNetworkData = {
             42.1774088
           ]
         ]
-      },
-      "id": "way/1158801716"
+      }
     },
     {
       "type": "Feature",
@@ -88030,8 +86922,7 @@ export const railwayNetworkData = {
             42.1733111
           ]
         ]
-      },
-      "id": "way/1158801722"
+      }
     },
     {
       "type": "Feature",
@@ -88058,8 +86949,7 @@ export const railwayNetworkData = {
             42.5108608
           ]
         ]
-      },
-      "id": "way/1158801723"
+      }
     },
     {
       "type": "Feature",
@@ -88098,8 +86988,7 @@ export const railwayNetworkData = {
             42.2662628
           ]
         ]
-      },
-      "id": "way/1158801724"
+      }
     },
     {
       "type": "Feature",
@@ -88119,8 +87008,7 @@ export const railwayNetworkData = {
             42.2000014
           ]
         ]
-      },
-      "id": "way/1159021573"
+      }
     },
     {
       "type": "Feature",
@@ -88140,8 +87028,7 @@ export const railwayNetworkData = {
             42.2001248
           ]
         ]
-      },
-      "id": "way/1159021574"
+      }
     },
     {
       "type": "Feature",
@@ -88187,8 +87074,7 @@ export const railwayNetworkData = {
             41.9281169
           ]
         ]
-      },
-      "id": "way/1159255353"
+      }
     },
     {
       "type": "Feature",
@@ -88238,8 +87124,7 @@ export const railwayNetworkData = {
             41.9255557
           ]
         ]
-      },
-      "id": "way/1159255354"
+      }
     },
     {
       "type": "Feature",
@@ -88278,8 +87163,7 @@ export const railwayNetworkData = {
             42.1992389
           ]
         ]
-      },
-      "id": "way/1159662357"
+      }
     },
     {
       "type": "Feature",
@@ -88305,8 +87189,7 @@ export const railwayNetworkData = {
             42.1511793
           ]
         ]
-      },
-      "id": "way/1159723561"
+      }
     },
     {
       "type": "Feature",
@@ -88584,8 +87467,7 @@ export const railwayNetworkData = {
             42.1548351
           ]
         ]
-      },
-      "id": "way/1159723563"
+      }
     },
     {
       "type": "Feature",
@@ -88624,8 +87506,7 @@ export const railwayNetworkData = {
             42.015706
           ]
         ]
-      },
-      "id": "way/1159734355"
+      }
     },
     {
       "type": "Feature",
@@ -88663,8 +87544,7 @@ export const railwayNetworkData = {
             41.9345547
           ]
         ]
-      },
-      "id": "way/1159734356"
+      }
     },
     {
       "type": "Feature",
@@ -88702,8 +87582,7 @@ export const railwayNetworkData = {
             41.9308407
           ]
         ]
-      },
-      "id": "way/1159734357"
+      }
     },
     {
       "type": "Feature",
@@ -88781,8 +87660,7 @@ export const railwayNetworkData = {
             41.9291989
           ]
         ]
-      },
-      "id": "way/1159734358"
+      }
     },
     {
       "type": "Feature",
@@ -88901,8 +87779,7 @@ export const railwayNetworkData = {
             41.4051845
           ]
         ]
-      },
-      "id": "way/1163399822"
+      }
     },
     {
       "type": "Feature",
@@ -88931,8 +87808,7 @@ export const railwayNetworkData = {
             41.4403283
           ]
         ]
-      },
-      "id": "way/1163399823"
+      }
     },
     {
       "type": "Feature",
@@ -88958,8 +87834,7 @@ export const railwayNetworkData = {
             42.0828291
           ]
         ]
-      },
-      "id": "way/1164192483"
+      }
     },
     {
       "type": "Feature",
@@ -88985,8 +87860,7 @@ export const railwayNetworkData = {
             42.1088949
           ]
         ]
-      },
-      "id": "way/1164505104"
+      }
     },
     {
       "type": "Feature",
@@ -89024,8 +87898,7 @@ export const railwayNetworkData = {
             42.1108743
           ]
         ]
-      },
-      "id": "way/1166234276"
+      }
     },
     {
       "type": "Feature",
@@ -89059,8 +87932,7 @@ export const railwayNetworkData = {
             42.0918628
           ]
         ]
-      },
-      "id": "way/1167905120"
+      }
     },
     {
       "type": "Feature",
@@ -89088,8 +87960,7 @@ export const railwayNetworkData = {
             42.0918267
           ]
         ]
-      },
-      "id": "way/1167905121"
+      }
     },
     {
       "type": "Feature",
@@ -89118,8 +87989,7 @@ export const railwayNetworkData = {
             41.9842257
           ]
         ]
-      },
-      "id": "way/1176633051"
+      }
     },
     {
       "type": "Feature",
@@ -89148,8 +88018,7 @@ export const railwayNetworkData = {
             41.9841143
           ]
         ]
-      },
-      "id": "way/1176633052"
+      }
     },
     {
       "type": "Feature",
@@ -89176,8 +88045,7 @@ export const railwayNetworkData = {
             41.9816048
           ]
         ]
-      },
-      "id": "way/1180499502"
+      }
     },
     {
       "type": "Feature",
@@ -89339,8 +88207,7 @@ export const railwayNetworkData = {
             41.9815796
           ]
         ]
-      },
-      "id": "way/1180499503"
+      }
     },
     {
       "type": "Feature",
@@ -89370,8 +88237,7 @@ export const railwayNetworkData = {
             43.2647822
           ]
         ]
-      },
-      "id": "way/1180537296"
+      }
     },
     {
       "type": "Feature",
@@ -89397,8 +88263,7 @@ export const railwayNetworkData = {
             43.2583727
           ]
         ]
-      },
-      "id": "way/1180537298"
+      }
     },
     {
       "type": "Feature",
@@ -89478,8 +88343,7 @@ export const railwayNetworkData = {
             43.0067959
           ]
         ]
-      },
-      "id": "way/1180537300"
+      }
     },
     {
       "type": "Feature",
@@ -89521,8 +88385,7 @@ export const railwayNetworkData = {
             43.1074042
           ]
         ]
-      },
-      "id": "way/1180537301"
+      }
     },
     {
       "type": "Feature",
@@ -89580,8 +88443,7 @@ export const railwayNetworkData = {
             43.1083623
           ]
         ]
-      },
-      "id": "way/1180537303"
+      }
     },
     {
       "type": "Feature",
@@ -89627,8 +88489,7 @@ export const railwayNetworkData = {
             42.3341224
           ]
         ]
-      },
-      "id": "way/1184442422"
+      }
     },
     {
       "type": "Feature",
@@ -89686,8 +88547,7 @@ export const railwayNetworkData = {
             42.3318658
           ]
         ]
-      },
-      "id": "way/1184442423"
+      }
     },
     {
       "type": "Feature",
@@ -89713,8 +88573,7 @@ export const railwayNetworkData = {
             42.2842748
           ]
         ]
-      },
-      "id": "way/1184442424"
+      }
     },
     {
       "type": "Feature",
@@ -89748,8 +88607,7 @@ export const railwayNetworkData = {
             42.2836536
           ]
         ]
-      },
-      "id": "way/1184442425"
+      }
     },
     {
       "type": "Feature",
@@ -89779,8 +88637,7 @@ export const railwayNetworkData = {
             42.1088589
           ]
         ]
-      },
-      "id": "way/1184442426"
+      }
     },
     {
       "type": "Feature",
@@ -89836,8 +88693,7 @@ export const railwayNetworkData = {
             42.1991607
           ]
         ]
-      },
-      "id": "way/1184442427"
+      }
     },
     {
       "type": "Feature",
@@ -89863,8 +88719,7 @@ export const railwayNetworkData = {
             42.1987808
           ]
         ]
-      },
-      "id": "way/1184442428"
+      }
     },
     {
       "type": "Feature",
@@ -89891,8 +88746,7 @@ export const railwayNetworkData = {
             41.718577
           ]
         ]
-      },
-      "id": "way/1184449773"
+      }
     },
     {
       "type": "Feature",
@@ -89916,8 +88770,7 @@ export const railwayNetworkData = {
             41.673324
           ]
         ]
-      },
-      "id": "way/1184449774"
+      }
     },
     {
       "type": "Feature",
@@ -89938,8 +88791,7 @@ export const railwayNetworkData = {
             41.5998351
           ]
         ]
-      },
-      "id": "way/1184449775"
+      }
     },
     {
       "type": "Feature",
@@ -89967,8 +88819,7 @@ export const railwayNetworkData = {
             41.5385674
           ]
         ]
-      },
-      "id": "way/1184449776"
+      }
     },
     {
       "type": "Feature",
@@ -89995,8 +88846,7 @@ export const railwayNetworkData = {
             41.5270383
           ]
         ]
-      },
-      "id": "way/1184449777"
+      }
     },
     {
       "type": "Feature",
@@ -90039,8 +88889,7 @@ export const railwayNetworkData = {
             41.5161804
           ]
         ]
-      },
-      "id": "way/1184449778"
+      }
     },
     {
       "type": "Feature",
@@ -90135,8 +88984,7 @@ export const railwayNetworkData = {
             41.4300115
           ]
         ]
-      },
-      "id": "way/1184449780"
+      }
     },
     {
       "type": "Feature",
@@ -90223,8 +89071,7 @@ export const railwayNetworkData = {
             41.4753867
           ]
         ]
-      },
-      "id": "way/1184456933"
+      }
     },
     {
       "type": "Feature",
@@ -90251,8 +89098,7 @@ export const railwayNetworkData = {
             41.5266947
           ]
         ]
-      },
-      "id": "way/1184456934"
+      }
     },
     {
       "type": "Feature",
@@ -90279,8 +89125,7 @@ export const railwayNetworkData = {
             41.608348
           ]
         ]
-      },
-      "id": "way/1184456935"
+      }
     },
     {
       "type": "Feature",
@@ -90314,8 +89159,7 @@ export const railwayNetworkData = {
             41.9963501
           ]
         ]
-      },
-      "id": "way/1185270870"
+      }
     },
     {
       "type": "Feature",
@@ -90335,8 +89179,7 @@ export const railwayNetworkData = {
             41.9976796
           ]
         ]
-      },
-      "id": "way/1185270871"
+      }
     },
     {
       "type": "Feature",
@@ -90356,8 +89199,7 @@ export const railwayNetworkData = {
             41.9979677
           ]
         ]
-      },
-      "id": "way/1185270872"
+      }
     },
     {
       "type": "Feature",
@@ -90389,8 +89231,7 @@ export const railwayNetworkData = {
             41.998992
           ]
         ]
-      },
-      "id": "way/1185270873"
+      }
     },
     {
       "type": "Feature",
@@ -90428,8 +89269,7 @@ export const railwayNetworkData = {
             42.1079107
           ]
         ]
-      },
-      "id": "way/1185270874"
+      }
     },
     {
       "type": "Feature",
@@ -90468,8 +89308,7 @@ export const railwayNetworkData = {
             41.3907887
           ]
         ]
-      },
-      "id": "way/1186547878"
+      }
     },
     {
       "type": "Feature",
@@ -90539,8 +89378,7 @@ export const railwayNetworkData = {
             42.0952923
           ]
         ]
-      },
-      "id": "way/1193579335"
+      }
     },
     {
       "type": "Feature",
@@ -90568,8 +89406,7 @@ export const railwayNetworkData = {
             42.0964374
           ]
         ]
-      },
-      "id": "way/1193579336"
+      }
     },
     {
       "type": "Feature",
@@ -90671,8 +89508,7 @@ export const railwayNetworkData = {
             42.0087162
           ]
         ]
-      },
-      "id": "way/1200360363"
+      }
     },
     {
       "type": "Feature",
@@ -90710,8 +89546,7 @@ export const railwayNetworkData = {
             42.0769669
           ]
         ]
-      },
-      "id": "way/1201554281"
+      }
     },
     {
       "type": "Feature",
@@ -90745,8 +89580,7 @@ export const railwayNetworkData = {
             42.0709394
           ]
         ]
-      },
-      "id": "way/1201554282"
+      }
     },
     {
       "type": "Feature",
@@ -90771,8 +89605,7 @@ export const railwayNetworkData = {
             42.2481778
           ]
         ]
-      },
-      "id": "way/1201554283"
+      }
     },
     {
       "type": "Feature",
@@ -90817,8 +89650,7 @@ export const railwayNetworkData = {
             42.2496541
           ]
         ]
-      },
-      "id": "way/1201554284"
+      }
     },
     {
       "type": "Feature",
@@ -90851,8 +89683,7 @@ export const railwayNetworkData = {
             42.2523337
           ]
         ]
-      },
-      "id": "way/1201554285"
+      }
     },
     {
       "type": "Feature",
@@ -90878,8 +89709,7 @@ export const railwayNetworkData = {
             42.1991029
           ]
         ]
-      },
-      "id": "way/1201554288"
+      }
     },
     {
       "type": "Feature",
@@ -90905,8 +89735,7 @@ export const railwayNetworkData = {
             42.1992094
           ]
         ]
-      },
-      "id": "way/1201554289"
+      }
     },
     {
       "type": "Feature",
@@ -90930,8 +89759,7 @@ export const railwayNetworkData = {
             42.198512
           ]
         ]
-      },
-      "id": "way/1201554290"
+      }
     },
     {
       "type": "Feature",
@@ -90957,8 +89785,7 @@ export const railwayNetworkData = {
             41.9979187
           ]
         ]
-      },
-      "id": "way/1201554292"
+      }
     },
     {
       "type": "Feature",
@@ -90984,8 +89811,7 @@ export const railwayNetworkData = {
             42.0034123
           ]
         ]
-      },
-      "id": "way/1201554293"
+      }
     },
     {
       "type": "Feature",
@@ -91071,8 +89897,7 @@ export const railwayNetworkData = {
             42.0032888
           ]
         ]
-      },
-      "id": "way/1201554294"
+      }
     },
     {
       "type": "Feature",
@@ -91098,8 +89923,7 @@ export const railwayNetworkData = {
             41.9983323
           ]
         ]
-      },
-      "id": "way/1201554295"
+      }
     },
     {
       "type": "Feature",
@@ -91209,8 +90033,7 @@ export const railwayNetworkData = {
             41.9979033
           ]
         ]
-      },
-      "id": "way/1201554296"
+      }
     },
     {
       "type": "Feature",
@@ -91316,8 +90139,7 @@ export const railwayNetworkData = {
             41.9980673
           ]
         ]
-      },
-      "id": "way/1201554297"
+      }
     },
     {
       "type": "Feature",
@@ -91339,8 +90161,7 @@ export const railwayNetworkData = {
             41.9983323
           ]
         ]
-      },
-      "id": "way/1201554299"
+      }
     },
     {
       "type": "Feature",
@@ -91363,8 +90184,7 @@ export const railwayNetworkData = {
             41.9984887
           ]
         ]
-      },
-      "id": "way/1201554300"
+      }
     },
     {
       "type": "Feature",
@@ -91392,8 +90212,7 @@ export const railwayNetworkData = {
             42.1993721
           ]
         ]
-      },
-      "id": "way/1201554302"
+      }
     },
     {
       "type": "Feature",
@@ -91415,12 +90234,11 @@ export const railwayNetworkData = {
             42.198052
           ],
           [
-            42.7209404,
-            42.197823
+            42.7209277,
+            42.1978399
           ]
         ]
-      },
-      "id": "way/1201554303"
+      }
     },
     {
       "type": "Feature",
@@ -91438,16 +90256,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            42.7206636,
-            42.1977415
+            42.7206133,
+            42.197749
           ],
           [
-            42.7204661,
-            42.1976876
+            42.7204627,
+            42.1977134
           ]
         ]
-      },
-      "id": "way/1201554305"
+      }
     },
     {
       "type": "Feature",
@@ -91477,8 +90294,7 @@ export const railwayNetworkData = {
             42.0947508
           ]
         ]
-      },
-      "id": "way/1201792045"
+      }
     },
     {
       "type": "Feature",
@@ -91506,8 +90322,7 @@ export const railwayNetworkData = {
             42.095276
           ]
         ]
-      },
-      "id": "way/1201792046"
+      }
     },
     {
       "type": "Feature",
@@ -91537,8 +90352,7 @@ export const railwayNetworkData = {
             42.0935578
           ]
         ]
-      },
-      "id": "way/1201792047"
+      }
     },
     {
       "type": "Feature",
@@ -91566,8 +90380,7 @@ export const railwayNetworkData = {
             42.094721
           ]
         ]
-      },
-      "id": "way/1201792048"
+      }
     },
     {
       "type": "Feature",
@@ -91597,8 +90410,7 @@ export const railwayNetworkData = {
             42.0905568
           ]
         ]
-      },
-      "id": "way/1201792049"
+      }
     },
     {
       "type": "Feature",
@@ -91626,8 +90438,7 @@ export const railwayNetworkData = {
             42.0911464
           ]
         ]
-      },
-      "id": "way/1201792050"
+      }
     },
     {
       "type": "Feature",
@@ -91655,8 +90466,7 @@ export const railwayNetworkData = {
             42.0905287
           ]
         ]
-      },
-      "id": "way/1201792051"
+      }
     },
     {
       "type": "Feature",
@@ -91686,8 +90496,7 @@ export const railwayNetworkData = {
             42.0911682
           ]
         ]
-      },
-      "id": "way/1201792052"
+      }
     },
     {
       "type": "Feature",
@@ -91768,8 +90577,7 @@ export const railwayNetworkData = {
             43.3700526
           ]
         ]
-      },
-      "id": "way/1203911482"
+      }
     },
     {
       "type": "Feature",
@@ -91796,8 +90604,7 @@ export const railwayNetworkData = {
             41.9840298
           ]
         ]
-      },
-      "id": "way/1208823475"
+      }
     },
     {
       "type": "Feature",
@@ -91824,8 +90631,7 @@ export const railwayNetworkData = {
             41.9839698
           ]
         ]
-      },
-      "id": "way/1208823476"
+      }
     },
     {
       "type": "Feature",
@@ -91850,8 +90656,7 @@ export const railwayNetworkData = {
             41.211906
           ]
         ]
-      },
-      "id": "way/1211031344"
+      }
     },
     {
       "type": "Feature",
@@ -91876,8 +90681,7 @@ export const railwayNetworkData = {
             41.2126326
           ]
         ]
-      },
-      "id": "way/1211031345"
+      }
     },
     {
       "type": "Feature",
@@ -91906,8 +90710,7 @@ export const railwayNetworkData = {
             41.3912122
           ]
         ]
-      },
-      "id": "way/1211315441"
+      }
     },
     {
       "type": "Feature",
@@ -91916,7 +90719,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -91934,8 +90742,7 @@ export const railwayNetworkData = {
             41.3909838
           ]
         ]
-      },
-      "id": "way/1211315442"
+      }
     },
     {
       "type": "Feature",
@@ -91945,7 +90752,12 @@ export const railwayNetworkData = {
         "frequency": "0",
         "gauge": "1520",
         "layer": "-1",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "tunnel": "yes",
@@ -91968,8 +90780,7 @@ export const railwayNetworkData = {
             41.3895844
           ]
         ]
-      },
-      "id": "way/1211315443"
+      }
     },
     {
       "type": "Feature",
@@ -91979,7 +90790,12 @@ export const railwayNetworkData = {
         "frequency": "0",
         "gauge": "1520",
         "layer": "-1",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "tunnel": "yes",
@@ -91998,8 +90814,7 @@ export const railwayNetworkData = {
             41.4074113
           ]
         ]
-      },
-      "id": "way/1211315444"
+      }
     },
     {
       "type": "Feature",
@@ -92009,7 +90824,12 @@ export const railwayNetworkData = {
         "frequency": "0",
         "gauge": "1520",
         "layer": "-1",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "tunnel": "yes",
@@ -92032,8 +90852,7 @@ export const railwayNetworkData = {
             41.4126917
           ]
         ]
-      },
-      "id": "way/1211315445"
+      }
     },
     {
       "type": "Feature",
@@ -92042,7 +90861,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Mapbox",
@@ -92077,8 +90901,7 @@ export const railwayNetworkData = {
             41.4097297
           ]
         ]
-      },
-      "id": "way/1211315446"
+      }
     },
     {
       "type": "Feature",
@@ -92088,7 +90911,12 @@ export const railwayNetworkData = {
         "frequency": "0",
         "gauge": "1520",
         "layer": "-1",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "tunnel": "yes",
@@ -92139,8 +90967,7 @@ export const railwayNetworkData = {
             41.4927355
           ]
         ]
-      },
-      "id": "way/1211315449"
+      }
     },
     {
       "type": "Feature",
@@ -92149,7 +90976,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "source": "Mapbox",
@@ -92220,8 +91052,7 @@ export const railwayNetworkData = {
             41.5000397
           ]
         ]
-      },
-      "id": "way/1211315450"
+      }
     },
     {
       "type": "Feature",
@@ -92249,8 +91080,7 @@ export const railwayNetworkData = {
             41.997436
           ]
         ]
-      },
-      "id": "way/1224483142"
+      }
     },
     {
       "type": "Feature",
@@ -92310,8 +91140,7 @@ export const railwayNetworkData = {
             41.695614
           ]
         ]
-      },
-      "id": "way/1232053363"
+      }
     },
     {
       "type": "Feature",
@@ -92351,8 +91180,7 @@ export const railwayNetworkData = {
             41.6946489
           ]
         ]
-      },
-      "id": "way/1232053382"
+      }
     },
     {
       "type": "Feature",
@@ -92440,8 +91268,7 @@ export const railwayNetworkData = {
             41.6928211
           ]
         ]
-      },
-      "id": "way/1232053780"
+      }
     },
     {
       "type": "Feature",
@@ -92525,8 +91352,7 @@ export const railwayNetworkData = {
             41.6927419
           ]
         ]
-      },
-      "id": "way/1232054047"
+      }
     },
     {
       "type": "Feature",
@@ -92562,8 +91388,7 @@ export const railwayNetworkData = {
             41.6926605
           ]
         ]
-      },
-      "id": "way/1232054048"
+      }
     },
     {
       "type": "Feature",
@@ -92643,8 +91468,7 @@ export const railwayNetworkData = {
             41.6921268
           ]
         ]
-      },
-      "id": "way/1232054716"
+      }
     },
     {
       "type": "Feature",
@@ -92688,8 +91512,7 @@ export const railwayNetworkData = {
             41.6929946
           ]
         ]
-      },
-      "id": "way/1232056674"
+      }
     },
     {
       "type": "Feature",
@@ -92716,8 +91539,7 @@ export const railwayNetworkData = {
             41.9929844
           ]
         ]
-      },
-      "id": "way/1233035167"
+      }
     },
     {
       "type": "Feature",
@@ -92744,8 +91566,7 @@ export const railwayNetworkData = {
             41.993183
           ]
         ]
-      },
-      "id": "way/1233035168"
+      }
     },
     {
       "type": "Feature",
@@ -92772,8 +91593,7 @@ export const railwayNetworkData = {
             41.9842977
           ]
         ]
-      },
-      "id": "way/1233035170"
+      }
     },
     {
       "type": "Feature",
@@ -92800,8 +91620,7 @@ export const railwayNetworkData = {
             41.9842722
           ]
         ]
-      },
-      "id": "way/1233035171"
+      }
     },
     {
       "type": "Feature",
@@ -92831,8 +91650,7 @@ export const railwayNetworkData = {
             43.3764001
           ]
         ]
-      },
-      "id": "way/1233090920"
+      }
     },
     {
       "type": "Feature",
@@ -92866,8 +91684,7 @@ export const railwayNetworkData = {
             43.3698209
           ]
         ]
-      },
-      "id": "way/1233090921"
+      }
     },
     {
       "type": "Feature",
@@ -92892,8 +91709,7 @@ export const railwayNetworkData = {
             43.3700526
           ]
         ]
-      },
-      "id": "way/1233090922"
+      }
     },
     {
       "type": "Feature",
@@ -92919,8 +91735,7 @@ export const railwayNetworkData = {
             41.9695792
           ]
         ]
-      },
-      "id": "way/1233295771"
+      }
     },
     {
       "type": "Feature",
@@ -92958,8 +91773,7 @@ export const railwayNetworkData = {
             41.9945344
           ]
         ]
-      },
-      "id": "way/1233295772"
+      }
     },
     {
       "type": "Feature",
@@ -92985,8 +91799,7 @@ export const railwayNetworkData = {
             41.9691005
           ]
         ]
-      },
-      "id": "way/1233295773"
+      }
     },
     {
       "type": "Feature",
@@ -93012,8 +91825,7 @@ export const railwayNetworkData = {
             41.970052
           ]
         ]
-      },
-      "id": "way/1233295776"
+      }
     },
     {
       "type": "Feature",
@@ -93039,8 +91851,7 @@ export const railwayNetworkData = {
             41.9695792
           ]
         ]
-      },
-      "id": "way/1233295777"
+      }
     },
     {
       "type": "Feature",
@@ -93126,8 +91937,7 @@ export const railwayNetworkData = {
             41.9945344
           ]
         ]
-      },
-      "id": "way/1233295778"
+      }
     },
     {
       "type": "Feature",
@@ -93153,8 +91963,7 @@ export const railwayNetworkData = {
             41.9748272
           ]
         ]
-      },
-      "id": "way/1233295779"
+      }
     },
     {
       "type": "Feature",
@@ -93180,8 +91989,7 @@ export const railwayNetworkData = {
             41.9750096
           ]
         ]
-      },
-      "id": "way/1233295780"
+      }
     },
     {
       "type": "Feature",
@@ -93207,8 +92015,7 @@ export const railwayNetworkData = {
             42.0793683
           ]
         ]
-      },
-      "id": "way/1233308098"
+      }
     },
     {
       "type": "Feature",
@@ -93229,8 +92036,7 @@ export const railwayNetworkData = {
             42.079333
           ]
         ]
-      },
-      "id": "way/1233308099"
+      }
     },
     {
       "type": "Feature",
@@ -93281,8 +92087,7 @@ export const railwayNetworkData = {
             41.9827238
           ]
         ]
-      },
-      "id": "way/1234105133"
+      }
     },
     {
       "type": "Feature",
@@ -93303,8 +92108,7 @@ export const railwayNetworkData = {
             41.9812197
           ]
         ]
-      },
-      "id": "way/1234105134"
+      }
     },
     {
       "type": "Feature",
@@ -93331,8 +92135,7 @@ export const railwayNetworkData = {
             41.5174602
           ]
         ]
-      },
-      "id": "way/1240770008"
+      }
     },
     {
       "type": "Feature",
@@ -93400,8 +92203,7 @@ export const railwayNetworkData = {
             41.5169496
           ]
         ]
-      },
-      "id": "way/1240770011"
+      }
     },
     {
       "type": "Feature",
@@ -93430,8 +92232,7 @@ export const railwayNetworkData = {
             41.5457587
           ]
         ]
-      },
-      "id": "way/1240782637"
+      }
     },
     {
       "type": "Feature",
@@ -93460,8 +92261,7 @@ export const railwayNetworkData = {
             41.5449557
           ]
         ]
-      },
-      "id": "way/1240782638"
+      }
     },
     {
       "type": "Feature",
@@ -93470,7 +92270,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -93600,8 +92405,7 @@ export const railwayNetworkData = {
             41.5458016
           ]
         ]
-      },
-      "id": "way/1240782639"
+      }
     },
     {
       "type": "Feature",
@@ -93630,8 +92434,7 @@ export const railwayNetworkData = {
             41.5404424
           ]
         ]
-      },
-      "id": "way/1240782640"
+      }
     },
     {
       "type": "Feature",
@@ -93640,7 +92443,12 @@ export const railwayNetworkData = {
         "electrified": "contact_line",
         "frequency": "0",
         "gauge": "1520",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
         "railway": "rail",
         "railway:traffic_mode": "freight",
         "usage": "main",
@@ -93946,8 +92754,7 @@ export const railwayNetworkData = {
             41.5393359
           ]
         ]
-      },
-      "id": "way/1240782641"
+      }
     },
     {
       "type": "Feature",
@@ -94034,8 +92841,7 @@ export const railwayNetworkData = {
             41.6938538
           ]
         ]
-      },
-      "id": "way/1246409907"
+      }
     },
     {
       "type": "Feature",
@@ -94064,8 +92870,7 @@ export const railwayNetworkData = {
             41.6977586
           ]
         ]
-      },
-      "id": "way/1246409908"
+      }
     },
     {
       "type": "Feature",
@@ -94094,8 +92899,7 @@ export const railwayNetworkData = {
             41.3992062
           ]
         ]
-      },
-      "id": "way/1256633117"
+      }
     },
     {
       "type": "Feature",
@@ -94154,8 +92958,7 @@ export const railwayNetworkData = {
             41.3993111
           ]
         ]
-      },
-      "id": "way/1256633118"
+      }
     },
     {
       "type": "Feature",
@@ -94237,8 +93040,7 @@ export const railwayNetworkData = {
             41.9835994
           ]
         ]
-      },
-      "id": "way/1263539393"
+      }
     },
     {
       "type": "Feature",
@@ -94316,8 +93118,7 @@ export const railwayNetworkData = {
             41.9835597
           ]
         ]
-      },
-      "id": "way/1263539394"
+      }
     },
     {
       "type": "Feature",
@@ -94344,8 +93145,7 @@ export const railwayNetworkData = {
             41.6982234
           ]
         ]
-      },
-      "id": "way/1267928507"
+      }
     },
     {
       "type": "Feature",
@@ -94379,8 +93179,7 @@ export const railwayNetworkData = {
             41.6974923
           ]
         ]
-      },
-      "id": "way/1267928508"
+      }
     },
     {
       "type": "Feature",
@@ -94410,8 +93209,7 @@ export const railwayNetworkData = {
             41.9813395
           ]
         ]
-      },
-      "id": "way/1269019999"
+      }
     },
     {
       "type": "Feature",
@@ -94474,8 +93272,7 @@ export const railwayNetworkData = {
             41.9840298
           ]
         ]
-      },
-      "id": "way/1269020000"
+      }
     },
     {
       "type": "Feature",
@@ -94538,8 +93335,7 @@ export const railwayNetworkData = {
             41.9813825
           ]
         ]
-      },
-      "id": "way/1269020001"
+      }
     },
     {
       "type": "Feature",
@@ -94594,8 +93390,7 @@ export const railwayNetworkData = {
             41.6836886
           ]
         ]
-      },
-      "id": "way/1269104117"
+      }
     },
     {
       "type": "Feature",
@@ -94622,8 +93417,7 @@ export const railwayNetworkData = {
             41.6832858
           ]
         ]
-      },
-      "id": "way/1269104118"
+      }
     },
     {
       "type": "Feature",
@@ -94648,8 +93442,7 @@ export const railwayNetworkData = {
             41.6832915
           ]
         ]
-      },
-      "id": "way/1269104121"
+      }
     },
     {
       "type": "Feature",
@@ -94686,8 +93479,7 @@ export const railwayNetworkData = {
             41.6832915
           ]
         ]
-      },
-      "id": "way/1269104122"
+      }
     },
     {
       "type": "Feature",
@@ -94714,8 +93506,7 @@ export const railwayNetworkData = {
             41.6831202
           ]
         ]
-      },
-      "id": "way/1269104123"
+      }
     },
     {
       "type": "Feature",
@@ -94744,8 +93535,7 @@ export const railwayNetworkData = {
             41.6837279
           ]
         ]
-      },
-      "id": "way/1269104124"
+      }
     },
     {
       "type": "Feature",
@@ -94796,8 +93586,7 @@ export const railwayNetworkData = {
             41.661098
           ]
         ]
-      },
-      "id": "way/1280798125"
+      }
     },
     {
       "type": "Feature",
@@ -94826,8 +93615,7 @@ export const railwayNetworkData = {
             41.6610134
           ]
         ]
-      },
-      "id": "way/1280798126"
+      }
     },
     {
       "type": "Feature",
@@ -94926,8 +93714,7 @@ export const railwayNetworkData = {
             41.7097583
           ]
         ]
-      },
-      "id": "way/1287085160"
+      }
     },
     {
       "type": "Feature",
@@ -94956,8 +93743,7 @@ export const railwayNetworkData = {
             41.7137777
           ]
         ]
-      },
-      "id": "way/1287085161"
+      }
     },
     {
       "type": "Feature",
@@ -95016,8 +93802,7 @@ export const railwayNetworkData = {
             41.7177221
           ]
         ]
-      },
-      "id": "way/1289893798"
+      }
     },
     {
       "type": "Feature",
@@ -95046,8 +93831,7 @@ export const railwayNetworkData = {
             41.7178219
           ]
         ]
-      },
-      "id": "way/1289893799"
+      }
     },
     {
       "type": "Feature",
@@ -95117,8 +93901,7 @@ export const railwayNetworkData = {
             42.8627337
           ]
         ]
-      },
-      "id": "way/1290522344"
+      }
     },
     {
       "type": "Feature",
@@ -95146,8 +93929,7 @@ export const railwayNetworkData = {
             42.8621699
           ]
         ]
-      },
-      "id": "way/1290522345"
+      }
     },
     {
       "type": "Feature",
@@ -95213,8 +93995,7 @@ export const railwayNetworkData = {
             43.3070179
           ]
         ]
-      },
-      "id": "way/1295847373"
+      }
     },
     {
       "type": "Feature",
@@ -95242,8 +94023,7 @@ export const railwayNetworkData = {
             43.3069423
           ]
         ]
-      },
-      "id": "way/1295847374"
+      }
     },
     {
       "type": "Feature",
@@ -95271,8 +94051,7 @@ export const railwayNetworkData = {
             41.9904271
           ]
         ]
-      },
-      "id": "way/1296393557"
+      }
     },
     {
       "type": "Feature",
@@ -95299,8 +94078,7 @@ export const railwayNetworkData = {
             41.9839698
           ]
         ]
-      },
-      "id": "way/1301270442"
+      }
     },
     {
       "type": "Feature",
@@ -95354,8 +94132,7 @@ export const railwayNetworkData = {
             42.910738
           ]
         ]
-      },
-      "id": "way/1301870671"
+      }
     },
     {
       "type": "Feature",
@@ -95383,8 +94160,7 @@ export const railwayNetworkData = {
             42.9106418
           ]
         ]
-      },
-      "id": "way/1301870672"
+      }
     },
     {
       "type": "Feature",
@@ -95430,8 +94206,7 @@ export const railwayNetworkData = {
             42.3298127
           ]
         ]
-      },
-      "id": "way/1303413368"
+      }
     },
     {
       "type": "Feature",
@@ -95463,8 +94238,7 @@ export const railwayNetworkData = {
             42.3278118
           ]
         ]
-      },
-      "id": "way/1303413369"
+      }
     },
     {
       "type": "Feature",
@@ -95490,8 +94264,7 @@ export const railwayNetworkData = {
             41.9807152
           ]
         ]
-      },
-      "id": "way/1303748447"
+      }
     },
     {
       "type": "Feature",
@@ -95533,8 +94306,7 @@ export const railwayNetworkData = {
             41.9945691
           ]
         ]
-      },
-      "id": "way/1303748448"
+      }
     },
     {
       "type": "Feature",
@@ -95561,8 +94333,7 @@ export const railwayNetworkData = {
             41.9838902
           ]
         ]
-      },
-      "id": "way/1303748449"
+      }
     },
     {
       "type": "Feature",
@@ -95588,8 +94359,7 @@ export const railwayNetworkData = {
             41.9833533
           ]
         ]
-      },
-      "id": "way/1303936094"
+      }
     },
     {
       "type": "Feature",
@@ -95615,8 +94385,7 @@ export const railwayNetworkData = {
             41.9698679
           ]
         ]
-      },
-      "id": "way/1304285429"
+      }
     },
     {
       "type": "Feature",
@@ -95642,8 +94411,7 @@ export const railwayNetworkData = {
             41.9704306
           ]
         ]
-      },
-      "id": "way/1304285430"
+      }
     },
     {
       "type": "Feature",
@@ -95669,8 +94437,7 @@ export const railwayNetworkData = {
             41.9746306
           ]
         ]
-      },
-      "id": "way/1304285431"
+      }
     },
     {
       "type": "Feature",
@@ -95696,8 +94463,7 @@ export const railwayNetworkData = {
             41.9702497
           ]
         ]
-      },
-      "id": "way/1304285432"
+      }
     },
     {
       "type": "Feature",
@@ -95723,8 +94489,7 @@ export const railwayNetworkData = {
             41.9702529
           ]
         ]
-      },
-      "id": "way/1304285433"
+      }
     },
     {
       "type": "Feature",
@@ -95750,8 +94515,7 @@ export const railwayNetworkData = {
             41.970052
           ]
         ]
-      },
-      "id": "way/1304285434"
+      }
     },
     {
       "type": "Feature",
@@ -95788,8 +94552,7 @@ export const railwayNetworkData = {
             41.9841569
           ]
         ]
-      },
-      "id": "way/1304285435"
+      }
     },
     {
       "type": "Feature",
@@ -95826,8 +94589,7 @@ export const railwayNetworkData = {
             41.9836533
           ]
         ]
-      },
-      "id": "way/1304285436"
+      }
     },
     {
       "type": "Feature",
@@ -95861,8 +94623,7 @@ export const railwayNetworkData = {
             41.9833533
           ]
         ]
-      },
-      "id": "way/1304285437"
+      }
     },
     {
       "type": "Feature",
@@ -95888,8 +94649,7 @@ export const railwayNetworkData = {
             41.9806515
           ]
         ]
-      },
-      "id": "way/1304285438"
+      }
     },
     {
       "type": "Feature",
@@ -95917,8 +94677,7 @@ export const railwayNetworkData = {
             41.689675
           ]
         ]
-      },
-      "id": "way/1308407193"
+      }
     },
     {
       "type": "Feature",
@@ -95972,8 +94731,7 @@ export const railwayNetworkData = {
             41.6896052
           ]
         ]
-      },
-      "id": "way/1308407194"
+      }
     },
     {
       "type": "Feature",
@@ -96011,8 +94769,7 @@ export const railwayNetworkData = {
             41.682194
           ]
         ]
-      },
-      "id": "way/1312484158"
+      }
     },
     {
       "type": "Feature",
@@ -96046,8 +94803,7 @@ export const railwayNetworkData = {
             41.7295754
           ]
         ]
-      },
-      "id": "way/1320827352"
+      }
     },
     {
       "type": "Feature",
@@ -96075,8 +94831,7 @@ export const railwayNetworkData = {
             41.7269437
           ]
         ]
-      },
-      "id": "way/1320827353"
+      }
     },
     {
       "type": "Feature",
@@ -96104,8 +94859,7 @@ export const railwayNetworkData = {
             41.729647
           ]
         ]
-      },
-      "id": "way/1320827354"
+      }
     },
     {
       "type": "Feature",
@@ -96143,8 +94897,7 @@ export const railwayNetworkData = {
             41.7268141
           ]
         ]
-      },
-      "id": "way/1320827355"
+      }
     },
     {
       "type": "Feature",
@@ -96170,8 +94923,7 @@ export const railwayNetworkData = {
             41.994377
           ]
         ]
-      },
-      "id": "way/1323211284"
+      }
     },
     {
       "type": "Feature",
@@ -96197,8 +94949,7 @@ export const railwayNetworkData = {
             41.994377
           ]
         ]
-      },
-      "id": "way/1323211285"
+      }
     },
     {
       "type": "Feature",
@@ -96316,8 +95067,7 @@ export const railwayNetworkData = {
             41.7574851
           ]
         ]
-      },
-      "id": "way/1324497250"
+      }
     },
     {
       "type": "Feature",
@@ -96345,8 +95095,7 @@ export const railwayNetworkData = {
             41.7466462
           ]
         ]
-      },
-      "id": "way/1324497251"
+      }
     },
     {
       "type": "Feature",
@@ -96380,8 +95129,7 @@ export const railwayNetworkData = {
             41.675324
           ]
         ]
-      },
-      "id": "way/1324719921"
+      }
     },
     {
       "type": "Feature",
@@ -96509,8 +95257,7 @@ export const railwayNetworkData = {
             41.67595
           ]
         ]
-      },
-      "id": "way/1324719922"
+      }
     },
     {
       "type": "Feature",
@@ -96606,8 +95353,7 @@ export const railwayNetworkData = {
             41.7045876
           ]
         ]
-      },
-      "id": "way/1325292654"
+      }
     },
     {
       "type": "Feature",
@@ -96637,8 +95383,7 @@ export const railwayNetworkData = {
             41.7067718
           ]
         ]
-      },
-      "id": "way/1325292655"
+      }
     },
     {
       "type": "Feature",
@@ -96670,8 +95415,7 @@ export const railwayNetworkData = {
             41.8057642
           ]
         ]
-      },
-      "id": "way/1330284584"
+      }
     },
     {
       "type": "Feature",
@@ -96695,8 +95439,7 @@ export const railwayNetworkData = {
             41.8047237
           ]
         ]
-      },
-      "id": "way/1330286104"
+      }
     },
     {
       "type": "Feature",
@@ -96720,8 +95463,7 @@ export const railwayNetworkData = {
             41.8063263
           ]
         ]
-      },
-      "id": "way/1330286105"
+      }
     },
     {
       "type": "Feature",
@@ -96745,8 +95487,7 @@ export const railwayNetworkData = {
             41.8146231
           ]
         ]
-      },
-      "id": "way/1330286106"
+      }
     },
     {
       "type": "Feature",
@@ -96789,8 +95530,7 @@ export const railwayNetworkData = {
             41.6376343
           ]
         ]
-      },
-      "id": "way/1336411392"
+      }
     },
     {
       "type": "Feature",
@@ -96829,8 +95569,7 @@ export const railwayNetworkData = {
             41.6366442
           ]
         ]
-      },
-      "id": "way/1336411393"
+      }
     },
     {
       "type": "Feature",
@@ -96859,8 +95598,7 @@ export const railwayNetworkData = {
             41.6366777
           ]
         ]
-      },
-      "id": "way/1336411394"
+      }
     },
     {
       "type": "Feature",
@@ -96915,8 +95653,7 @@ export const railwayNetworkData = {
             41.6360071
           ]
         ]
-      },
-      "id": "way/1336492076"
+      }
     },
     {
       "type": "Feature",
@@ -96945,8 +95682,7 @@ export const railwayNetworkData = {
             41.6359883
           ]
         ]
-      },
-      "id": "way/1336492077"
+      }
     },
     {
       "type": "Feature",
@@ -96997,8 +95733,7 @@ export const railwayNetworkData = {
             41.5202535
           ]
         ]
-      },
-      "id": "way/1353353854"
+      }
     },
     {
       "type": "Feature",
@@ -97027,8 +95762,7 @@ export const railwayNetworkData = {
             41.5231448
           ]
         ]
-      },
-      "id": "way/1353353855"
+      }
     },
     {
       "type": "Feature",
@@ -97051,8 +95785,7 @@ export const railwayNetworkData = {
             41.7358358
           ]
         ]
-      },
-      "id": "way/1361500356"
+      }
     },
     {
       "type": "Feature",
@@ -97072,8 +95805,7 @@ export const railwayNetworkData = {
             41.7465138
           ]
         ]
-      },
-      "id": "way/1361500359"
+      }
     },
     {
       "type": "Feature",
@@ -97093,8 +95825,7 @@ export const railwayNetworkData = {
             41.7462839
           ]
         ]
-      },
-      "id": "way/1361500360"
+      }
     },
     {
       "type": "Feature",
@@ -97117,8 +95848,7 @@ export const railwayNetworkData = {
             41.7344944
           ]
         ]
-      },
-      "id": "way/1361500363"
+      }
     },
     {
       "type": "Feature",
@@ -97161,8 +95891,7 @@ export const railwayNetworkData = {
             41.7169544
           ]
         ]
-      },
-      "id": "way/1361500364"
+      }
     },
     {
       "type": "Feature",
@@ -97189,8 +95918,7 @@ export const railwayNetworkData = {
             41.7251719
           ]
         ]
-      },
-      "id": "way/1361500366"
+      }
     },
     {
       "type": "Feature",
@@ -97217,8 +95945,7 @@ export const railwayNetworkData = {
             41.7253922
           ]
         ]
-      },
-      "id": "way/1361500367"
+      }
     },
     {
       "type": "Feature",
@@ -97240,8 +95967,7 @@ export const railwayNetworkData = {
             41.7171041
           ]
         ]
-      },
-      "id": "way/1361500369"
+      }
     },
     {
       "type": "Feature",
@@ -97265,8 +95991,7 @@ export const railwayNetworkData = {
             41.7244094
           ]
         ]
-      },
-      "id": "way/1361500373"
+      }
     },
     {
       "type": "Feature",
@@ -97287,8 +96012,7 @@ export const railwayNetworkData = {
             41.7277198
           ]
         ]
-      },
-      "id": "way/1361500375"
+      }
     },
     {
       "type": "Feature",
@@ -97310,8 +96034,7 @@ export const railwayNetworkData = {
             41.7259455
           ]
         ]
-      },
-      "id": "way/1361500376"
+      }
     },
     {
       "type": "Feature",
@@ -97334,8 +96057,7 @@ export const railwayNetworkData = {
             41.7253922
           ]
         ]
-      },
-      "id": "way/1361500377"
+      }
     },
     {
       "type": "Feature",
@@ -97356,8 +96078,7 @@ export const railwayNetworkData = {
             41.7293257
           ]
         ]
-      },
-      "id": "way/1361500378"
+      }
     },
     {
       "type": "Feature",
@@ -97378,8 +96099,7 @@ export const railwayNetworkData = {
             41.7334211
           ]
         ]
-      },
-      "id": "way/1361500379"
+      }
     },
     {
       "type": "Feature",
@@ -97408,8 +96128,7 @@ export const railwayNetworkData = {
             41.7437987
           ]
         ]
-      },
-      "id": "way/1361500396"
+      }
     },
     {
       "type": "Feature",
@@ -97439,8 +96158,7 @@ export const railwayNetworkData = {
             41.7437471
           ]
         ]
-      },
-      "id": "way/1361500397"
+      }
     },
     {
       "type": "Feature",
@@ -97503,8 +96221,7 @@ export const railwayNetworkData = {
             41.7471898
           ]
         ]
-      },
-      "id": "way/1361500398"
+      }
     },
     {
       "type": "Feature",
@@ -97564,8 +96281,7 @@ export const railwayNetworkData = {
             41.7437813
           ]
         ]
-      },
-      "id": "way/1361500399"
+      }
     },
     {
       "type": "Feature",
@@ -97592,8 +96308,7 @@ export const railwayNetworkData = {
             41.718577
           ]
         ]
-      },
-      "id": "way/1364524938"
+      }
     },
     {
       "type": "Feature",
@@ -97696,8 +96411,7 @@ export const railwayNetworkData = {
             41.7018992
           ]
         ]
-      },
-      "id": "way/1366968447"
+      }
     },
     {
       "type": "Feature",
@@ -97726,8 +96440,7 @@ export const railwayNetworkData = {
             41.7095611
           ]
         ]
-      },
-      "id": "way/1366968448"
+      }
     },
     {
       "type": "Feature",
@@ -97799,8 +96512,7 @@ export const railwayNetworkData = {
             41.7039836
           ]
         ]
-      },
-      "id": "way/1368347244"
+      }
     },
     {
       "type": "Feature",
@@ -97830,8 +96542,7 @@ export const railwayNetworkData = {
             41.7048636
           ]
         ]
-      },
-      "id": "way/1368347245"
+      }
     },
     {
       "type": "Feature",
@@ -97877,8 +96588,7 @@ export const railwayNetworkData = {
             42.1871764
           ]
         ]
-      },
-      "id": "way/1371286209"
+      }
     },
     {
       "type": "Feature",
@@ -97920,8 +96630,7 @@ export const railwayNetworkData = {
             42.1892543
           ]
         ]
-      },
-      "id": "way/1371286210"
+      }
     },
     {
       "type": "Feature",
@@ -97942,8 +96651,7 @@ export const railwayNetworkData = {
             41.7341712
           ]
         ]
-      },
-      "id": "way/1372193990"
+      }
     },
     {
       "type": "Feature",
@@ -97967,8 +96675,7 @@ export const railwayNetworkData = {
             41.732675
           ]
         ]
-      },
-      "id": "way/1372193991"
+      }
     },
     {
       "type": "Feature",
@@ -97995,8 +96702,7 @@ export const railwayNetworkData = {
             41.7189499
           ]
         ]
-      },
-      "id": "way/1372377967"
+      }
     },
     {
       "type": "Feature",
@@ -98034,8 +96740,7 @@ export const railwayNetworkData = {
             42.0603595
           ]
         ]
-      },
-      "id": "way/1388850858"
+      }
     },
     {
       "type": "Feature",
@@ -98063,8 +96768,7 @@ export const railwayNetworkData = {
             42.0627657
           ]
         ]
-      },
-      "id": "way/1388850859"
+      }
     },
     {
       "type": "Feature",
@@ -98142,8 +96846,7 @@ export const railwayNetworkData = {
             42.0944817
           ]
         ]
-      },
-      "id": "way/1388850948"
+      }
     },
     {
       "type": "Feature",
@@ -98171,8 +96874,7 @@ export const railwayNetworkData = {
             42.0849173
           ]
         ]
-      },
-      "id": "way/1388850949"
+      }
     },
     {
       "type": "Feature",
@@ -98214,8 +96916,7 @@ export const railwayNetworkData = {
             42.0964162
           ]
         ]
-      },
-      "id": "way/1388850950"
+      }
     },
     {
       "type": "Feature",
@@ -98243,8 +96944,7 @@ export const railwayNetworkData = {
             42.0945075
           ]
         ]
-      },
-      "id": "way/1388850951"
+      }
     },
     {
       "type": "Feature",
@@ -98282,8 +96982,7 @@ export const railwayNetworkData = {
             42.0884267
           ]
         ]
-      },
-      "id": "way/1388850960"
+      }
     },
     {
       "type": "Feature",
@@ -98311,8 +97010,7 @@ export const railwayNetworkData = {
             42.08846
           ]
         ]
-      },
-      "id": "way/1388850961"
+      }
     },
     {
       "type": "Feature",
@@ -98390,8 +97088,7 @@ export const railwayNetworkData = {
             42.0848938
           ]
         ]
-      },
-      "id": "way/1388850962"
+      }
     },
     {
       "type": "Feature",
@@ -98419,8 +97116,7 @@ export const railwayNetworkData = {
             42.0866807
           ]
         ]
-      },
-      "id": "way/1388850963"
+      }
     },
     {
       "type": "Feature",
@@ -98449,8 +97145,7 @@ export const railwayNetworkData = {
             41.7225255
           ]
         ]
-      },
-      "id": "way/1390956396"
+      }
     },
     {
       "type": "Feature",
@@ -98545,8 +97240,7 @@ export const railwayNetworkData = {
             41.7210826
           ]
         ]
-      },
-      "id": "way/1390956397"
+      }
     },
     {
       "type": "Feature",
@@ -98576,33 +97270,7 @@ export const railwayNetworkData = {
             41.7251719
           ]
         ]
-      },
-      "id": "way/1391220235"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1392409535",
-        "electrified": "contact_line",
-        "frequency": "0",
-        "gauge": "1520",
-        "railway": "rail",
-        "voltage": "3000"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8899642,
-            41.6757749
-          ],
-          [
-            44.8904454,
-            41.6755347
-          ]
-        ]
-      },
-      "id": "way/1392409535"
+      }
     },
     {
       "type": "Feature",
@@ -98626,8 +97294,7 @@ export const railwayNetworkData = {
             41.6740222
           ]
         ]
-      },
-      "id": "way/1392409537"
+      }
     },
     {
       "type": "Feature",
@@ -98651,8 +97318,7 @@ export const railwayNetworkData = {
             41.6753435
           ]
         ]
-      },
-      "id": "way/1392409538"
+      }
     },
     {
       "type": "Feature",
@@ -98681,8 +97347,7 @@ export const railwayNetworkData = {
             41.6678483
           ]
         ]
-      },
-      "id": "way/1416681419"
+      }
     },
     {
       "type": "Feature",
@@ -98781,8 +97446,7 @@ export const railwayNetworkData = {
             41.6745406
           ]
         ]
-      },
-      "id": "way/1416681420"
+      }
     },
     {
       "type": "Feature",
@@ -98817,8 +97481,7 @@ export const railwayNetworkData = {
             41.636572
           ]
         ]
-      },
-      "id": "way/1424629336"
+      }
     },
     {
       "type": "Feature",
@@ -98847,8 +97510,7 @@ export const railwayNetworkData = {
             41.6377356
           ]
         ]
-      },
-      "id": "way/1424629337"
+      }
     },
     {
       "type": "Feature",
@@ -98878,8 +97540,7 @@ export const railwayNetworkData = {
             41.7045357
           ]
         ]
-      },
-      "id": "way/1424629338"
+      }
     },
     {
       "type": "Feature",
@@ -98915,8 +97576,7 @@ export const railwayNetworkData = {
             41.704497
           ]
         ]
-      },
-      "id": "way/1424629339"
+      }
     },
     {
       "type": "Feature",
@@ -98944,8 +97604,7 @@ export const railwayNetworkData = {
             41.671883
           ]
         ]
-      },
-      "id": "way/1433555450"
+      }
     },
     {
       "type": "Feature",
@@ -98987,397 +97646,7 @@ export const railwayNetworkData = {
             41.6717849
           ]
         ]
-      },
-      "id": "way/1433555451"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028090",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9457496,
-            41.6487242
-          ],
-          [
-            44.9453249,
-            41.6492435
-          ],
-          [
-            44.944827,
-            41.6498376
-          ]
-        ]
-      },
-      "id": "way/1437028090"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028091",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9464376,
-            41.6478925
-          ],
-          [
-            44.945983,
-            41.6484436
-          ]
-        ]
-      },
-      "id": "way/1437028091"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028092",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9447519,
-            41.6498165
-          ],
-          [
-            44.9452576,
-            41.6492067
-          ],
-          [
-            44.9463612,
-            41.6478734
-          ]
-        ]
-      },
-      "id": "way/1437028092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028095",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9480993,
-            41.6461818
-          ],
-          [
-            44.9474367,
-            41.6470958
-          ],
-          [
-            44.9473777,
-            41.6471929
-          ]
-        ]
-      },
-      "id": "way/1437028095"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028096",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9470273,
-            41.6475553
-          ],
-          [
-            44.9471484,
-            41.6473764
-          ],
-          [
-            44.9483863,
-            41.6457298
-          ]
-        ]
-      },
-      "id": "way/1437028096"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028097",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9458623,
-            41.6476941
-          ],
-          [
-            44.9460272,
-            41.6474946
-          ],
-          [
-            44.9463049,
-            41.647203
-          ],
-          [
-            44.9468681,
-            41.646726
-          ],
-          [
-            44.9470961,
-            41.64652
-          ]
-        ]
-      },
-      "id": "way/1437028097"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028099",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9446908,
-            41.6492679
-          ],
-          [
-            44.9448932,
-            41.6490076
-          ],
-          [
-            44.94498,
-            41.6488965
-          ],
-          [
-            44.9458435,
-            41.6477938
-          ],
-          [
-            44.9460896,
-            41.6475192
-          ],
-          [
-            44.9461781,
-            41.647423
-          ]
-        ]
-      },
-      "id": "way/1437028099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028100",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9443549,
-            41.6495239
-          ],
-          [
-            44.9445426,
-            41.6493881
-          ],
-          [
-            44.9446908,
-            41.6492679
-          ]
-        ]
-      },
-      "id": "way/1437028100"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028101",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9342631,
-            41.6580292
-          ],
-          [
-            44.9338165,
-            41.6581535
-          ],
-          [
-            44.9312536,
-            41.6591464
-          ]
-        ]
-      },
-      "id": "way/1437028101"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028102",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9373918,
-            41.6564763
-          ],
-          [
-            44.9371538,
-            41.6566585
-          ],
-          [
-            44.9365979,
-            41.6569932
-          ],
-          [
-            44.9356659,
-            41.6575353
-          ],
-          [
-            44.9350181,
-            41.6578859
-          ],
-          [
-            44.9343757,
-            41.6582126
-          ],
-          [
-            44.9341786,
-            41.6582968
-          ]
-        ]
-      },
-      "id": "way/1437028102"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028103",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9366489,
-            41.6567888
-          ],
-          [
-            44.9361259,
-            41.6571014
-          ],
-          [
-            44.9355318,
-            41.6574501
-          ],
-          [
-            44.9346963,
-            41.657904
-          ],
-          [
-            44.9340928,
-            41.6581865
-          ],
-          [
-            44.9333042,
-            41.6585062
-          ],
-          [
-            44.9287646,
-            41.6602676
-          ]
-        ]
-      },
-      "id": "way/1437028103"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028104",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9289657,
-            41.6600983
-          ],
-          [
-            44.9342631,
-            41.6580292
-          ],
-          [
-            44.9345568,
-            41.657901
-          ],
-          [
-            44.9348733,
-            41.6577497
-          ],
-          [
-            44.9360307,
-            41.6571044
-          ],
-          [
-            44.9366489,
-            41.6567888
-          ],
-          [
-            44.9370217,
-            41.6565894
-          ],
-          [
-            44.9373356,
-            41.656448
-          ]
-        ]
-      },
-      "id": "way/1437028104"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1437028105",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9378023,
-            41.6561866
-          ],
-          [
-            44.9375823,
-            41.6562587
-          ]
-        ]
-      },
-      "id": "way/1437028105"
+      }
     },
     {
       "type": "Feature",
@@ -99397,343 +97666,7 @@ export const railwayNetworkData = {
             41.6506093
           ]
         ]
-      },
-      "id": "way/1437028106"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494368",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9050235,
-            41.6700078
-          ],
-          [
-            44.9048453,
-            41.6701304
-          ],
-          [
-            44.9045261,
-            41.6702902
-          ],
-          [
-            44.9043088,
-            41.6703829
-          ],
-          [
-            44.896283,
-            41.6734838
-          ],
-          [
-            44.8954796,
-            41.6737272
-          ]
-        ]
-      },
-      "id": "way/1441494368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494371",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9090732,
-            41.6681253
-          ],
-          [
-            44.9086641,
-            41.6683077
-          ],
-          [
-            44.9083549,
-            41.6684543
-          ],
-          [
-            44.9081022,
-            41.6685741
-          ]
-        ]
-      },
-      "id": "way/1441494371"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494372",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9057787,
-            41.6690815
-          ],
-          [
-            44.9063958,
-            41.6689472
-          ]
-        ]
-      },
-      "id": "way/1441494372"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494375",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9061396,
-            41.6692558
-          ],
-          [
-            44.9056466,
-            41.6694066
-          ],
-          [
-            44.9049693,
-            41.669594
-          ],
-          [
-            44.904685,
-            41.6696751
-          ],
-          [
-            44.9042907,
-            41.6698204
-          ],
-          [
-            44.8961382,
-            41.67299
-          ],
-          [
-            44.8957964,
-            41.6731257
-          ]
-        ]
-      },
-      "id": "way/1441494375"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494376",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9038938,
-            41.6694958
-          ],
-          [
-            44.9027713,
-            41.6698915
-          ],
-          [
-            44.8967564,
-            41.6722236
-          ],
-          [
-            44.8961234,
-            41.6724951
-          ],
-          [
-            44.8955467,
-            41.6728016
-          ],
-          [
-            44.8946992,
-            41.6732895
-          ],
-          [
-            44.8939248,
-            41.6736543
-          ]
-        ]
-      },
-      "id": "way/1441494376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494378",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9070931,
-            41.6686235
-          ],
-          [
-            44.9063945,
-            41.6688433
-          ]
-        ]
-      },
-      "id": "way/1441494378"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494381",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.909599,
-            41.6675672
-          ],
-          [
-            44.9099851,
-            41.6673369
-          ],
-          [
-            44.9104048,
-            41.6671255
-          ],
-          [
-            44.9115702,
-            41.6666737
-          ]
-        ]
-      },
-      "id": "way/1441494381"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494383",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9079821,
-            41.6686858
-          ],
-          [
-            44.9077981,
-            41.6687555
-          ],
-          [
-            44.9073934,
-            41.6689117
-          ]
-        ]
-      },
-      "id": "way/1441494383"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494384",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9092804,
-            41.6682014
-          ],
-          [
-            44.9084089,
-            41.6685266
-          ],
-          [
-            44.9079821,
-            41.6686858
-          ],
-          [
-            44.9077908,
-            41.6687376
-          ],
-          [
-            44.9073952,
-            41.6688515
-          ]
-        ]
-      },
-      "id": "way/1441494384"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494385",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.911864,
-            41.6674581
-          ],
-          [
-            44.9099636,
-            41.668216
-          ],
-          [
-            44.9098593,
-            41.668285
-          ]
-        ]
-      },
-      "id": "way/1441494385"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441494386",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9152435,
-            41.6661056
-          ],
-          [
-            44.9132949,
-            41.6667568
-          ],
-          [
-            44.9125305,
-            41.6670504
-          ],
-          [
-            44.9111974,
-            41.6675543
-          ],
-          [
-            44.9086319,
-            41.6685015
-          ]
-        ]
-      },
-      "id": "way/1441494386"
+      }
     },
     {
       "type": "Feature",
@@ -99753,99 +97686,7 @@ export const railwayNetworkData = {
             41.6679881
           ]
         ]
-      },
-      "id": "way/1441494388"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441501428",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8649219,
-            41.6833071
-          ],
-          [
-            44.8651969,
-            41.6832565
-          ],
-          [
-            44.8661149,
-            41.6830106
-          ]
-        ]
-      },
-      "id": "way/1441501428"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441501431",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8547916,
-            41.6865525
-          ],
-          [
-            44.8542032,
-            41.6866823
-          ],
-          [
-            44.853829,
-            41.6867504
-          ],
-          [
-            44.8528446,
-            41.6868786
-          ],
-          [
-            44.8520721,
-            41.6869397
-          ],
-          [
-            44.8472938,
-            41.6872892
-          ],
-          [
-            44.8466541,
-            41.6873613
-          ],
-          [
-            44.8464526,
-            41.6873998
-          ]
-        ]
-      },
-      "id": "way/1441501431"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1441501433",
-        "railway": "rail"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8584364,
-            41.6853012
-          ],
-          [
-            44.8578864,
-            41.6854932
-          ]
-        ]
-      },
-      "id": "way/1441501433"
+      }
     },
     {
       "type": "Feature",
@@ -99865,8 +97706,7 @@ export const railwayNetworkData = {
             41.6843317
           ]
         ]
-      },
-      "id": "way/1441501434"
+      }
     },
     {
       "type": "Feature",
@@ -99886,8 +97726,7 @@ export const railwayNetworkData = {
             41.6836109
           ]
         ]
-      },
-      "id": "way/1441501435"
+      }
     },
     {
       "type": "Feature",
@@ -99917,8 +97756,7 @@ export const railwayNetworkData = {
             42.0927339
           ]
         ]
-      },
-      "id": "way/1444493113"
+      }
     },
     {
       "type": "Feature",
@@ -99946,8 +97784,7 @@ export const railwayNetworkData = {
             42.0926902
           ]
         ]
-      },
-      "id": "way/1444493114"
+      }
     },
     {
       "type": "Feature",
@@ -99967,8 +97804,7 @@ export const railwayNetworkData = {
             41.9687084
           ]
         ]
-      },
-      "id": "way/1446514506"
+      }
     },
     {
       "type": "Feature",
@@ -99988,8 +97824,7 @@ export const railwayNetworkData = {
             41.9683275
           ]
         ]
-      },
-      "id": "way/1446514507"
+      }
     },
     {
       "type": "Feature",
@@ -100015,8 +97850,7 @@ export const railwayNetworkData = {
             41.9746397
           ]
         ]
-      },
-      "id": "way/1460808205"
+      }
     },
     {
       "type": "Feature",
@@ -100042,8 +97876,7 @@ export const railwayNetworkData = {
             41.9750096
           ]
         ]
-      },
-      "id": "way/1460808206"
+      }
     },
     {
       "type": "Feature",
@@ -100069,8 +97902,7 @@ export const railwayNetworkData = {
             41.9748272
           ]
         ]
-      },
-      "id": "way/1460808207"
+      }
     },
     {
       "type": "Feature",
@@ -100096,8 +97928,7 @@ export const railwayNetworkData = {
             41.9744481
           ]
         ]
-      },
-      "id": "way/1460808208"
+      }
     },
     {
       "type": "Feature",
@@ -100126,8 +97957,7 @@ export const railwayNetworkData = {
             42.0831887
           ]
         ]
-      },
-      "id": "way/1460826703"
+      }
     },
     {
       "type": "Feature",
@@ -100155,8 +97985,7 @@ export const railwayNetworkData = {
             42.0826637
           ]
         ]
-      },
-      "id": "way/1460826704"
+      }
     },
     {
       "type": "Feature",
@@ -100188,8 +98017,7 @@ export const railwayNetworkData = {
             42.0828291
           ]
         ]
-      },
-      "id": "way/1460826705"
+      }
     },
     {
       "type": "Feature",
@@ -100215,8 +98043,7 @@ export const railwayNetworkData = {
             41.3301794
           ]
         ]
-      },
-      "id": "way/1463212266"
+      }
     },
     {
       "type": "Feature",
@@ -100242,8 +98069,7 @@ export const railwayNetworkData = {
             41.3304682
           ]
         ]
-      },
-      "id": "way/1463212267"
+      }
     },
     {
       "type": "Feature",
@@ -100281,8 +98107,7 @@ export const railwayNetworkData = {
             41.3305651
           ]
         ]
-      },
-      "id": "way/1463212268"
+      }
     },
     {
       "type": "Feature",
@@ -100290,6 +98115,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212269",
         "electrified": "contact_line",
         "frequency": "0",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -100312,8 +98138,7 @@ export const railwayNetworkData = {
             41.3227773
           ]
         ]
-      },
-      "id": "way/1463212269"
+      }
     },
     {
       "type": "Feature",
@@ -100321,7 +98146,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212270",
         "electrified": "contact_line",
         "frequency": "0",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -100343,8 +98168,7 @@ export const railwayNetworkData = {
             41.3235214
           ]
         ]
-      },
-      "id": "way/1463212270"
+      }
     },
     {
       "type": "Feature",
@@ -100352,7 +98176,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212271",
         "electrified": "contact_line",
         "frequency": "0",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -100370,15 +98194,14 @@ export const railwayNetworkData = {
             41.3235597
           ]
         ]
-      },
-      "id": "way/1463212271"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212272",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -100403,8 +98226,7 @@ export const railwayNetworkData = {
             41.3246091
           ]
         ]
-      },
-      "id": "way/1463212272"
+      }
     },
     {
       "type": "Feature",
@@ -100412,6 +98234,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212273",
         "electrified": "contact_line",
         "frequency": "0",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -100434,8 +98257,7 @@ export const railwayNetworkData = {
             41.3235868
           ]
         ]
-      },
-      "id": "way/1463212273"
+      }
     },
     {
       "type": "Feature",
@@ -100443,6 +98265,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212274",
         "electrified": "contact_line",
         "frequency": "0",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -100465,15 +98288,14 @@ export const railwayNetworkData = {
             41.3238487
           ]
         ]
-      },
-      "id": "way/1463212274"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212275",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -100502,8 +98324,7 @@ export const railwayNetworkData = {
             41.3211404
           ]
         ]
-      },
-      "id": "way/1463212275"
+      }
     },
     {
       "type": "Feature",
@@ -100549,8 +98370,7 @@ export const railwayNetworkData = {
             41.3231939
           ]
         ]
-      },
-      "id": "way/1463212276"
+      }
     },
     {
       "type": "Feature",
@@ -100580,8 +98400,7 @@ export const railwayNetworkData = {
             41.3212249
           ]
         ]
-      },
-      "id": "way/1463212277"
+      }
     },
     {
       "type": "Feature",
@@ -100619,8 +98438,7 @@ export const railwayNetworkData = {
             41.3315027
           ]
         ]
-      },
-      "id": "way/1463212278"
+      }
     },
     {
       "type": "Feature",
@@ -100646,8 +98464,7 @@ export const railwayNetworkData = {
             41.3335767
           ]
         ]
-      },
-      "id": "way/1463212279"
+      }
     },
     {
       "type": "Feature",
@@ -100681,8 +98498,7 @@ export const railwayNetworkData = {
             41.3324019
           ]
         ]
-      },
-      "id": "way/1463212280"
+      }
     },
     {
       "type": "Feature",
@@ -100713,8 +98529,7 @@ export const railwayNetworkData = {
             41.3183983
           ]
         ]
-      },
-      "id": "way/1463212281"
+      }
     },
     {
       "type": "Feature",
@@ -100748,16 +98563,15 @@ export const railwayNetworkData = {
             41.3234068
           ]
         ]
-      },
-      "id": "way/1463212282"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212283",
         "electrified": "no",
-        "gauge": "1435",
-        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "gauge": "1520",
+        "operator": "\\\"შპს \\\\\\\"მარაბდა-კარწახის რკინიგზა\\\\\\\"\\\"\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
       },
@@ -100789,8 +98603,7 @@ export const railwayNetworkData = {
             41.3143806
           ]
         ]
-      },
-      "id": "way/1463212283"
+      }
     },
     {
       "type": "Feature",
@@ -100814,8 +98627,7 @@ export const railwayNetworkData = {
             41.3335547
           ]
         ]
-      },
-      "id": "way/1463212287"
+      }
     },
     {
       "type": "Feature",
@@ -100855,8 +98667,7 @@ export const railwayNetworkData = {
             41.3351528
           ]
         ]
-      },
-      "id": "way/1463212288"
+      }
     },
     {
       "type": "Feature",
@@ -100864,6 +98675,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212342",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -100880,8 +98692,7 @@ export const railwayNetworkData = {
             41.3309468
           ]
         ]
-      },
-      "id": "way/1463212342"
+      }
     },
     {
       "type": "Feature",
@@ -100889,6 +98700,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212343",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -100905,8 +98717,7 @@ export const railwayNetworkData = {
             41.3309024
           ]
         ]
-      },
-      "id": "way/1463212343"
+      }
     },
     {
       "type": "Feature",
@@ -100914,6 +98725,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212344",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -100930,8 +98742,7 @@ export const railwayNetworkData = {
             41.330551
           ]
         ]
-      },
-      "id": "way/1463212344"
+      }
     },
     {
       "type": "Feature",
@@ -100956,8 +98767,7 @@ export const railwayNetworkData = {
             41.3323813
           ]
         ]
-      },
-      "id": "way/1463212345"
+      }
     },
     {
       "type": "Feature",
@@ -101001,8 +98811,7 @@ export const railwayNetworkData = {
             41.3343968
           ]
         ]
-      },
-      "id": "way/1463212346"
+      }
     },
     {
       "type": "Feature",
@@ -101010,6 +98819,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212357",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101018,16 +98828,15 @@ export const railwayNetworkData = {
         "type": "LineString",
         "coordinates": [
           [
-            43.4931926,
-            41.3326052
+            43.4932141,
+            41.3326213
           ],
           [
             43.4931094,
             41.3331857
           ]
         ]
-      },
-      "id": "way/1463212357"
+      }
     },
     {
       "type": "Feature",
@@ -101035,6 +98844,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212358",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101047,12 +98857,11 @@ export const railwayNetworkData = {
             41.3325531
           ],
           [
-            43.4926991,
-            41.3331391
+            43.4926884,
+            41.3331331
           ]
         ]
-      },
-      "id": "way/1463212358"
+      }
     },
     {
       "type": "Feature",
@@ -101060,6 +98869,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212359",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101072,12 +98882,11 @@ export const railwayNetworkData = {
             41.3325427
           ],
           [
-            43.4926068,
-            41.3331399
+            43.4925663,
+            41.3331209
           ]
         ]
-      },
-      "id": "way/1463212359"
+      }
     },
     {
       "type": "Feature",
@@ -101129,8 +98938,7 @@ export const railwayNetworkData = {
             41.3325427
           ]
         ]
-      },
-      "id": "way/1463212360"
+      }
     },
     {
       "type": "Feature",
@@ -101138,6 +98946,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212361",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101154,8 +98963,7 @@ export const railwayNetworkData = {
             41.332564
           ]
         ]
-      },
-      "id": "way/1463212361"
+      }
     },
     {
       "type": "Feature",
@@ -101163,6 +98971,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212362",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101179,8 +98988,7 @@ export const railwayNetworkData = {
             41.3320611
           ]
         ]
-      },
-      "id": "way/1463212362"
+      }
     },
     {
       "type": "Feature",
@@ -101212,8 +99020,7 @@ export const railwayNetworkData = {
             41.3285207
           ]
         ]
-      },
-      "id": "way/1463212369"
+      }
     },
     {
       "type": "Feature",
@@ -101239,8 +99046,7 @@ export const railwayNetworkData = {
             41.3301431
           ]
         ]
-      },
-      "id": "way/1463212371"
+      }
     },
     {
       "type": "Feature",
@@ -101265,8 +99071,7 @@ export const railwayNetworkData = {
             41.3272289
           ]
         ]
-      },
-      "id": "way/1463212372"
+      }
     },
     {
       "type": "Feature",
@@ -101275,7 +99080,7 @@ export const railwayNetworkData = {
         "covered": "yes",
         "electrified": "contact_line",
         "frequency": "0",
-        "gauge": "1520",
+        "gauge": "1435;1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -101293,8 +99098,7 @@ export const railwayNetworkData = {
             41.3272788
           ]
         ]
-      },
-      "id": "way/1463212373"
+      }
     },
     {
       "type": "Feature",
@@ -101321,8 +99125,7 @@ export const railwayNetworkData = {
             41.3273236
           ]
         ]
-      },
-      "id": "way/1463212374"
+      }
     },
     {
       "type": "Feature",
@@ -101354,8 +99157,7 @@ export const railwayNetworkData = {
             41.3268608
           ]
         ]
-      },
-      "id": "way/1463212376"
+      }
     },
     {
       "type": "Feature",
@@ -101395,8 +99197,7 @@ export const railwayNetworkData = {
             41.3268147
           ]
         ]
-      },
-      "id": "way/1463212377"
+      }
     },
     {
       "type": "Feature",
@@ -101442,8 +99243,7 @@ export const railwayNetworkData = {
             41.3269014
           ]
         ]
-      },
-      "id": "way/1463212378"
+      }
     },
     {
       "type": "Feature",
@@ -101471,8 +99271,7 @@ export const railwayNetworkData = {
             41.3265216
           ]
         ]
-      },
-      "id": "way/1463212379"
+      }
     },
     {
       "type": "Feature",
@@ -101504,8 +99303,7 @@ export const railwayNetworkData = {
             41.3264824
           ]
         ]
-      },
-      "id": "way/1463212380"
+      }
     },
     {
       "type": "Feature",
@@ -101533,8 +99331,7 @@ export const railwayNetworkData = {
             41.3246303
           ]
         ]
-      },
-      "id": "way/1463212381"
+      }
     },
     {
       "type": "Feature",
@@ -101562,8 +99359,7 @@ export const railwayNetworkData = {
             41.3248244
           ]
         ]
-      },
-      "id": "way/1463212382"
+      }
     },
     {
       "type": "Feature",
@@ -101597,8 +99393,7 @@ export const railwayNetworkData = {
             41.324782
           ]
         ]
-      },
-      "id": "way/1463212383"
+      }
     },
     {
       "type": "Feature",
@@ -101606,6 +99401,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212384",
         "covered": "yes",
         "electrified": "no",
+        "gauge": "1435;1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101622,8 +99418,7 @@ export const railwayNetworkData = {
             41.3250111
           ]
         ]
-      },
-      "id": "way/1463212384"
+      }
     },
     {
       "type": "Feature",
@@ -101631,7 +99426,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212385",
         "covered": "yes",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101648,8 +99443,7 @@ export const railwayNetworkData = {
             41.3220096
           ]
         ]
-      },
-      "id": "way/1463212385"
+      }
     },
     {
       "type": "Feature",
@@ -101674,8 +99468,7 @@ export const railwayNetworkData = {
             41.3218988
           ]
         ]
-      },
-      "id": "way/1463212386"
+      }
     },
     {
       "type": "Feature",
@@ -101683,7 +99476,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212387",
         "covered": "yes",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -101700,8 +99493,7 @@ export const railwayNetworkData = {
             41.3231165
           ]
         ]
-      },
-      "id": "way/1463212387"
+      }
     },
     {
       "type": "Feature",
@@ -101726,8 +99518,7 @@ export const railwayNetworkData = {
             41.3227731
           ]
         ]
-      },
-      "id": "way/1463212388"
+      }
     },
     {
       "type": "Feature",
@@ -101759,8 +99550,7 @@ export const railwayNetworkData = {
             41.3308984
           ]
         ]
-      },
-      "id": "way/1463212411"
+      }
     },
     {
       "type": "Feature",
@@ -101800,8 +99590,7 @@ export const railwayNetworkData = {
             41.331262
           ]
         ]
-      },
-      "id": "way/1463212412"
+      }
     },
     {
       "type": "Feature",
@@ -101857,8 +99646,7 @@ export const railwayNetworkData = {
             41.3303747
           ]
         ]
-      },
-      "id": "way/1463212413"
+      }
     },
     {
       "type": "Feature",
@@ -101918,8 +99706,7 @@ export const railwayNetworkData = {
             41.3302942
           ]
         ]
-      },
-      "id": "way/1463212414"
+      }
     },
     {
       "type": "Feature",
@@ -101983,8 +99770,7 @@ export const railwayNetworkData = {
             41.330871
           ]
         ]
-      },
-      "id": "way/1463212415"
+      }
     },
     {
       "type": "Feature",
@@ -102020,8 +99806,7 @@ export const railwayNetworkData = {
             41.3322125
           ]
         ]
-      },
-      "id": "way/1463212416"
+      }
     },
     {
       "type": "Feature",
@@ -102049,8 +99834,7 @@ export const railwayNetworkData = {
             41.3293911
           ]
         ]
-      },
-      "id": "way/1463212421"
+      }
     },
     {
       "type": "Feature",
@@ -102098,8 +99882,7 @@ export const railwayNetworkData = {
             41.329126
           ]
         ]
-      },
-      "id": "way/1463212422"
+      }
     },
     {
       "type": "Feature",
@@ -102151,8 +99934,7 @@ export const railwayNetworkData = {
             41.3295238
           ]
         ]
-      },
-      "id": "way/1463212423"
+      }
     },
     {
       "type": "Feature",
@@ -102200,8 +99982,7 @@ export const railwayNetworkData = {
             41.3295238
           ]
         ]
-      },
-      "id": "way/1463212424"
+      }
     },
     {
       "type": "Feature",
@@ -102245,8 +100026,7 @@ export const railwayNetworkData = {
             41.3293911
           ]
         ]
-      },
-      "id": "way/1463212425"
+      }
     },
     {
       "type": "Feature",
@@ -102282,8 +100062,7 @@ export const railwayNetworkData = {
             41.3277634
           ]
         ]
-      },
-      "id": "way/1463212426"
+      }
     },
     {
       "type": "Feature",
@@ -102327,8 +100106,7 @@ export const railwayNetworkData = {
             41.3280222
           ]
         ]
-      },
-      "id": "way/1463212427"
+      }
     },
     {
       "type": "Feature",
@@ -102372,8 +100150,7 @@ export const railwayNetworkData = {
             41.3279578
           ]
         ]
-      },
-      "id": "way/1463212428"
+      }
     },
     {
       "type": "Feature",
@@ -102415,8 +100192,7 @@ export const railwayNetworkData = {
             41.3290706
           ]
         ]
-      },
-      "id": "way/1463212429"
+      }
     },
     {
       "type": "Feature",
@@ -102462,8 +100238,7 @@ export const railwayNetworkData = {
             41.3283606
           ]
         ]
-      },
-      "id": "way/1463212430"
+      }
     },
     {
       "type": "Feature",
@@ -102517,8 +100292,7 @@ export const railwayNetworkData = {
             41.3286275
           ]
         ]
-      },
-      "id": "way/1463212431"
+      }
     },
     {
       "type": "Feature",
@@ -102554,8 +100328,7 @@ export const railwayNetworkData = {
             41.3312368
           ]
         ]
-      },
-      "id": "way/1463212432"
+      }
     },
     {
       "type": "Feature",
@@ -102603,8 +100376,7 @@ export const railwayNetworkData = {
             41.3312227
           ]
         ]
-      },
-      "id": "way/1463212433"
+      }
     },
     {
       "type": "Feature",
@@ -102644,8 +100416,7 @@ export const railwayNetworkData = {
             41.3304976
           ]
         ]
-      },
-      "id": "way/1463212434"
+      }
     },
     {
       "type": "Feature",
@@ -102677,8 +100448,7 @@ export const railwayNetworkData = {
             41.3305737
           ]
         ]
-      },
-      "id": "way/1463212435"
+      }
     },
     {
       "type": "Feature",
@@ -102754,8 +100524,7 @@ export const railwayNetworkData = {
             41.332562
           ]
         ]
-      },
-      "id": "way/1463212436"
+      }
     },
     {
       "type": "Feature",
@@ -102839,8 +100608,7 @@ export const railwayNetworkData = {
             41.3324593
           ]
         ]
-      },
-      "id": "way/1463212437"
+      }
     },
     {
       "type": "Feature",
@@ -102896,8 +100664,7 @@ export const railwayNetworkData = {
             41.3306151
           ]
         ]
-      },
-      "id": "way/1463212438"
+      }
     },
     {
       "type": "Feature",
@@ -102925,8 +100692,7 @@ export const railwayNetworkData = {
             41.3291874
           ]
         ]
-      },
-      "id": "way/1463212439"
+      }
     },
     {
       "type": "Feature",
@@ -102976,8 +100742,7 @@ export const railwayNetworkData = {
             41.3304682
           ]
         ]
-      },
-      "id": "way/1463212441"
+      }
     },
     {
       "type": "Feature",
@@ -103039,8 +100804,7 @@ export const railwayNetworkData = {
             41.3299699
           ]
         ]
-      },
-      "id": "way/1463212442"
+      }
     },
     {
       "type": "Feature",
@@ -103064,8 +100828,7 @@ export const railwayNetworkData = {
             41.324319
           ]
         ]
-      },
-      "id": "way/1463212452"
+      }
     },
     {
       "type": "Feature",
@@ -103113,8 +100876,7 @@ export const railwayNetworkData = {
             41.3230584
           ]
         ]
-      },
-      "id": "way/1463212453"
+      }
     },
     {
       "type": "Feature",
@@ -103184,8 +100946,7 @@ export const railwayNetworkData = {
             41.3299699
           ]
         ]
-      },
-      "id": "way/1463212457"
+      }
     },
     {
       "type": "Feature",
@@ -103216,8 +100977,7 @@ export const railwayNetworkData = {
             41.3232401
           ]
         ]
-      },
-      "id": "way/1463212458"
+      }
     },
     {
       "type": "Feature",
@@ -103248,15 +101008,14 @@ export const railwayNetworkData = {
             41.3234788
           ]
         ]
-      },
-      "id": "way/1463212459"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212460",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -103281,15 +101040,14 @@ export const railwayNetworkData = {
             41.3245708
           ]
         ]
-      },
-      "id": "way/1463212460"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212461",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -103314,8 +101072,7 @@ export const railwayNetworkData = {
             41.3245285
           ]
         ]
-      },
-      "id": "way/1463212461"
+      }
     },
     {
       "type": "Feature",
@@ -103323,7 +101080,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212462",
         "electrified": "contact_line",
         "frequency": "0",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -103349,8 +101106,7 @@ export const railwayNetworkData = {
             41.3238054
           ]
         ]
-      },
-      "id": "way/1463212462"
+      }
     },
     {
       "type": "Feature",
@@ -103386,8 +101142,7 @@ export const railwayNetworkData = {
             41.3228567
           ]
         ]
-      },
-      "id": "way/1463212463"
+      }
     },
     {
       "type": "Feature",
@@ -103423,8 +101178,7 @@ export const railwayNetworkData = {
             41.3228929
           ]
         ]
-      },
-      "id": "way/1463212464"
+      }
     },
     {
       "type": "Feature",
@@ -103468,8 +101222,7 @@ export const railwayNetworkData = {
             41.3228285
           ]
         ]
-      },
-      "id": "way/1463212465"
+      }
     },
     {
       "type": "Feature",
@@ -103517,8 +101270,7 @@ export const railwayNetworkData = {
             41.3212331
           ]
         ]
-      },
-      "id": "way/1463212466"
+      }
     },
     {
       "type": "Feature",
@@ -103542,8 +101294,7 @@ export const railwayNetworkData = {
             41.3242848
           ]
         ]
-      },
-      "id": "way/1463212467"
+      }
     },
     {
       "type": "Feature",
@@ -103567,15 +101318,14 @@ export const railwayNetworkData = {
             41.3244784
           ]
         ]
-      },
-      "id": "way/1463212468"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212473",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -103608,15 +101358,14 @@ export const railwayNetworkData = {
             41.3228068
           ]
         ]
-      },
-      "id": "way/1463212473"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212474",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -103669,8 +101418,7 @@ export const railwayNetworkData = {
             41.3219216
           ]
         ]
-      },
-      "id": "way/1463212474"
+      }
     },
     {
       "type": "Feature",
@@ -103697,15 +101445,14 @@ export const railwayNetworkData = {
             41.322623
           ]
         ]
-      },
-      "id": "way/1463212475"
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "way/1463212476",
         "electrified": "no",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight"
@@ -103734,8 +101481,7 @@ export const railwayNetworkData = {
             41.3215191
           ]
         ]
-      },
-      "id": "way/1463212476"
+      }
     },
     {
       "type": "Feature",
@@ -103759,8 +101505,7 @@ export const railwayNetworkData = {
             41.3302962
           ]
         ]
-      },
-      "id": "way/1463212477"
+      }
     },
     {
       "type": "Feature",
@@ -103784,8 +101529,7 @@ export const railwayNetworkData = {
             41.3298078
           ]
         ]
-      },
-      "id": "way/1463212478"
+      }
     },
     {
       "type": "Feature",
@@ -103845,8 +101589,7 @@ export const railwayNetworkData = {
             41.3296033
           ]
         ]
-      },
-      "id": "way/1463212479"
+      }
     },
     {
       "type": "Feature",
@@ -103876,8 +101619,7 @@ export const railwayNetworkData = {
             41.3290706
           ]
         ]
-      },
-      "id": "way/1463212480"
+      }
     },
     {
       "type": "Feature",
@@ -103947,8 +101689,7 @@ export const railwayNetworkData = {
             41.3291401
           ]
         ]
-      },
-      "id": "way/1463212481"
+      }
     },
     {
       "type": "Feature",
@@ -104006,8 +101747,7 @@ export const railwayNetworkData = {
             41.3293445
           ]
         ]
-      },
-      "id": "way/1463212482"
+      }
     },
     {
       "type": "Feature",
@@ -104069,8 +101809,7 @@ export const railwayNetworkData = {
             41.3301794
           ]
         ]
-      },
-      "id": "way/1463212483"
+      }
     },
     {
       "type": "Feature",
@@ -104132,8 +101871,7 @@ export const railwayNetworkData = {
             41.3296507
           ]
         ]
-      },
-      "id": "way/1463212484"
+      }
     },
     {
       "type": "Feature",
@@ -104159,8 +101897,7 @@ export const railwayNetworkData = {
             41.3247436
           ]
         ]
-      },
-      "id": "way/1463212485"
+      }
     },
     {
       "type": "Feature",
@@ -104198,8 +101935,7 @@ export const railwayNetworkData = {
             41.3250845
           ]
         ]
-      },
-      "id": "way/1463212486"
+      }
     },
     {
       "type": "Feature",
@@ -104245,8 +101981,7 @@ export const railwayNetworkData = {
             41.3294895
           ]
         ]
-      },
-      "id": "way/1463212487"
+      }
     },
     {
       "type": "Feature",
@@ -104277,8 +102012,7 @@ export const railwayNetworkData = {
             41.3242818
           ]
         ]
-      },
-      "id": "way/1463212488"
+      }
     },
     {
       "type": "Feature",
@@ -104309,8 +102043,7 @@ export const railwayNetworkData = {
             41.3243331
           ]
         ]
-      },
-      "id": "way/1463212489"
+      }
     },
     {
       "type": "Feature",
@@ -104336,8 +102069,7 @@ export const railwayNetworkData = {
             41.3242818
           ]
         ]
-      },
-      "id": "way/1463212490"
+      }
     },
     {
       "type": "Feature",
@@ -104363,8 +102095,7 @@ export const railwayNetworkData = {
             41.3240814
           ]
         ]
-      },
-      "id": "way/1463212491"
+      }
     },
     {
       "type": "Feature",
@@ -104390,8 +102121,7 @@ export const railwayNetworkData = {
             41.3243331
           ]
         ]
-      },
-      "id": "way/1463212492"
+      }
     },
     {
       "type": "Feature",
@@ -104425,8 +102155,7 @@ export const railwayNetworkData = {
             41.3240411
           ]
         ]
-      },
-      "id": "way/1463212493"
+      }
     },
     {
       "type": "Feature",
@@ -104452,8 +102181,7 @@ export const railwayNetworkData = {
             41.3234348
           ]
         ]
-      },
-      "id": "way/1463212494"
+      }
     },
     {
       "type": "Feature",
@@ -104479,8 +102207,7 @@ export const railwayNetworkData = {
             41.3232401
           ]
         ]
-      },
-      "id": "way/1463212495"
+      }
     },
     {
       "type": "Feature",
@@ -104514,8 +102241,7 @@ export const railwayNetworkData = {
             41.3234788
           ]
         ]
-      },
-      "id": "way/1463212496"
+      }
     },
     {
       "type": "Feature",
@@ -104523,7 +102249,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212497",
         "electrified": "contact_line",
         "frequency": "0",
-        "gauge": "1435",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -104557,8 +102283,7 @@ export const railwayNetworkData = {
             41.32318
           ]
         ]
-      },
-      "id": "way/1463212497"
+      }
     },
     {
       "type": "Feature",
@@ -104618,8 +102343,7 @@ export const railwayNetworkData = {
             41.3219824
           ]
         ]
-      },
-      "id": "way/1463212498"
+      }
     },
     {
       "type": "Feature",
@@ -104627,6 +102351,7 @@ export const railwayNetworkData = {
         "@id": "way/1463212499",
         "electrified": "contact_line",
         "frequency": "0",
+        "gauge": "1520",
         "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
         "railway": "rail",
         "railway:traffic_mode": "freight",
@@ -104649,8 +102374,7 @@ export const railwayNetworkData = {
             41.3227408
           ]
         ]
-      },
-      "id": "way/1463212499"
+      }
     },
     {
       "type": "Feature",
@@ -104684,8 +102408,7 @@ export const railwayNetworkData = {
             41.3304682
           ]
         ]
-      },
-      "id": "way/1463212501"
+      }
     },
     {
       "type": "Feature",
@@ -104713,8 +102436,7 @@ export const railwayNetworkData = {
             41.3299739
           ]
         ]
-      },
-      "id": "way/1463212502"
+      }
     },
     {
       "type": "Feature",
@@ -104762,8 +102484,7 @@ export const railwayNetworkData = {
             41.3317091
           ]
         ]
-      },
-      "id": "way/1463212503"
+      }
     },
     {
       "type": "Feature",
@@ -104815,8 +102536,7 @@ export const railwayNetworkData = {
             41.3313486
           ]
         ]
-      },
-      "id": "way/1463212504"
+      }
     },
     {
       "type": "Feature",
@@ -104844,8 +102564,7 @@ export const railwayNetworkData = {
             41.3295238
           ]
         ]
-      },
-      "id": "way/1463212505"
+      }
     },
     {
       "type": "Feature",
@@ -104925,8 +102644,7 @@ export const railwayNetworkData = {
             41.3326597
           ]
         ]
-      },
-      "id": "way/1463212506"
+      }
     },
     {
       "type": "Feature",
@@ -104962,8 +102680,7 @@ export const railwayNetworkData = {
             41.3313747
           ]
         ]
-      },
-      "id": "way/1463212507"
+      }
     },
     {
       "type": "Feature",
@@ -104988,8 +102705,7 @@ export const railwayNetworkData = {
             41.3307002
           ]
         ]
-      },
-      "id": "way/1463212508"
+      }
     },
     {
       "type": "Feature",
@@ -105025,8 +102741,7 @@ export const railwayNetworkData = {
             41.3251685
           ]
         ]
-      },
-      "id": "way/1463212509"
+      }
     },
     {
       "type": "Feature",
@@ -105053,8 +102768,7 @@ export const railwayNetworkData = {
             41.3316454
           ]
         ]
-      },
-      "id": "way/1463212510"
+      }
     },
     {
       "type": "Feature",
@@ -105096,8 +102810,7 @@ export const railwayNetworkData = {
             41.3324019
           ]
         ]
-      },
-      "id": "way/1463212511"
+      }
     },
     {
       "type": "Feature",
@@ -105141,8 +102854,7 @@ export const railwayNetworkData = {
             41.3359778
           ]
         ]
-      },
-      "id": "way/1463212512"
+      }
     },
     {
       "type": "Feature",
@@ -105169,8 +102881,7 @@ export const railwayNetworkData = {
             41.3320072
           ]
         ]
-      },
-      "id": "way/1463212513"
+      }
     },
     {
       "type": "Feature",
@@ -105210,8 +102921,7 @@ export const railwayNetworkData = {
             41.3373956
           ]
         ]
-      },
-      "id": "way/1463212514"
+      }
     },
     {
       "type": "Feature",
@@ -105271,8 +102981,7 @@ export const railwayNetworkData = {
             41.33203
           ]
         ]
-      },
-      "id": "way/1463212516"
+      }
     },
     {
       "type": "Feature",
@@ -105320,8 +103029,7 @@ export const railwayNetworkData = {
             41.3316083
           ]
         ]
-      },
-      "id": "way/1463212517"
+      }
     },
     {
       "type": "Feature",
@@ -105377,8 +103085,7 @@ export const railwayNetworkData = {
             41.3355478
           ]
         ]
-      },
-      "id": "way/1463212518"
+      }
     },
     {
       "type": "Feature",
@@ -105442,8 +103149,7 @@ export const railwayNetworkData = {
             41.331405
           ]
         ]
-      },
-      "id": "way/1463212519"
+      }
     },
     {
       "type": "Feature",
@@ -105491,8 +103197,7 @@ export const railwayNetworkData = {
             41.3329457
           ]
         ]
-      },
-      "id": "way/1463212520"
+      }
     },
     {
       "type": "Feature",
@@ -105536,8 +103241,7 @@ export const railwayNetworkData = {
             41.333557
           ]
         ]
-      },
-      "id": "way/1463212521"
+      }
     },
     {
       "type": "Feature",
@@ -105589,8 +103293,7 @@ export const railwayNetworkData = {
             41.3325531
           ]
         ]
-      },
-      "id": "way/1463212522"
+      }
     },
     {
       "type": "Feature",
@@ -105614,8 +103317,7 @@ export const railwayNetworkData = {
             41.3453097
           ]
         ]
-      },
-      "id": "way/1465709350"
+      }
     },
     {
       "type": "Feature",
@@ -105677,8 +103379,90 @@ export const railwayNetworkData = {
             41.3394501
           ]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1508097780",
+        "covered": "yes",
+        "electrified": "no",
+        "gauge": "1520",
+        "operator": "შპს \"მარაბდა-კარწახის რკინიგზა\"",
+        "railway": "rail",
+        "railway:traffic_mode": "freight"
       },
-      "id": "way/1465709353"
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.4926068,
+            41.3331399
+          ],
+          [
+            43.4927112,
+            41.3325711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1514537836",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:az": "Bakı–Tbilisi–Qars dəmiryol xətti",
+        "name:en": "Baku-Tbilisi-Kars Railway",
+        "name:ka": "ბაქო-თბილისი-ყარსის რკინიგზა",
+        "name:tr": "Bakü-Tiflis-Kars demiryolu",
+        "operator": "შპს „მარაბდა-კარწახის რკინიგზა“",
+        "railway": "rail",
+        "railway:bidirectional": "regular",
+        "railway:preferred_direction": "both",
+        "railway:traffic_mode": "freight",
+        "tunnel": "yes",
+        "usage": "main"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2964216,
+            41.1894917
+          ],
+          [
+            43.2962387,
+            41.19283
+          ],
+          [
+            43.2962429,
+            41.1957191
+          ],
+          [
+            43.2964325,
+            41.1985805
+          ],
+          [
+            43.2969474,
+            41.2009377
+          ],
+          [
+            43.2981062,
+            41.2035531
+          ],
+          [
+            43.2994291,
+            41.2057095
+          ],
+          [
+            43.3007761,
+            41.207481
+          ]
+        ]
+      }
     }
   ]
 }
