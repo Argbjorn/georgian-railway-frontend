@@ -69,6 +69,9 @@ jobs:
           fi
           echo "GOOGLE_SPREADSHEET_ID=$SPREADSHEET_ID" >> $GITHUB_ENV
 
+      - name: Run check_all_routes
+        run: python scripts/check_all_routes.py
+
       - name: Run make_routes_geo_files
         run: python scripts/make_routes_geo_files.py
 
