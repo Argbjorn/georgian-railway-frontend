@@ -178,7 +178,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "13:36",
+               "departure_time": "13:51",
                "stop_time": null
             }
          ]
@@ -224,7 +224,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "13:13",
+               "departure_time": "13:28",
                "stop_time": null
             }
          ]
@@ -551,7 +551,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "12:08",
+               "departure_time": "12:23",
                "stop_time": null
             }
          ]
@@ -926,7 +926,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "11:16",
+               "departure_time": "11:31",
                "stop_time": null
             }
          ]
@@ -971,7 +971,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "11:01",
+               "departure_time": "11:16",
                "stop_time": null
             }
          ]
@@ -1016,7 +1016,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "10:50",
+               "departure_time": "11:05",
                "stop_time": null
             }
          ]
@@ -1187,7 +1187,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -1225,7 +1225,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:50",
+               "departure_time": "07:29",
                "stop_time": null
             },
             {
@@ -1237,7 +1237,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:59",
+               "departure_time": "08:49",
                "stop_time": null
             },
             {
@@ -1249,7 +1249,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:40",
+               "departure_time": "19:29",
                "stop_time": null
             },
             {
@@ -1293,7 +1293,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:30",
+               "departure_time": "08:20",
                "stop_time": null
             },
             {
@@ -1319,7 +1319,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:16",
+               "departure_time": "07:55",
                "stop_time": null
             },
             {
@@ -1331,7 +1331,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "20:06",
+               "departure_time": "19:55",
                "stop_time": null
             }
          ],
@@ -2239,7 +2239,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -2321,7 +2321,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -3015,7 +3015,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "14:32",
+               "departure_time": "14:27",
                "stop_time": null
             },
             {
@@ -3490,7 +3490,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -3688,7 +3688,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -3914,7 +3914,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:20",
+               "departure_time": "07:00",
                "stop_time": null
             },
             {
@@ -3926,7 +3926,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:27",
+               "departure_time": "09:17",
                "stop_time": null
             },
             {
@@ -3938,7 +3938,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:10",
+               "departure_time": "19:00",
                "stop_time": null
             },
             {
@@ -4386,7 +4386,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "13:47",
+               "departure_time": "14:02",
                "stop_time": null
             },
             {
@@ -4540,7 +4540,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:58",
+               "departure_time": "07:37",
                "stop_time": null
             },
             {
@@ -4552,7 +4552,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:47",
+               "departure_time": "08:37",
                "stop_time": null
             },
             {
@@ -4564,7 +4564,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:48",
+               "departure_time": "19:37",
                "stop_time": null
             },
             {
@@ -4610,7 +4610,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:03",
+               "departure_time": "07:42",
                "stop_time": null
             },
             {
@@ -4622,7 +4622,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:42",
+               "departure_time": "08:32",
                "stop_time": null
             },
             {
@@ -4634,7 +4634,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:53",
+               "departure_time": "19:42",
                "stop_time": null
             },
             {
@@ -4677,7 +4677,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "10:30",
+               "departure_time": "10:50",
                "stop_time": null
             }
          ],
@@ -4691,7 +4691,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:24",
+               "departure_time": "09:19",
                "stop_time": null
             }
          ],
@@ -5025,12 +5025,12 @@
    },
    {
       "id": [
-         11142369109,
-         13078313779
+         13078313779,
+         13698423163
       ],
       "coords": [
-         42.1724662,
-         42.3944376
+         42.172804,
+         42.3943393
       ],
       "code": "samtredia2",
       "type": "secondary",
@@ -5473,7 +5473,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:10",
+               "departure_time": "06:50",
                "stop_time": null
             },
             {
@@ -5485,7 +5485,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:00",
+               "departure_time": "18:50",
                "stop_time": null
             }
          ],
@@ -5595,7 +5595,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:39",
+               "departure_time": "09:29",
                "stop_time": null
             },
             {
@@ -5642,7 +5642,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:29",
+               "departure_time": "07:08",
                "stop_time": null
             },
             {
@@ -5654,7 +5654,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:18",
+               "departure_time": "09:08",
                "stop_time": null
             },
             {
@@ -5666,7 +5666,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:19",
+               "departure_time": "19:08",
                "stop_time": null
             },
             {
@@ -5972,7 +5972,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:39",
+               "departure_time": "07:18",
                "stop_time": null
             },
             {
@@ -5984,7 +5984,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:08",
+               "departure_time": "08:58",
                "stop_time": null
             },
             {
@@ -5996,7 +5996,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "19:29",
+               "departure_time": "19:18",
                "stop_time": null
             },
             {
@@ -6176,7 +6176,7 @@
                "name_en": "Zestafoni → Khashuri",
                "name_ru": "Зестафони → Хашури",
                "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
+               "frequency": "on workdays",
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
@@ -6232,7 +6232,7 @@
                "every_second_day_start": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "12:55",
+               "departure_time": "13:10",
                "stop_time": null
             },
             {
