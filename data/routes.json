@@ -59,9 +59,9 @@
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">March</a>.",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_3.pdf\" target=\"_blank\">март</a>.",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">მარტისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -154,9 +154,9 @@
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">March</a>.",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_3.pdf\" target=\"_blank\">март</a>.",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_3.pdf\" target=\"_blank\">მარტისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "stations": [
          {
             "code": "yerevan",
@@ -659,7 +659,7 @@
       "name:ka": "ქუთაისი → საჩხერე",
       "name:en": "Kutaisi → Sachkhere",
       "name:ru": "Кутаиси → Сачхере",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "every_second_day_start": null,
       "end_date": null,
@@ -669,9 +669,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": "This line suspends operation during the winter period. Its launch in spring depends on weather conditions, and it is not possible to predict an exact date. It usually happens in March.",
-      "description_ru": "Эта линия прекращает свою работу в зимний период. Запуск весной зависит от погодных условий и предсказать точную дату невозможно. Обычно это происходит в марте.",
-      "description_ka": "ეს ხაზი ზამთრის პერიოდში მუშაობას წყვეტს. გაზაფხულზე მისი ამოქმედება დამოკიდებულია ამინდის პირობებზე და ზუსტი თარიღის წინასწარ განსაზღვრა შეუძლებელია. ჩვეულებრივ ეს მარტში ხდება.",
+      "description_en": null,
+      "description_ru": null,
+      "description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -769,11 +769,12 @@
             "name_en": "Sachkhere",
             "name_ru": "Сачхере",
             "name_ka": "საჩხერე",
-            "departure_time": "09:24",
+            "departure_time": "09:19",
             "arrival_time": null,
             "stop_time": null
          }
       ],
+      "travel_time": "03:29",
       "price": {
          "price_type": "exact",
          "price": 2.0
@@ -786,7 +787,7 @@
       "name:ka": "საჩხერე → ქუთაისი",
       "name:en": "Sachkhere → Kutaisi",
       "name:ru": "Сачхере → Кутаиси",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "every_second_day_start": null,
       "end_date": null,
@@ -796,9 +797,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": "This line suspends operation during the winter period. Its launch in spring depends on weather conditions, and it is not possible to predict an exact date. It usually happens in March.",
-      "description_ru": "Эта линия прекращает свою работу в зимний период. Запуск весной зависит от погодных условий и предсказать точную дату невозможно. Обычно это происходит в марте.",
-      "description_ka": "ეს ხაზი ზამთრის პერიოდში მუშაობას წყვეტს. გაზაფხულზე მისი ამოქმედება დამოკიდებულია ამინდის პირობებზე და ზუსტი თარიღის წინასწარ განსაზღვრა შეუძლებელია. ჩვეულებრივ ეს მარტში ხდება.",
+      "description_en": null,
+      "description_ru": null,
+      "description_ka": null,
       "stations": [
          {
             "code": "sachkhere",
@@ -806,7 +807,7 @@
             "name_en": "Sachkhere",
             "name_ru": "Сачхере",
             "name_ka": "საჩხერე",
-            "departure_time": "10:30",
+            "departure_time": "10:50",
             "arrival_time": null,
             "stop_time": null
          },
@@ -816,7 +817,7 @@
             "name_en": "Darkveti",
             "name_ru": "Дарквети",
             "name_ka": "დარკვეთი",
-            "departure_time": "10:50",
+            "departure_time": "11:05",
             "arrival_time": null,
             "stop_time": null
          },
@@ -826,7 +827,7 @@
             "name_en": "Chikauri",
             "name_ru": "Чикаури",
             "name_ka": "ჭიქაური",
-            "departure_time": "11:01",
+            "departure_time": "11:16",
             "arrival_time": null,
             "stop_time": null
          },
@@ -836,7 +837,7 @@
             "name_en": "Chiatura",
             "name_ru": "Чиатура",
             "name_ka": "ჭიათურა",
-            "departure_time": "11:16",
+            "departure_time": "11:31",
             "arrival_time": null,
             "stop_time": null
          },
@@ -846,7 +847,7 @@
             "name_en": "Beghlevi",
             "name_ru": "Беглеви",
             "name_ka": "ბეღლევი",
-            "departure_time": "12:08",
+            "departure_time": "12:23",
             "arrival_time": null,
             "stop_time": null
          },
@@ -856,7 +857,7 @@
             "name_en": "Zestafoni",
             "name_ru": "Зестафони",
             "name_ka": "ზესტაფონი",
-            "departure_time": "12:55",
+            "departure_time": "13:10",
             "arrival_time": null,
             "stop_time": null
          },
@@ -866,7 +867,7 @@
             "name_en": "Argveti",
             "name_ru": "Аргвети",
             "name_ka": "არგვეთი",
-            "departure_time": "13:13",
+            "departure_time": "13:28",
             "arrival_time": null,
             "stop_time": null
          },
@@ -876,7 +877,7 @@
             "name_en": "Ajameti",
             "name_ru": "Аджамети",
             "name_ka": "აჯამეთი",
-            "departure_time": "13:36",
+            "departure_time": "13:51",
             "arrival_time": null,
             "stop_time": null
          },
@@ -886,7 +887,7 @@
             "name_en": "Rioni",
             "name_ru": "Риони",
             "name_ka": "რიონი",
-            "departure_time": "13:47",
+            "departure_time": "14:02",
             "arrival_time": null,
             "stop_time": null
          },
@@ -896,11 +897,12 @@
             "name_en": "Kutaisi-1",
             "name_ru": "Кутаиси-1",
             "name_ka": "ქუთაისი-1",
-            "departure_time": "14:32",
+            "departure_time": "14:27",
             "arrival_time": null,
             "stop_time": null
          }
       ],
+      "travel_time": "03:37",
       "price": {
          "price_type": "exact",
          "price": 2.0
@@ -3801,7 +3803,7 @@
       "name:ka": "ქუთაისი → რიონი",
       "name:en": "Kutaisi → Rioni",
       "name:ru": "Кутаиси → Риони",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748822400000,
       "end_date": null,
@@ -3811,9 +3813,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "kutaisi1",
@@ -3846,14 +3848,11 @@
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6355"
-      ]
+      "analogue": []
    },
    {
       "id": 18681731,
@@ -3861,7 +3860,7 @@
       "name:ka": "რიონი → ქუთაისი",
       "name:en": "Rioni → Kutaisi",
       "name:ru": "Риони → Кутаиси",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748822400000,
       "end_date": null,
@@ -3871,9 +3870,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "rioni",
@@ -3906,14 +3905,11 @@
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6356"
-      ]
+      "analogue": []
    },
    {
       "id": 18681732,
@@ -3921,7 +3917,7 @@
       "name:ka": "ქუთაისი → რიონი",
       "name:en": "Kutaisi → Rioni",
       "name:ru": "Кутаиси → Риони",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748736000000,
       "end_date": null,
@@ -3931,9 +3927,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "kutaisi1",
@@ -3966,14 +3962,11 @@
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6353"
-      ]
+      "analogue": []
    },
    {
       "id": 18681730,
@@ -3981,7 +3974,7 @@
       "name:ka": "რიონი → ქუთაისი",
       "name:en": "Rioni → Kutaisi",
       "name:ru": "Риони → Кутаиси",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "every_second_day_start": 1748736000000,
       "end_date": null,
@@ -3991,9 +3984,9 @@
       "online_tickets_new_site": false,
       "train_type": "suburban",
       "has_arrival_time": false,
-      "description_en": null,
-      "description_ru": null,
-      "description_ka": null,
+      "description_en": "This train was cancelled in spring 2026 without prior notice.",
+      "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
+      "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
       "stations": [
          {
             "code": "rioni",
@@ -4026,14 +4019,11 @@
             "stop_time": null
          }
       ],
-      "travel_time": "00:20",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         "6354"
-      ]
+      "analogue": []
    },
    {
       "id": 16011187,
@@ -4061,7 +4051,7 @@
             "name_en": "Tbilisi Central Station",
             "name_ru": "Центральный вокзал Тбилиси",
             "name_ka": "თბილისის ცენტრალური სადგური",
-            "departure_time": "07:10",
+            "departure_time": "06:50",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4071,7 +4061,7 @@
             "name_en": "Navtlughi",
             "name_ru": "Навтлуги",
             "name_ka": "ნავთლუღი",
-            "departure_time": "07:20",
+            "departure_time": "07:00",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4081,7 +4071,7 @@
             "name_en": "Tbilisi Marshalling",
             "name_ru": "Тбилиси-Сортировочная",
             "name_ka": "თბილისი დახარისხება",
-            "departure_time": "07:29",
+            "departure_time": "07:08",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4091,7 +4081,7 @@
             "name_en": "Veli",
             "name_ru": "Вели",
             "name_ka": "ველი",
-            "departure_time": "07:39",
+            "departure_time": "07:18",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4101,7 +4091,7 @@
             "name_en": "Gachiani",
             "name_ru": "Гачиани",
             "name_ka": "გაჩიანი",
-            "departure_time": "07:50",
+            "departure_time": "07:29",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4111,7 +4101,7 @@
             "name_en": "Rustavi Central",
             "name_ru": "Рустави Центральная",
             "name_ka": "რუსთავი ცენტრალი",
-            "departure_time": "07:58",
+            "departure_time": "07:37",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4121,7 +4111,7 @@
             "name_en": "Rustavi-Cargo",
             "name_ru": "Рустави-Грузовая",
             "name_ka": "რუსთავი-სატვირთო",
-            "departure_time": "08:03",
+            "departure_time": "07:42",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4131,12 +4121,12 @@
             "name_en": "Gardabani",
             "name_ru": "Гардабани",
             "name_ka": "გარდაბანი",
-            "departure_time": "08:16",
+            "departure_time": "07:55",
             "arrival_time": null,
             "stop_time": null
          }
       ],
-      "travel_time": "01:06",
+      "travel_time": "01:05",
       "price": {
          "price_type": "exact",
          "price": 0.5
@@ -4171,7 +4161,7 @@
             "name_en": "Gardabani",
             "name_ru": "Гардабани",
             "name_ka": "გარდაბანი",
-            "departure_time": "08:30",
+            "departure_time": "08:20",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4181,7 +4171,7 @@
             "name_en": "Rustavi-Cargo",
             "name_ru": "Рустави-Грузовая",
             "name_ka": "რუსთავი-სატვირთო",
-            "departure_time": "08:42",
+            "departure_time": "08:32",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4191,7 +4181,7 @@
             "name_en": "Rustavi Central",
             "name_ru": "Рустави Центральная",
             "name_ka": "რუსთავი ცენტრალი",
-            "departure_time": "08:47",
+            "departure_time": "08:37",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4201,7 +4191,7 @@
             "name_en": "Gachiani",
             "name_ru": "Гачиани",
             "name_ka": "გაჩიანი",
-            "departure_time": "08:59",
+            "departure_time": "08:49",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4211,7 +4201,7 @@
             "name_en": "Veli",
             "name_ru": "Вели",
             "name_ka": "ველი",
-            "departure_time": "09:08",
+            "departure_time": "08:58",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4221,7 +4211,7 @@
             "name_en": "Tbilisi Marshalling",
             "name_ru": "Тбилиси-Сортировочная",
             "name_ka": "თბილისი დახარისხება",
-            "departure_time": "09:18",
+            "departure_time": "09:08",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4231,7 +4221,7 @@
             "name_en": "Navtlughi",
             "name_ru": "Навтлуги",
             "name_ka": "ნავთლუღი",
-            "departure_time": "09:27",
+            "departure_time": "09:17",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4241,7 +4231,7 @@
             "name_en": "Tbilisi Central Station",
             "name_ru": "Центральный вокзал Тбилиси",
             "name_ka": "თბილისის ცენტრალური სადგური",
-            "departure_time": "09:39",
+            "departure_time": "09:29",
             "arrival_time": null,
             "stop_time": null
          }
@@ -4281,7 +4271,7 @@
             "name_en": "Tbilisi Central Station",
             "name_ru": "Центральный вокзал Тбилиси",
             "name_ka": "თბილისის ცენტრალური სადგური",
-            "departure_time": "19:00",
+            "departure_time": "18:50",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4291,7 +4281,7 @@
             "name_en": "Navtlughi",
             "name_ru": "Навтлуги",
             "name_ka": "ნავთლუღი",
-            "departure_time": "19:10",
+            "departure_time": "19:00",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4301,7 +4291,7 @@
             "name_en": "Tbilisi Marshalling",
             "name_ru": "Тбилиси-Сортировочная",
             "name_ka": "თბილისი დახარისხება",
-            "departure_time": "19:19",
+            "departure_time": "19:08",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4311,7 +4301,7 @@
             "name_en": "Veli",
             "name_ru": "Вели",
             "name_ka": "ველი",
-            "departure_time": "19:29",
+            "departure_time": "19:18",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4321,7 +4311,7 @@
             "name_en": "Gachiani",
             "name_ru": "Гачиани",
             "name_ka": "გაჩიანი",
-            "departure_time": "19:40",
+            "departure_time": "19:29",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4331,7 +4321,7 @@
             "name_en": "Rustavi Central",
             "name_ru": "Рустави Центральная",
             "name_ka": "რუსთავი ცენტრალი",
-            "departure_time": "19:48",
+            "departure_time": "19:37",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4341,7 +4331,7 @@
             "name_en": "Rustavi-Cargo",
             "name_ru": "Рустави-Грузовая",
             "name_ka": "რუსთავი-სატვირთო",
-            "departure_time": "19:53",
+            "departure_time": "19:42",
             "arrival_time": null,
             "stop_time": null
          },
@@ -4351,12 +4341,12 @@
             "name_en": "Gardabani",
             "name_ru": "Гардабани",
             "name_ka": "გარდაბანი",
-            "departure_time": "20:06",
+            "departure_time": "19:55",
             "arrival_time": null,
             "stop_time": null
          }
       ],
-      "travel_time": "01:06",
+      "travel_time": "01:05",
       "price": {
          "price_type": "exact",
          "price": 0.5
