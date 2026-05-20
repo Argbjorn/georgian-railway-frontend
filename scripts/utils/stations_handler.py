@@ -4,12 +4,12 @@ from config import STATIONS_LIST_JS_PATH
 
 class StationsHandler:
     def __init__(self):
-        self.file_path = STATIONS_LIST_JS_PATH
+        with open(STATIONS_LIST_JS_PATH, 'r', encoding='utf-8') as file:
+            stations = json.loads(file.read().lstrip('export const stations = '))
+        self._stations = {s['code']: s for s in stations}
 
     def get_station_names_by_code(self, code):
-        with open(self.file_path, 'r', encoding='utf-8') as file:
-            stations = json.loads(file.read().lstrip('export const stations = '))
-            for station in stations:
-                if station['code'] == code:
-                    return [station['name_en'], station['name_ru'], station['name_ka']]
-            return ['unknown station', 'неизвестная станция', 'unknown station']
+        station = self._stations.get(code)
+        if station:
+            return [station['name_en'], station['name_ru'], station['name_ka']]
+        return ['unknown station', 'неизвестная станция', 'unknown station']
