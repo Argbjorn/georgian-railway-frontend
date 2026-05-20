@@ -2,6 +2,7 @@
 # бэке в make_routes_files.py для названий станций на разных языках.
 import sys
 import os
+import time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -165,4 +166,12 @@ def make_stations_json():
 
 
 if __name__ == '__main__':
-    make_stations_json()
+    for attempt in range(1, 6):
+        try:
+            make_stations_json()
+            break
+        except Exception as e:
+            if attempt == 5:
+                raise
+            print(f"Attempt {attempt} failed: {e}. Retrying in 10s...")
+            time.sleep(3)
