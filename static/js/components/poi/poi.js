@@ -18,15 +18,15 @@ export const poiInfo = [
         coords: [41.6467, 45.6118],
     },
     {
-        description_ru: "Крайняя точка для пассажирских поездов на этой ветке - Боржоми. В сторону Ахалцихе поезда не ходят с 2010 года.",
-        description_en: "The farthest point for passenger trains on this branch is Borjomi. Passenger trains to Akhaltsikhe do not run since 2010.",
-        description_ka: "მგზავრული მატარებლებისთვის ამ ხაზზე საბოლოო წერტილია ბორჯომი. ახალციხის მიმართულებით მატარებლები 2010 წლიდან აღარ მოძრაობენ.",
+        description_ru: "Крайняя точка для пассажирских поездов на этой ветке - Боржоми. В сторону Ахалцихе поезда не ходят с 2010 года. В мае 2026 года руководство Грузинских железных дорог анонсировало возобновление движения до Ахалцихе, но без конкретных сроков.",
+        description_en: "The farthest point for passenger trains on this branch is Borjomi. Passenger trains to Akhaltsikhe do not run since 2010. In May 2026, Georgian Railway management announced the resumption of service to Akhaltsikhe, but without a specific timeline.",
+        description_ka: "მგზავრული მატარებლებისთვის ამ ხაზზე საბოლოო წერტილია ბორჯომი. ახალციხის მიმართულებით მატარებლები 2010 წლიდან აღარ მოძრაობენ. 2026 წლის მაისში საქართველოს რკინიგზის ხელმძღვანელობამ გამოაცხადა ახალციხემდე მიმოსვლის განახლება, თუმცა კონკრეტული ვადების გარეშე.",
         coords: [41.69444, 43.11855],
     },
     {
-      description_ru: "Здесь должна быть информация об узкоколейном маршруте Боржоми - Бакуриани («Кукушка»), но он был отменен в 2020. СМИ пишут, что поезду и инфраструктуре требуется ремонт и реконструкция. Официальных заявлений о восстановлении сообщения нет.",
-      description_en: "Here should be information about the narrow-gauge route Borjomi - Bakuriani («Kukushka»), but it was canceled in 2020. The media write that the train and infrastructure need repair and reconstruction. There are no official statements about the resumption of communication.",
-      description_ka: "აქ უნდა იყოს ინფორმაცია ბორჯომის და ბაკურიანის მგზავრულ მატარებლების მიმართულებით მოძრაობის შესახებ («კუკუშკა»), მაგრამ ის 2020 წლიდან გაუქმებულია. სამომხმარებლო სახელობები მიუთითებს, რომ მატარებლებს და ინფრასტრუქტურას გადასცემს რემონტს და რეკონსტრუქციას. ონლაინ განცხადებები არ აქვს მიმოხილვის შესახებ.",
+      description_ru: "Здесь должна быть информация об узкоколейном маршруте Боржоми - Бакуриани («Кукушка»), но он был отменен в 2020. СМИ пишут, что поезду и инфраструктуре требуется ремонт и реконструкция. В мае 2026 года руководство Грузинских железных дорог сообщило о возобновлении маршрута в январе 2027 года.",
+      description_en: "Here should be information about the narrow-gauge route Borjomi - Bakuriani («Kukushka»), but it was canceled in 2020. The media write that the train and infrastructure need repair and reconstruction. In May 2026, Georgian Railway management announced the resumption of the route in January 2027.",
+      description_ka: "აქ უნდა იყოს ინფორმაცია ბორჯომი - ბაკურიანის ვიწროლიანდაგიანი მარშრუტის შესახებ («კუკუშკა»), მაგრამ ის 2020 წელს გაუქმდა. მედია წერს, რომ მატარებელსა და ინფრასტრუქტურას სჭირდება შეკეთება და რეკონსტრუქცია. 2026 წლის მაისში საქართველოს რკინიგზის ხელმძღვანელობამ განაცხადა მარშრუტის 2027 წლის იანვარში განახლების შესახებ.",
       coords: [41.78172, 43.46672],
     },
     {
@@ -36,9 +36,9 @@ export const poiInfo = [
       coords: [42.22909, 43.96977],
     },
     {
-      description_ru: "Регулярно появляются сообщения о восстановлении пассажирского сообщения с Баку, но на данный момент маршрут не запущен.",
-      description_en: "Regularly appearing messages about the restoration of passenger communication from Baku, but at the moment the route is not launched.",
-      description_ka: "დროდადრო ჩნდება ცნობები ბაქოსთან სამგზავრო მიმოსვლის აღდგენაზე, თუმცა ამ ეტაპზე მარშრუტი ჯერ არ არის გაშვებული.",
+      description_ru: "Регулярно появляются сообщения о восстановлении пассажирского сообщения с Баку, но на данный момент маршрут не запущен. По информации на май 2026 года, начало движения запланировано на 26 мая 2026 года.",
+      description_en: "Regularly appearing messages about the restoration of passenger communication from Baku, but at the moment the route is not launched. According to information as of May 2026, the start of service is planned for May 26, 2026.",
+      description_ka: "დროდადრო ჩნდება ცნობები ბაქოსთან სამგზავრო მიმოსვლის აღდგენაზე, თუმცა ამ ეტაპზე მარშრუტი ჯერ არ არის გაშვებული. 2026 წლის მაისის მონაცემებით, მოძრაობის დაწყება დაგეგმილია 2026 წლის 26 მაისს.",
       coords: [40.37931, 49.83579],
     },
     {
