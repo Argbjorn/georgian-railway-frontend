@@ -77,7 +77,9 @@ class GeoRoutesExcelHandler:
                 return route["id"]
         raise ValueError(f"There's no route number {route_ref}")
 
-    def get_all_routes_osm_id(self):
+    def get_all_routes_osm_id(self, show_on_site_only=False):
+        if show_on_site_only:
+            return [route["id"] for route in self.routes_json if route.get("show_on_site") == "y"]
         return [route["id"] for route in self.routes_json]
 
     def get_all_routes_ref(self):

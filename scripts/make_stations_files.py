@@ -107,7 +107,7 @@ def get_routes_for_stations():
 
 
 def make_stations_json():
-    all_route_osm_ids = gr_workbook.get_all_routes_osm_id()
+    all_route_osm_ids = gr_workbook.get_all_routes_osm_id(show_on_site_only=True)
     routes_data = overpass.get_routes_data(all_route_osm_ids)
     station_ids = set()
     for route in routes_data['elements']:
