@@ -7,6 +7,7 @@
     "ru" (dict
         "analogue" "Другие поезда в этом направлении"
         "status_active" "✅ Маршрут активен. Последние изменения"
+        "status_upcoming" "🔜 Маршрут скоро запускается. Начало"
         "status_inactive" "❌ Маршрут не активен. Последние изменения"
         "frequency" "Частота"
         "frequency_daily" "ежедневно"
@@ -37,6 +38,7 @@
     "en" (dict
         "analogue" "Other trains in this direction"
         "status_active" "✅ Route is currently active. Last updated"
+        "status_upcoming" "🔜 Route is coming soon. Starts"
         "status_inactive" "❌ Route is currently inactive. Last updated"
         "frequency" "Frequency"
         "frequency_daily" "daily"
@@ -67,6 +69,7 @@
     "ka" (dict
         "analogue" "სხვა მარშრუტები ამ მიმართულებაში"
         "status_active" "✅ მარშრუტი აქტიურია. ბოლო ცვლილებები"
+        "status_upcoming" "🔜 მარშრუტი მალე იწყება. დაწყება"
         "status_inactive" "❌ მარშრუტი აქტიური არაა. ბოლო ცვლილებები"
         "frequency" "სიხშირე"
         "frequency_daily" "ყოველდღიურად"
@@ -99,7 +102,10 @@
 {{ $t := index $translations $lang }}
 
 <!-- Status -->
-{{ if .Page.Params.active }}
+{{ if and .Page.Params.active .Page.Params.start_date (gt (int .Page.Params.start_date) now.UnixMilli) }}
+    {{ $startTime := time (div (int .Page.Params.start_date) 1000) }}
+    <p>{{ $t.status_upcoming }}: {{ $startTime.Format "02.01.2006" }}</p>
+{{ else if .Page.Params.active }}
     <p>{{ $t.status_active }}: {{ now.Format "02.01.2006" }}</p>
 {{ else }}
     <p>{{ $t.status_inactive }}: {{ now.Format "02.01.2006" }}</p>
