@@ -88,7 +88,7 @@ STATIONS_SCHEMA = {
             "type": "string",
             "enum": ["daily", "every second day", "on odd days", "on even days", "on workdays"]
           },
-          "every_second_day_start": {
+          "start_date": {
             "type": ["integer", "null"]
           },
           "end_date": {

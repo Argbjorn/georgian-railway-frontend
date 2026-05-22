@@ -31,7 +31,7 @@
 {{ if .Page.Params.routes.departure }}
 <h2>{{ $t.departures }}</h2>
     {{ range sort .Page.Params.routes.departure "departure_time" }}
-    {{ partial "route-link.html" (dict "time" .departure_time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "every_second_day_start" .every_second_day_start "end_date" .end_date "stop_time" .stop_time) }}
+    {{ partial "route-link.html" (dict "time" .departure_time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "start_date" .start_date "end_date" .end_date "stop_time" .stop_time) }}
     {{ end }}
 {{ end }}
 
@@ -47,7 +47,7 @@
         {{ $routes = $routes | append $route }}
     {{ end }}
     {{ range sort $routes "time" }}
-        {{ partial "route-link.html" (dict "time" .time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "every_second_day_start" .every_second_day_start "end_date" .end_date "stop_time" .stop_time) }}
+        {{ partial "route-link.html" (dict "time" .time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "start_date" .start_date "end_date" .end_date "stop_time" .stop_time) }}
     {{ end }}
 {{ end }}
 
@@ -58,7 +58,7 @@
     {{ if .arrival_time }}
         {{ $time = .arrival_time }}
     {{ end }}
-    {{ partial "route-link.html" (dict "time" $time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "every_second_day_start" .every_second_day_start "end_date" .end_date "stop_time" .stop_time) }}
+    {{ partial "route-link.html" (dict "time" $time "ref" .ref "lang" $lang "name_ru" .name_ru "name_ka" .name_ka "name_en" .name_en "frequency" .frequency "start_date" .start_date "end_date" .end_date "stop_time" .stop_time) }}
     {{ end }}
 {{ end }}
 </div>

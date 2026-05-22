@@ -75,7 +75,7 @@
                             {{ $departureTime = .departure_time }}
                         {{ end }}
                     {{ end }}
-                    {{ partial "route-link.html" (dict "time" $departureTime "ref" .route.ref "lang" $lang "name_ru" $routeNameRu "name_ka" $routeNameKa "name_en" $routeNameEn "frequency" .route.frequency "every_second_day_start" .route.every_second_day_start "end_date" .route.end_date) }}
+                    {{ partial "route-link.html" (dict "time" $departureTime "ref" .route.ref "lang" $lang "name_ru" $routeNameRu "name_ka" $routeNameKa "name_en" $routeNameEn "frequency" .route.frequency "start_date" .route.start_date "end_date" .route.end_date) }}
                 {{ end }}
             </ul>
         </div>

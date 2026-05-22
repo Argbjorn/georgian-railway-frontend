@@ -129,7 +129,7 @@ def make_routes_files():
                  "name:ru": remove_patterns(i["name_ru"]),
                  "active": string_value_to_bool(i, "active"),
                  "frequency": empty_to_none(i["frequency"]),
-                 "every_second_day_start": to_unixtime(i["every_second_day_start"]),
+                 "start_date": to_unixtime(i["start_date"]),
                  "end_date": to_unixtime(i["end_date"]),
                  "complete": string_value_to_bool(i, "complete"),
                  "online": string_value_to_bool(i, "online"),

@@ -120,8 +120,8 @@
         {{ if eq .Page.Params.frequency "daily" }}
             {{ $t.frequency_daily }}
         {{ else if eq .Page.Params.frequency "every second day" }}
-            {{ if .Page.Params.every_second_day_start }}
-                <span class="esd-calendar" data-timestamp="{{ .Page.Params.every_second_day_start }}" {{ if .Page.Params.end_date }}data-end-date="{{ .Page.Params.end_date }}"{{ end }} data-lang="{{ $lang }}">{{ $t.frequency_every_second_day }}</span>
+            {{ if .Page.Params.start_date }}
+                <span class="esd-calendar" data-timestamp="{{ .Page.Params.start_date }}" {{ if .Page.Params.end_date }}data-end-date="{{ .Page.Params.end_date }}"{{ end }} data-lang="{{ $lang }}">{{ $t.frequency_every_second_day }}</span>
             {{ else }}
                 {{ $t.frequency_every_second_day }}
             {{ end }}
@@ -296,7 +296,7 @@
                             {{ $departureTime = .departure_time }}
                         {{ end }}
                     {{ end }}
-                    {{ $routeData := dict "time" $departureTime "ref" $route.ref "lang" $lang "name_ru" $routeNameRu "name_ka" $routeNameKa "name_en" $routeNameEn "every_second_day_start" $route.every_second_day_start "end_date" $route.end_date}}
+                    {{ $routeData := dict "time" $departureTime "ref" $route.ref "lang" $lang "name_ru" $routeNameRu "name_ka" $routeNameKa "name_en" $routeNameEn "start_date" $route.start_date "end_date" $route.end_date}}
                     {{ $analogueRoutes = $analogueRoutes | append $routeData }}
                 {{ end }}
             {{ end }}

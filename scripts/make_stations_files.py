@@ -97,7 +97,7 @@ def get_routes_for_stations():
             'name_ru': r['name:ru'],
             'name_ka': r['name:ka'],
             'frequency': r['frequency'],
-            'every_second_day_start': r['every_second_day_start'],
+            'start_date': r['start_date'],
             'end_date': r['end_date'],
             }
         if r.get('stations'):
