@@ -121,7 +121,7 @@
             {{ $t.frequency_daily }}
         {{ else if eq .Page.Params.frequency "every second day" }}
             {{ if .Page.Params.every_second_day_start }}
-                <button class="dashed-link esd-calendar" data-timestamp="{{ .Page.Params.every_second_day_start }}" {{ if .Page.Params.end_date }}data-end-date="{{ .Page.Params.end_date }}"{{ end }} data-lang="{{ $lang }}">{{ $t.frequency_every_second_day }}</button>
+                <span class="esd-calendar" data-timestamp="{{ .Page.Params.every_second_day_start }}" {{ if .Page.Params.end_date }}data-end-date="{{ .Page.Params.end_date }}"{{ end }} data-lang="{{ $lang }}">{{ $t.frequency_every_second_day }}</span>
             {{ else }}
                 {{ $t.frequency_every_second_day }}
             {{ end }}

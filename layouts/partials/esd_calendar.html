@@ -6,16 +6,6 @@
 <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/ru.js"></script>
 
 <style>
-.calendar-trigger {
-    color: #007bff;
-    cursor: pointer;
-    text-decoration: underline;
-}
-
-.calendar-trigger:hover {
-    color: #0056b3;
-}
-
 .flatpickr-day {
     cursor: default !important;
     border: initial !important;
@@ -56,106 +46,91 @@
 .flatpickr-day.nextMonthDay {
     visibility: hidden;
 }
+
+.flatpickr-day:not(.train-day):not(.flatpickr-disabled):not(.prevMonthDay):not(.nextMonthDay) {
+    color: #bbb !important;
+}
+
+.esd-calendar-container {
+    display: block;
+    margin-top: 8px;
+}
 </style>
 
 <script>
 const calendarName = "{{ .className }}";
 document.addEventListener('DOMContentLoaded', function() {
-    // Находим все триггеры календаря на странице
     const calendarTriggers = document.querySelectorAll('.' + calendarName);
-    
+
     calendarTriggers.forEach(function(trigger) {
         const timestampStr = trigger.dataset.timestamp;
         const lang = trigger.dataset.lang || 'en';
-        const endDateStr = trigger.dataset.endDate; // Получаем значение data-end-date
-        
+        const endDateStr = trigger.dataset.endDate;
+
         let timestamp = Number(timestampStr);
-        
-        // Если timestamp выглядит как секунды (меньше чем типичное значение в миллисекундах)
         if (timestamp < 10000000000) {
-            timestamp = timestamp * 1000; // Конвертируем секунды в миллисекунды
+            timestamp = timestamp * 1000;
         }
-        
+
         const startDate = new Date(timestamp);
-        
-        // Создаем массив всех дат поезда (каждый второй день в течение 3 месяцев)
         const trainDates = [];
         const todayDate = new Date();
-        todayDate.setHours(0, 0, 0, 0); // Обнуляем время до 00:00:00.000
+        todayDate.setHours(0, 0, 0, 0);
         const currentDate = new Date(startDate);
-        
-        // Определяем конечную дату
+
         let endDate;
         if (endDateStr) {
-            // Если указан data-end-date, используем его
             let endTimestamp = Number(endDateStr);
-            
-            // Если timestamp выглядит как секунды (меньше чем типичное значение в миллисекундах)
             if (endTimestamp < 10000000000) {
-                endTimestamp = endTimestamp * 1000; // Конвертируем секунды в миллисекунды
+                endTimestamp = endTimestamp * 1000;
             }
-            
             endDate = new Date(endTimestamp);
-            
-            // Проверяем, что дата валидна
             if (isNaN(endDate.getTime())) {
                 console.error('Invalid endDate provided:', endDateStr);
-                // Если дата невалидна, используем старую логику
                 endDate = new Date(todayDate);
                 endDate.setMonth(endDate.getMonth() + 3);
             } else {
-                endDate.setHours(23, 59, 59, 999); // Устанавливаем конец дня
+                endDate.setHours(23, 59, 59, 999);
             }
         } else {
-            // Иначе используем стандартную логику - 3 месяца вперед
             endDate = new Date(todayDate);
             endDate.setMonth(endDate.getMonth() + 3);
         }
-        
+
         while (currentDate <= endDate) {
             if (currentDate >= todayDate) {
                 trainDates.push(new Date(currentDate));
             }
-            currentDate.setDate(currentDate.getDate() + 2); // Каждый второй день
+            currentDate.setDate(currentDate.getDate() + 2);
         }
-        
-        // Создаем скрытый input рядом с триггером
-        const hiddenInput = document.createElement('input');
-        hiddenInput.type = 'text';
-        hiddenInput.style.display = 'none';
-        trigger.parentNode.insertBefore(hiddenInput, trigger.nextSibling);
-        
-        // Инициализируем Flatpickr
-        const fp = flatpickr(hiddenInput, {
+
+        // Создаём div-контейнер для inline-календаря
+        const calendarContainer = document.createElement('div');
+        calendarContainer.className = 'esd-calendar-container';
+        trigger.parentNode.insertBefore(calendarContainer, trigger.nextSibling);
+
+        flatpickr(calendarContainer, {
             animate: false,
             disableMobile: true,
-            closeOnSelect: false,
+            inline: true,
             locale: lang,
-            inline: false,
             dateFormat: "d.m.Y",
             minDate: "today",
             maxDate: endDate,
             monthSelectorType: "static",
-            positionElement: trigger,
             onDayCreate: function(dObj, dStr, fp, dayElem) {
                 const dayDate = dayElem.dateObj;
-                
-                // Проверяем, является ли этот день днем поезда
+
                 const isTrainDay = trainDates.some(function(trainDate) {
-                    return trainDate.getDate() === dayDate.getDate() && 
-                           trainDate.getMonth() === dayDate.getMonth() && 
+                    return trainDate.getDate() === dayDate.getDate() &&
+                           trainDate.getMonth() === dayDate.getMonth() &&
                            trainDate.getFullYear() === dayDate.getFullYear();
                 });
-                
+
                 if (isTrainDay) {
                     dayElem.classList.add('train-day');
                 }
             }
-        });
-        
-        // При клике на триггер открываем календарь
-        trigger.addEventListener('click', function() {
-            fp.open();
         });
     });
 });
