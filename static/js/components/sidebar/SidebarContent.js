@@ -150,7 +150,7 @@ export class SidebarContent {
         const groupTitle = LanguageService.translate(group.titleKey);
         
         // Sort routes by time
-        const sortedRoutes = [...group.routes].sort((a, b) => {
+        const sortedRoutes = [...group.routes].filter(route => !route.start_date || route.start_date <= Date.now()).sort((a, b) => {
             const timeA = this.getTimeInfo(a, group.key);
             const timeB = this.getTimeInfo(b, group.key);
             

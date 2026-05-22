@@ -20,7 +20,7 @@
       <div>{{ i18n "routesFromTbilisiDescription" }}</div>
       <div class="hextra-cards hx:mt-2 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;">
         {{ range $pages }}
-          {{ if ne .Params.active false }}
+          {{ if and (ne .Params.active false) (not (and .Params.start_date (gt (int .Params.start_date) now.UnixMilli))) }}
           {{ $first := index .Params.stations 0 }}
           {{ if and $first (findRE "tbilisi" (lower (index $first "code" | default ""))) }}
             <a class="{{ $cardClass }}" href="{{ .Permalink }}">
@@ -35,7 +35,7 @@
       <div>{{ i18n "routesToTbilisiDescription" }}</div>
       <div class="hextra-cards hx:mt-2 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;">
         {{ range $pages }}
-          {{ if ne .Params.active false }}
+          {{ if and (ne .Params.active false) (not (and .Params.start_date (gt (int .Params.start_date) now.UnixMilli))) }}
           {{ $stations := .Params.stations }}
           {{ if and $stations (gt (len $stations) 0) }}
             {{ $last := index $stations (sub (len $stations) 1) }}
@@ -52,7 +52,7 @@
       <h2 class="hx:mt-8 hx:mb-3 hx:text-xl hx:font-semibold">{{ i18n "routesOther" }}</h2>
       <div class="hextra-cards hx:mt-2 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;">
         {{ range $pages }}
-          {{ if ne .Params.active false }}
+          {{ if and (ne .Params.active false) (not (and .Params.start_date (gt (int .Params.start_date) now.UnixMilli))) }}
           {{ $first := index .Params.stations 0 }}
           {{ $stations := .Params.stations }}
           {{ $fromTbilisi := and $first (findRE "tbilisi" (lower (index $first "code" | default ""))) }}

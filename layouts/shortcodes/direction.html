@@ -30,7 +30,7 @@
                 {{ range .stations }}
                     {{ if eq .code $to }}
                         <!-- Exclude routes 201 and 202 -->
-                        {{ if and (ne (int $routeRef) 201) (ne (int $routeRef) 202) }}
+                        {{ if and (ne (int $routeRef) 201) (ne (int $routeRef) 202) (not (and $route.start_date (gt (int $route.start_date) now.UnixMilli))) }}
                             {{ $availableRoutes = $availableRoutes | append $route }}
                         {{ end }}
                     {{ end }}
