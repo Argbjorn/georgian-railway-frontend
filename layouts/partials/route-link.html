@@ -10,6 +10,6 @@
     <span class="station-route-stop-time">({{ if eq .lang "ru" }}остановка {{ else if eq .lang "ka" }}გაჩერება{{ else }}stop for{{ end }} {{ .stop_time }} {{ if eq .lang "ru" }}мин{{ else if eq .lang "ka" }}წთ{{ else }}min{{ end }})</span>
     {{ end }}
     {{ if and .start_date (eq .frequency "every second day") }}
-    <button class="esd-calendar" data-timestamp="{{ .start_date }}" {{ if .end_date }}data-end-date="{{ .end_date }}"{{ end }} data-lang="{{ .lang }}">🗓</button>
+    <button class="esd-calendar-popup" data-timestamp="{{ .start_date }}" {{ if .end_date }}data-end-date="{{ .end_date }}"{{ end }} data-lang="{{ .lang }}">🗓</button>
     {{ end }}
 </div>

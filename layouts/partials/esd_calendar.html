@@ -51,6 +51,10 @@
     color: #bbb !important;
 }
 
+.esd-calendar-popup {
+    cursor: pointer;
+}
+
 .esd-calendar-container {
     display: block;
     margin-top: 8px;
@@ -58,35 +62,24 @@
 </style>
 
 <script>
-const calendarName = "{{ .className }}";
-document.addEventListener('DOMContentLoaded', function() {
-    const calendarTriggers = document.querySelectorAll('.' + calendarName);
+(function() {
+    const calendarName = "{{ .className }}";
+    const isInline = "{{ if .inline }}true{{ end }}" === "true";
 
-    calendarTriggers.forEach(function(trigger) {
-        const timestampStr = trigger.dataset.timestamp;
-        const lang = trigger.dataset.lang || 'en';
-        const endDateStr = trigger.dataset.endDate;
-
+    function buildTrainDates(timestampStr, endDateStr) {
         let timestamp = Number(timestampStr);
-        if (timestamp < 10000000000) {
-            timestamp = timestamp * 1000;
-        }
+        if (timestamp < 10000000000) timestamp = timestamp * 1000;
 
-        const startDate = new Date(timestamp);
-        const trainDates = [];
         const todayDate = new Date();
         todayDate.setHours(0, 0, 0, 0);
-        const currentDate = new Date(startDate);
+        const currentDate = new Date(timestamp);
 
         let endDate;
         if (endDateStr) {
             let endTimestamp = Number(endDateStr);
-            if (endTimestamp < 10000000000) {
-                endTimestamp = endTimestamp * 1000;
-            }
+            if (endTimestamp < 10000000000) endTimestamp = endTimestamp * 1000;
             endDate = new Date(endTimestamp);
             if (isNaN(endDate.getTime())) {
-                console.error('Invalid endDate provided:', endDateStr);
                 endDate = new Date(todayDate);
                 endDate.setMonth(endDate.getMonth() + 3);
             } else {
@@ -97,41 +90,61 @@ document.addEventListener('DOMContentLoaded', function() {
             endDate.setMonth(endDate.getMonth() + 3);
         }
 
+        const trainDates = [];
         while (currentDate <= endDate) {
-            if (currentDate >= todayDate) {
-                trainDates.push(new Date(currentDate));
-            }
+            if (currentDate >= todayDate) trainDates.push(new Date(currentDate));
             currentDate.setDate(currentDate.getDate() + 2);
         }
+        return { trainDates, endDate };
+    }
 
-        // Создаём div-контейнер для inline-календаря
-        const calendarContainer = document.createElement('div');
-        calendarContainer.className = 'esd-calendar-container';
-        trigger.parentNode.insertBefore(calendarContainer, trigger.nextSibling);
+    function onDayCreate(trainDates, dObj, dStr, fp, dayElem) {
+        const d = dayElem.dateObj;
+        const isTrainDay = trainDates.some(function(t) {
+            return t.getDate() === d.getDate() &&
+                   t.getMonth() === d.getMonth() &&
+                   t.getFullYear() === d.getFullYear();
+        });
+        if (isTrainDay) dayElem.classList.add('train-day');
+    }
 
-        flatpickr(calendarContainer, {
-            animate: false,
-            disableMobile: true,
-            inline: true,
-            locale: lang,
-            dateFormat: "d.m.Y",
-            minDate: "today",
-            maxDate: endDate,
-            monthSelectorType: "static",
-            onDayCreate: function(dObj, dStr, fp, dayElem) {
-                const dayDate = dayElem.dateObj;
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.' + calendarName).forEach(function(trigger) {
+            const { trainDates, endDate } = buildTrainDates(
+                trigger.dataset.timestamp,
+                trigger.dataset.endDate
+            );
+            const lang = trigger.dataset.lang || 'en';
 
-                const isTrainDay = trainDates.some(function(trainDate) {
-                    return trainDate.getDate() === dayDate.getDate() &&
-                           trainDate.getMonth() === dayDate.getMonth() &&
-                           trainDate.getFullYear() === dayDate.getFullYear();
-                });
+            const commonOptions = {
+                animate: false,
+                disableMobile: true,
+                locale: lang,
+                dateFormat: "d.m.Y",
+                minDate: "today",
+                maxDate: endDate,
+                monthSelectorType: "static",
+                onDayCreate: onDayCreate.bind(null, trainDates)
+            };
 
-                if (isTrainDay) {
-                    dayElem.classList.add('train-day');
-                }
+            if (isInline) {
+                const container = document.createElement('div');
+                container.className = 'esd-calendar-container';
+                trigger.parentNode.insertBefore(container, trigger.nextSibling);
+                flatpickr(container, Object.assign({}, commonOptions, { inline: true }));
+            } else {
+                const hiddenInput = document.createElement('input');
+                hiddenInput.type = 'text';
+                hiddenInput.style.display = 'none';
+                trigger.parentNode.insertBefore(hiddenInput, trigger.nextSibling);
+                const fp = flatpickr(hiddenInput, Object.assign({}, commonOptions, {
+                    inline: false,
+                    closeOnSelect: false,
+                    positionElement: trigger
+                }));
+                trigger.addEventListener('click', function() { fp.open(); });
             }
         });
     });
-});
+})();
 </script>
