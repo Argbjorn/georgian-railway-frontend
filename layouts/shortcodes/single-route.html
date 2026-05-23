@@ -25,6 +25,7 @@
         "current_site" "официальном сайте"
         "new_site" "официальном сайте"
         "armenian_site" "официальном сайте Южно-Кавказской железной дороги (Армения)"
+        "azerbaijani_site" "официальном сайте Азербайджанских железных дорог"
         "not_available" "не доступны"
         "uncomplete_disclaimer" "🚧 У меня нет полного списка станций или времени прибытия для этого поезда. Его нет и на официальном сайте. Если вы располагаете информацией, пожалуйста, сообщите мне."
         "schedule" "Расписание"
@@ -56,6 +57,7 @@
         "current_site" "official website"
         "new_site" "official website"
         "armenian_site" "official website of the South Caucasus Railway (Armenia)"
+        "azerbaijani_site" "official website of Azerbaijan Railways"
         "not_available" "not available"
         "uncomplete_disclaimer" "🚧 I don't have a complete list of stations or arrival times for this route. Neither is it on the official website. If you have any additional information, please let me know."
         "schedule" "Schedule"
@@ -87,6 +89,7 @@
         "current_site" "ოფიციალურ საიტზე"
         "new_site" "ოფიციალურ საიტზე"
         "armenian_site" "სამხრეთ კავკასიის რკინიგზის (სომხეთი) ოფიციალურ ვებგვერდზე"
+        "azerbaijani_site" "აზერბაიჯანის რკინიგზის ოფიციალურ ვებგვერდზე"
         "not_available" "არაა ხელმისაწვდომი"
         "uncomplete_disclaimer" "🚧 მე არ მაქვს ამ მარშრუტის გაჩერებების სრული სია ან/და ჩამოსვლის დრო. არც ოფიციალურ საიტზეა. თუ თქვენ ფლობთ ინფორმაციას, გთხოვთ შემატყობინოთ."
         "schedule" "განრიგი"
@@ -199,10 +202,12 @@
 
     <!-- Online tickets -->
     <strong>{{ $t.online_tickets }}:</strong> 
-    {{ if or (eq $online_tickets_current_site "true") (eq $online_tickets_new_site "true") (eq (int .Page.Params.ref) 201) (eq (int .Page.Params.ref) 202) }}
-        {{ $t.available }} 
+    {{ if or (eq $online_tickets_current_site "true") (eq $online_tickets_new_site "true") (eq (int .Page.Params.ref) 201) (eq (int .Page.Params.ref) 202) (eq (int .Page.Params.ref) 37) (eq (int .Page.Params.ref) 38) }}
+        {{ $t.available }}
         {{ if or (eq (int .Page.Params.ref) 201) (eq (int .Page.Params.ref) 202) (eq (int .Page.Params.ref) 371) (eq (int .Page.Params.ref) 372) }}
             <a href="https://www.railway.am/eng" target="_blank">{{ $t.armenian_site }}</a>
+        {{ else if or (eq (int .Page.Params.ref) 37) (eq (int .Page.Params.ref) 38) }}
+            <a href="https://ticket.ady.az/en" target="_blank">{{ $t.azerbaijani_site }}</a>
         {{ else }}
             {{ if eq $online_tickets_current_site "true" }}
                 <a href="https://ticket.railway.ge/" target="_blank">{{ $t.current_site }}</a>
