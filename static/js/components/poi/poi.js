@@ -36,12 +36,6 @@ export const poiInfo = [
       coords: [42.22909, 43.96977],
     },
     {
-      description_ru: "Регулярно появляются сообщения о восстановлении пассажирского сообщения с Баку, но на данный момент маршрут не запущен. По информации на май 2026 года, начало движения запланировано на 26 мая 2026 года.",
-      description_en: "Regularly appearing messages about the restoration of passenger communication from Baku, but at the moment the route is not launched. According to information as of May 2026, the start of service is planned for May 26, 2026.",
-      description_ka: "დროდადრო ჩნდება ცნობები ბაქოსთან სამგზავრო მიმოსვლის აღდგენაზე, თუმცა ამ ეტაპზე მარშრუტი ჯერ არ არის გაშვებული. 2026 წლის მაისის მონაცემებით, მოძრაობის დაწყება დაგეგმილია 2026 წლის 26 მაისს.",
-      coords: [40.37931, 49.83579],
-    },
-    {
       description_ru: "Данная часть железнодорожной сети в направлении Карса используется только для грузовых перевозок.",
       description_en: "This part of the railway network in the direction of Kars is used only for freight traffic.",
       description_ka: "რკინიგზის ეს მონაკვეთი კარის მიმართულებით გამოიყენება მხოლოდ სატვირთო გადაზიდვებისთვის.",
