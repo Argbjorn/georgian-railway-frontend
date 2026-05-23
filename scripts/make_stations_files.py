@@ -119,14 +119,11 @@ def make_stations_json():
     stations_with_routes = get_routes_for_stations()
     stations_arr = []
     for station in stations_data['elements']:
-        name_en, name_ka, name_ru = 'unknown station', 'უცნობი სადგური', 'неизвестная станция'
-        if 'tags' in station:
-            if 'name:en' in station['tags']:
-                name_en = station['tags']['name:en']
-            if 'name:ka' in station['tags']:
-                name_ka = station['tags']['name:ka']
-            if 'name:ru' in station['tags']:
-                name_ru = station['tags']['name:ru']
+        tags = station.get('tags', {})
+        generic_name = tags.get('name', 'unknown station')
+        name_en = tags.get('name:en', generic_name)
+        name_ka = tags.get('name:ka', generic_name)
+        name_ru = tags.get('name:ru', generic_name)
         code = make_station_code(name_en)
         exists = False
         for s in stations_arr:
