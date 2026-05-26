@@ -18,6 +18,9 @@ export const routes = [
       "description_en": "This train was canceled in 2025. Now there is no direct railway connection between Kutaisi and Tbilisi. But there are several alternatives.<br>The easiest way to get to Tbilisi is from the station <a href=\"/en/stations/kutaisiinternationalairport/\">Kutaisi International Airport</a>. Although it is located 20 km from the city, many minibuses and the airport shuttle go in that direction.<br>Another option is the commuter train from the central station <a href=\"/en/stations/kutaisi1/\">Kutaisi-1</a>, which goes to <a href=\"/en/stations/rioni/\">Rioni</a>, where you can immediately transfer to the train <a href=\"/en/routes/853/\">Ozurgeti → Tbilisi</a>. This train runs every other day, detailed information is available on the train's page.",
       "description_ru": "Этот поезд был отменен в 2025 году. Теперь прямого железнодорожного сообщения между Кутаиси и Тбилиси нет. Но есть несколько альтернатив.<br>Проще всего добраться до Тбилиси со станции <a href=\"/ru/stations/kutaisiinternationalairport/\">Международный аэропорт Кутаиси</a>. Хотя она находится в 20 км от города, в ее сторону отправляется множество маршруток и шаттл аэропорта.<br>Еще один вариант: электричка с центральной станции <a href=\"/ru/stations/kutaisi1/\">Кутаиси-1</a>, которая идет до <a href=\"/ru/stations/rioni/\">Риони</a>, где можно сразу же пересесть на поезд <a href=\"/ru/routes/853/\">Озургети → Тбилиси</a>. Ходит этот поезд через день, подробная информация есть на странице поезда.",
       "description_ka": "ეს მატარებელი გაუქმდა 2025 წელს. ახლა პირდაპირი სარკინიგზო კავშირი ქუთაისსა და თბილისს შორის აღარ არსებობს. თუმცა არსებობს რამდენიმე ალტერნატივა.<br>ყველაზე მარტივი გზა თბილისის მიმართულებით არის სადგურიდან <a href=\"/ka/stations/kutaisiinternationalairport/\">ქუთაისის საერთაშორისო აეროპორტი</a>. მიუხედავად იმისა, რომ იგი ქალაქიდან 20 კმ-ში მდებარეობს, მის მიმართულებით ბევრ მარშრუტკასა და აეროპორტის შატლს გადააქვს მგზავრები.<br>სხვა ვარიანტია ელექტრომატარებელი ცენტრალური სადგურიდან <a href=\"/ka/stations/kutaisi1/\">ქუთაისი-1</a>, რომელიც მიდის <a href=\"/ka/stations/rioni/\">რიონამდე</a>, სადაც შეგიძლიათ მაშინვე გადაჯდეთ მატარებელში <a href=\"/ka/routes/853/\">ოზურგეთი → თბილისი</a>. ეს მატარებელი ორ დღეში ერთხელ მოძრაობს, დეტალური ინფორმაცია მატარებლის გვერდზეა.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "price": null,
       "analogue": []
    },
@@ -40,6 +43,9 @@ export const routes = [
       "description_en": "This train was canceled in 2025. Now there is no direct railway connection between Tbilisi and Kutaisi. But there is an alternative.<br>The easiest way is to get to the station <a href=\"/en/stations/kutaisiinternationalairport/\">Kutaisi International Airport</a>. Although it is located 20 km from the city, many minibuses and the airport shuttle go towards Kutaisi.",
       "description_ru": "Этот поезд был отменен в 2025 году. Теперь прямого железнодорожного сообщения между Тбилиси и Кутаиси нет. Но есть альтернатива.<br>Проще всего добраться до станции <a href=\"/ru/stations/kutaisiinternationalairport/\">Международный аэропорт Кутаиси</a>. Хотя она находится в 20 км от города, в сторону Кутаиси отправляется множество маршруток и шаттл аэропорта.",
       "description_ka": "ეს მატარებელი გაუქმდა 2025 წელს. ახლა პირდაპირი სარკინიგზო კავშირი თბილისსა და ქუთაისს შორის აღარ არსებობს. თუმცა არსებობს ალტერნატივა.<br>ყველაზე მარტივი გზაა მისვლა სადგურამდე <a href=\"/ka/stations/kutaisiinternationalairport/\">ქუთაისის საერთაშორისო აეროპორტი</a>. მიუხედავად იმისა, რომ იგი ქალაქიდან 20 კმ-ში მდებარეობს, ქუთაისის მიმართულებით ბევრ მარშრუტკასა და აეროპორტის შატლს გადააქვს მგზავრები.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "price": null,
       "analogue": []
    },
@@ -59,9 +65,12 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": false,
-      "description_en": "The train launches on May 26, 2026. Tickets are already available.",
-      "description_ru": "Поезд запускается с 26 мая 2026 года. Билеты уже доступны.",
-      "description_ka": "მატარებელი იწყებს მუშაობას 2026 წლის 26 მაისიდან. ბილეთები უკვე ხელმისაწვდომია.",
+      "description_en": "The Baku — Tbilisi — Baku train launched on May 26, 2026, for the first time since the route was suspended in 2020. The service is operated by a new Stadler train of Azerbaijan Railways — not the double-deck seated Stadler that runs between Tbilisi and Batumi, but a comfortable sleeping train.<br><br>Important: tickets (in both directions) can only be purchased by citizens of countries with a visa-free regime with Azerbaijan. Citizens of the European Union, the United Kingdom, the USA, and a number of other countries cannot purchase tickets. The list of visa-free countries can be found on the <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">website of the Ministry of Foreign Affairs of Azerbaijan</a>.",
+      "description_ru": "Поезд Баку — Тбилиси — Баку запущен 26 мая 2026 года, впервые после закрытия этого направления в 2020 году. Маршрут обслуживается новым поездом Stadler Азербайджанских железных дорог — это не двухэтажный сидячий Stadler, который ходит между Тбилиси и Батуми, а комфортный спальный поезд.<br><br>Важно: билеты (в обе стороны) могут приобрести только граждане стран, имеющих безвизовый режим с Азербайджаном. Граждане Евросоюза, Великобритании, США и ряда других стран купить билет не могут. Список стран с безвизовым режимом можно найти на <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">сайте МИД Азербайджана</a>.",
+      "description_ka": "ბაქო — თბილისი — ბაქოს მატარებელი გაიხსნა 2026 წლის 26 მაისს, პირველად 2020 წელს ამ მიმართულების დახურვის შემდეგ. მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის ახალი Stadler-ის მატარებლით — ეს არ არის ორსართულიანი სასხდომი Stadler, რომელიც თბილისსა და ბათუმს შორის მოძრაობს, არამედ კომფორტული სასძინებელი მატარებელი.<br><br>მნიშვნელოვანია: ბილეთების შეძენა (ორივე მიმართულებით) შეუძლიათ მხოლოდ იმ ქვეყნების მოქალაქეებს, რომლებსაც აზერბაიჯანთან უვიზო რეჟიმი აქვთ. ევროკავშირის, დიდი ბრიტანეთის, აშშ-ის და სხვა ქვეყნების მოქალაქეებს ბილეთის შეძენა არ შეუძლიათ. უვიზო რეჟიმის მქონე ქვეყნების სია შეგიძლიათ იხილოთ <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">აზერბაიჯანის საგარეო საქმეთა სამინისტროს საიტზე</a>.",
+      "extended_description_en": "<b>Buying tickets</b><br>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<br><br><b>Car types and prices</b><br>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<br><br><b>Border crossing</b><br>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.",
+      "extended_description_ru": "<b>Покупка билетов</b><br>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<br><br><b>Типы вагонов и цены</b><br>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<br><br><b>Прохождение границы</b><br>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.",
+      "extended_description_ka": "<b>ბილეთების შეძენა</b><br>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<br><br><b>ვაგონების ტიპები და ფასები</b><br>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<br><br><b>საზღვრის გადაკვეთა</b><br>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.",
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -164,9 +173,12 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": false,
-      "description_en": "The train launches on May 26, 2026. Tickets are already available.",
-      "description_ru": "Поезд запускается с 26 мая 2026 года. Билеты уже доступны.",
-      "description_ka": "მატარებელი იწყებს მუშაობას 2026 წლის 26 მაისიდან. ბილეთები უკვე ხელმისაწვდომია.",
+      "description_en": "The Baku — Tbilisi — Baku train launched on May 26, 2026, for the first time since the route was suspended in 2020. The service is operated by a new Stadler train of Azerbaijan Railways — not the double-deck seated Stadler that runs between Tbilisi and Batumi, but a comfortable sleeping train.<br><br>Important: tickets (in both directions) can only be purchased by citizens of countries with a visa-free regime with Azerbaijan. Citizens of the European Union, the United Kingdom, the USA, and a number of other countries cannot purchase tickets. The list of visa-free countries can be found on the <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">website of the Ministry of Foreign Affairs of Azerbaijan</a>.",
+      "description_ru": "Поезд Баку — Тбилиси — Баку запущен 26 мая 2026 года, впервые после закрытия этого направления в 2020 году. Маршрут обслуживается новым поездом Stadler Азербайджанских железных дорог — это не двухэтажный сидячий Stadler, который ходит между Тбилиси и Батуми, а комфортный спальный поезд.<br><br>Важно: билеты (в обе стороны) могут приобрести только граждане стран, имеющих безвизовый режим с Азербайджаном. Граждане Евросоюза, Великобритании, США и ряда других стран купить билет не могут. Список стран с безвизовым режимом можно найти на <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">сайте МИД Азербайджана</a>.",
+      "description_ka": "ბაქო — თბილისი — ბაქოს მატარებელი გაიხსნა 2026 წლის 26 მაისს, პირველად 2020 წელს ამ მიმართულების დახურვის შემდეგ. მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის ახალი Stadler-ის მატარებლით — ეს არ არის ორსართულიანი სასხდომი Stadler, რომელიც თბილისსა და ბათუმს შორის მოძრაობს, არამედ კომფორტული სასძინებელი მატარებელი.<br><br>მნიშვნელოვანია: ბილეთების შეძენა (ორივე მიმართულებით) შეუძლიათ მხოლოდ იმ ქვეყნების მოქალაქეებს, რომლებსაც აზერბაიჯანთან უვიზო რეჟიმი აქვთ. ევროკავშირის, დიდი ბრიტანეთის, აშშ-ის და სხვა ქვეყნების მოქალაქეებს ბილეთის შეძენა არ შეუძლიათ. უვიზო რეჟიმის მქონე ქვეყნების სია შეგიძლიათ იხილოთ <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">აზერბაიჯანის საგარეო საქმეთა სამინისტროს საიტზე</a>.",
+      "extended_description_en": "<b>Buying tickets</b><br>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<br><br><b>Car types and prices</b><br>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<br><br><b>Border crossing</b><br>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.",
+      "extended_description_ru": "<b>Покупка билетов</b><br>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<br><br><b>Типы вагонов и цены</b><br>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<br><br><b>Прохождение границы</b><br>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.",
+      "extended_description_ka": "<b>ბილეთების შეძენა</b><br>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<br><br><b>ვაგონების ტიპები და ფასები</b><br>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<br><br><b>საზღვრის გადაკვეთა</b><br>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.",
       "stations": [
          {
             "code": "bakı",
@@ -272,6 +284,9 @@ export const routes = [
       "description_en": "This train is the summer version of <a href=\"/routes/371/\">train #371 Tbilisi – Yerevan</a>. In 2026, it runs from June 15 to September 29. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online, but they can be bought at station ticket offices. Platzkart, coupe, and SV (first class sleeper) are available.",
       "description_ru": "Этот поезд - летняя версия поезда <a href=\"/ru/routes/371/\">№371 Тбилиси - Ереван</a>. В 2026 году он ходит с 15 июня по 29 сентября. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ.",
       "description_ka": "ეს მატარებელი არის <a href=\"/ka/routes/371/\">მატარებელი №371 თბილისი – ერევანის</a> საზაფხულო ვერსია. 2026 წელს იგი დადის 15 ივნისიდან 29 სექტემბრამდე. ბილეთების ონლაინ შეძენა შესაძლებელია სამხრეთ კავკასიის რკინიგზის ვებსაიტზე, ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებლის ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და სვ.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "batumicentral",
@@ -457,6 +472,9 @@ export const routes = [
       "description_en": "This train is the summer version of <a href=\"/routes/372/\">train #372 Yerevan – Tbilisi</a>. In 2026, it runs from June 14 to September 30. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online, but they can be bought at station ticket offices. Platzkart, coupe, and SV (first class sleeper) are available.",
       "description_ru": "Этот поезд - летняя версия поезда <a href=\"/ru/routes/372/\">№372 Ереван - Тбилиси</a>. В 2026 году он ходит с 14 июня по 30 сентября. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ.",
       "description_ka": "ეს მატარებელი არის <a href=\"/ka/routes/372/\">მატარებელი №372 ერევანი – თბილისის</a> საზაფხულო ვერსია. 2026 წელს იგი დადის 14 ივნისიდან 30 სექტემბრამდე. ბილეთების ონლაინ შეძენა შესაძლებელია სამხრეთ კავკასიის რკინიგზის ვებსაიტზე, ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებლის ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და სვ.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "yerevan",
@@ -632,6 +650,9 @@ export const routes = [
       "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
       "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
       "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -727,6 +748,9 @@ export const routes = [
       "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
       "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
       "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "yerevan",
@@ -822,6 +846,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "borjomiparki",
@@ -1032,6 +1059,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -1242,6 +1272,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -1370,6 +1403,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "sachkhere",
@@ -1498,6 +1534,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "batumicentral",
@@ -1708,6 +1747,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -1918,6 +1960,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "batumicentral",
@@ -2128,6 +2173,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -2338,6 +2386,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "borjomiparki",
@@ -2548,6 +2599,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -2758,6 +2812,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "batumicentral",
@@ -2838,6 +2895,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -2918,6 +2978,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "batumicentral",
@@ -2998,6 +3061,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -3078,6 +3144,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "ozurgeti",
@@ -3356,6 +3425,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -3654,6 +3726,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "zugdidi",
@@ -3842,6 +3917,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -4030,6 +4108,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "poti",
@@ -4208,6 +4289,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -4386,6 +4470,9 @@ export const routes = [
       "description_en": "This train was cancelled in spring 2026 without prior notice.",
       "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
       "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -4443,6 +4530,9 @@ export const routes = [
       "description_en": "This train was cancelled in spring 2026 without prior notice.",
       "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
       "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "rioni",
@@ -4500,6 +4590,9 @@ export const routes = [
       "description_en": "This train was cancelled in spring 2026 without prior notice.",
       "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
       "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "kutaisi1",
@@ -4557,6 +4650,9 @@ export const routes = [
       "description_en": "This train was cancelled in spring 2026 without prior notice.",
       "description_ru": "Этот поезд был отменен весной 2026 года без предварительных уведомлений.",
       "description_ka": "ეს მატარებელი გაუქმდა 2026 წლის გაზაფხულზე წინასწარი შეტყობინების გარეშე.",
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "rioni",
@@ -4614,6 +4710,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -4724,6 +4823,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "gardabani",
@@ -4834,6 +4936,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "tbilisicentralstation",
@@ -4944,6 +5049,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "gardabani",
@@ -5054,6 +5162,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "zestafoni",
@@ -5145,6 +5256,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "khashuri",
@@ -5235,6 +5349,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "zestafoni",
@@ -5326,6 +5443,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "khashuri",
@@ -5416,6 +5536,9 @@ export const routes = [
       "description_en": null,
       "description_ru": null,
       "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
       "stations": [
          {
             "code": "zestafoni",
