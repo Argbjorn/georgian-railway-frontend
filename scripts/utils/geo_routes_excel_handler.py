@@ -53,7 +53,7 @@ class GeoRoutesExcelHandler:
         if not worksheets:
             self.routes_json = []
             return
-        ranges = [f"'{ws.title}'!A:Z" for ws in worksheets]
+        ranges = [f"'{ws.title}'!A:AZ" for ws in worksheets]
         batch = spreadsheet.values_batch_get(ranges)
         value_ranges = batch.get("valueRanges", [])
         for i, ws in enumerate(worksheets):

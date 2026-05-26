@@ -139,7 +139,10 @@ def make_routes_files():
                  "has_arrival_time": string_value_to_bool(i, "has_arrival_time"),
                  "description_en": empty_to_none(i["description_en"]),
                  "description_ru": empty_to_none(i["description_ru"]),
-                 "description_ka": empty_to_none(i["description_ka"])
+                 "description_ka": empty_to_none(i["description_ka"]),
+                 "extended_description_en": empty_to_none(i["extended_description_en"]),
+                 "extended_description_ru": empty_to_none(i["extended_description_ru"]),
+                 "extended_description_ka": empty_to_none(i["extended_description_ka"])
                  }
         # Routes from excel (if route sheet exists)
         if gr_workbook.is_sheet_exists(i["ref"]):

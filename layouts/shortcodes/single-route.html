@@ -324,6 +324,14 @@
 {{ end }}
 <p>🗺 <a href='/{{ $lang }}/'>{{ $t.back_to_map }}</a></p>
 <br>
+<!-- Extended description -->
+{{ if eq $lang "ka" }}
+    {{ if .Page.Params.extended_description_ka }}<p>{{ .Page.Params.extended_description_ka | safeHTML }}</p>{{ end }}
+{{ else if eq $lang "ru" }}
+    {{ if .Page.Params.extended_description_ru }}<p>{{ .Page.Params.extended_description_ru | safeHTML }}</p>{{ end }}
+{{ else }}
+    {{ if .Page.Params.extended_description_en }}<p>{{ .Page.Params.extended_description_en | safeHTML }}</p>{{ end }}
+{{ end }}
 
 <script>
 function toggleTrainInfo(elementId) {
