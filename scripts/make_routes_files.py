@@ -112,89 +112,87 @@ def is_route_active(route_ref, routes):
     return False
 
 
+def build_station(station, idx, total):
+    data = {
+        "code": station['station'],
+        "role": "start" if idx == 0 else "end" if idx == total - 1 else "middle",
+    }
+    if 'time' in station:
+        data['departure_time'] = station['time'] if station['time'] is not None else 'nn:nn'
+        data['arrival_time'] = None
+        data['stop_time'] = None
+    else:
+        data['departure_time'] = station['departure_time'] if station['departure_time'] != '' else '-'
+        data['arrival_time'] = station['arrival_time'] if station['arrival_time'] != '' else '-'
+        data['stop_time'] = get_time_difference(data['arrival_time'], data['departure_time'])
+    return data
+
+
+def build_route(row, gr_workbook, all_routes):
+    route = {
+        "id": int(row["id"]),
+        "ref": int(row["ref"]),
+        "name:ka": remove_patterns(row["name_ka"]),
+        "name:en": remove_patterns(row["name_en"]),
+        "name:ru": remove_patterns(row["name_ru"]),
+        "active": string_value_to_bool(row, "active"),
+        "frequency": empty_to_none(row["frequency"]),
+        "start_date": to_unixtime(row["start_date"]),
+        "end_date": to_unixtime(row["end_date"]),
+        "complete": string_value_to_bool(row, "complete"),
+        "online": string_value_to_bool(row, "online"),
+        "online_tickets_current_site": string_value_to_bool(row, "online_tickets_current_site"),
+        "online_tickets_new_site": string_value_to_bool(row, "online_tickets_new_site"),
+        "train_type": empty_to_none(row["train_type"]),
+        "has_arrival_time": string_value_to_bool(row, "has_arrival_time"),
+        "description_en": empty_to_none(row["description_en"]),
+        "description_ru": empty_to_none(row["description_ru"]),
+        "description_ka": empty_to_none(row["description_ka"]),
+        "extended_description_en": empty_to_none(row["extended_description_en"]),
+        "extended_description_ru": empty_to_none(row["extended_description_ru"]),
+        "extended_description_ka": empty_to_none(row["extended_description_ka"]),
+    }
+
+    if gr_workbook.is_sheet_exists(row["ref"]):
+        stations_json = gr_workbook.get_route_stations_with_time(route["ref"])
+        route["stations"] = [build_station(s, idx, len(stations_json)) for idx, s in enumerate(stations_json)]
+    elif row['active'] == 'y':
+        raise ValueError(f"Route {row['ref']} is active but has no sheet in the spreadsheet")
+
+    if row['active'] == 'y':
+        route['travel_time'] = get_route_travel_time(route['stations'])
+
+    route['price'] = get_route_price(
+        parse_price(row["price_2_class"], "price_2_class", row["ref"]),
+        parse_price(row["price_1_class"], "price_1_class", row["ref"]),
+        parse_price(row["price_business"], "price_business", row["ref"]),
+        parse_price(row["price_standard"], "price_standard", row["ref"]),
+    )
+
+    analogue_val = row.get("analogue")
+    analogue_str = str(analogue_val or "").strip()
+    if not analogue_str:
+        route["analogue"] = []
+    else:
+        refs = []
+        for p in analogue_str.split(","):
+            try:
+                refs.append(str(int(float(p.strip()))))
+            except (ValueError, TypeError):
+                continue
+        route["analogue"] = [ref for ref in refs if is_route_active(ref, all_routes)]
+
+    return route
+
+
 def make_routes_files():
     gr_workbook = GeoRoutesExcelHandler()
-    routes = gr_workbook.routes_json
-    routes_handled = []
-
-    for i in routes:
-        if i["show_on_site"] == 'n':
-            continue
-        route = {"id": int(i["id"]),
-                 "ref": int(i["ref"]),
-                 "name:ka": remove_patterns(i["name_ka"]),
-                 "name:en": remove_patterns(i["name_en"]),
-                 "name:ru": remove_patterns(i["name_ru"]),
-                 "active": string_value_to_bool(i, "active"),
-                 "frequency": empty_to_none(i["frequency"]),
-                 "start_date": to_unixtime(i["start_date"]),
-                 "end_date": to_unixtime(i["end_date"]),
-                 "complete": string_value_to_bool(i, "complete"),
-                 "online": string_value_to_bool(i, "online"),
-                 "online_tickets_current_site": string_value_to_bool(i, "online_tickets_current_site"),
-                 "online_tickets_new_site": string_value_to_bool(i, "online_tickets_new_site"),
-                 "train_type": empty_to_none(i["train_type"]),
-                 "has_arrival_time": string_value_to_bool(i, "has_arrival_time"),
-                 "description_en": empty_to_none(i["description_en"]),
-                 "description_ru": empty_to_none(i["description_ru"]),
-                 "description_ka": empty_to_none(i["description_ka"]),
-                 "extended_description_en": empty_to_none(i["extended_description_en"]),
-                 "extended_description_ru": empty_to_none(i["extended_description_ru"]),
-                 "extended_description_ka": empty_to_none(i["extended_description_ka"])
-                 }
-        # Routes from excel (if route sheet exists)
-        if gr_workbook.is_sheet_exists(i["ref"]):
-            stations_temp = []
-            stations_json = gr_workbook.get_route_stations_with_time(route["ref"])
-
-            for idx, station in enumerate(stations_json):
-                role = "start" if idx == 0 else "end" if idx == len(stations_json) - 1 else "middle"
-
-                station_data = {
-                    "code": station['station'],
-                    "role": role,
-                }
-
-                if 'time' in station:
-                    station_data['departure_time'] = station['time'] if station['time'] is not None else 'nn:nn'
-                    station_data['arrival_time'] = None
-                    station_data['stop_time'] = None
-                else:
-                    station_data['departure_time'] = station['departure_time'] if station['departure_time'] != '' else '-'
-                    station_data['arrival_time'] = station['arrival_time'] if station['arrival_time'] != '' else '-'
-                    station_data['stop_time'] = get_time_difference(station_data['arrival_time'], station_data['departure_time'])
-
-                stations_temp.append(station_data)
-
-            route["stations"] = stations_temp
-        elif i['active'] == 'y':
-            raise ValueError(f"Route {i['ref']} is active but has no sheet in the spreadsheet")
-        if i['active'] == 'y':
-            route['travel_time'] = get_route_travel_time(route['stations'])
-        route['price'] = get_route_price(parse_price(i["price_2_class"], "price_2_class", i["ref"]),
-                                         parse_price(i["price_1_class"], "price_1_class", i["ref"]),
-                                         parse_price(i["price_business"], "price_business", i["ref"]),
-                                         parse_price(i["price_standard"], "price_standard", i["ref"]))
-        # analogue: пустая строка — нет аналогов; одно число — один аналог; числа через запятую без пробела — несколько
-        # заголовок в таблице может быть "analogue", "Analogue", "аналог" и т.д.
-        analogue_val = None
-        for key in ("analogue", "Analogue", "Аналог", "аналог"):
-            if key in i and i[key] is not None and str(i[key]).strip() != "":
-                analogue_val = i[key]
-                break
-        analogue_str = str(analogue_val or "").strip()
-        if not analogue_str:
-            route["analogue"] = []
-        else:
-            parts = [p.strip() for p in analogue_str.split(",") if p.strip()]
-            refs = []
-            for p in parts:
-                try:
-                    refs.append(str(int(float(p))))  # "11.0" из Excel → "11"
-                except (ValueError, TypeError):
-                    continue
-            route["analogue"] = [ref for ref in refs if is_route_active(ref, routes)]
-        routes_handled.append(route)
+    all_routes = gr_workbook.routes_json
+    routes_handled = [
+        build_route(row, gr_workbook, all_routes)
+        for row in all_routes
+        if row["show_on_site"] != 'n'
+    ]
 
     json_result = json.dumps(sorted(routes_handled, key=lambda x: int(x["ref"])), ensure_ascii=False, indent=3)
     js_result = "export const routes = " + json_result
