@@ -98,19 +98,6 @@ def parse_price(val, field, route_ref):
         raise ValueError(f"Route {route_ref}: invalid price value '{val}' in field '{field}'")
 
 
-def is_route_active(route_ref, routes):
-    try:
-        ref_int = int(float(route_ref))
-    except (ValueError, TypeError):
-        return False
-    for route in routes:
-        try:
-            if int(float(route["ref"])) == ref_int:
-                return str(route.get("active", "")).strip().lower() == "y"
-        except (ValueError, TypeError, KeyError):
-            continue
-    return False
-
 
 def build_station(station, idx, total):
     data = {
@@ -128,7 +115,7 @@ def build_station(station, idx, total):
     return data
 
 
-def build_route(row, gr_workbook, all_routes):
+def build_route(row, gr_workbook):
     route = {
         "id": int(row["id"]),
         "ref": int(row["ref"]),
@@ -169,30 +156,38 @@ def build_route(row, gr_workbook, all_routes):
         parse_price(row["price_standard"], "price_standard", row["ref"]),
     )
 
-    analogue_val = row.get("analogue")
-    analogue_str = str(analogue_val or "").strip()
-    if not analogue_str:
-        route["analogue"] = []
-    else:
-        refs = []
-        for p in analogue_str.split(","):
-            try:
-                refs.append(str(int(float(p.strip()))))
-            except (ValueError, TypeError):
-                continue
-        route["analogue"] = [ref for ref in refs if is_route_active(ref, all_routes)]
-
     return route
+
+
+def compute_analogues_and_reverse(routes):
+    index = {}
+    for route in routes:
+        if not route.get('active') or not route.get('stations'):
+            continue
+        start = next((s['code'] for s in route['stations'] if s['role'] == 'start'), None)
+        end = next((s['code'] for s in route['stations'] if s['role'] == 'end'), None)
+        if start and end:
+            index.setdefault((start, end), []).append(route['ref'])
+
+    for route in routes:
+        if not route.get('stations'):
+            route['analogue'] = []
+            route['reverse'] = []
+            continue
+        start = next((s['code'] for s in route['stations'] if s['role'] == 'start'), None)
+        end = next((s['code'] for s in route['stations'] if s['role'] == 'end'), None)
+        route['analogue'] = [ref for ref in index.get((start, end), []) if ref != route['ref']]
+        route['reverse'] = index.get((end, start), [])
 
 
 def make_routes_files():
     gr_workbook = GeoRoutesExcelHandler()
-    all_routes = gr_workbook.routes_json
     routes_handled = [
-        build_route(row, gr_workbook, all_routes)
-        for row in all_routes
+        build_route(row, gr_workbook)
+        for row in gr_workbook.routes_json
         if row["show_on_site"] != 'n'
     ]
+    compute_analogues_and_reverse(routes_handled)
 
     json_result = json.dumps(sorted(routes_handled, key=lambda x: int(x["ref"])), ensure_ascii=False, indent=3)
     js_result = "export const routes = " + json_result

@@ -35,6 +35,7 @@
         "departure" "Отправление"
         "back_to_map" "На полную карту поездов"
         "route_on_map" "Маршрут на карте"
+        "reverse" "Обратные поезда"
     )
     "en" (dict
         "analogue" "Other trains in this direction"
@@ -67,6 +68,7 @@
         "departure" "Departure"
         "back_to_map" "To the entire routes map"
         "route_on_map" "Route on the map"
+        "reverse" "Trains in the opposite direction"
     )
     "ka" (dict
         "analogue" "სხვა მარშრუტები ამ მიმართულებაში"
@@ -99,6 +101,7 @@
         "departure" "გამგზავრება"
         "back_to_map" "მარშრუტთა სრულ რუკაზე დაბრუნება"
         "route_on_map" "მარშრუტი რუკაზე"
+        "reverse" "მატარებლები საპირისპირო მიმართულებით"
     )
 }}
 
@@ -315,6 +318,34 @@
             {{ end }}
         {{ end }}
         {{ $sortedRoutes := sort $analogueRoutes "time" }}
+        {{ range $sortedRoutes }}
+            {{ partial "route-link.html" . }}
+        {{ end }}
+    {{ end }}
+
+    <!-- Reverse -->
+    {{ if .Page.Params.reverse }}
+        <h3>{{ $t.reverse }}</h3>
+        {{ $reverseRoutes := slice }}
+        {{ range .Page.Params.reverse }}
+            {{ $reverseRef := . }}
+            {{ range $route := $.Site.Data.routes }}
+                {{ if eq (string $route.ref) (string $reverseRef) }}
+                    {{ $routeNameEn := index $route "name:en" }}
+                    {{ $routeNameRu := index $route "name:ru" }}
+                    {{ $routeNameKa := index $route "name:ka" }}
+                    {{ $departureTime := "" }}
+                    {{ range $route.stations }}
+                        {{ if eq .role "start" }}
+                            {{ $departureTime = .departure_time }}
+                        {{ end }}
+                    {{ end }}
+                    {{ $routeData := dict "time" $departureTime "ref" $route.ref "lang" $lang "name_ru" $routeNameRu "name_ka" $routeNameKa "name_en" $routeNameEn "start_date" $route.start_date "end_date" $route.end_date }}
+                    {{ $reverseRoutes = $reverseRoutes | append $routeData }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        {{ $sortedRoutes := sort $reverseRoutes "time" }}
         {{ range $sortedRoutes }}
             {{ partial "route-link.html" . }}
         {{ end }}

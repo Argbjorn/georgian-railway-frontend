@@ -127,7 +127,12 @@ ROUTE_SCHEMA = {
       "required": ["price_type", "price"]
     },
     "analogue": {
-      "type": ["array", "null"]
+      "type": "array",
+      "items": {"type": "integer"}
+    },
+    "reverse": {
+      "type": "array",
+      "items": {"type": "integer"}
     }
   },
   "required": [
@@ -211,13 +216,14 @@ class TestDataRoutesFile:
             else:
                 continue
             
-    def test_route_analogues_are_active(self, routes_data):
-        """Проверяет, что аналоги маршрута активны (тоже присутствуют в файле)"""
-        active_routes = [str(route['ref']) for route in routes_data]
+    def test_route_analogues_and_reverse_are_active(self, routes_data):
+        """Проверяет, что аналоги и обратные маршруты активны (присутствуют в файле)"""
+        active_refs = {route['ref'] for route in routes_data if route.get('active')}
         for route in routes_data:
-            if route['analogue']:
-                for analogue in route['analogue']:
-                    assert analogue in active_routes, f"Аналог маршрута {route['ref']} (id: {route['id']}) не присутствует в файле"
+            for ref in route.get('analogue', []):
+                assert ref in active_refs, f"Аналог {ref} маршрута {route['ref']} не является активным"
+            for ref in route.get('reverse', []):
+                assert ref in active_refs, f"Обратный маршрут {ref} для маршрута {route['ref']} не является активным"
 
     def test_route_has_arrival_time(self, routes_data):
         """Проверяет, что у маршрута c has_arrival_time=true действительно есть arrival_time для всех станций кроме начальной"""
