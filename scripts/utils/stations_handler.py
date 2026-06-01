@@ -6,7 +6,7 @@ class StationsHandler:
     def __init__(self):
         with open(STATIONS_LIST_JS_PATH, 'r', encoding='utf-8') as file:
             stations = json.loads(file.read().lstrip('export const stations = '))
-        self._stations = {s['code']: s for s in stations}
+        self._stations = stations
 
     def get_station_names_by_code(self, code):
         station = self._stations.get(code)

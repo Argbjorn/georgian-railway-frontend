@@ -83,15 +83,6 @@ ROUTE_SCHEMA = {
             "type": "string",
             "enum": ["start", "middle", "end"]
           },
-          "name_en": {
-            "type": "string"
-          },
-          "name_ru": {
-            "type": "string"
-          },
-          "name_ka": {
-            "type": "string"
-          },
           "departure_time": {
             "type": "string",
             "anyOf": [
@@ -113,9 +104,6 @@ ROUTE_SCHEMA = {
         "required": [
           "code",
           "role",
-          "name_en",
-          "name_ru",
-          "name_ka",
           "departure_time"
         ]
       }

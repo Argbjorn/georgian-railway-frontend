@@ -133,7 +133,7 @@ class TestDataStationsFile:
 
     def test_stations_file_schema(self, stations_data):
         station_validator = fastjsonschema.compile(STATIONS_SCHEMA)
-        for station in stations_data:
+        for station in stations_data.values():
             try:
                 station_validator(station)
             except fastjsonschema.JsonSchemaException as e:

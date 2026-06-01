@@ -229,15 +229,16 @@
     {{ if not .Page.Params.has_arrival_time }}
     <ul class="route-timeline">
         {{ range $index, $station := $stations }}
+        {{ $stationInfo := index $.Site.Data.stations .code }}
         <li class="{{ if or (eq $index 0) (eq $index (sub (len $stations) 1)) }}terminal{{ else }}intermediate{{ end }}">
             <span class="station-time">{{ .departure_time }}</span>
             <a href="/{{ if eq $lang "ru" }}ru/{{ else if eq $lang "ka" }}ka/{{ end }}stations/{{ .code }}/" class="station-name">
                 {{ if eq $lang "ru" }}
-                    {{ .name_ru }}
+                    {{ $stationInfo.name_ru }}
                 {{ else if eq $lang "ka" }}
-                    {{ .name_ka }}
+                    {{ $stationInfo.name_ka }}
                 {{ else }}
-                    {{ .name_en }}
+                    {{ $stationInfo.name_en }}
                 {{ end }}
             </a>
         </li>
@@ -252,15 +253,16 @@
             <th>{{ $t.departure }}</th>
         </tr>
         {{ range $index, $station := $stations }}
+        {{ $stationInfo := index $.Site.Data.stations .code }}
         <tr>
             <td>
                 <a href="/{{ if eq $lang "ru" }}ru/{{ else if eq $lang "ka" }}ka/{{ end }}stations/{{ .code }}/" class="station-name">
                     {{ if eq $lang "ru" }}
-                        {{ .name_ru }}
+                        {{ $stationInfo.name_ru }}
                     {{ else if eq $lang "ka" }}
-                        {{ .name_ka }}
+                        {{ $stationInfo.name_ka }}
                     {{ else }}
-                        {{ .name_en }}
+                        {{ $stationInfo.name_en }}
                     {{ end }}
                 </a>
             </td>

@@ -52,11 +52,9 @@ def get_existing_station_descriptions():
      сначала сохраняем существующие описания и добавляем их обратно в пересозданный файл"""
     with open(STATIONS_JSON_PATH, 'r', encoding='utf-8') as file:
         stations = json.load(file)
-    station_descriptions = {}
-    for station in stations:
-        if 'description' in station:
-            station_descriptions[station['code']] = station['description']
-    return station_descriptions
+    if isinstance(stations, list):
+        return {s['code']: s['description'] for s in stations if 'description' in s}
+    return {code: data['description'] for code, data in stations.items() if 'description' in data}
 
 
 def add_route_to_stations_list(stations_list, station_code, route_data, role, arrival_time, departure_time, stop_time):
@@ -117,7 +115,7 @@ def make_stations_json():
     stations_data = overpass.get_stations_data(station_ids)
     station_descriptions = get_existing_station_descriptions()
     stations_with_routes = get_routes_for_stations()
-    stations_arr = []
+    stations_dict = {}
     for station in stations_data['elements']:
         tags = station.get('tags', {})
         generic_name = tags.get('name', 'unknown station')
@@ -125,13 +123,9 @@ def make_stations_json():
         name_ka = tags.get('name:ka', generic_name)
         name_ru = tags.get('name:ru', generic_name)
         code = make_station_code(name_en)
-        exists = False
-        for s in stations_arr:
-            if s['code'] == code:
-                s['id'].append(station['id'])
-                exists = True
-                continue
-        if not exists:
+        if code in stations_dict:
+            stations_dict[code]['id'].append(station['id'])
+        else:
             station_type = 'secondary'
             if code == 'batumicentral':
                 station_type = 'beach'
@@ -152,8 +146,8 @@ def make_stations_json():
                 station_data['description'] = station_descriptions[code]
             if code in stations_with_routes:
                 station_data['routes'] = stations_with_routes[code]
-            stations_arr.append(station_data)
-    result = json.dumps(sorted(stations_arr, key=lambda x: x['name_en']), ensure_ascii=False, indent=3)
+            stations_dict[code] = station_data
+    result = json.dumps(dict(sorted(stations_dict.items(), key=lambda x: x[1]['name_en'])), ensure_ascii=False, indent=3)
     with open(STATIONS_LIST_JS_PATH, 'w', encoding='utf-8') as file:
         file.write("export const stations = " + result)
         print('station-list.js was rewrited')

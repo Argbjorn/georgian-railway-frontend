@@ -7,7 +7,6 @@ import json
 from config import ROUTES_LIST_JS_PATH, ROUTES_JSON_PATH
 from utils.geo_routes_excel_handler import GeoRoutesExcelHandler
 from utils.string_utils import remove_patterns
-from utils.stations_handler import StationsHandler
 import calendar
 from datetime import datetime, timedelta
 
@@ -115,7 +114,6 @@ def is_route_active(route_ref, routes):
 
 def make_routes_files():
     gr_workbook = GeoRoutesExcelHandler()
-    stations_handler = StationsHandler()
     routes = gr_workbook.routes_json
     routes_handled = []
 
@@ -150,15 +148,11 @@ def make_routes_files():
             stations_json = gr_workbook.get_route_stations_with_time(route["ref"])
 
             for idx, station in enumerate(stations_json):
-                name_en, name_ru, name_ka = stations_handler.get_station_names_by_code(station['station'])
                 role = "start" if idx == 0 else "end" if idx == len(stations_json) - 1 else "middle"
 
                 station_data = {
                     "code": station['station'],
                     "role": role,
-                    "name_en": name_en,
-                    "name_ru": name_ru,
-                    "name_ka": name_ka
                 }
 
                 if 'time' in station:

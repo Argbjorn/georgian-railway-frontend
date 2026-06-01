@@ -75,14 +75,11 @@ jobs:
       - name: Run make_routes_geo_files
         run: python scripts/make_routes_geo_files.py
 
-      - name: Run make_routes_files (1st run)
+      - name: Run make_routes_files
         run: python scripts/make_routes_files.py
 
       - name: Run make_stations_files
         run: python scripts/make_stations_files.py
-
-      - name: Run make_routes_files (2nd run)
-        run: python scripts/make_routes_files.py
 
       - name: Run data file tests
         run: pytest scripts/tests/ -v --tb=short

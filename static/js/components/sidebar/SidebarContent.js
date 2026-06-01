@@ -1,4 +1,5 @@
 import { LanguageService } from "../../services/LanguageService.js";
+import { stations } from "../station/stations-list.js";
 
 export class SidebarContent {
     constructor(entity, type) {
@@ -110,7 +111,8 @@ export class SidebarContent {
                 // Add start station
                 if (startStation) {
                     const startTime = startStation.departure_time !== '-' ? startStation.departure_time : startStation.arrival_time;
-                    const startStationName = startStation[`name_${this.currentLanguage}`] || startStation.name_en;
+                    const startStationInfo = stations[startStation.code] || {};
+                    const startStationName = startStationInfo[`name_${this.currentLanguage}`] || startStationInfo.name_en || startStation.code;
                     routeHTML += `
                         <li class="terminal">
                             <span class="station-time">${startTime || ''}</span>
@@ -122,7 +124,8 @@ export class SidebarContent {
                 // Add end station  
                 if (endStation) {
                     const endTime = endStation.arrival_time && endStation.arrival_time !== '-' ? endStation.arrival_time : endStation.departure_time;
-                    const endStationName = endStation[`name_${this.currentLanguage}`] || endStation.name_en;
+                    const endStationInfo = stations[endStation.code] || {};
+                    const endStationName = endStationInfo[`name_${this.currentLanguage}`] || endStationInfo.name_en || endStation.code;
                     routeHTML += `
                         <li class="terminal">
                             <span class="station-time">${endTime || ''}</span>
