@@ -1,5 +1,5 @@
-export const stations = [
-   {
+export const stations = {
+   "abasha": {
       "id": [
          2411795500
       ],
@@ -68,7 +68,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "agara": {
       "id": [
          12697426837,
          12697426838
@@ -138,7 +138,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ajameti": {
       "id": [
          12699941945,
          12699941946
@@ -184,7 +184,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "argveti": {
       "id": [
          2630936272,
          11144811906
@@ -230,7 +230,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "armavir": {
       "id": [
          3063675927
       ],
@@ -299,7 +299,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "avchala": {
       "id": [
          12697426825,
          12697426826
@@ -369,7 +369,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ayrum": {
       "id": [
          618739635
       ],
@@ -438,7 +438,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ağstafastansiyası": {
       "id": [
          184604225
       ],
@@ -483,7 +483,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "bakı": {
       "id": [
          8595726813
       ],
@@ -529,7 +529,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "batumicentral": {
       "id": [
          10056291776
       ],
@@ -675,7 +675,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "beghlevi": {
       "id": [
          11142405131
       ],
@@ -720,7 +720,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "biləcəri": {
       "id": [
          11841445531
       ],
@@ -765,7 +765,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "borjomi": {
       "id": [
          12697426839
       ],
@@ -838,7 +838,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "borjomiparki": {
       "id": [
          10774260690
       ],
@@ -912,7 +912,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "brotseula": {
       "id": [
          12579133939
       ],
@@ -981,7 +981,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "böyükkəsik": {
       "id": [
          11021691067,
          12042403212
@@ -1027,7 +1027,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "chakvi": {
       "id": [
          11142332818
       ],
@@ -1108,7 +1108,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "chaladidi": {
       "id": [
          11139961453
       ],
@@ -1153,7 +1153,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "chiatura": {
       "id": [
          11001493868
       ],
@@ -1198,7 +1198,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "chikauri": {
       "id": [
          6813785480
       ],
@@ -1243,7 +1243,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "darkveti": {
       "id": [
          12699941944
       ],
@@ -1288,7 +1288,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "dzegvi": {
       "id": [
          12697426829,
          12697426830
@@ -1358,7 +1358,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "dzirula": {
       "id": [
          13398327460
       ],
@@ -1463,7 +1463,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "gachiani": {
       "id": [
          12616806618,
          12616806619
@@ -1533,7 +1533,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ganja": {
       "id": [
          11841445535
       ],
@@ -1578,7 +1578,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "gardabani": {
       "id": [
          11001501786,
          11001610798
@@ -1674,7 +1674,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "gomi": {
       "id": [
          7997351216,
          11139961487
@@ -1744,7 +1744,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "gori": {
       "id": [
          10776367475,
          10776367479
@@ -1886,7 +1886,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "grakali": {
       "id": [
          12697426835,
          12697426836
@@ -1956,7 +1956,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "gyumri": {
       "id": [
          1411538807
       ],
@@ -2025,7 +2025,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ingiri": {
       "id": [
          947917958
       ],
@@ -2070,7 +2070,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "jumati": {
       "id": [
          11139961445,
          12579133940
@@ -2164,7 +2164,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kakhuri": {
       "id": [
          10785134075
       ],
@@ -2197,7 +2197,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kareli": {
       "id": [
          10785134082,
          10785134083
@@ -2291,7 +2291,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kaspi": {
       "id": [
          10785134084,
          10785134085
@@ -2385,7 +2385,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kavtiskhevi": {
       "id": [
          12697426833,
          12697426834
@@ -2455,7 +2455,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kharagauli": {
       "id": [
          10785134081,
          10789874826
@@ -2609,7 +2609,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "khashuri": {
       "id": [
          274201993,
          10776367474
@@ -2837,7 +2837,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kheta": {
       "id": [
          3065990612
       ],
@@ -2882,7 +2882,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "khobi": {
       "id": [
          2520906203
       ],
@@ -2927,7 +2927,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kobuleti": {
       "id": [
          10056291775
       ],
@@ -3068,7 +3068,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ksani": {
       "id": [
          12697426831,
          12697426832
@@ -3138,7 +3138,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kutaisiinternationalairport": {
       "id": [
          902313867,
          6814365180
@@ -3332,7 +3332,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kutaisi1": {
       "id": [
          10056291803
       ],
@@ -3478,7 +3478,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "kvaloni": {
       "id": [
          8190824553
       ],
@@ -3523,7 +3523,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "kvishkheti": {
       "id": [
          13398158124
       ],
@@ -3592,7 +3592,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "lanchkhuti": {
       "id": [
          10785134079
       ],
@@ -3685,7 +3685,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "makhinjauri": {
       "id": [
          12579133942
       ],
@@ -3778,7 +3778,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "marabda": {
       "id": [
          618740140
       ],
@@ -3811,7 +3811,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "marelisi": {
       "id": [
          12112943012,
          12112943013
@@ -3965,7 +3965,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "meria": {
       "id": [
          10785134078
       ],
@@ -4010,7 +4010,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "moliti": {
       "id": [
          11453231327,
          13857252842
@@ -4176,7 +4176,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "mtskheta": {
       "id": [
          10785134086,
          10785134087
@@ -4270,7 +4270,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "natanebi": {
       "id": [
          11142332828,
          12579133941
@@ -4364,7 +4364,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "navtlughi": {
       "id": [
          12616806612,
          12616806613
@@ -4434,7 +4434,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "nigoiti": {
       "id": [
          11139961448
       ],
@@ -4527,7 +4527,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ochkhamuri": {
       "id": [
          11142332824
       ],
@@ -4596,7 +4596,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ozurgeti": {
       "id": [
          10780567207
       ],
@@ -4642,7 +4642,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "platform11km": {
       "id": [
          10785134077
       ],
@@ -4687,7 +4687,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "platform16km": {
       "id": [
          1081901401
       ],
@@ -4720,7 +4720,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "poti": {
       "id": [
          10784971704
       ],
@@ -4770,7 +4770,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "rioni": {
       "id": [
          11139961503,
          12112505040
@@ -4990,7 +4990,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "rustavicentral": {
       "id": [
          11001501784,
          11001501785
@@ -5060,7 +5060,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "rustavicargo": {
       "id": [
          8342180822,
          11148152711
@@ -5130,7 +5130,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "sachkhere": {
       "id": [
          11001493869
       ],
@@ -5176,7 +5176,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "sadakhlo": {
       "id": [
          7965676834
       ],
@@ -5245,7 +5245,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "sajavakho": {
       "id": [
          11139961452
       ],
@@ -5314,7 +5314,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "samtoteknikumi": {
       "id": [
          12699006801
       ],
@@ -5383,7 +5383,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "samtredia1": {
       "id": [
          10056291791,
          10056291792
@@ -5549,7 +5549,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "samtredia2": {
       "id": [
          13078313779,
          13698423163
@@ -5619,7 +5619,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "senaki": {
       "id": [
          1910235344
       ],
@@ -5688,7 +5688,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "shukhuti": {
       "id": [
          11139961447
       ],
@@ -5733,7 +5733,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "supsa": {
       "id": [
          11142332831
       ],
@@ -5826,7 +5826,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "sviri": {
       "id": [
          11139961476,
          11139961477
@@ -5872,7 +5872,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "tbilisicentralstation": {
       "id": [
          1448030489,
          10082800081,
@@ -6189,7 +6189,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "tbilisimarshalling": {
       "id": [
          12616806614,
          12616806615
@@ -6259,7 +6259,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "tbilisicargo": {
       "id": [
          12697426823,
          12697426824
@@ -6329,7 +6329,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "ureki": {
       "id": [
          1080385946
       ],
@@ -6498,7 +6498,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "vanadzor": {
       "id": [
          10775367088
       ],
@@ -6567,7 +6567,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "veli": {
       "id": [
          12616806616,
          12616806617
@@ -6637,7 +6637,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "yerevan": {
       "id": [
          369670355
       ],
@@ -6707,7 +6707,7 @@ export const stations = [
          "via": []
       }
    },
-   {
+   "yevlaxstansiyası": {
       "id": [
          11841445533
       ],
@@ -6752,7 +6752,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "zahesi": {
       "id": [
          12697426827,
          12697426828
@@ -6822,7 +6822,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "zestafoni": {
       "id": [
          10776367473,
          10776367477
@@ -7026,7 +7026,7 @@ export const stations = [
          ]
       }
    },
-   {
+   "zugdidi": {
       "id": [
          10776367480
       ],
@@ -7072,4 +7072,4 @@ export const stations = [
          "via": []
       }
    }
-]
+}

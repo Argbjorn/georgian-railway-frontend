@@ -22,7 +22,8 @@ export const routes = [
       "extended_description_ru": null,
       "extended_description_ka": null,
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16236590,
@@ -47,7 +48,8 @@ export const routes = [
       "extended_description_ru": null,
       "extended_description_ka": null,
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 20705812,
@@ -68,16 +70,13 @@ export const routes = [
       "description_en": "The Baku — Tbilisi — Baku train launched on May 26, 2026, for the first time since the route was suspended in 2020. The service is operated by a new Stadler train of Azerbaijan Railways — not the double-deck seated Stadler that runs between Tbilisi and Batumi, but a comfortable sleeping train.<br><br>Important: tickets (in both directions) can only be purchased by citizens of countries with a visa-free regime with Azerbaijan. Citizens of the European Union, the United Kingdom, the USA, and a number of other countries cannot purchase tickets. The list of visa-free countries can be found on the <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">website of the Ministry of Foreign Affairs of Azerbaijan</a>.",
       "description_ru": "Поезд Баку — Тбилиси — Баку запущен 26 мая 2026 года, впервые после закрытия этого направления в 2020 году. Маршрут обслуживается новым поездом Stadler Азербайджанских железных дорог — это не двухэтажный сидячий Stadler, который ходит между Тбилиси и Батуми, а комфортный спальный поезд.<br><br>Важно: билеты (в обе стороны) могут приобрести только граждане стран, имеющих безвизовый режим с Азербайджаном. Граждане Евросоюза, Великобритании, США и ряда других стран купить билет не могут. Список стран с безвизовым режимом можно найти на <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">сайте МИД Азербайджана</a>.",
       "description_ka": "ბაქო — თბილისი — ბაქოს მატარებელი გაიხსნა 2026 წლის 26 მაისს, პირველად 2020 წელს ამ მიმართულების დახურვის შემდეგ. მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის ახალი Stadler-ის მატარებლით — ეს არ არის ორსართულიანი სასხდომი Stadler, რომელიც თბილისსა და ბათუმს შორის მოძრაობს, არამედ კომფორტული სასძინებელი მატარებელი.<br><br>მნიშვნელოვანია: ბილეთების შეძენა (ორივე მიმართულებით) შეუძლიათ მხოლოდ იმ ქვეყნების მოქალაქეებს, რომლებსაც აზერბაიჯანთან უვიზო რეჟიმი აქვთ. ევროკავშირის, დიდი ბრიტანეთის, აშშ-ის და სხვა ქვეყნების მოქალაქეებს ბილეთის შეძენა არ შეუძლიათ. უვიზო რეჟიმის მქონე ქვეყნების სია შეგიძლიათ იხილოთ <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">აზერბაიჯანის საგარეო საქმეთა სამინისტროს საიტზე</a>.",
-      "extended_description_en": "<b>Buying tickets</b><br>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<br><br><b>Car types and prices</b><br>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<br><br><b>Border crossing</b><br>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.",
-      "extended_description_ru": "<b>Покупка билетов</b><br>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<br><br><b>Типы вагонов и цены</b><br>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<br><br><b>Прохождение границы</b><br>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.",
-      "extended_description_ka": "<b>ბილეთების შეძენა</b><br>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<br><br><b>ვაგონების ტიპები და ფასები</b><br>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<br><br><b>საზღვრის გადაკვეთა</b><br>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.",
+      "extended_description_en": "<h3>Buying tickets</h3>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<h3>Car types and prices</h3>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<h3>Border crossing</h3>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.<h3>Useful links</h3>Emily Lush has compiled <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">detailed information</a> about this route — cars, food, border crossing, and much more.",
+      "extended_description_ru": "<h3>Покупка билетов</h3>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<h3>Типы вагонов и цены</h3>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<h3>Прохождение границы</h3>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.<h3>Полезные ссылки</h3>Emily Lush собрала <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">подробную информацию</a> об этом маршруте — вагоны, питание, пограничный переход и многое другое (на английском языке).",
+      "extended_description_ka": "<h3>ბილეთების შეძენა</h3>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<h3>ვაგონების ტიპები და ფასები</h3>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<h3>საზღვრის გადაკვეთა</h3>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.<h3>სასარგებლო ბმულები</h3>Emily Lush-მა შეკრიბა <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">დეტალური ინფორმაცია</a> ამ მარშრუტის შესახებ — ვაგონები, კვება, საზღვრის გადაკვეთა და სხვა (ინგლისურ ენაზე).",
       "stations": [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "21:00",
             "arrival_time": null,
             "stop_time": null
@@ -85,9 +84,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "middle",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "22:55",
             "arrival_time": null,
             "stop_time": null
@@ -95,9 +91,6 @@ export const routes = [
          {
             "code": "böyükkəsik",
             "role": "middle",
-            "name_en": "Böyük Kəsik",
-            "name_ru": "Böyük Kəsik",
-            "name_ka": "Böyük Kəsik",
             "departure_time": "00:20",
             "arrival_time": null,
             "stop_time": null
@@ -105,9 +98,6 @@ export const routes = [
          {
             "code": "ağstafastansiyası",
             "role": "middle",
-            "name_en": "Ağstafa Stansiyası",
-            "name_ru": "Ağstafa Stansiyası",
-            "name_ka": "Ağstafa Stansiyası",
             "departure_time": "01:09",
             "arrival_time": null,
             "stop_time": null
@@ -115,9 +105,6 @@ export const routes = [
          {
             "code": "ganja",
             "role": "middle",
-            "name_en": "Ganja",
-            "name_ru": "Гянджа",
-            "name_ka": "Gəncə",
             "departure_time": "02:29",
             "arrival_time": null,
             "stop_time": null
@@ -125,9 +112,6 @@ export const routes = [
          {
             "code": "yevlaxstansiyası",
             "role": "middle",
-            "name_en": "Yevlax Stansiyası",
-            "name_ru": "Yevlax Stansiyası",
-            "name_ka": "Yevlax Stansiyası",
             "departure_time": "03:14",
             "arrival_time": null,
             "stop_time": null
@@ -135,9 +119,6 @@ export const routes = [
          {
             "code": "biləcəri",
             "role": "middle",
-            "name_en": "Biləcəri",
-            "name_ru": "Biləcəri",
-            "name_ka": "Biləcəri",
             "departure_time": "06:07",
             "arrival_time": null,
             "stop_time": null
@@ -145,9 +126,6 @@ export const routes = [
          {
             "code": "bakı",
             "role": "end",
-            "name_en": "Bakı",
-            "name_ru": "Bakı",
-            "name_ka": "Bakı",
             "departure_time": "06:24",
             "arrival_time": null,
             "stop_time": null
@@ -155,7 +133,10 @@ export const routes = [
       ],
       "travel_time": "09:24",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         38
+      ]
    },
    {
       "id": 20705932,
@@ -176,16 +157,13 @@ export const routes = [
       "description_en": "The Baku — Tbilisi — Baku train launched on May 26, 2026, for the first time since the route was suspended in 2020. The service is operated by a new Stadler train of Azerbaijan Railways — not the double-deck seated Stadler that runs between Tbilisi and Batumi, but a comfortable sleeping train.<br><br>Important: tickets (in both directions) can only be purchased by citizens of countries with a visa-free regime with Azerbaijan. Citizens of the European Union, the United Kingdom, the USA, and a number of other countries cannot purchase tickets. The list of visa-free countries can be found on the <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">website of the Ministry of Foreign Affairs of Azerbaijan</a>.",
       "description_ru": "Поезд Баку — Тбилиси — Баку запущен 26 мая 2026 года, впервые после закрытия этого направления в 2020 году. Маршрут обслуживается новым поездом Stadler Азербайджанских железных дорог — это не двухэтажный сидячий Stadler, который ходит между Тбилиси и Батуми, а комфортный спальный поезд.<br><br>Важно: билеты (в обе стороны) могут приобрести только граждане стран, имеющих безвизовый режим с Азербайджаном. Граждане Евросоюза, Великобритании, США и ряда других стран купить билет не могут. Список стран с безвизовым режимом можно найти на <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">сайте МИД Азербайджана</a>.",
       "description_ka": "ბაქო — თბილისი — ბაქოს მატარებელი გაიხსნა 2026 წლის 26 მაისს, პირველად 2020 წელს ამ მიმართულების დახურვის შემდეგ. მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის ახალი Stadler-ის მატარებლით — ეს არ არის ორსართულიანი სასხდომი Stadler, რომელიც თბილისსა და ბათუმს შორის მოძრაობს, არამედ კომფორტული სასძინებელი მატარებელი.<br><br>მნიშვნელოვანია: ბილეთების შეძენა (ორივე მიმართულებით) შეუძლიათ მხოლოდ იმ ქვეყნების მოქალაქეებს, რომლებსაც აზერბაიჯანთან უვიზო რეჟიმი აქვთ. ევროკავშირის, დიდი ბრიტანეთის, აშშ-ის და სხვა ქვეყნების მოქალაქეებს ბილეთის შეძენა არ შეუძლიათ. უვიზო რეჟიმის მქონე ქვეყნების სია შეგიძლიათ იხილოთ <a href=\"https://mfa.gov.az/en/category/viza/vizasiz-gedis-gelis-rejimi-tetbiq-olunan-olkeler\" target=\"_blank\">აზერბაიჯანის საგარეო საქმეთა სამინისტროს საიტზე</a>.",
-      "extended_description_en": "<b>Buying tickets</b><br>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<br><br><b>Car types and prices</b><br>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<br><br><b>Border crossing</b><br>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.",
-      "extended_description_ru": "<b>Покупка билетов</b><br>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<br><br><b>Типы вагонов и цены</b><br>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<br><br><b>Прохождение границы</b><br>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.",
-      "extended_description_ka": "<b>ბილეთების შეძენა</b><br>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<br><br><b>ვაგონების ტიპები და ფასები</b><br>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<br><br><b>საზღვრის გადაკვეთა</b><br>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.",
+      "extended_description_en": "<h3>Buying tickets</h3>Since the route is operated by Azerbaijan Railways, tickets can be purchased on <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">their website</a>. It is possible that, as with the <a href=\"/routes/371/\">Yerevan train</a>, tickets are also sold at the Tbilisi station ticket offices, but there is no official information or confirmation of this yet.<h3>Car types and prices</h3>The train has sleeping cars only. <b>Comfort</b> — a four-berth compartment, minimum price between terminal stations — 81 manat. <b>Lux</b> — a two-berth compartment with a private shower and toilet, minimum price — 180 manat. Prices are dynamic. At launch, there was information about Comfort+ compartments, but no such tickets could be found. The train also has a dining car.<h3>Border crossing</h3>Border control is carried out at the stations Böyük Kəsik and Gardabani, where 60-minute stops are scheduled. Passengers are not required to leave the train for border control.<h3>Useful links</h3>Emily Lush has compiled <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">detailed information</a> about this route — cars, food, border crossing, and much more.",
+      "extended_description_ru": "<h3>Покупка билетов</h3>Так как маршрут обслуживается Азербайджанскими железными дорогами, билеты можно купить на <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">их сайте</a>. Возможно, как и в случае с <a href=\"/ru/routes/371/\">ереванским поездом</a>, билеты продаются в кассах тбилисского вокзала, но пока официальной информации или подтверждения этому нет.<h3>Типы вагонов и цены</h3>В поезде только спальные вагоны. <b>Комфорт</b> — четырёхместное купе, минимальная цена между конечными станциями — 81 манат. <b>Люкс</b> — двухместное купе с собственным душем и туалетом, минимальная цена — 180 манат. Цены динамические. При запуске была информация о купе Комфорт+, но таких билетов в наличии обнаружить не удалось. В поезде также есть вагон-ресторан.<h3>Прохождение границы</h3>Пограничный контроль осуществляется на станциях Беюк-Кясик (Böyük Kəsik) и Гардабани, где предусмотрены остановки по 60 минут. Из поезда для прохождения границы выходить не нужно.<h3>Полезные ссылки</h3>Emily Lush собрала <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">подробную информацию</a> об этом маршруте — вагоны, питание, пограничный переход и многое другое (на английском языке).",
+      "extended_description_ka": "<h3>ბილეთების შეძენა</h3>ვინაიდან მარშრუტი მომსახურდება აზერბაიჯანის რკინიგზის მიერ, ბილეთების შეძენა შესაძლებელია <a href=\"https://ticket.ady.az/en/\" target=\"_blank\">მათ ვებსაიტზე</a>. შესაძლებელია, <a href=\"/ka/routes/371/\">ერევნის მატარებლის</a> მსგავსად, ბილეთები იყიდება თბილისის სადგურის სალაროებშიც, თუმცა ამის შესახებ ჯერჯერობით ოფიციალური ინფორმაცია ან დადასტურება არ არსებობს.<h3>ვაგონების ტიპები და ფასები</h3>მატარებელში მხოლოდ სასძინებელი ვაგონებია. <b>კომფორტი</b> — ოთხადგილიანი კუპე, მინიმალური ფასი საბოლოო სადგურებს შორის — 81 მანათი. <b>ლუქსი</b> — ორადგილიანი კუპე საკუთარი შხაპით და ტუალეტით, მინიმალური ფასი — 180 მანათი. ფასები დინამიურია. გაშვებისას იყო ინფორმაცია კომფორტ+ კუპეების შესახებ, თუმცა ასეთი ბილეთები ხელმისაწვდომი არ აღმოჩნდა. მატარებელში ასევე არის რესტორნის ვაგონი.<h3>საზღვრის გადაკვეთა</h3>სასაზღვრო კონტროლი ხორციელდება ბიუქ-ქასიქის (Böyük Kəsik) და გარდაბნის სადგურებზე, სადაც გათვალისწინებულია 60-წუთიანი გაჩერებები. მატარებლიდან გასვლა საზღვრის გადასაკვეთად საჭირო არ არის.<h3>სასარგებლო ბმულები</h3>Emily Lush-მა შეკრიბა <a href=\"https://wander-lush.org/tbilisi-to-baku-train/\" target=\"_blank\">დეტალური ინფორმაცია</a> ამ მარშრუტის შესახებ — ვაგონები, კვება, საზღვრის გადაკვეთა და სხვა (ინგლისურ ენაზე).",
       "stations": [
          {
             "code": "bakı",
             "role": "start",
-            "name_en": "Bakı",
-            "name_ru": "Bakı",
-            "name_ka": "Bakı",
             "departure_time": "23:10",
             "arrival_time": null,
             "stop_time": null
@@ -193,9 +171,6 @@ export const routes = [
          {
             "code": "biləcəri",
             "role": "middle",
-            "name_en": "Biləcəri",
-            "name_ru": "Biləcəri",
-            "name_ka": "Biləcəri",
             "departure_time": "23:28",
             "arrival_time": null,
             "stop_time": null
@@ -203,9 +178,6 @@ export const routes = [
          {
             "code": "yevlaxstansiyası",
             "role": "middle",
-            "name_en": "Yevlax Stansiyası",
-            "name_ru": "Yevlax Stansiyası",
-            "name_ka": "Yevlax Stansiyası",
             "departure_time": "02:20",
             "arrival_time": null,
             "stop_time": null
@@ -213,9 +185,6 @@ export const routes = [
          {
             "code": "ganja",
             "role": "middle",
-            "name_en": "Ganja",
-            "name_ru": "Гянджа",
-            "name_ka": "Gəncə",
             "departure_time": "03:13",
             "arrival_time": null,
             "stop_time": null
@@ -223,9 +192,6 @@ export const routes = [
          {
             "code": "ağstafastansiyası",
             "role": "middle",
-            "name_en": "Ağstafa Stansiyası",
-            "name_ru": "Ağstafa Stansiyası",
-            "name_ka": "Ağstafa Stansiyası",
             "departure_time": "04:29",
             "arrival_time": null,
             "stop_time": null
@@ -233,9 +199,6 @@ export const routes = [
          {
             "code": "böyükkəsik",
             "role": "middle",
-            "name_en": "Böyük Kəsik",
-            "name_ru": "Böyük Kəsik",
-            "name_ka": "Böyük Kəsik",
             "departure_time": "06:20",
             "arrival_time": null,
             "stop_time": null
@@ -243,9 +206,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "middle",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "07:45",
             "arrival_time": null,
             "stop_time": null
@@ -253,9 +213,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "08:41",
             "arrival_time": null,
             "stop_time": null
@@ -263,7 +220,10 @@ export const routes = [
       ],
       "travel_time": "09:31",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         37
+      ]
    },
    {
       "id": 19197563,
@@ -291,9 +251,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "start",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "14:55",
             "arrival_time": "-",
             "stop_time": null
@@ -301,9 +258,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "15:01",
             "arrival_time": "15:00",
             "stop_time": 1
@@ -311,9 +265,6 @@ export const routes = [
          {
             "code": "chakvi",
             "role": "middle",
-            "name_en": "Chakvi",
-            "name_ru": "Чакви",
-            "name_ka": "ჩაქვი",
             "departure_time": "15:13",
             "arrival_time": "15:10",
             "stop_time": 3
@@ -321,9 +272,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "15:36",
             "arrival_time": "15:25",
             "stop_time": 11
@@ -331,9 +279,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "16:11",
             "arrival_time": "16:06",
             "stop_time": 5
@@ -341,9 +286,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "17:08",
             "arrival_time": "17:06",
             "stop_time": 2
@@ -351,9 +293,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "18:20",
             "arrival_time": "18:08",
             "stop_time": 12
@@ -361,9 +300,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "19:38",
             "arrival_time": "19:28",
             "stop_time": 10
@@ -371,9 +307,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "middle",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "22:40",
             "arrival_time": "21:31",
             "stop_time": 69
@@ -381,9 +314,6 @@ export const routes = [
          {
             "code": "marabda",
             "role": "middle",
-            "name_en": "Marabda",
-            "name_ru": "Марабда",
-            "name_ka": "მარაბდა",
             "departure_time": "23:29",
             "arrival_time": "23:24",
             "stop_time": 5
@@ -391,9 +321,6 @@ export const routes = [
          {
             "code": "sadakhlo",
             "role": "middle",
-            "name_en": "Sadakhlo",
-            "name_ru": "Садахло",
-            "name_ka": "სადახლო",
             "departure_time": "01:38",
             "arrival_time": "00:38",
             "stop_time": 60
@@ -401,9 +328,6 @@ export const routes = [
          {
             "code": "ayrum",
             "role": "middle",
-            "name_en": "Ayrum",
-            "name_ru": "Айрум",
-            "name_ka": "აირუმი",
             "departure_time": "03:00",
             "arrival_time": "02:03",
             "stop_time": 57
@@ -411,9 +335,6 @@ export const routes = [
          {
             "code": "vanadzor",
             "role": "middle",
-            "name_en": "Vanadzor",
-            "name_ru": "Ванадзор",
-            "name_ka": "ვანაძორი",
             "departure_time": "04:47",
             "arrival_time": "04:42",
             "stop_time": 5
@@ -421,9 +342,6 @@ export const routes = [
          {
             "code": "gyumri",
             "role": "middle",
-            "name_en": "Gyumri",
-            "name_ru": "Гюмри",
-            "name_ka": "გიუმრი",
             "departure_time": "06:25",
             "arrival_time": "06:05",
             "stop_time": 20
@@ -431,9 +349,6 @@ export const routes = [
          {
             "code": "armavir",
             "role": "middle",
-            "name_en": "Armavir",
-            "name_ru": "Армавир",
-            "name_ka": "არმავირი",
             "departure_time": "08:10",
             "arrival_time": "08:08",
             "stop_time": 2
@@ -441,9 +356,6 @@ export const routes = [
          {
             "code": "yerevan",
             "role": "end",
-            "name_en": "Yerevan",
-            "name_ru": "Ереван",
-            "name_ka": "ერევანი",
             "departure_time": "-",
             "arrival_time": "08:59",
             "stop_time": null
@@ -451,7 +363,10 @@ export const routes = [
       ],
       "travel_time": "18:04",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         202
+      ]
    },
    {
       "id": 19197562,
@@ -479,9 +394,6 @@ export const routes = [
          {
             "code": "yerevan",
             "role": "start",
-            "name_en": "Yerevan",
-            "name_ru": "Ереван",
-            "name_ka": "ერევანი",
             "departure_time": "14:00",
             "arrival_time": "-",
             "stop_time": null
@@ -489,9 +401,6 @@ export const routes = [
          {
             "code": "armavir",
             "role": "middle",
-            "name_en": "Armavir",
-            "name_ru": "Армавир",
-            "name_ka": "არმავირი",
             "departure_time": "14:50",
             "arrival_time": "14:48",
             "stop_time": 2
@@ -499,9 +408,6 @@ export const routes = [
          {
             "code": "gyumri",
             "role": "middle",
-            "name_en": "Gyumri",
-            "name_ru": "Гюмри",
-            "name_ka": "გიუმრი",
             "departure_time": "16:45",
             "arrival_time": "16:29",
             "stop_time": 16
@@ -509,9 +415,6 @@ export const routes = [
          {
             "code": "vanadzor",
             "role": "middle",
-            "name_en": "Vanadzor",
-            "name_ru": "Ванадзор",
-            "name_ka": "ვანაძორი",
             "departure_time": "18:09",
             "arrival_time": "18:04",
             "stop_time": 5
@@ -519,9 +422,6 @@ export const routes = [
          {
             "code": "ayrum",
             "role": "middle",
-            "name_en": "Ayrum",
-            "name_ru": "Айрум",
-            "name_ka": "აირუმი",
             "departure_time": "20:55",
             "arrival_time": "19:57",
             "stop_time": 58
@@ -529,9 +429,6 @@ export const routes = [
          {
             "code": "sadakhlo",
             "role": "middle",
-            "name_en": "Sadakhlo",
-            "name_ru": "Садахло",
-            "name_ka": "სადახლო",
             "departure_time": "22:20",
             "arrival_time": "21:20",
             "stop_time": 60
@@ -539,9 +436,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "middle",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "00:45",
             "arrival_time": "00:11",
             "stop_time": 34
@@ -549,9 +443,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "02:55",
             "arrival_time": "02:35",
             "stop_time": 20
@@ -559,9 +450,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "03:21",
             "arrival_time": "03:20",
             "stop_time": 1
@@ -569,9 +457,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "04:28",
             "arrival_time": "04:13",
             "stop_time": 15
@@ -579,9 +464,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "05:33",
             "arrival_time": "05:31",
             "stop_time": 2
@@ -589,9 +471,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "06:33",
             "arrival_time": "06:28",
             "stop_time": 5
@@ -599,9 +478,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "07:09",
             "arrival_time": "07:02",
             "stop_time": 7
@@ -609,9 +485,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "07:29",
             "arrival_time": "07:28",
             "stop_time": 1
@@ -619,9 +492,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "end",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "-",
             "arrival_time": "07:34",
             "stop_time": null
@@ -629,7 +499,10 @@ export const routes = [
       ],
       "travel_time": "17:34",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         201
+      ]
    },
    {
       "id": 15664273,
@@ -647,9 +520,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is <a href=\"/routes/201/\">extended to Batumi</a>. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут <a href=\"/ru/routes/201/\">продлевается до Батуми</a>. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი <a href=\"/ka/routes/201/\">გრძელდება ბათუმამდე</a>. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "extended_description_en": null,
       "extended_description_ru": null,
       "extended_description_ka": null,
@@ -657,9 +530,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "20:20",
             "arrival_time": "-",
             "stop_time": null
@@ -667,9 +537,6 @@ export const routes = [
          {
             "code": "sadakhlo",
             "role": "middle",
-            "name_en": "Sadakhlo",
-            "name_ru": "Садахло",
-            "name_ka": "სადახლო",
             "departure_time": "23:15",
             "arrival_time": "22:10",
             "stop_time": 65
@@ -677,9 +544,6 @@ export const routes = [
          {
             "code": "ayrum",
             "role": "middle",
-            "name_en": "Ayrum",
-            "name_ru": "Айрум",
-            "name_ka": "აირუმი",
             "departure_time": "00:40",
             "arrival_time": "23:40",
             "stop_time": 60
@@ -687,9 +551,6 @@ export const routes = [
          {
             "code": "vanadzor",
             "role": "middle",
-            "name_en": "Vanadzor",
-            "name_ru": "Ванадзор",
-            "name_ka": "ვანაძორი",
             "departure_time": "02:25",
             "arrival_time": "02:20",
             "stop_time": 5
@@ -697,9 +558,6 @@ export const routes = [
          {
             "code": "gyumri",
             "role": "middle",
-            "name_en": "Gyumri",
-            "name_ru": "Гюмри",
-            "name_ka": "გიუმრი",
             "departure_time": "04:10",
             "arrival_time": "03:50",
             "stop_time": 20
@@ -707,9 +565,6 @@ export const routes = [
          {
             "code": "armavir",
             "role": "middle",
-            "name_en": "Armavir",
-            "name_ru": "Армавир",
-            "name_ka": "არმავირი",
             "departure_time": "06:06",
             "arrival_time": "06:03",
             "stop_time": 3
@@ -717,9 +572,6 @@ export const routes = [
          {
             "code": "yerevan",
             "role": "end",
-            "name_en": "Yerevan",
-            "name_ru": "Ереван",
-            "name_ka": "ერევანი",
             "departure_time": "-",
             "arrival_time": "06:55",
             "stop_time": null
@@ -727,7 +579,10 @@ export const routes = [
       ],
       "travel_time": "10:35",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         372
+      ]
    },
    {
       "id": 11149011,
@@ -745,9 +600,9 @@ export const routes = [
       "online_tickets_new_site": false,
       "train_type": null,
       "has_arrival_time": true,
-      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is extended to Batumi. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
-      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут продлевается до Батуми. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
-      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი გრძელდება ბათუმამდე. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
+      "description_en": "This season, the train runs from October 2, 2025 to June 13, 2026. In summer, its route is <a href=\"/routes/202/\">extended to Batumi</a>. Tickets can be purchased online on the South Caucasus Railway website via the link below. Georgian Railway does not sell tickets for this train online; however, they can be purchased at station ticket offices. Platzkart, compartment, and SV sleeping cars are available. Prices for <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">May</a>.",
+      "description_ru": "В этом сезоне поезд ходит со 2 октября 2025 года по 13 июня 2026 года. Летом его маршрут <a href=\"/ru/routes/202/\">продлевается до Батуми</a>. Билеты можно купить онлайн на сайте ЮКЖД по ссылке ниже. Грузинская железная дорога не продает билеты на этот поезд онлайн, однако их можно приобрести в кассах вокзалов. Доступны плацкарт, купе и СВ. Цены на <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_rus_5.pdf\" target=\"_blank\">май</a>.",
+      "description_ka": "ამ სეზონში მატარებელი მოძრაობს 2025 წლის 2 ოქტომბრიდან 2026 წლის 13 ივნისამდე. ზაფხულში მისი მარშრუტი <a href=\"/ka/routes/202/\">გრძელდება ბათუმამდე</a>. ბილეთების შეძენა შესაძლებელია ონლაინ სამხრეთ კავკასიის რკინიგზის ვებსაიტზე ქვემოთ მოცემული ბმულის საშუალებით. საქართველოს რკინიგზა ამ მატარებელზე ბილეთებს ონლაინ არ ყიდის, თუმცა მათი შეძენა შესაძლებელია სადგურების სალაროებში. ხელმისაწვდომია პლაცკარტი, კუპე და SV. ფასები <a href=\"https://www.railway.am/infodocs/price/Yer_tbilisi_price_eng_5.pdf\" target=\"_blank\">მაისისთვის</a>.",
       "extended_description_en": null,
       "extended_description_ru": null,
       "extended_description_ka": null,
@@ -755,9 +610,6 @@ export const routes = [
          {
             "code": "yerevan",
             "role": "start",
-            "name_en": "Yerevan",
-            "name_ru": "Ереван",
-            "name_ka": "ერევანი",
             "departure_time": "21:30",
             "arrival_time": "-",
             "stop_time": null
@@ -765,9 +617,6 @@ export const routes = [
          {
             "code": "armavir",
             "role": "middle",
-            "name_en": "Armavir",
-            "name_ru": "Армавир",
-            "name_ka": "არმავირი",
             "departure_time": "22:18",
             "arrival_time": "22:16",
             "stop_time": 2
@@ -775,9 +624,6 @@ export const routes = [
          {
             "code": "gyumri",
             "role": "middle",
-            "name_en": "Gyumri",
-            "name_ru": "Гюмри",
-            "name_ka": "გიუმრი",
             "departure_time": "00:13",
             "arrival_time": "23:59",
             "stop_time": 14
@@ -785,9 +631,6 @@ export const routes = [
          {
             "code": "vanadzor",
             "role": "middle",
-            "name_en": "Vanadzor",
-            "name_ru": "Ванадзор",
-            "name_ka": "ვანაძორი",
             "departure_time": "01:38",
             "arrival_time": "01:33",
             "stop_time": 5
@@ -795,9 +638,6 @@ export const routes = [
          {
             "code": "ayrum",
             "role": "middle",
-            "name_en": "Ayrum",
-            "name_ru": "Айрум",
-            "name_ka": "აირუმი",
             "departure_time": "04:15",
             "arrival_time": "03:24",
             "stop_time": 51
@@ -805,9 +645,6 @@ export const routes = [
          {
             "code": "sadakhlo",
             "role": "middle",
-            "name_en": "Sadakhlo",
-            "name_ru": "Садахло",
-            "name_ka": "სადახლო",
             "departure_time": "05:40",
             "arrival_time": "04:40",
             "stop_time": 60
@@ -815,9 +652,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "-",
             "arrival_time": "07:35",
             "stop_time": null
@@ -825,7 +659,10 @@ export const routes = [
       ],
       "travel_time": "10:05",
       "price": null,
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         371
+      ]
    },
    {
       "id": 15689521,
@@ -853,9 +690,6 @@ export const routes = [
          {
             "code": "borjomiparki",
             "role": "start",
-            "name_en": "Borjomi-Parki",
-            "name_ru": "Боржоми-Парк",
-            "name_ka": "ბორჯომი-პარკი",
             "departure_time": "16:30",
             "arrival_time": null,
             "stop_time": null
@@ -863,9 +697,6 @@ export const routes = [
          {
             "code": "borjomi",
             "role": "middle",
-            "name_en": "Borjomi",
-            "name_ru": "Боржоми",
-            "name_ka": "ბორჯომი",
             "departure_time": "16:40",
             "arrival_time": null,
             "stop_time": null
@@ -873,9 +704,6 @@ export const routes = [
          {
             "code": "kvishkheti",
             "role": "middle",
-            "name_en": "Kvishkheti",
-            "name_ru": "Квишхети",
-            "name_ka": "ქვიშხეთი",
             "departure_time": "17:54",
             "arrival_time": null,
             "stop_time": null
@@ -883,9 +711,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "18:06",
             "arrival_time": null,
             "stop_time": null
@@ -893,9 +718,6 @@ export const routes = [
          {
             "code": "gomi",
             "role": "middle",
-            "name_en": "Gomi",
-            "name_ru": "Гоми",
-            "name_ka": "გომი",
             "departure_time": "18:23",
             "arrival_time": null,
             "stop_time": null
@@ -903,9 +725,6 @@ export const routes = [
          {
             "code": "agara",
             "role": "middle",
-            "name_en": "Agara",
-            "name_ru": "Агара",
-            "name_ka": "აგარა",
             "departure_time": "18:34",
             "arrival_time": null,
             "stop_time": null
@@ -913,9 +732,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "18:42",
             "arrival_time": null,
             "stop_time": null
@@ -923,9 +739,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "19:02",
             "arrival_time": null,
             "stop_time": null
@@ -933,9 +746,6 @@ export const routes = [
          {
             "code": "grakali",
             "role": "middle",
-            "name_en": "Grakali",
-            "name_ru": "Гракали",
-            "name_ka": "გრაკალი",
             "departure_time": "19:21",
             "arrival_time": null,
             "stop_time": null
@@ -943,9 +753,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "19:36",
             "arrival_time": null,
             "stop_time": null
@@ -953,9 +760,6 @@ export const routes = [
          {
             "code": "kavtiskhevi",
             "role": "middle",
-            "name_en": "Kavtiskhevi",
-            "name_ru": "Кавтисхеви",
-            "name_ka": "კავთისხევი",
             "departure_time": "19:45",
             "arrival_time": null,
             "stop_time": null
@@ -963,9 +767,6 @@ export const routes = [
          {
             "code": "ksani",
             "role": "middle",
-            "name_en": "Ksani",
-            "name_ru": "Ксани",
-            "name_ka": "ქსანი",
             "departure_time": "19:58",
             "arrival_time": null,
             "stop_time": null
@@ -973,9 +774,6 @@ export const routes = [
          {
             "code": "dzegvi",
             "role": "middle",
-            "name_en": "Dzegvi",
-            "name_ru": "Дзегви",
-            "name_ka": "ძეგვი",
             "departure_time": "20:06",
             "arrival_time": null,
             "stop_time": null
@@ -983,9 +781,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "20:15",
             "arrival_time": null,
             "stop_time": null
@@ -993,9 +788,6 @@ export const routes = [
          {
             "code": "zahesi",
             "role": "middle",
-            "name_en": "Zahesi",
-            "name_ru": "Захеси",
-            "name_ka": "ზაჰესი",
             "departure_time": "20:23",
             "arrival_time": null,
             "stop_time": null
@@ -1003,9 +795,6 @@ export const routes = [
          {
             "code": "avchala",
             "role": "middle",
-            "name_en": "Avchala",
-            "name_ru": "Авчала",
-            "name_ka": "ავჭალა",
             "departure_time": "20:28",
             "arrival_time": null,
             "stop_time": null
@@ -1013,9 +802,6 @@ export const routes = [
          {
             "code": "tbilisicargo",
             "role": "middle",
-            "name_en": "Tbilisi-Cargo",
-            "name_ru": "Тбилиси-Грузовая",
-            "name_ka": "თბილისი სატვირთო",
             "departure_time": "20:44",
             "arrival_time": null,
             "stop_time": null
@@ -1023,9 +809,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "20:50",
             "arrival_time": null,
             "stop_time": null
@@ -1037,7 +820,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "685"
+         685
+      ],
+      "reverse": [
+         618,
+         686
       ]
    },
    {
@@ -1066,9 +853,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "06:35",
             "arrival_time": null,
             "stop_time": null
@@ -1076,9 +860,6 @@ export const routes = [
          {
             "code": "tbilisicargo",
             "role": "middle",
-            "name_en": "Tbilisi-Cargo",
-            "name_ru": "Тбилиси-Грузовая",
-            "name_ka": "თბილისი სატვირთო",
             "departure_time": "06:39",
             "arrival_time": null,
             "stop_time": null
@@ -1086,9 +867,6 @@ export const routes = [
          {
             "code": "avchala",
             "role": "middle",
-            "name_en": "Avchala",
-            "name_ru": "Авчала",
-            "name_ka": "ავჭალა",
             "departure_time": "06:48",
             "arrival_time": null,
             "stop_time": null
@@ -1096,9 +874,6 @@ export const routes = [
          {
             "code": "zahesi",
             "role": "middle",
-            "name_en": "Zahesi",
-            "name_ru": "Захеси",
-            "name_ka": "ზაჰესი",
             "departure_time": "06:53",
             "arrival_time": null,
             "stop_time": null
@@ -1106,9 +881,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "07:01",
             "arrival_time": null,
             "stop_time": null
@@ -1116,9 +888,6 @@ export const routes = [
          {
             "code": "dzegvi",
             "role": "middle",
-            "name_en": "Dzegvi",
-            "name_ru": "Дзегви",
-            "name_ka": "ძეგვი",
             "departure_time": "07:10",
             "arrival_time": null,
             "stop_time": null
@@ -1126,9 +895,6 @@ export const routes = [
          {
             "code": "ksani",
             "role": "middle",
-            "name_en": "Ksani",
-            "name_ru": "Ксани",
-            "name_ka": "ქსანი",
             "departure_time": "07:18",
             "arrival_time": null,
             "stop_time": null
@@ -1136,9 +902,6 @@ export const routes = [
          {
             "code": "kavtiskhevi",
             "role": "middle",
-            "name_en": "Kavtiskhevi",
-            "name_ru": "Кавтисхеви",
-            "name_ka": "კავთისხევი",
             "departure_time": "07:31",
             "arrival_time": null,
             "stop_time": null
@@ -1146,9 +909,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "07:39",
             "arrival_time": null,
             "stop_time": null
@@ -1156,9 +916,6 @@ export const routes = [
          {
             "code": "grakali",
             "role": "middle",
-            "name_en": "Grakali",
-            "name_ru": "Гракали",
-            "name_ka": "გრაკალი",
             "departure_time": "07:55",
             "arrival_time": null,
             "stop_time": null
@@ -1166,9 +923,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "08:12",
             "arrival_time": null,
             "stop_time": null
@@ -1176,9 +930,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "08:34",
             "arrival_time": null,
             "stop_time": null
@@ -1186,9 +937,6 @@ export const routes = [
          {
             "code": "agara",
             "role": "middle",
-            "name_en": "Agara",
-            "name_ru": "Агара",
-            "name_ka": "აგარა",
             "departure_time": "08:42",
             "arrival_time": null,
             "stop_time": null
@@ -1196,9 +944,6 @@ export const routes = [
          {
             "code": "gomi",
             "role": "middle",
-            "name_en": "Gomi",
-            "name_ru": "Гоми",
-            "name_ka": "გომი",
             "departure_time": "08:53",
             "arrival_time": null,
             "stop_time": null
@@ -1206,9 +951,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "09:07",
             "arrival_time": null,
             "stop_time": null
@@ -1216,9 +958,6 @@ export const routes = [
          {
             "code": "kvishkheti",
             "role": "middle",
-            "name_en": "Kvishkheti",
-            "name_ru": "Квишхети",
-            "name_ka": "ქვიშხეთი",
             "departure_time": "09:23",
             "arrival_time": null,
             "stop_time": null
@@ -1226,9 +965,6 @@ export const routes = [
          {
             "code": "borjomi",
             "role": "middle",
-            "name_en": "Borjomi",
-            "name_ru": "Боржоми",
-            "name_ka": "ბორჯომი",
             "departure_time": "10:33",
             "arrival_time": null,
             "stop_time": null
@@ -1236,9 +972,6 @@ export const routes = [
          {
             "code": "borjomiparki",
             "role": "end",
-            "name_en": "Borjomi-Parki",
-            "name_ru": "Боржоми-Парк",
-            "name_ka": "ბორჯომი-პარკი",
             "departure_time": "10:48",
             "arrival_time": null,
             "stop_time": null
@@ -1250,7 +983,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "686"
+         686
+      ],
+      "reverse": [
+         617,
+         685
       ]
    },
    {
@@ -1279,9 +1016,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "start",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "05:50",
             "arrival_time": null,
             "stop_time": null
@@ -1289,9 +1023,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "06:10",
             "arrival_time": null,
             "stop_time": null
@@ -1299,9 +1030,6 @@ export const routes = [
          {
             "code": "ajameti",
             "role": "middle",
-            "name_en": "Ajameti",
-            "name_ru": "Аджамети",
-            "name_ka": "აჯამეთი",
             "departure_time": "06:21",
             "arrival_time": null,
             "stop_time": null
@@ -1309,9 +1037,6 @@ export const routes = [
          {
             "code": "argveti",
             "role": "middle",
-            "name_en": "Argveti",
-            "name_ru": "Аргвети",
-            "name_ka": "არგვეთი",
             "departure_time": "06:40",
             "arrival_time": null,
             "stop_time": null
@@ -1319,9 +1044,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "06:54",
             "arrival_time": null,
             "stop_time": null
@@ -1329,9 +1051,6 @@ export const routes = [
          {
             "code": "beghlevi",
             "role": "middle",
-            "name_en": "Beghlevi",
-            "name_ru": "Беглеви",
-            "name_ka": "ბეღლევი",
             "departure_time": "07:43",
             "arrival_time": null,
             "stop_time": null
@@ -1339,9 +1058,6 @@ export const routes = [
          {
             "code": "chiatura",
             "role": "middle",
-            "name_en": "Chiatura",
-            "name_ru": "Чиатура",
-            "name_ka": "ჭიათურა",
             "departure_time": "08:33",
             "arrival_time": null,
             "stop_time": null
@@ -1349,9 +1065,6 @@ export const routes = [
          {
             "code": "chikauri",
             "role": "middle",
-            "name_en": "Chikauri",
-            "name_ru": "Чикаури",
-            "name_ka": "ჭიქაური",
             "departure_time": "08:50",
             "arrival_time": null,
             "stop_time": null
@@ -1359,9 +1072,6 @@ export const routes = [
          {
             "code": "darkveti",
             "role": "middle",
-            "name_en": "Darkveti",
-            "name_ru": "Дарквети",
-            "name_ka": "დარკვეთი",
             "departure_time": "09:02",
             "arrival_time": null,
             "stop_time": null
@@ -1369,9 +1079,6 @@ export const routes = [
          {
             "code": "sachkhere",
             "role": "end",
-            "name_en": "Sachkhere",
-            "name_ru": "Сачхере",
-            "name_ka": "საჩხერე",
             "departure_time": "09:19",
             "arrival_time": null,
             "stop_time": null
@@ -1382,7 +1089,10 @@ export const routes = [
          "price_type": "exact",
          "price": 2.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         634
+      ]
    },
    {
       "id": 16010994,
@@ -1410,9 +1120,6 @@ export const routes = [
          {
             "code": "sachkhere",
             "role": "start",
-            "name_en": "Sachkhere",
-            "name_ru": "Сачхере",
-            "name_ka": "საჩხერე",
             "departure_time": "10:50",
             "arrival_time": null,
             "stop_time": null
@@ -1420,9 +1127,6 @@ export const routes = [
          {
             "code": "darkveti",
             "role": "middle",
-            "name_en": "Darkveti",
-            "name_ru": "Дарквети",
-            "name_ka": "დარკვეთი",
             "departure_time": "11:05",
             "arrival_time": null,
             "stop_time": null
@@ -1430,9 +1134,6 @@ export const routes = [
          {
             "code": "chikauri",
             "role": "middle",
-            "name_en": "Chikauri",
-            "name_ru": "Чикаури",
-            "name_ka": "ჭიქაური",
             "departure_time": "11:16",
             "arrival_time": null,
             "stop_time": null
@@ -1440,9 +1141,6 @@ export const routes = [
          {
             "code": "chiatura",
             "role": "middle",
-            "name_en": "Chiatura",
-            "name_ru": "Чиатура",
-            "name_ka": "ჭიათურა",
             "departure_time": "11:31",
             "arrival_time": null,
             "stop_time": null
@@ -1450,9 +1148,6 @@ export const routes = [
          {
             "code": "beghlevi",
             "role": "middle",
-            "name_en": "Beghlevi",
-            "name_ru": "Беглеви",
-            "name_ka": "ბეღლევი",
             "departure_time": "12:23",
             "arrival_time": null,
             "stop_time": null
@@ -1460,9 +1155,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "13:10",
             "arrival_time": null,
             "stop_time": null
@@ -1470,9 +1162,6 @@ export const routes = [
          {
             "code": "argveti",
             "role": "middle",
-            "name_en": "Argveti",
-            "name_ru": "Аргвети",
-            "name_ka": "არგვეთი",
             "departure_time": "13:28",
             "arrival_time": null,
             "stop_time": null
@@ -1480,9 +1169,6 @@ export const routes = [
          {
             "code": "ajameti",
             "role": "middle",
-            "name_en": "Ajameti",
-            "name_ru": "Аджамети",
-            "name_ka": "აჯამეთი",
             "departure_time": "13:51",
             "arrival_time": null,
             "stop_time": null
@@ -1490,9 +1176,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "14:02",
             "arrival_time": null,
             "stop_time": null
@@ -1500,9 +1183,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "end",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "14:27",
             "arrival_time": null,
             "stop_time": null
@@ -1513,7 +1193,10 @@ export const routes = [
          "price_type": "exact",
          "price": 2.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         633
+      ]
    },
    {
       "id": 14631215,
@@ -1541,9 +1224,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "start",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "18:35",
             "arrival_time": null,
             "stop_time": null
@@ -1551,9 +1231,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "18:40",
             "arrival_time": null,
             "stop_time": null
@@ -1561,9 +1238,6 @@ export const routes = [
          {
             "code": "chakvi",
             "role": "middle",
-            "name_en": "Chakvi",
-            "name_ru": "Чакви",
-            "name_ka": "ჩაქვი",
             "departure_time": "18:59",
             "arrival_time": null,
             "stop_time": null
@@ -1571,9 +1245,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "19:17",
             "arrival_time": null,
             "stop_time": null
@@ -1581,9 +1252,6 @@ export const routes = [
          {
             "code": "ochkhamuri",
             "role": "middle",
-            "name_en": "Ochkhamuri",
-            "name_ru": "Очхамури",
-            "name_ka": "ოჩხამური",
             "departure_time": "19:32",
             "arrival_time": null,
             "stop_time": null
@@ -1591,9 +1259,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "19:45",
             "arrival_time": null,
             "stop_time": null
@@ -1601,9 +1266,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "19:57",
             "arrival_time": null,
             "stop_time": null
@@ -1611,9 +1273,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "20:11",
             "arrival_time": null,
             "stop_time": null
@@ -1621,9 +1280,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "20:27",
             "arrival_time": null,
             "stop_time": null
@@ -1631,9 +1287,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "20:44",
             "arrival_time": null,
             "stop_time": null
@@ -1641,9 +1294,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "20:58",
             "arrival_time": null,
             "stop_time": null
@@ -1651,9 +1301,6 @@ export const routes = [
          {
             "code": "sajavakho",
             "role": "middle",
-            "name_en": "Sajavakho",
-            "name_ru": "Саджавахо",
-            "name_ka": "საჯავახო",
             "departure_time": "21:22",
             "arrival_time": null,
             "stop_time": null
@@ -1661,9 +1308,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "21:36",
             "arrival_time": null,
             "stop_time": null
@@ -1671,9 +1315,6 @@ export const routes = [
          {
             "code": "samtredia2",
             "role": "middle",
-            "name_en": "Samtredia-2",
-            "name_ru": "Самтредиа-2",
-            "name_ka": "სამტრედია-2",
             "departure_time": "21:46",
             "arrival_time": null,
             "stop_time": null
@@ -1681,9 +1322,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "22:00",
             "arrival_time": null,
             "stop_time": null
@@ -1691,9 +1329,6 @@ export const routes = [
          {
             "code": "brotseula",
             "role": "middle",
-            "name_en": "Brotseula",
-            "name_ru": "Броцеула",
-            "name_ka": "ბროწეულა",
             "departure_time": "22:20",
             "arrival_time": null,
             "stop_time": null
@@ -1701,9 +1336,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "22:27",
             "arrival_time": null,
             "stop_time": null
@@ -1711,9 +1343,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "end",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "22:57",
             "arrival_time": null,
             "stop_time": null
@@ -1725,7 +1354,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "683"
+         683
+      ],
+      "reverse": [
+         682,
+         684
       ]
    },
    {
@@ -1754,9 +1387,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "start",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "06:15",
             "arrival_time": null,
             "stop_time": null
@@ -1764,9 +1394,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "06:35",
             "arrival_time": null,
             "stop_time": null
@@ -1774,9 +1401,6 @@ export const routes = [
          {
             "code": "brotseula",
             "role": "middle",
-            "name_en": "Brotseula",
-            "name_ru": "Броцеула",
-            "name_ka": "ბროწეულა",
             "departure_time": "06:51",
             "arrival_time": null,
             "stop_time": null
@@ -1784,9 +1408,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "07:11",
             "arrival_time": null,
             "stop_time": null
@@ -1794,9 +1415,6 @@ export const routes = [
          {
             "code": "samtredia2",
             "role": "middle",
-            "name_en": "Samtredia-2",
-            "name_ru": "Самтредиа-2",
-            "name_ka": "სამტრედია-2",
             "departure_time": "07:24",
             "arrival_time": null,
             "stop_time": null
@@ -1804,9 +1422,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "07:32",
             "arrival_time": null,
             "stop_time": null
@@ -1814,9 +1429,6 @@ export const routes = [
          {
             "code": "sajavakho",
             "role": "middle",
-            "name_en": "Sajavakho",
-            "name_ru": "Саджавахо",
-            "name_ka": "საჯავახო",
             "departure_time": "07:40",
             "arrival_time": null,
             "stop_time": null
@@ -1824,9 +1436,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "08:11",
             "arrival_time": null,
             "stop_time": null
@@ -1834,9 +1443,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "08:25",
             "arrival_time": null,
             "stop_time": null
@@ -1844,9 +1450,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "08:43",
             "arrival_time": null,
             "stop_time": null
@@ -1854,9 +1457,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "08:59",
             "arrival_time": null,
             "stop_time": null
@@ -1864,9 +1464,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "09:14",
             "arrival_time": null,
             "stop_time": null
@@ -1874,9 +1471,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "09:27",
             "arrival_time": null,
             "stop_time": null
@@ -1884,9 +1478,6 @@ export const routes = [
          {
             "code": "ochkhamuri",
             "role": "middle",
-            "name_en": "Ochkhamuri",
-            "name_ru": "Очхамури",
-            "name_ka": "ოჩხამური",
             "departure_time": "09:40",
             "arrival_time": null,
             "stop_time": null
@@ -1894,9 +1485,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "09:53",
             "arrival_time": null,
             "stop_time": null
@@ -1904,9 +1492,6 @@ export const routes = [
          {
             "code": "chakvi",
             "role": "middle",
-            "name_en": "Chakvi",
-            "name_ru": "Чакви",
-            "name_ka": "ჩაქვი",
             "departure_time": "10:12",
             "arrival_time": null,
             "stop_time": null
@@ -1914,9 +1499,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "10:31",
             "arrival_time": null,
             "stop_time": null
@@ -1924,9 +1506,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "end",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "10:37",
             "arrival_time": null,
             "stop_time": null
@@ -1938,7 +1517,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "682"
+         684
+      ],
+      "reverse": [
+         681,
+         683
       ]
    },
    {
@@ -1967,9 +1550,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "start",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "09:50",
             "arrival_time": null,
             "stop_time": null
@@ -1977,9 +1557,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "09:55",
             "arrival_time": null,
             "stop_time": null
@@ -1987,9 +1564,6 @@ export const routes = [
          {
             "code": "chakvi",
             "role": "middle",
-            "name_en": "Chakvi",
-            "name_ru": "Чакви",
-            "name_ka": "ჩაქვი",
             "departure_time": "10:13",
             "arrival_time": null,
             "stop_time": null
@@ -1997,9 +1571,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "10:31",
             "arrival_time": null,
             "stop_time": null
@@ -2007,9 +1578,6 @@ export const routes = [
          {
             "code": "ochkhamuri",
             "role": "middle",
-            "name_en": "Ochkhamuri",
-            "name_ru": "Очхамури",
-            "name_ka": "ოჩხამური",
             "departure_time": "10:44",
             "arrival_time": null,
             "stop_time": null
@@ -2017,9 +1585,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "10:57",
             "arrival_time": null,
             "stop_time": null
@@ -2027,9 +1592,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "11:10",
             "arrival_time": null,
             "stop_time": null
@@ -2037,9 +1599,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "11:22",
             "arrival_time": null,
             "stop_time": null
@@ -2047,9 +1606,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "11:38",
             "arrival_time": null,
             "stop_time": null
@@ -2057,9 +1613,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "11:55",
             "arrival_time": null,
             "stop_time": null
@@ -2067,9 +1620,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "12:10",
             "arrival_time": null,
             "stop_time": null
@@ -2077,9 +1627,6 @@ export const routes = [
          {
             "code": "sajavakho",
             "role": "middle",
-            "name_en": "Sajavakho",
-            "name_ru": "Саджавахо",
-            "name_ka": "საჯავახო",
             "departure_time": "12:31",
             "arrival_time": null,
             "stop_time": null
@@ -2087,9 +1634,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "12:45",
             "arrival_time": null,
             "stop_time": null
@@ -2097,9 +1641,6 @@ export const routes = [
          {
             "code": "samtredia2",
             "role": "middle",
-            "name_en": "Samtredia-2",
-            "name_ru": "Самтредиа-2",
-            "name_ka": "სამტრედია-2",
             "departure_time": "12:54",
             "arrival_time": null,
             "stop_time": null
@@ -2107,9 +1648,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "13:08",
             "arrival_time": null,
             "stop_time": null
@@ -2117,9 +1655,6 @@ export const routes = [
          {
             "code": "brotseula",
             "role": "middle",
-            "name_en": "Brotseula",
-            "name_ru": "Броцеула",
-            "name_ka": "ბროწეულა",
             "departure_time": "13:28",
             "arrival_time": null,
             "stop_time": null
@@ -2127,9 +1662,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "13:35",
             "arrival_time": null,
             "stop_time": null
@@ -2137,9 +1669,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "end",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "14:05",
             "arrival_time": null,
             "stop_time": null
@@ -2151,7 +1680,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "681"
+         681
+      ],
+      "reverse": [
+         682,
+         684
       ]
    },
    {
@@ -2180,9 +1713,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "start",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "15:55",
             "arrival_time": null,
             "stop_time": null
@@ -2190,9 +1720,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "16:15",
             "arrival_time": null,
             "stop_time": null
@@ -2200,9 +1727,6 @@ export const routes = [
          {
             "code": "brotseula",
             "role": "middle",
-            "name_en": "Brotseula",
-            "name_ru": "Броцеула",
-            "name_ka": "ბროწეულა",
             "departure_time": "16:31",
             "arrival_time": null,
             "stop_time": null
@@ -2210,9 +1734,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "16:51",
             "arrival_time": null,
             "stop_time": null
@@ -2220,9 +1741,6 @@ export const routes = [
          {
             "code": "samtredia2",
             "role": "middle",
-            "name_en": "Samtredia-2",
-            "name_ru": "Самтредиа-2",
-            "name_ka": "სამტრედია-2",
             "departure_time": "17:04",
             "arrival_time": null,
             "stop_time": null
@@ -2230,9 +1748,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "17:12",
             "arrival_time": null,
             "stop_time": null
@@ -2240,9 +1755,6 @@ export const routes = [
          {
             "code": "sajavakho",
             "role": "middle",
-            "name_en": "Sajavakho",
-            "name_ru": "Саджавахо",
-            "name_ka": "საჯავახო",
             "departure_time": "17:28",
             "arrival_time": null,
             "stop_time": null
@@ -2250,9 +1762,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "17:49",
             "arrival_time": null,
             "stop_time": null
@@ -2260,9 +1769,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "18:02",
             "arrival_time": null,
             "stop_time": null
@@ -2270,9 +1776,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "18:26",
             "arrival_time": null,
             "stop_time": null
@@ -2280,9 +1783,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "18:42",
             "arrival_time": null,
             "stop_time": null
@@ -2290,9 +1790,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "18:54",
             "arrival_time": null,
             "stop_time": null
@@ -2300,9 +1797,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "19:07",
             "arrival_time": null,
             "stop_time": null
@@ -2310,9 +1804,6 @@ export const routes = [
          {
             "code": "ochkhamuri",
             "role": "middle",
-            "name_en": "Ochkhamuri",
-            "name_ru": "Очхамури",
-            "name_ka": "ოჩხამური",
             "departure_time": "19:27",
             "arrival_time": null,
             "stop_time": null
@@ -2320,9 +1811,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "19:45",
             "arrival_time": null,
             "stop_time": null
@@ -2330,9 +1818,6 @@ export const routes = [
          {
             "code": "chakvi",
             "role": "middle",
-            "name_en": "Chakvi",
-            "name_ru": "Чакви",
-            "name_ka": "ჩაქვი",
             "departure_time": "20:05",
             "arrival_time": null,
             "stop_time": null
@@ -2340,9 +1825,6 @@ export const routes = [
          {
             "code": "makhinjauri",
             "role": "middle",
-            "name_en": "Makhinjauri",
-            "name_ru": "Махинджаури",
-            "name_ka": "მახინჯაური",
             "departure_time": "20:23",
             "arrival_time": null,
             "stop_time": null
@@ -2350,9 +1832,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "end",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "20:29",
             "arrival_time": null,
             "stop_time": null
@@ -2364,7 +1843,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "684"
+         682
+      ],
+      "reverse": [
+         681,
+         683
       ]
    },
    {
@@ -2393,9 +1876,6 @@ export const routes = [
          {
             "code": "borjomiparki",
             "role": "start",
-            "name_en": "Borjomi-Parki",
-            "name_ru": "Боржоми-Парк",
-            "name_ka": "ბორჯომი-პარკი",
             "departure_time": "05:50",
             "arrival_time": null,
             "stop_time": null
@@ -2403,9 +1883,6 @@ export const routes = [
          {
             "code": "borjomi",
             "role": "middle",
-            "name_en": "Borjomi",
-            "name_ru": "Боржоми",
-            "name_ka": "ბორჯომი",
             "departure_time": "06:00",
             "arrival_time": null,
             "stop_time": null
@@ -2413,9 +1890,6 @@ export const routes = [
          {
             "code": "kvishkheti",
             "role": "middle",
-            "name_en": "Kvishkheti",
-            "name_ru": "Квишхети",
-            "name_ka": "ქვიშხეთი",
             "departure_time": "07:14",
             "arrival_time": null,
             "stop_time": null
@@ -2423,9 +1897,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "07:25",
             "arrival_time": null,
             "stop_time": null
@@ -2433,9 +1904,6 @@ export const routes = [
          {
             "code": "gomi",
             "role": "middle",
-            "name_en": "Gomi",
-            "name_ru": "Гоми",
-            "name_ka": "გომი",
             "departure_time": "07:43",
             "arrival_time": null,
             "stop_time": null
@@ -2443,9 +1911,6 @@ export const routes = [
          {
             "code": "agara",
             "role": "middle",
-            "name_en": "Agara",
-            "name_ru": "Агара",
-            "name_ka": "აგარა",
             "departure_time": "07:54",
             "arrival_time": null,
             "stop_time": null
@@ -2453,9 +1918,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "08:02",
             "arrival_time": null,
             "stop_time": null
@@ -2463,9 +1925,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "08:22",
             "arrival_time": null,
             "stop_time": null
@@ -2473,9 +1932,6 @@ export const routes = [
          {
             "code": "grakali",
             "role": "middle",
-            "name_en": "Grakali",
-            "name_ru": "Гракали",
-            "name_ka": "გრაკალი",
             "departure_time": "08:41",
             "arrival_time": null,
             "stop_time": null
@@ -2483,9 +1939,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "08:56",
             "arrival_time": null,
             "stop_time": null
@@ -2493,9 +1946,6 @@ export const routes = [
          {
             "code": "kavtiskhevi",
             "role": "middle",
-            "name_en": "Kavtiskhevi",
-            "name_ru": "Кавтисхеви",
-            "name_ka": "კავთისხევი",
             "departure_time": "09:05",
             "arrival_time": null,
             "stop_time": null
@@ -2503,9 +1953,6 @@ export const routes = [
          {
             "code": "ksani",
             "role": "middle",
-            "name_en": "Ksani",
-            "name_ru": "Ксани",
-            "name_ka": "ქსანი",
             "departure_time": "09:18",
             "arrival_time": null,
             "stop_time": null
@@ -2513,9 +1960,6 @@ export const routes = [
          {
             "code": "dzegvi",
             "role": "middle",
-            "name_en": "Dzegvi",
-            "name_ru": "Дзегви",
-            "name_ka": "ძეგვი",
             "departure_time": "09:26",
             "arrival_time": null,
             "stop_time": null
@@ -2523,9 +1967,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "09:35",
             "arrival_time": null,
             "stop_time": null
@@ -2533,9 +1974,6 @@ export const routes = [
          {
             "code": "zahesi",
             "role": "middle",
-            "name_en": "Zahesi",
-            "name_ru": "Захеси",
-            "name_ka": "ზაჰესი",
             "departure_time": "09:43",
             "arrival_time": null,
             "stop_time": null
@@ -2543,9 +1981,6 @@ export const routes = [
          {
             "code": "avchala",
             "role": "middle",
-            "name_en": "Avchala",
-            "name_ru": "Авчала",
-            "name_ka": "ავჭალა",
             "departure_time": "09:48",
             "arrival_time": null,
             "stop_time": null
@@ -2553,9 +1988,6 @@ export const routes = [
          {
             "code": "tbilisicargo",
             "role": "middle",
-            "name_en": "Tbilisi-Cargo",
-            "name_ru": "Тбилиси-Грузовая",
-            "name_ka": "თბილისი სატვირთო",
             "departure_time": "10:04",
             "arrival_time": null,
             "stop_time": null
@@ -2563,9 +1995,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "10:10",
             "arrival_time": null,
             "stop_time": null
@@ -2577,7 +2006,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "617"
+         617
+      ],
+      "reverse": [
+         618,
+         686
       ]
    },
    {
@@ -2606,9 +2039,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "18:45",
             "arrival_time": null,
             "stop_time": null
@@ -2616,9 +2046,6 @@ export const routes = [
          {
             "code": "tbilisicargo",
             "role": "middle",
-            "name_en": "Tbilisi-Cargo",
-            "name_ru": "Тбилиси-Грузовая",
-            "name_ka": "თბილისი სატვირთო",
             "departure_time": "18:49",
             "arrival_time": null,
             "stop_time": null
@@ -2626,9 +2053,6 @@ export const routes = [
          {
             "code": "avchala",
             "role": "middle",
-            "name_en": "Avchala",
-            "name_ru": "Авчала",
-            "name_ka": "ავჭალა",
             "departure_time": "18:58",
             "arrival_time": null,
             "stop_time": null
@@ -2636,9 +2060,6 @@ export const routes = [
          {
             "code": "zahesi",
             "role": "middle",
-            "name_en": "Zahesi",
-            "name_ru": "Захеси",
-            "name_ka": "ზაჰესი",
             "departure_time": "19:03",
             "arrival_time": null,
             "stop_time": null
@@ -2646,9 +2067,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "19:11",
             "arrival_time": null,
             "stop_time": null
@@ -2656,9 +2074,6 @@ export const routes = [
          {
             "code": "dzegvi",
             "role": "middle",
-            "name_en": "Dzegvi",
-            "name_ru": "Дзегви",
-            "name_ka": "ძეგვი",
             "departure_time": "19:20",
             "arrival_time": null,
             "stop_time": null
@@ -2666,9 +2081,6 @@ export const routes = [
          {
             "code": "ksani",
             "role": "middle",
-            "name_en": "Ksani",
-            "name_ru": "Ксани",
-            "name_ka": "ქსანი",
             "departure_time": "19:28",
             "arrival_time": null,
             "stop_time": null
@@ -2676,9 +2088,6 @@ export const routes = [
          {
             "code": "kavtiskhevi",
             "role": "middle",
-            "name_en": "Kavtiskhevi",
-            "name_ru": "Кавтисхеви",
-            "name_ka": "კავთისხევი",
             "departure_time": "19:41",
             "arrival_time": null,
             "stop_time": null
@@ -2686,9 +2095,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "19:49",
             "arrival_time": null,
             "stop_time": null
@@ -2696,9 +2102,6 @@ export const routes = [
          {
             "code": "grakali",
             "role": "middle",
-            "name_en": "Grakali",
-            "name_ru": "Гракали",
-            "name_ka": "გრაკალი",
             "departure_time": "20:05",
             "arrival_time": null,
             "stop_time": null
@@ -2706,9 +2109,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "20:22",
             "arrival_time": null,
             "stop_time": null
@@ -2716,9 +2116,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "20:44",
             "arrival_time": null,
             "stop_time": null
@@ -2726,9 +2123,6 @@ export const routes = [
          {
             "code": "agara",
             "role": "middle",
-            "name_en": "Agara",
-            "name_ru": "Агара",
-            "name_ka": "აგარა",
             "departure_time": "20:52",
             "arrival_time": null,
             "stop_time": null
@@ -2736,9 +2130,6 @@ export const routes = [
          {
             "code": "gomi",
             "role": "middle",
-            "name_en": "Gomi",
-            "name_ru": "Гоми",
-            "name_ka": "გომი",
             "departure_time": "21:03",
             "arrival_time": null,
             "stop_time": null
@@ -2746,9 +2137,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "21:17",
             "arrival_time": null,
             "stop_time": null
@@ -2756,9 +2144,6 @@ export const routes = [
          {
             "code": "kvishkheti",
             "role": "middle",
-            "name_en": "Kvishkheti",
-            "name_ru": "Квишхети",
-            "name_ka": "ქვიშხეთი",
             "departure_time": "21:33",
             "arrival_time": null,
             "stop_time": null
@@ -2766,9 +2151,6 @@ export const routes = [
          {
             "code": "borjomi",
             "role": "middle",
-            "name_en": "Borjomi",
-            "name_ru": "Боржоми",
-            "name_ka": "ბორჯომი",
             "departure_time": "22:43",
             "arrival_time": null,
             "stop_time": null
@@ -2776,9 +2158,6 @@ export const routes = [
          {
             "code": "borjomiparki",
             "role": "end",
-            "name_en": "Borjomi-Parki",
-            "name_ru": "Боржоми-Парк",
-            "name_ka": "ბორჯომი-პარკი",
             "departure_time": "22:58",
             "arrival_time": null,
             "stop_time": null
@@ -2790,7 +2169,11 @@ export const routes = [
          "price": 2.0
       },
       "analogue": [
-         "618"
+         618
+      ],
+      "reverse": [
+         617,
+         685
       ]
    },
    {
@@ -2819,9 +2202,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "start",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "16:50",
             "arrival_time": null,
             "stop_time": null
@@ -2829,9 +2209,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "17:11",
             "arrival_time": null,
             "stop_time": null
@@ -2839,9 +2216,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "17:42",
             "arrival_time": null,
             "stop_time": null
@@ -2849,9 +2223,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "18:42",
             "arrival_time": null,
             "stop_time": null
@@ -2859,9 +2230,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "21:49",
             "arrival_time": null,
             "stop_time": null
@@ -2873,7 +2241,11 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         "803"
+         803
+      ],
+      "reverse": [
+         802,
+         804
       ]
    },
    {
@@ -2902,9 +2274,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "08:00",
             "arrival_time": null,
             "stop_time": null
@@ -2912,9 +2281,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "11:18",
             "arrival_time": null,
             "stop_time": null
@@ -2922,9 +2288,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "12:18",
             "arrival_time": null,
             "stop_time": null
@@ -2932,9 +2295,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "12:46",
             "arrival_time": null,
             "stop_time": null
@@ -2942,9 +2302,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "end",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "13:12",
             "arrival_time": null,
             "stop_time": null
@@ -2956,7 +2313,11 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         "804"
+         804
+      ],
+      "reverse": [
+         801,
+         803
       ]
    },
    {
@@ -2985,9 +2346,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "start",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "08:00",
             "arrival_time": null,
             "stop_time": null
@@ -2995,9 +2353,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "08:21",
             "arrival_time": null,
             "stop_time": null
@@ -3005,9 +2360,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "08:52",
             "arrival_time": null,
             "stop_time": null
@@ -3015,9 +2367,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "09:52",
             "arrival_time": null,
             "stop_time": null
@@ -3025,9 +2374,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "12:59",
             "arrival_time": null,
             "stop_time": null
@@ -3039,7 +2385,11 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         "801"
+         801
+      ],
+      "reverse": [
+         802,
+         804
       ]
    },
    {
@@ -3068,9 +2418,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "17:10",
             "arrival_time": null,
             "stop_time": null
@@ -3078,9 +2425,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "20:28",
             "arrival_time": null,
             "stop_time": null
@@ -3088,9 +2432,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "21:28",
             "arrival_time": null,
             "stop_time": null
@@ -3098,9 +2439,6 @@ export const routes = [
          {
             "code": "kobuleti",
             "role": "middle",
-            "name_en": "Kobuleti",
-            "name_ru": "Кобулети",
-            "name_ka": "ქობულეთი",
             "departure_time": "21:56",
             "arrival_time": null,
             "stop_time": null
@@ -3108,9 +2446,6 @@ export const routes = [
          {
             "code": "batumicentral",
             "role": "end",
-            "name_en": "Batumi-Central",
-            "name_ru": "Батуми-Пассажирская",
-            "name_ka": "ბათუმი-ცენტრალი",
             "departure_time": "22:22",
             "arrival_time": null,
             "stop_time": null
@@ -3122,7 +2457,11 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         "802"
+         802
+      ],
+      "reverse": [
+         801,
+         803
       ]
    },
    {
@@ -3151,9 +2490,6 @@ export const routes = [
          {
             "code": "ozurgeti",
             "role": "start",
-            "name_en": "Ozurgeti",
-            "name_ru": "Озургети",
-            "name_ka": "ოზურგეთი",
             "departure_time": "08:35",
             "arrival_time": null,
             "stop_time": null
@@ -3161,9 +2497,6 @@ export const routes = [
          {
             "code": "platform11km",
             "role": "middle",
-            "name_en": "Platform 11 km",
-            "name_ru": "Платформа 11 км",
-            "name_ka": "ბაქანი 11 კმ",
             "departure_time": "08:50",
             "arrival_time": null,
             "stop_time": null
@@ -3171,9 +2504,6 @@ export const routes = [
          {
             "code": "meria",
             "role": "middle",
-            "name_en": "Meria",
-            "name_ru": "Мэриа",
-            "name_ka": "მერია",
             "departure_time": "09:00",
             "arrival_time": null,
             "stop_time": null
@@ -3181,9 +2511,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "09:35",
             "arrival_time": null,
             "stop_time": null
@@ -3191,9 +2518,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "10:04",
             "arrival_time": null,
             "stop_time": null
@@ -3201,9 +2525,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "10:18",
             "arrival_time": null,
             "stop_time": null
@@ -3211,9 +2532,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "10:29",
             "arrival_time": null,
             "stop_time": null
@@ -3221,9 +2539,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "10:46",
             "arrival_time": null,
             "stop_time": null
@@ -3231,9 +2546,6 @@ export const routes = [
          {
             "code": "shukhuti",
             "role": "middle",
-            "name_en": "Shukhuti",
-            "name_ru": "Шухути",
-            "name_ka": "შუხუთი",
             "departure_time": "10:56",
             "arrival_time": null,
             "stop_time": null
@@ -3241,9 +2553,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "11:00",
             "arrival_time": null,
             "stop_time": null
@@ -3251,9 +2560,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "11:22",
             "arrival_time": null,
             "stop_time": null
@@ -3261,9 +2567,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "11:40",
             "arrival_time": null,
             "stop_time": null
@@ -3271,9 +2574,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "12:00",
             "arrival_time": null,
             "stop_time": null
@@ -3281,9 +2581,6 @@ export const routes = [
          {
             "code": "sviri",
             "role": "middle",
-            "name_en": "Sviri",
-            "name_ru": "Свири",
-            "name_ka": "სვირი",
             "departure_time": "12:26",
             "arrival_time": null,
             "stop_time": null
@@ -3291,9 +2588,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "12:36",
             "arrival_time": null,
             "stop_time": null
@@ -3301,9 +2595,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "12:57",
             "arrival_time": null,
             "stop_time": null
@@ -3311,9 +2602,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "13:10",
             "arrival_time": null,
             "stop_time": null
@@ -3321,9 +2609,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "13:26",
             "arrival_time": null,
             "stop_time": null
@@ -3331,9 +2616,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "13:38",
             "arrival_time": null,
             "stop_time": null
@@ -3341,9 +2623,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "14:01",
             "arrival_time": null,
             "stop_time": null
@@ -3351,9 +2630,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "14:28",
             "arrival_time": null,
             "stop_time": null
@@ -3361,9 +2637,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "14:44",
             "arrival_time": null,
             "stop_time": null
@@ -3371,9 +2644,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "15:07",
             "arrival_time": null,
             "stop_time": null
@@ -3381,9 +2651,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "15:30",
             "arrival_time": null,
             "stop_time": null
@@ -3391,9 +2658,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "15:59",
             "arrival_time": null,
             "stop_time": null
@@ -3404,7 +2668,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         854
+      ]
    },
    {
       "id": 18681734,
@@ -3432,9 +2699,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "08:25",
             "arrival_time": null,
             "stop_time": null
@@ -3442,9 +2706,6 @@ export const routes = [
          {
             "code": "mtskheta",
             "role": "middle",
-            "name_en": "Mtskheta",
-            "name_ru": "Мцхета",
-            "name_ka": "მცხეთა",
             "departure_time": "08:46",
             "arrival_time": null,
             "stop_time": null
@@ -3452,9 +2713,6 @@ export const routes = [
          {
             "code": "kaspi",
             "role": "middle",
-            "name_en": "Kaspi",
-            "name_ru": "Каспи",
-            "name_ka": "კასპი",
             "departure_time": "09:09",
             "arrival_time": null,
             "stop_time": null
@@ -3462,9 +2720,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "09:31",
             "arrival_time": null,
             "stop_time": null
@@ -3472,9 +2727,6 @@ export const routes = [
          {
             "code": "kareli",
             "role": "middle",
-            "name_en": "Kareli",
-            "name_ru": "Карели",
-            "name_ka": "ქარელი",
             "departure_time": "09:48",
             "arrival_time": null,
             "stop_time": null
@@ -3482,9 +2734,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "10:10",
             "arrival_time": null,
             "stop_time": null
@@ -3492,9 +2741,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "10:40",
             "arrival_time": null,
             "stop_time": null
@@ -3502,9 +2748,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "10:52",
             "arrival_time": null,
             "stop_time": null
@@ -3512,9 +2755,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "11:07",
             "arrival_time": null,
             "stop_time": null
@@ -3522,9 +2762,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "11:22",
             "arrival_time": null,
             "stop_time": null
@@ -3532,9 +2769,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "11:38",
             "arrival_time": null,
             "stop_time": null
@@ -3542,9 +2776,6 @@ export const routes = [
          {
             "code": "sviri",
             "role": "middle",
-            "name_en": "Sviri",
-            "name_ru": "Свири",
-            "name_ka": "სვირი",
             "departure_time": "11:57",
             "arrival_time": null,
             "stop_time": null
@@ -3552,9 +2783,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "12:19",
             "arrival_time": null,
             "stop_time": null
@@ -3562,9 +2790,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "12:41",
             "arrival_time": null,
             "stop_time": null
@@ -3572,9 +2797,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "12:56",
             "arrival_time": null,
             "stop_time": null
@@ -3582,9 +2804,6 @@ export const routes = [
          {
             "code": "nigoiti",
             "role": "middle",
-            "name_en": "Nigoiti",
-            "name_ru": "Нигоити",
-            "name_ka": "ნიგოითი",
             "departure_time": "13:20",
             "arrival_time": null,
             "stop_time": null
@@ -3592,9 +2811,6 @@ export const routes = [
          {
             "code": "shukhuti",
             "role": "middle",
-            "name_en": "Shukhuti",
-            "name_ru": "Шухути",
-            "name_ka": "შუხუთი",
             "departure_time": "13:24",
             "arrival_time": null,
             "stop_time": null
@@ -3602,9 +2818,6 @@ export const routes = [
          {
             "code": "lanchkhuti",
             "role": "middle",
-            "name_en": "Lanchkhuti",
-            "name_ru": "Ланчхути",
-            "name_ka": "ლანჩხუთი",
             "departure_time": "13:31",
             "arrival_time": null,
             "stop_time": null
@@ -3612,9 +2825,6 @@ export const routes = [
          {
             "code": "jumati",
             "role": "middle",
-            "name_en": "Jumati",
-            "name_ru": "Джумати",
-            "name_ka": "ჯუმათი",
             "departure_time": "13:44",
             "arrival_time": null,
             "stop_time": null
@@ -3622,9 +2832,6 @@ export const routes = [
          {
             "code": "supsa",
             "role": "middle",
-            "name_en": "Supsa",
-            "name_ru": "Супса",
-            "name_ka": "სუფსა",
             "departure_time": "13:55",
             "arrival_time": null,
             "stop_time": null
@@ -3632,9 +2839,6 @@ export const routes = [
          {
             "code": "ureki",
             "role": "middle",
-            "name_en": "Ureki",
-            "name_ru": "Уреки",
-            "name_ka": "ურეკი",
             "departure_time": "14:06",
             "arrival_time": null,
             "stop_time": null
@@ -3642,9 +2846,6 @@ export const routes = [
          {
             "code": "natanebi",
             "role": "middle",
-            "name_en": "Natanebi",
-            "name_ru": "Натанеби",
-            "name_ka": "ნატანები",
             "departure_time": "14:17",
             "arrival_time": null,
             "stop_time": null
@@ -3652,9 +2853,6 @@ export const routes = [
          {
             "code": "meria",
             "role": "middle",
-            "name_en": "Meria",
-            "name_ru": "Мэриа",
-            "name_ka": "მერია",
             "departure_time": "15:04",
             "arrival_time": null,
             "stop_time": null
@@ -3662,9 +2860,6 @@ export const routes = [
          {
             "code": "platform11km",
             "role": "middle",
-            "name_en": "Platform 11 km",
-            "name_ru": "Платформа 11 км",
-            "name_ka": "ბაქანი 11 კმ",
             "departure_time": "15:12",
             "arrival_time": null,
             "stop_time": null
@@ -3672,9 +2867,6 @@ export const routes = [
          {
             "code": "kakhuri",
             "role": "middle",
-            "name_en": "Kakhuri",
-            "name_ru": "Кахури",
-            "name_ka": "კახური",
             "departure_time": "15:20",
             "arrival_time": null,
             "stop_time": null
@@ -3682,9 +2874,6 @@ export const routes = [
          {
             "code": "platform16km",
             "role": "middle",
-            "name_en": "Platform 16 km",
-            "name_ru": "Платформа 16 км",
-            "name_ka": "ბაქანი 16 კმ",
             "departure_time": "15:28",
             "arrival_time": null,
             "stop_time": null
@@ -3692,9 +2881,6 @@ export const routes = [
          {
             "code": "ozurgeti",
             "role": "end",
-            "name_en": "Ozurgeti",
-            "name_ru": "Озургети",
-            "name_ka": "ოზურგეთი",
             "departure_time": "15:37",
             "arrival_time": null,
             "stop_time": null
@@ -3705,7 +2891,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         853
+      ]
    },
    {
       "id": 15667577,
@@ -3733,9 +2922,6 @@ export const routes = [
          {
             "code": "zugdidi",
             "role": "start",
-            "name_en": "Zugdidi",
-            "name_ru": "Зугдиди",
-            "name_ka": "ზუგდიდი",
             "departure_time": "17:10",
             "arrival_time": null,
             "stop_time": null
@@ -3743,9 +2929,6 @@ export const routes = [
          {
             "code": "ingiri",
             "role": "middle",
-            "name_en": "Ingiri",
-            "name_ru": "Ингири",
-            "name_ka": "ინგირი",
             "departure_time": "17:23",
             "arrival_time": null,
             "stop_time": null
@@ -3753,9 +2936,6 @@ export const routes = [
          {
             "code": "kheta",
             "role": "middle",
-            "name_en": "Kheta",
-            "name_ru": "Хета",
-            "name_ka": "ხეთა",
             "departure_time": "17:59",
             "arrival_time": null,
             "stop_time": null
@@ -3763,9 +2943,6 @@ export const routes = [
          {
             "code": "khobi",
             "role": "middle",
-            "name_en": "Khobi",
-            "name_ru": "Хоби",
-            "name_ka": "ხობი",
             "departure_time": "18:09",
             "arrival_time": null,
             "stop_time": null
@@ -3773,9 +2950,6 @@ export const routes = [
          {
             "code": "senaki",
             "role": "middle",
-            "name_en": "Senaki",
-            "name_ru": "Сенаки",
-            "name_ka": "სენაკი",
             "departure_time": "18:29",
             "arrival_time": null,
             "stop_time": null
@@ -3783,9 +2957,6 @@ export const routes = [
          {
             "code": "abasha",
             "role": "middle",
-            "name_en": "Abasha",
-            "name_ru": "Абаша",
-            "name_ka": "აბაშა",
             "departure_time": "18:52",
             "arrival_time": null,
             "stop_time": null
@@ -3793,9 +2964,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "19:10",
             "arrival_time": null,
             "stop_time": null
@@ -3803,9 +2971,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "19:26",
             "arrival_time": null,
             "stop_time": null
@@ -3813,9 +2978,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "19:43",
             "arrival_time": null,
             "stop_time": null
@@ -3823,9 +2985,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "20:16",
             "arrival_time": null,
             "stop_time": null
@@ -3833,9 +2992,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "20:43",
             "arrival_time": null,
             "stop_time": null
@@ -3843,9 +2999,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "20:59",
             "arrival_time": null,
             "stop_time": null
@@ -3853,9 +3006,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "21:11",
             "arrival_time": null,
             "stop_time": null
@@ -3863,9 +3013,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "21:34",
             "arrival_time": null,
             "stop_time": null
@@ -3873,9 +3020,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "22:10",
             "arrival_time": null,
             "stop_time": null
@@ -3883,9 +3027,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "23:19",
             "arrival_time": null,
             "stop_time": null
@@ -3896,7 +3037,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         870
+      ]
    },
    {
       "id": 6409429,
@@ -3924,9 +3068,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "08:15",
             "arrival_time": null,
             "stop_time": null
@@ -3934,9 +3075,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "09:15",
             "arrival_time": null,
             "stop_time": null
@@ -3944,9 +3082,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "09:51",
             "arrival_time": null,
             "stop_time": null
@@ -3954,9 +3089,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "10:17",
             "arrival_time": null,
             "stop_time": null
@@ -3964,9 +3096,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "10:29",
             "arrival_time": null,
             "stop_time": null
@@ -3974,9 +3103,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "10:44",
             "arrival_time": null,
             "stop_time": null
@@ -3984,9 +3110,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "11:12",
             "arrival_time": null,
             "stop_time": null
@@ -3994,9 +3117,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "11:46",
             "arrival_time": null,
             "stop_time": null
@@ -4004,9 +3124,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "12:08",
             "arrival_time": null,
             "stop_time": null
@@ -4014,9 +3131,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "12:23",
             "arrival_time": null,
             "stop_time": null
@@ -4024,9 +3138,6 @@ export const routes = [
          {
             "code": "abasha",
             "role": "middle",
-            "name_en": "Abasha",
-            "name_ru": "Абаша",
-            "name_ka": "აბაშა",
             "departure_time": "12:44",
             "arrival_time": null,
             "stop_time": null
@@ -4034,9 +3145,6 @@ export const routes = [
          {
             "code": "senaki",
             "role": "middle",
-            "name_en": "Senaki",
-            "name_ru": "Сенаки",
-            "name_ka": "სენაკი",
             "departure_time": "13:01",
             "arrival_time": null,
             "stop_time": null
@@ -4044,9 +3152,6 @@ export const routes = [
          {
             "code": "khobi",
             "role": "middle",
-            "name_en": "Khobi",
-            "name_ru": "Хоби",
-            "name_ka": "ხობი",
             "departure_time": "13:24",
             "arrival_time": null,
             "stop_time": null
@@ -4054,9 +3159,6 @@ export const routes = [
          {
             "code": "kheta",
             "role": "middle",
-            "name_en": "Kheta",
-            "name_ru": "Хета",
-            "name_ka": "ხეთა",
             "departure_time": "13:36",
             "arrival_time": null,
             "stop_time": null
@@ -4064,9 +3166,6 @@ export const routes = [
          {
             "code": "ingiri",
             "role": "middle",
-            "name_en": "Ingiri",
-            "name_ru": "Ингири",
-            "name_ka": "ინგირი",
             "departure_time": "14:10",
             "arrival_time": null,
             "stop_time": null
@@ -4074,9 +3173,6 @@ export const routes = [
          {
             "code": "zugdidi",
             "role": "end",
-            "name_en": "Zugdidi",
-            "name_ru": "Зугдиди",
-            "name_ka": "ზუგდიდი",
             "departure_time": "14:25",
             "arrival_time": null,
             "stop_time": null
@@ -4087,7 +3183,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         869
+      ]
    },
    {
       "id": 15683666,
@@ -4115,9 +3214,6 @@ export const routes = [
          {
             "code": "poti",
             "role": "start",
-            "name_en": "Poti",
-            "name_ru": "Поти",
-            "name_ka": "ფოთი",
             "departure_time": "07:10",
             "arrival_time": null,
             "stop_time": null
@@ -4125,9 +3221,6 @@ export const routes = [
          {
             "code": "chaladidi",
             "role": "middle",
-            "name_en": "Chaladidi",
-            "name_ru": "Чаладиди",
-            "name_ka": "ჭალადიდი",
             "departure_time": "07:28",
             "arrival_time": null,
             "stop_time": null
@@ -4135,9 +3228,6 @@ export const routes = [
          {
             "code": "kvaloni",
             "role": "middle",
-            "name_en": "Kvaloni",
-            "name_ru": "Квалони",
-            "name_ka": "ქვალონი",
             "departure_time": "07:42",
             "arrival_time": null,
             "stop_time": null
@@ -4145,9 +3235,6 @@ export const routes = [
          {
             "code": "senaki",
             "role": "middle",
-            "name_en": "Senaki",
-            "name_ru": "Сенаки",
-            "name_ka": "სენაკი",
             "departure_time": "07:54",
             "arrival_time": null,
             "stop_time": null
@@ -4155,9 +3242,6 @@ export const routes = [
          {
             "code": "abasha",
             "role": "middle",
-            "name_en": "Abasha",
-            "name_ru": "Абаша",
-            "name_ka": "აბაშა",
             "departure_time": "08:17",
             "arrival_time": null,
             "stop_time": null
@@ -4165,9 +3249,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "08:35",
             "arrival_time": null,
             "stop_time": null
@@ -4175,9 +3256,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "08:51",
             "arrival_time": null,
             "stop_time": null
@@ -4185,9 +3263,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "09:08",
             "arrival_time": null,
             "stop_time": null
@@ -4195,9 +3270,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "09:36",
             "arrival_time": null,
             "stop_time": null
@@ -4205,9 +3277,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "10:03",
             "arrival_time": null,
             "stop_time": null
@@ -4215,9 +3284,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "10:19",
             "arrival_time": null,
             "stop_time": null
@@ -4225,9 +3291,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "10:31",
             "arrival_time": null,
             "stop_time": null
@@ -4235,9 +3298,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "10:54",
             "arrival_time": null,
             "stop_time": null
@@ -4245,9 +3305,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "11:30",
             "arrival_time": null,
             "stop_time": null
@@ -4255,9 +3312,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "12:39",
             "arrival_time": null,
             "stop_time": null
@@ -4268,7 +3322,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         874
+      ]
    },
    {
       "id": 15683667,
@@ -4296,9 +3353,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "17:30",
             "arrival_time": null,
             "stop_time": null
@@ -4306,9 +3360,6 @@ export const routes = [
          {
             "code": "gori",
             "role": "middle",
-            "name_en": "Gori",
-            "name_ru": "Гори",
-            "name_ka": "გორი",
             "departure_time": "18:30",
             "arrival_time": null,
             "stop_time": null
@@ -4316,9 +3367,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "middle",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "19:06",
             "arrival_time": null,
             "stop_time": null
@@ -4326,9 +3374,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "19:32",
             "arrival_time": null,
             "stop_time": null
@@ -4336,9 +3381,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "19:44",
             "arrival_time": null,
             "stop_time": null
@@ -4346,9 +3388,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "19:59",
             "arrival_time": null,
             "stop_time": null
@@ -4356,9 +3395,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "middle",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "20:27",
             "arrival_time": null,
             "stop_time": null
@@ -4366,9 +3402,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "middle",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "21:01",
             "arrival_time": null,
             "stop_time": null
@@ -4376,9 +3409,6 @@ export const routes = [
          {
             "code": "kutaisiinternationalairport",
             "role": "middle",
-            "name_en": "Kutaisi International Airport",
-            "name_ru": "Международный аэропорт Кутаиси",
-            "name_ka": "ქუთაისის საერთაშორისო აეროპორტი",
             "departure_time": "21:18",
             "arrival_time": null,
             "stop_time": null
@@ -4386,9 +3416,6 @@ export const routes = [
          {
             "code": "samtredia1",
             "role": "middle",
-            "name_en": "Samtredia-1",
-            "name_ru": "Самтредиа-1",
-            "name_ka": "სამტრედია-1",
             "departure_time": "21:33",
             "arrival_time": null,
             "stop_time": null
@@ -4396,9 +3423,6 @@ export const routes = [
          {
             "code": "abasha",
             "role": "middle",
-            "name_en": "Abasha",
-            "name_ru": "Абаша",
-            "name_ka": "აბაშა",
             "departure_time": "21:54",
             "arrival_time": null,
             "stop_time": null
@@ -4406,9 +3430,6 @@ export const routes = [
          {
             "code": "senaki",
             "role": "middle",
-            "name_en": "Senaki",
-            "name_ru": "Сенаки",
-            "name_ka": "სენაკი",
             "departure_time": "22:11",
             "arrival_time": null,
             "stop_time": null
@@ -4416,9 +3437,6 @@ export const routes = [
          {
             "code": "kvaloni",
             "role": "middle",
-            "name_en": "Kvaloni",
-            "name_ru": "Квалони",
-            "name_ka": "ქვალონი",
             "departure_time": "22:26",
             "arrival_time": null,
             "stop_time": null
@@ -4426,9 +3444,6 @@ export const routes = [
          {
             "code": "chaladidi",
             "role": "middle",
-            "name_en": "Chaladidi",
-            "name_ru": "Чаладиди",
-            "name_ka": "ჭალადიდი",
             "departure_time": "22:40",
             "arrival_time": null,
             "stop_time": null
@@ -4436,9 +3451,6 @@ export const routes = [
          {
             "code": "poti",
             "role": "end",
-            "name_en": "Poti",
-            "name_ru": "Поти",
-            "name_ka": "ფოთი",
             "departure_time": "23:00",
             "arrival_time": null,
             "stop_time": null
@@ -4449,7 +3461,10 @@ export const routes = [
          "price_type": "from",
          "price": 16.0
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": [
+         873
+      ]
    },
    {
       "id": 18681733,
@@ -4477,9 +3492,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "start",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "11:30",
             "arrival_time": null,
             "stop_time": null
@@ -4487,9 +3499,6 @@ export const routes = [
          {
             "code": "samtoteknikumi",
             "role": "middle",
-            "name_en": "Samtoteknikumi",
-            "name_ru": "Самтотекникуми",
-            "name_ka": "სამთოტექნიკუმი",
             "departure_time": "11:40",
             "arrival_time": null,
             "stop_time": null
@@ -4497,9 +3506,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "end",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "11:50",
             "arrival_time": null,
             "stop_time": null
@@ -4509,7 +3515,8 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 18681731,
@@ -4537,9 +3544,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "start",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "12:20",
             "arrival_time": null,
             "stop_time": null
@@ -4547,9 +3551,6 @@ export const routes = [
          {
             "code": "samtoteknikumi",
             "role": "middle",
-            "name_en": "Samtoteknikumi",
-            "name_ru": "Самтотекникуми",
-            "name_ka": "სამთოტექნიკუმი",
             "departure_time": "12:29",
             "arrival_time": null,
             "stop_time": null
@@ -4557,9 +3558,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "end",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "12:40",
             "arrival_time": null,
             "stop_time": null
@@ -4569,7 +3567,8 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 18681732,
@@ -4597,9 +3596,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "start",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "11:55",
             "arrival_time": null,
             "stop_time": null
@@ -4607,9 +3603,6 @@ export const routes = [
          {
             "code": "samtoteknikumi",
             "role": "middle",
-            "name_en": "Samtoteknikumi",
-            "name_ru": "Самтотекникуми",
-            "name_ka": "სამთოტექნიკუმი",
             "departure_time": "12:05",
             "arrival_time": null,
             "stop_time": null
@@ -4617,9 +3610,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "end",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "12:15",
             "arrival_time": null,
             "stop_time": null
@@ -4629,7 +3619,8 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 18681730,
@@ -4657,9 +3648,6 @@ export const routes = [
          {
             "code": "rioni",
             "role": "start",
-            "name_en": "Rioni",
-            "name_ru": "Риони",
-            "name_ka": "რიონი",
             "departure_time": "12:50",
             "arrival_time": null,
             "stop_time": null
@@ -4667,9 +3655,6 @@ export const routes = [
          {
             "code": "samtoteknikumi",
             "role": "middle",
-            "name_en": "Samtoteknikumi",
-            "name_ru": "Самтотекникуми",
-            "name_ka": "სამთოტექნიკუმი",
             "departure_time": "12:59",
             "arrival_time": null,
             "stop_time": null
@@ -4677,9 +3662,6 @@ export const routes = [
          {
             "code": "kutaisi1",
             "role": "end",
-            "name_en": "Kutaisi-1",
-            "name_ru": "Кутаиси-1",
-            "name_ka": "ქუთაისი-1",
             "departure_time": "13:10",
             "arrival_time": null,
             "stop_time": null
@@ -4689,7 +3671,8 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": []
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16011187,
@@ -4717,9 +3700,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "06:50",
             "arrival_time": null,
             "stop_time": null
@@ -4727,9 +3707,6 @@ export const routes = [
          {
             "code": "navtlughi",
             "role": "middle",
-            "name_en": "Navtlughi",
-            "name_ru": "Навтлуги",
-            "name_ka": "ნავთლუღი",
             "departure_time": "07:00",
             "arrival_time": null,
             "stop_time": null
@@ -4737,9 +3714,6 @@ export const routes = [
          {
             "code": "tbilisimarshalling",
             "role": "middle",
-            "name_en": "Tbilisi Marshalling",
-            "name_ru": "Тбилиси-Сортировочная",
-            "name_ka": "თბილისი დახარისხება",
             "departure_time": "07:08",
             "arrival_time": null,
             "stop_time": null
@@ -4747,9 +3721,6 @@ export const routes = [
          {
             "code": "veli",
             "role": "middle",
-            "name_en": "Veli",
-            "name_ru": "Вели",
-            "name_ka": "ველი",
             "departure_time": "07:18",
             "arrival_time": null,
             "stop_time": null
@@ -4757,9 +3728,6 @@ export const routes = [
          {
             "code": "gachiani",
             "role": "middle",
-            "name_en": "Gachiani",
-            "name_ru": "Гачиани",
-            "name_ka": "გაჩიანი",
             "departure_time": "07:29",
             "arrival_time": null,
             "stop_time": null
@@ -4767,9 +3735,6 @@ export const routes = [
          {
             "code": "rustavicentral",
             "role": "middle",
-            "name_en": "Rustavi Central",
-            "name_ru": "Рустави Центральная",
-            "name_ka": "რუსთავი ცენტრალი",
             "departure_time": "07:37",
             "arrival_time": null,
             "stop_time": null
@@ -4777,9 +3742,6 @@ export const routes = [
          {
             "code": "rustavicargo",
             "role": "middle",
-            "name_en": "Rustavi-Cargo",
-            "name_ru": "Рустави-Грузовая",
-            "name_ka": "რუსთავი-სატვირთო",
             "departure_time": "07:42",
             "arrival_time": null,
             "stop_time": null
@@ -4787,9 +3749,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "end",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "07:55",
             "arrival_time": null,
             "stop_time": null
@@ -4801,7 +3760,11 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6415"
+         6415
+      ],
+      "reverse": [
+         6414,
+         6416
       ]
    },
    {
@@ -4830,9 +3793,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "start",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "08:20",
             "arrival_time": null,
             "stop_time": null
@@ -4840,9 +3800,6 @@ export const routes = [
          {
             "code": "rustavicargo",
             "role": "middle",
-            "name_en": "Rustavi-Cargo",
-            "name_ru": "Рустави-Грузовая",
-            "name_ka": "რუსთავი-სატვირთო",
             "departure_time": "08:32",
             "arrival_time": null,
             "stop_time": null
@@ -4850,9 +3807,6 @@ export const routes = [
          {
             "code": "rustavicentral",
             "role": "middle",
-            "name_en": "Rustavi Central",
-            "name_ru": "Рустави Центральная",
-            "name_ka": "რუსთავი ცენტრალი",
             "departure_time": "08:37",
             "arrival_time": null,
             "stop_time": null
@@ -4860,9 +3814,6 @@ export const routes = [
          {
             "code": "gachiani",
             "role": "middle",
-            "name_en": "Gachiani",
-            "name_ru": "Гачиани",
-            "name_ka": "გაჩიანი",
             "departure_time": "08:49",
             "arrival_time": null,
             "stop_time": null
@@ -4870,9 +3821,6 @@ export const routes = [
          {
             "code": "veli",
             "role": "middle",
-            "name_en": "Veli",
-            "name_ru": "Вели",
-            "name_ka": "ველი",
             "departure_time": "08:58",
             "arrival_time": null,
             "stop_time": null
@@ -4880,9 +3828,6 @@ export const routes = [
          {
             "code": "tbilisimarshalling",
             "role": "middle",
-            "name_en": "Tbilisi Marshalling",
-            "name_ru": "Тбилиси-Сортировочная",
-            "name_ka": "თბილისი დახარისხება",
             "departure_time": "09:08",
             "arrival_time": null,
             "stop_time": null
@@ -4890,9 +3835,6 @@ export const routes = [
          {
             "code": "navtlughi",
             "role": "middle",
-            "name_en": "Navtlughi",
-            "name_ru": "Навтлуги",
-            "name_ka": "ნავთლუღი",
             "departure_time": "09:17",
             "arrival_time": null,
             "stop_time": null
@@ -4900,9 +3842,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "09:29",
             "arrival_time": null,
             "stop_time": null
@@ -4914,7 +3853,11 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6416"
+         6416
+      ],
+      "reverse": [
+         6413,
+         6415
       ]
    },
    {
@@ -4943,9 +3886,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "start",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "18:50",
             "arrival_time": null,
             "stop_time": null
@@ -4953,9 +3893,6 @@ export const routes = [
          {
             "code": "navtlughi",
             "role": "middle",
-            "name_en": "Navtlughi",
-            "name_ru": "Навтлуги",
-            "name_ka": "ნავთლუღი",
             "departure_time": "19:00",
             "arrival_time": null,
             "stop_time": null
@@ -4963,9 +3900,6 @@ export const routes = [
          {
             "code": "tbilisimarshalling",
             "role": "middle",
-            "name_en": "Tbilisi Marshalling",
-            "name_ru": "Тбилиси-Сортировочная",
-            "name_ka": "თბილისი დახარისხება",
             "departure_time": "19:08",
             "arrival_time": null,
             "stop_time": null
@@ -4973,9 +3907,6 @@ export const routes = [
          {
             "code": "veli",
             "role": "middle",
-            "name_en": "Veli",
-            "name_ru": "Вели",
-            "name_ka": "ველი",
             "departure_time": "19:18",
             "arrival_time": null,
             "stop_time": null
@@ -4983,9 +3914,6 @@ export const routes = [
          {
             "code": "gachiani",
             "role": "middle",
-            "name_en": "Gachiani",
-            "name_ru": "Гачиани",
-            "name_ka": "გაჩიანი",
             "departure_time": "19:29",
             "arrival_time": null,
             "stop_time": null
@@ -4993,9 +3921,6 @@ export const routes = [
          {
             "code": "rustavicentral",
             "role": "middle",
-            "name_en": "Rustavi Central",
-            "name_ru": "Рустави Центральная",
-            "name_ka": "რუსთავი ცენტრალი",
             "departure_time": "19:37",
             "arrival_time": null,
             "stop_time": null
@@ -5003,9 +3928,6 @@ export const routes = [
          {
             "code": "rustavicargo",
             "role": "middle",
-            "name_en": "Rustavi-Cargo",
-            "name_ru": "Рустави-Грузовая",
-            "name_ka": "რუსთავი-სატვირთო",
             "departure_time": "19:42",
             "arrival_time": null,
             "stop_time": null
@@ -5013,9 +3935,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "end",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "19:55",
             "arrival_time": null,
             "stop_time": null
@@ -5027,7 +3946,11 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6413"
+         6413
+      ],
+      "reverse": [
+         6414,
+         6416
       ]
    },
    {
@@ -5056,9 +3979,6 @@ export const routes = [
          {
             "code": "gardabani",
             "role": "start",
-            "name_en": "Gardabani",
-            "name_ru": "Гардабани",
-            "name_ka": "გარდაბანი",
             "departure_time": "20:20",
             "arrival_time": null,
             "stop_time": null
@@ -5066,9 +3986,6 @@ export const routes = [
          {
             "code": "rustavicargo",
             "role": "middle",
-            "name_en": "Rustavi-Cargo",
-            "name_ru": "Рустави-Грузовая",
-            "name_ka": "რუსთავი-სატვირთო",
             "departure_time": "20:32",
             "arrival_time": null,
             "stop_time": null
@@ -5076,9 +3993,6 @@ export const routes = [
          {
             "code": "rustavicentral",
             "role": "middle",
-            "name_en": "Rustavi Central",
-            "name_ru": "Рустави Центральная",
-            "name_ka": "რუსთავი ცენტრალი",
             "departure_time": "20:37",
             "arrival_time": null,
             "stop_time": null
@@ -5086,9 +4000,6 @@ export const routes = [
          {
             "code": "gachiani",
             "role": "middle",
-            "name_en": "Gachiani",
-            "name_ru": "Гачиани",
-            "name_ka": "გაჩიანი",
             "departure_time": "20:49",
             "arrival_time": null,
             "stop_time": null
@@ -5096,9 +4007,6 @@ export const routes = [
          {
             "code": "veli",
             "role": "middle",
-            "name_en": "Veli",
-            "name_ru": "Вели",
-            "name_ka": "ველი",
             "departure_time": "20:58",
             "arrival_time": null,
             "stop_time": null
@@ -5106,9 +4014,6 @@ export const routes = [
          {
             "code": "tbilisimarshalling",
             "role": "middle",
-            "name_en": "Tbilisi Marshalling",
-            "name_ru": "Тбилиси-Сортировочная",
-            "name_ka": "თბილისი დახარისხება",
             "departure_time": "21:08",
             "arrival_time": null,
             "stop_time": null
@@ -5116,9 +4021,6 @@ export const routes = [
          {
             "code": "navtlughi",
             "role": "middle",
-            "name_en": "Navtlughi",
-            "name_ru": "Навтлуги",
-            "name_ka": "ნავთლუღი",
             "departure_time": "21:18",
             "arrival_time": null,
             "stop_time": null
@@ -5126,9 +4028,6 @@ export const routes = [
          {
             "code": "tbilisicentralstation",
             "role": "end",
-            "name_en": "Tbilisi Central Station",
-            "name_ru": "Центральный вокзал Тбилиси",
-            "name_ka": "თბილისის ცენტრალური სადგური",
             "departure_time": "21:29",
             "arrival_time": null,
             "stop_time": null
@@ -5140,7 +4039,11 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6414"
+         6414
+      ],
+      "reverse": [
+         6413,
+         6415
       ]
    },
    {
@@ -5169,9 +4072,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "start",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "07:00",
             "arrival_time": null,
             "stop_time": null
@@ -5179,9 +4079,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "07:20",
             "arrival_time": null,
             "stop_time": null
@@ -5189,9 +4086,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "07:44",
             "arrival_time": null,
             "stop_time": null
@@ -5199,9 +4093,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "08:07",
             "arrival_time": null,
             "stop_time": null
@@ -5209,9 +4100,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "08:23",
             "arrival_time": null,
             "stop_time": null
@@ -5219,9 +4107,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "end",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "08:56",
             "arrival_time": null,
             "stop_time": null
@@ -5233,8 +4118,12 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6445",
-         "6447"
+         6445,
+         6447
+      ],
+      "reverse": [
+         6418,
+         6446
       ]
    },
    {
@@ -5263,9 +4152,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "start",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "17:25",
             "arrival_time": null,
             "stop_time": null
@@ -5273,9 +4159,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "17:58",
             "arrival_time": null,
             "stop_time": null
@@ -5283,9 +4166,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "18:14",
             "arrival_time": null,
             "stop_time": null
@@ -5293,9 +4173,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "18:36",
             "arrival_time": null,
             "stop_time": null
@@ -5303,9 +4180,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "19:02",
             "arrival_time": null,
             "stop_time": null
@@ -5313,9 +4187,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "end",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "19:24",
             "arrival_time": null,
             "stop_time": null
@@ -5327,7 +4198,12 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6446"
+         6446
+      ],
+      "reverse": [
+         6417,
+         6445,
+         6447
       ]
    },
    {
@@ -5356,9 +4232,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "start",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "16:40",
             "arrival_time": null,
             "stop_time": null
@@ -5366,9 +4239,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "17:00",
             "arrival_time": null,
             "stop_time": null
@@ -5376,9 +4246,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "17:24",
             "arrival_time": null,
             "stop_time": null
@@ -5386,9 +4253,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "17:47",
             "arrival_time": null,
             "stop_time": null
@@ -5396,9 +4260,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "18:03",
             "arrival_time": null,
             "stop_time": null
@@ -5406,9 +4267,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "end",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "18:36",
             "arrival_time": null,
             "stop_time": null
@@ -5420,8 +4278,12 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6417",
-         "6447"
+         6417,
+         6447
+      ],
+      "reverse": [
+         6418,
+         6446
       ]
    },
    {
@@ -5450,9 +4312,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "start",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "07:45",
             "arrival_time": null,
             "stop_time": null
@@ -5460,9 +4319,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "08:18",
             "arrival_time": null,
             "stop_time": null
@@ -5470,9 +4326,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "08:34",
             "arrival_time": null,
             "stop_time": null
@@ -5480,9 +4333,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "08:56",
             "arrival_time": null,
             "stop_time": null
@@ -5490,9 +4340,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "09:22",
             "arrival_time": null,
             "stop_time": null
@@ -5500,9 +4347,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "end",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "09:44",
             "arrival_time": null,
             "stop_time": null
@@ -5514,7 +4358,12 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6418"
+         6418
+      ],
+      "reverse": [
+         6417,
+         6445,
+         6447
       ]
    },
    {
@@ -5543,9 +4392,6 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "start",
-            "name_en": "Zestafoni",
-            "name_ru": "Зестафони",
-            "name_ka": "ზესტაფონი",
             "departure_time": "14:15",
             "arrival_time": null,
             "stop_time": null
@@ -5553,9 +4399,6 @@ export const routes = [
          {
             "code": "dzirula",
             "role": "middle",
-            "name_en": "Dzirula",
-            "name_ru": "Дзирула",
-            "name_ka": "ძირულა",
             "departure_time": "14:35",
             "arrival_time": null,
             "stop_time": null
@@ -5563,9 +4406,6 @@ export const routes = [
          {
             "code": "kharagauli",
             "role": "middle",
-            "name_en": "Kharagauli",
-            "name_ru": "Харагаули",
-            "name_ka": "ხარაგაული",
             "departure_time": "14:59",
             "arrival_time": null,
             "stop_time": null
@@ -5573,9 +4413,6 @@ export const routes = [
          {
             "code": "marelisi",
             "role": "middle",
-            "name_en": "Marelisi",
-            "name_ru": "Марелиси",
-            "name_ka": "მარელისი",
             "departure_time": "15:22",
             "arrival_time": null,
             "stop_time": null
@@ -5583,9 +4420,6 @@ export const routes = [
          {
             "code": "moliti",
             "role": "middle",
-            "name_en": "Moliti",
-            "name_ru": "Молити",
-            "name_ka": "მოლითი",
             "departure_time": "15:38",
             "arrival_time": null,
             "stop_time": null
@@ -5593,9 +4427,6 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "end",
-            "name_en": "Khashuri",
-            "name_ru": "Хашури",
-            "name_ka": "ხაშური",
             "departure_time": "16:11",
             "arrival_time": null,
             "stop_time": null
@@ -5607,8 +4438,12 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         "6417",
-         "6445"
+         6417,
+         6445
+      ],
+      "reverse": [
+         6418,
+         6446
       ]
    }
 ]
