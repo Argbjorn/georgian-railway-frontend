@@ -8,7 +8,7 @@ from config import ROUTES_LIST_JS_PATH, ROUTES_JSON_PATH
 from utils.geo_routes_excel_handler import GeoRoutesExcelHandler
 from utils.string_utils import remove_patterns
 import calendar
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 
 def string_value_to_bool(row, key):
@@ -159,10 +159,20 @@ def build_route(row, gr_workbook):
     return route
 
 
+def _is_upcoming(route):
+    start_date = route.get('start_date')
+    if not start_date:
+        return False
+    now_ms = int(datetime.now(tz=timezone.utc).timestamp() * 1000)
+    return start_date > now_ms
+
+
 def compute_analogues_and_reverse(routes):
     index = {}
     for route in routes:
         if not route.get('active') or not route.get('stations'):
+            continue
+        if _is_upcoming(route):
             continue
         start = next((s['code'] for s in route['stations'] if s['role'] == 'start'), None)
         end = next((s['code'] for s in route['stations'] if s['role'] == 'end'), None)
