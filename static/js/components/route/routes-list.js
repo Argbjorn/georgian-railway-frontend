@@ -364,7 +364,9 @@ export const routes = [
       "travel_time": "18:04",
       "price": null,
       "analogue": [],
-      "reverse": []
+      "reverse": [
+         202
+      ]
    },
    {
       "id": 19197562,
@@ -498,7 +500,9 @@ export const routes = [
       "travel_time": "17:34",
       "price": null,
       "analogue": [],
-      "reverse": []
+      "reverse": [
+         201
+      ]
    },
    {
       "id": 15664273,
@@ -2237,11 +2241,15 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         803
+         803,
+         807,
+         811
       ],
       "reverse": [
          802,
-         804
+         804,
+         808,
+         812
       ]
    },
    {
@@ -2309,11 +2317,15 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         804
+         804,
+         808,
+         812
       ],
       "reverse": [
          801,
-         803
+         803,
+         807,
+         811
       ]
    },
    {
@@ -2381,11 +2393,15 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         801
+         801,
+         807,
+         811
       ],
       "reverse": [
          802,
-         804
+         804,
+         808,
+         812
       ]
    },
    {
@@ -2453,11 +2469,15 @@ export const routes = [
          "price": 35.0
       },
       "analogue": [
-         802
+         802,
+         808,
+         812
       ],
       "reverse": [
          801,
-         803
+         803,
+         807,
+         811
       ]
    },
    {
@@ -2526,11 +2546,14 @@ export const routes = [
       },
       "analogue": [
          801,
-         803
+         803,
+         811
       ],
       "reverse": [
          802,
-         804
+         804,
+         808,
+         812
       ]
    },
    {
@@ -2599,11 +2622,14 @@ export const routes = [
       },
       "analogue": [
          802,
-         804
+         804,
+         812
       ],
       "reverse": [
          801,
-         803
+         803,
+         807,
+         811
       ]
    },
    {
@@ -2672,11 +2698,14 @@ export const routes = [
       },
       "analogue": [
          801,
-         803
+         803,
+         807
       ],
       "reverse": [
          802,
-         804
+         804,
+         808,
+         812
       ]
    },
    {
@@ -2745,11 +2774,14 @@ export const routes = [
       },
       "analogue": [
          802,
-         804
+         804,
+         808
       ],
       "reverse": [
          801,
-         803
+         803,
+         807,
+         811
       ]
    },
    {
