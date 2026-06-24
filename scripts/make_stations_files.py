@@ -89,6 +89,8 @@ def get_routes_for_stations():
         routes_data = json.load(file)
     stations_with_routes = {}
     for r in routes_data:
+        if not r.get('active'):
+            continue
         route_data = {
             'ref': r['ref'],
             'name_en': r['name:en'],
