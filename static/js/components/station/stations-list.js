@@ -271,30 +271,6 @@ export const stations = {
                "arrival_time": "14:48",
                "departure_time": "14:50",
                "stop_time": 2
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "06:03",
-               "departure_time": "06:06",
-               "stop_time": 3
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "22:16",
-               "departure_time": "22:18",
-               "stop_time": 2
             }
          ]
       }
@@ -410,30 +386,6 @@ export const stations = {
                "arrival_time": "19:57",
                "departure_time": "20:55",
                "stop_time": 58
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "23:40",
-               "departure_time": "00:40",
-               "stop_time": 60
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "03:24",
-               "departure_time": "04:15",
-               "stop_time": 51
             }
          ]
       }
@@ -534,8 +486,8 @@ export const stations = {
          10056291776
       ],
       "coords": [
-         41.6584901,
-         41.6776779
+         41.6585187,
+         41.6776873
       ],
       "code": "batumicentral",
       "type": "beach",
@@ -1495,18 +1447,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "09:22",
                "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "14:35",
-               "stop_time": null
             }
          ]
       }
@@ -2045,30 +1985,6 @@ export const stations = {
                "arrival_time": "16:29",
                "departure_time": "16:45",
                "stop_time": 16
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "03:50",
-               "departure_time": "04:10",
-               "stop_time": 20
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "23:59",
-               "departure_time": "00:13",
-               "stop_time": 14
             }
          ]
       }
@@ -2641,18 +2557,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "08:56",
                "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "14:59",
-               "stop_time": null
             }
          ]
       }
@@ -2722,18 +2626,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "18:36",
-               "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "16:11",
                "stop_time": null
             }
          ],
@@ -3531,30 +3423,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "15:55",
                "stop_time": null
-            },
-            {
-               "ref": 6353,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "11:30",
-               "stop_time": null
-            },
-            {
-               "ref": 6355,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "11:55",
-               "stop_time": null
             }
          ],
          "arrival": [
@@ -3592,30 +3460,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "14:05",
-               "stop_time": null
-            },
-            {
-               "ref": 6354,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:40",
-               "stop_time": null
-            },
-            {
-               "ref": 6356,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "13:10",
                "stop_time": null
             }
          ],
@@ -4093,18 +3937,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "08:34",
                "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "15:22",
-               "stop_time": null
             }
          ]
       }
@@ -4303,18 +4135,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "08:18",
-               "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "15:38",
                "stop_time": null
             }
          ]
@@ -4934,58 +4754,8 @@ export const stations = {
          "ru": "Станция Риони находится в нескольких километрах к югу от Кутаиси. В связи с тем, что она расположена на главной железнодорожной линии, соединяющей Западную и Восточную Грузию, большинство местных поездов, кроме экспрессов Тбилиси-Батуми (Stadler), останавливаются здесь, и Риони можно рассматривать как альтернативу тупиковой <a href='/ru/stations/kutaisi1/'>Кутаиси-1</a>. Добраться от Риони до Кутаиси-1 можно на маршрутке или такси.<br><br>Также между Риони и Кутаиси через день курсируют поезда 6353/6354 и 6355/6356, синхронизированные с поездами 853/854 Тбилиси-Озургети-Тбилиси, которые останавливаются в Риони."
       },
       "routes": {
-         "departure": [
-            {
-               "ref": 6354,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:20",
-               "stop_time": null
-            },
-            {
-               "ref": 6356,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:50",
-               "stop_time": null
-            }
-         ],
-         "arrival": [
-            {
-               "ref": 6353,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "11:50",
-               "stop_time": null
-            },
-            {
-               "ref": 6355,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:15",
-               "stop_time": null
-            }
-         ],
+         "departure": [],
+         "arrival": [],
          "via": [
             {
                "ref": 633,
@@ -5361,30 +5131,6 @@ export const stations = {
                "arrival_time": "21:20",
                "departure_time": "22:20",
                "stop_time": 60
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "22:10",
-               "departure_time": "23:15",
-               "stop_time": 65
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "04:40",
-               "departure_time": "05:40",
-               "stop_time": 60
             }
          ]
       }
@@ -5471,61 +5217,7 @@ export const stations = {
       "name_en": "Samtoteknikumi",
       "name_ka": "სამთოტექნიკუმი",
       "name_ru": "Самтотекникуми",
-      "gr_code": "00000",
-      "routes": {
-         "departure": [],
-         "arrival": [],
-         "via": [
-            {
-               "ref": 6353,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "11:40",
-               "stop_time": null
-            },
-            {
-               "ref": 6354,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748822400000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:29",
-               "stop_time": null
-            },
-            {
-               "ref": 6355,
-               "name_en": "Kutaisi → Rioni",
-               "name_ru": "Кутаиси → Риони",
-               "name_ka": "ქუთაისი → რიონი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:05",
-               "stop_time": null
-            },
-            {
-               "ref": 6356,
-               "name_en": "Rioni → Kutaisi",
-               "name_ru": "Риони → Кутаиси",
-               "name_ka": "რიონი → ქუთაისი",
-               "frequency": "every second day",
-               "start_date": 1748736000000,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "12:59",
-               "stop_time": null
-            }
-         ]
-      }
+      "gr_code": "00000"
    },
    "samtredia1": {
       "id": [
@@ -6051,18 +5743,6 @@ export const stations = {
                "stop_time": null
             },
             {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "-",
-               "departure_time": "20:20",
-               "stop_time": null
-            },
-            {
                "ref": 618,
                "name_en": "Tbilisi → Borjomi",
                "name_ru": "Тбилиси → Боржоми",
@@ -6206,18 +5886,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "08:41",
-               "stop_time": null
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "07:35",
-               "departure_time": "-",
                "stop_time": null
             },
             {
@@ -6779,30 +6447,6 @@ export const stations = {
                "arrival_time": "18:04",
                "departure_time": "18:09",
                "stop_time": 5
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "02:20",
-               "departure_time": "02:25",
-               "stop_time": 5
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "01:33",
-               "departure_time": "01:38",
-               "stop_time": 5
             }
          ]
       }
@@ -6904,18 +6548,6 @@ export const stations = {
                "arrival_time": "-",
                "departure_time": "14:00",
                "stop_time": null
-            },
-            {
-               "ref": 372,
-               "name_en": "Yerevan → Tbilisi",
-               "name_ru": "Ереван → Тбилиси",
-               "name_ka": "ერევანი → თბილისი",
-               "frequency": "every second day",
-               "start_date": 1774137600000,
-               "end_date": 1781222400000,
-               "arrival_time": "-",
-               "departure_time": "21:30",
-               "stop_time": null
             }
          ],
          "arrival": [
@@ -6928,18 +6560,6 @@ export const stations = {
                "start_date": 1781481600000,
                "end_date": 1790726400000,
                "arrival_time": "08:59",
-               "departure_time": "-",
-               "stop_time": null
-            },
-            {
-               "ref": 371,
-               "name_en": "Tbilisi → Yerevan",
-               "name_ru": "Тбилиси → Ереван",
-               "name_ka": "თბილისი → ერევანი",
-               "frequency": "every second day",
-               "start_date": 1779321600000,
-               "end_date": 1781308800000,
-               "arrival_time": "06:55",
                "departure_time": "-",
                "stop_time": null
             }
@@ -7101,18 +6721,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "16:40",
-               "stop_time": null
-            },
-            {
-               "ref": 6447,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "on workdays",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "14:15",
                "stop_time": null
             }
          ],

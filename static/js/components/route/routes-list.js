@@ -510,7 +510,7 @@ export const routes = [
       "name:ka": "თბილისი → ერევანი",
       "name:en": "Tbilisi → Yerevan",
       "name:ru": "Тбилиси → Ереван",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "start_date": 1779321600000,
       "end_date": 1781308800000,
@@ -577,12 +577,9 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "10:35",
       "price": null,
       "analogue": [],
-      "reverse": [
-         372
-      ]
+      "reverse": []
    },
    {
       "id": 11149011,
@@ -590,7 +587,7 @@ export const routes = [
       "name:ka": "ერევანი → თბილისი",
       "name:en": "Yerevan → Tbilisi",
       "name:ru": "Ереван → Тбилиси",
-      "active": true,
+      "active": false,
       "frequency": "every second day",
       "start_date": 1774137600000,
       "end_date": 1781222400000,
@@ -657,12 +654,9 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "10:05",
       "price": null,
       "analogue": [],
-      "reverse": [
-         371
-      ]
+      "reverse": []
    },
    {
       "id": 15689521,
@@ -4438,8 +4432,7 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         6445,
-         6447
+         6445
       ],
       "reverse": [
          6418,
@@ -4522,8 +4515,7 @@ export const routes = [
       ],
       "reverse": [
          6417,
-         6445,
-         6447
+         6445
       ]
    },
    {
@@ -4598,8 +4590,7 @@ export const routes = [
          "price": 0.5
       },
       "analogue": [
-         6417,
-         6447
+         6417
       ],
       "reverse": [
          6418,
@@ -4682,8 +4673,7 @@ export const routes = [
       ],
       "reverse": [
          6417,
-         6445,
-         6447
+         6445
       ]
    },
    {
@@ -4692,7 +4682,7 @@ export const routes = [
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": true,
+      "active": false,
       "frequency": "on workdays",
       "start_date": null,
       "end_date": null,
@@ -4752,7 +4742,6 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
