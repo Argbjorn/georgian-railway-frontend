@@ -71,8 +71,7 @@ STATIONS_SCHEMA = {
     "name_en",
     "name_ka",
     "name_ru",
-    "gr_code",
-    "routes"
+    "gr_code"
   ],
   "$defs": {
     "Route": {
