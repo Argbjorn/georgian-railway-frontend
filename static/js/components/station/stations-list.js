@@ -534,8 +534,8 @@ export const stations = {
          10056291776
       ],
       "coords": [
-         41.6584901,
-         41.6776779
+         41.6585187,
+         41.6776873
       ],
       "code": "batumicentral",
       "type": "beach",
