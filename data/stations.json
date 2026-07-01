@@ -563,6 +563,18 @@
                "stop_time": null
             },
             {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "14:10",
+               "stop_time": null
+            },
+            {
                "ref": 807,
                "name_en": "Batumi → Tbilisi",
                "name_ru": "Батуми → Тбилиси",
@@ -646,6 +658,18 @@
                "end_date": null,
                "arrival_time": null,
                "departure_time": "22:22",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "11:39",
                "stop_time": null
             },
             {
@@ -1436,7 +1460,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "17:00",
+               "departure_time": "17:20",
                "stop_time": null
             },
             {
@@ -1448,7 +1472,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:22",
+               "departure_time": "09:47",
                "stop_time": null
             }
          ]
@@ -2546,7 +2570,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "17:24",
+               "departure_time": "17:44",
                "stop_time": null
             },
             {
@@ -2558,7 +2582,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:56",
+               "departure_time": "09:21",
                "stop_time": null
             }
          ]
@@ -2602,7 +2626,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "07:45",
+               "departure_time": "08:10",
                "stop_time": null
             }
          ],
@@ -2628,7 +2652,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "18:36",
+               "departure_time": "18:56",
                "stop_time": null
             }
          ],
@@ -3009,6 +3033,30 @@
                "stop_time": null
             },
             {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "14:31",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "11:13",
+               "stop_time": null
+            },
+            {
                "ref": 807,
                "name_en": "Batumi → Tbilisi",
                "name_ru": "Батуми → Тбилиси",
@@ -3247,6 +3295,30 @@
                "end_date": null,
                "arrival_time": null,
                "departure_time": "20:28",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "16:07",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "09:48",
                "stop_time": null
             },
             {
@@ -3928,7 +4000,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "17:47",
+               "departure_time": "18:07",
                "stop_time": null
             },
             {
@@ -3940,7 +4012,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:34",
+               "departure_time": "08:59",
                "stop_time": null
             }
          ]
@@ -4127,7 +4199,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "18:03",
+               "departure_time": "18:23",
                "stop_time": null
             },
             {
@@ -4139,7 +4211,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "08:18",
+               "departure_time": "08:43",
                "stop_time": null
             }
          ]
@@ -5799,6 +5871,18 @@
                "stop_time": null
             },
             {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "06:30",
+               "stop_time": null
+            },
+            {
                "ref": 808,
                "name_en": "Tbilisi → Batumi",
                "name_ru": "Тбилиси → Батуми",
@@ -5942,6 +6026,18 @@
                "end_date": null,
                "arrival_time": null,
                "departure_time": "12:59",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "19:14",
                "stop_time": null
             },
             {
@@ -6341,6 +6437,30 @@
                "stop_time": null
             },
             {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "15:07",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "10:46",
+               "stop_time": null
+            },
+            {
                "ref": 807,
                "name_en": "Batumi → Tbilisi",
                "name_ru": "Батуми → Тбилиси",
@@ -6729,7 +6849,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "16:40",
+               "departure_time": "17:00",
                "stop_time": null
             }
          ],
@@ -6755,7 +6875,7 @@
                "start_date": null,
                "end_date": null,
                "arrival_time": null,
-               "departure_time": "09:44",
+               "departure_time": "10:09",
                "stop_time": null
             }
          ],
