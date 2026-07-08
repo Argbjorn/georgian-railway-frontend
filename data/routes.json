@@ -4538,7 +4538,7 @@
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4598,18 +4598,12 @@
             "stop_time": null
          }
       ],
-      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6445
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024299,
@@ -4617,7 +4611,7 @@
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4677,18 +4671,12 @@
             "stop_time": null
          }
       ],
-      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6446
-      ],
-      "reverse": [
-         6417,
-         6445
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024301,
@@ -4696,7 +4684,7 @@
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4756,18 +4744,12 @@
             "stop_time": null
          }
       ],
-      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6417
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024298,
@@ -4775,7 +4757,7 @@
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4835,18 +4817,12 @@
             "stop_time": null
          }
       ],
-      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6418
-      ],
-      "reverse": [
-         6417,
-         6445
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024300,
@@ -4918,13 +4894,7 @@
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6417,
-         6445
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    }
 ]

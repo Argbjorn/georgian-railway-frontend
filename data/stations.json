@@ -1426,54 +1426,6 @@
                "arrival_time": null,
                "departure_time": "11:22",
                "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:20",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "19:02",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:20",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "09:47",
-               "stop_time": null
             }
          ]
       }
@@ -2536,54 +2488,6 @@
                "arrival_time": null,
                "departure_time": "19:59",
                "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:44",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:36",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:44",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "09:21",
-               "stop_time": null
             }
          ]
       }
@@ -2604,58 +2508,8 @@
       "name_ru": "Хашури",
       "gr_code": 57720,
       "routes": {
-         "departure": [
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:25",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:10",
-               "stop_time": null
-            }
-         ],
-         "arrival": [
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:56",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:56",
-               "stop_time": null
-            }
-         ],
+         "departure": [],
+         "arrival": [],
          "via": [
             {
                "ref": 201,
@@ -3966,54 +3820,6 @@
                "arrival_time": null,
                "departure_time": "19:44",
                "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:07",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:14",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:07",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:59",
-               "stop_time": null
             }
          ]
       }
@@ -4066,7 +3872,7 @@
    "moliti": {
       "id": [
          11453231327,
-         13857252842
+         13988795304
       ],
       "coords": [
          41.9816194,
@@ -4164,54 +3970,6 @@
                "end_date": null,
                "arrival_time": null,
                "departure_time": "19:32",
-               "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:23",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:58",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:23",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:43",
                "stop_time": null
             }
          ]
@@ -6827,58 +6585,8 @@
       "name_ru": "Зестафони",
       "gr_code": 57600,
       "routes": {
-         "departure": [
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:00",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:00",
-               "stop_time": null
-            }
-         ],
-         "arrival": [
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "19:24",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "10:09",
-               "stop_time": null
-            }
-         ],
+         "departure": [],
+         "arrival": [],
          "via": [
             {
                "ref": 201,
