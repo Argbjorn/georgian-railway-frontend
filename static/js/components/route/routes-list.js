@@ -4538,7 +4538,7 @@ export const routes = [
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4598,12 +4598,18 @@ export const routes = [
             "stop_time": null
          }
       ],
+      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [],
-      "reverse": []
+      "analogue": [
+         6445
+      ],
+      "reverse": [
+         6418,
+         6446
+      ]
    },
    {
       "id": 16024299,
@@ -4611,7 +4617,7 @@ export const routes = [
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4671,12 +4677,18 @@ export const routes = [
             "stop_time": null
          }
       ],
+      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [],
-      "reverse": []
+      "analogue": [
+         6446
+      ],
+      "reverse": [
+         6417,
+         6445
+      ]
    },
    {
       "id": 16024301,
@@ -4684,7 +4696,7 @@ export const routes = [
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4744,12 +4756,18 @@ export const routes = [
             "stop_time": null
          }
       ],
+      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [],
-      "reverse": []
+      "analogue": [
+         6417
+      ],
+      "reverse": [
+         6418,
+         6446
+      ]
    },
    {
       "id": 16024298,
@@ -4757,7 +4775,7 @@ export const routes = [
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": false,
+      "active": true,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4817,12 +4835,18 @@ export const routes = [
             "stop_time": null
          }
       ],
+      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [],
-      "reverse": []
+      "analogue": [
+         6418
+      ],
+      "reverse": [
+         6417,
+         6445
+      ]
    },
    {
       "id": 16024300,
@@ -4894,7 +4918,13 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [],
-      "reverse": []
+      "analogue": [
+         6417,
+         6445
+      ],
+      "reverse": [
+         6418,
+         6446
+      ]
    }
 ]
