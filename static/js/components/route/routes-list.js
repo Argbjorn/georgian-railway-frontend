@@ -2236,12 +2236,14 @@ export const routes = [
       },
       "analogue": [
          803,
+         805,
          807,
          811
       ],
       "reverse": [
          802,
          804,
+         806,
          808,
          812
       ]
@@ -2312,12 +2314,14 @@ export const routes = [
       },
       "analogue": [
          804,
+         806,
          808,
          812
       ],
       "reverse": [
          801,
          803,
+         805,
          807,
          811
       ]
@@ -2388,12 +2392,14 @@ export const routes = [
       },
       "analogue": [
          801,
+         805,
          807,
          811
       ],
       "reverse": [
          802,
          804,
+         806,
          808,
          812
       ]
@@ -2464,12 +2470,170 @@ export const routes = [
       },
       "analogue": [
          802,
+         806,
          808,
          812
       ],
       "reverse": [
          801,
          803,
+         805,
+         807,
+         811
+      ]
+   },
+   {
+      "id": 17890099,
+      "ref": 805,
+      "name:ka": "ბათუმი → თბილისი",
+      "name:en": "Batumi → Tbilisi",
+      "name:ru": "Батуми → Тбилиси",
+      "active": true,
+      "frequency": "daily",
+      "start_date": null,
+      "end_date": null,
+      "complete": true,
+      "online": true,
+      "online_tickets_current_site": false,
+      "online_tickets_new_site": true,
+      "train_type": "stadler",
+      "has_arrival_time": false,
+      "description_en": null,
+      "description_ru": null,
+      "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
+      "stations": [
+         {
+            "code": "batumicentral",
+            "role": "start",
+            "departure_time": "14:10",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "kobuleti",
+            "role": "middle",
+            "departure_time": "14:31",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "ureki",
+            "role": "middle",
+            "departure_time": "15:07",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "kutaisiinternationalairport",
+            "role": "middle",
+            "departure_time": "16:07",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "tbilisicentralstation",
+            "role": "end",
+            "departure_time": "19:14",
+            "arrival_time": null,
+            "stop_time": null
+         }
+      ],
+      "travel_time": "05:04",
+      "price": {
+         "price_type": "from",
+         "price": 35.0
+      },
+      "analogue": [
+         801,
+         803,
+         807,
+         811
+      ],
+      "reverse": [
+         802,
+         804,
+         806,
+         808,
+         812
+      ]
+   },
+   {
+      "id": 17890097,
+      "ref": 806,
+      "name:ka": "თბილისი → ბათუმი",
+      "name:en": "Tbilisi → Batumi",
+      "name:ru": "Тбилиси → Батуми",
+      "active": true,
+      "frequency": "daily",
+      "start_date": null,
+      "end_date": null,
+      "complete": true,
+      "online": true,
+      "online_tickets_current_site": false,
+      "online_tickets_new_site": true,
+      "train_type": "stadler",
+      "has_arrival_time": false,
+      "description_en": null,
+      "description_ru": null,
+      "description_ka": null,
+      "extended_description_en": null,
+      "extended_description_ru": null,
+      "extended_description_ka": null,
+      "stations": [
+         {
+            "code": "tbilisicentralstation",
+            "role": "start",
+            "departure_time": "06:30",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "kutaisiinternationalairport",
+            "role": "middle",
+            "departure_time": "09:48",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "ureki",
+            "role": "middle",
+            "departure_time": "10:46",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "kobuleti",
+            "role": "middle",
+            "departure_time": "11:13",
+            "arrival_time": null,
+            "stop_time": null
+         },
+         {
+            "code": "batumicentral",
+            "role": "end",
+            "departure_time": "11:39",
+            "arrival_time": null,
+            "stop_time": null
+         }
+      ],
+      "travel_time": "05:09",
+      "price": {
+         "price_type": "from",
+         "price": 35.0
+      },
+      "analogue": [
+         802,
+         804,
+         808,
+         812
+      ],
+      "reverse": [
+         801,
+         803,
+         805,
          807,
          811
       ]
@@ -2541,11 +2705,13 @@ export const routes = [
       "analogue": [
          801,
          803,
+         805,
          811
       ],
       "reverse": [
          802,
          804,
+         806,
          808,
          812
       ]
@@ -2617,11 +2783,13 @@ export const routes = [
       "analogue": [
          802,
          804,
+         806,
          812
       ],
       "reverse": [
          801,
          803,
+         805,
          807,
          811
       ]
@@ -2693,11 +2861,13 @@ export const routes = [
       "analogue": [
          801,
          803,
+         805,
          807
       ],
       "reverse": [
          802,
          804,
+         806,
          808,
          812
       ]
@@ -2769,11 +2939,13 @@ export const routes = [
       "analogue": [
          802,
          804,
+         806,
          808
       ],
       "reverse": [
          801,
          803,
+         805,
          807,
          811
       ]
@@ -4366,7 +4538,7 @@ export const routes = [
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4426,18 +4598,12 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6445
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024299,
@@ -4445,7 +4611,7 @@ export const routes = [
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4505,18 +4671,12 @@ export const routes = [
             "stop_time": null
          }
       ],
-      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6446
-      ],
-      "reverse": [
-         6417,
-         6445
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024301,
@@ -4524,7 +4684,7 @@ export const routes = [
       "name:ka": "ზესტაფონი → ხაშური",
       "name:en": "Zestafoni → Khashuri",
       "name:ru": "Зестафони → Хашури",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4544,58 +4704,52 @@ export const routes = [
          {
             "code": "zestafoni",
             "role": "start",
-            "departure_time": "16:40",
+            "departure_time": "17:00",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "dzirula",
             "role": "middle",
-            "departure_time": "17:00",
+            "departure_time": "17:20",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "kharagauli",
             "role": "middle",
-            "departure_time": "17:24",
+            "departure_time": "17:44",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "marelisi",
             "role": "middle",
-            "departure_time": "17:47",
+            "departure_time": "18:07",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "moliti",
             "role": "middle",
-            "departure_time": "18:03",
+            "departure_time": "18:23",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "khashuri",
             "role": "end",
-            "departure_time": "18:36",
+            "departure_time": "18:56",
             "arrival_time": null,
             "stop_time": null
          }
       ],
-      "travel_time": "01:56",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6417
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024298,
@@ -4603,7 +4757,7 @@ export const routes = [
       "name:ka": "ხაშური → ზესტაფონი",
       "name:en": "Khashuri → Zestafoni",
       "name:ru": "Хашури → Зестафони",
-      "active": true,
+      "active": false,
       "frequency": "daily",
       "start_date": null,
       "end_date": null,
@@ -4623,58 +4777,52 @@ export const routes = [
          {
             "code": "khashuri",
             "role": "start",
-            "departure_time": "07:45",
+            "departure_time": "08:10",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "moliti",
             "role": "middle",
-            "departure_time": "08:18",
+            "departure_time": "08:43",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "marelisi",
             "role": "middle",
-            "departure_time": "08:34",
+            "departure_time": "08:59",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "kharagauli",
             "role": "middle",
-            "departure_time": "08:56",
+            "departure_time": "09:21",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "dzirula",
             "role": "middle",
-            "departure_time": "09:22",
+            "departure_time": "09:47",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "zestafoni",
             "role": "end",
-            "departure_time": "09:44",
+            "departure_time": "10:09",
             "arrival_time": null,
             "stop_time": null
          }
       ],
-      "travel_time": "01:59",
       "price": {
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6418
-      ],
-      "reverse": [
-         6417,
-         6445
-      ]
+      "analogue": [],
+      "reverse": []
    },
    {
       "id": 16024300,
@@ -4746,13 +4894,7 @@ export const routes = [
          "price_type": "exact",
          "price": 0.5
       },
-      "analogue": [
-         6417,
-         6445
-      ],
-      "reverse": [
-         6418,
-         6446
-      ]
+      "analogue": [],
+      "reverse": []
    }
 ]

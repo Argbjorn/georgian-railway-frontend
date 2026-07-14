@@ -497,7 +497,8 @@ export const stations = {
       "gr_code": 57151,
       "description": {
          "en": "This is the main station in Batumi. It's a bit off the main part of the city, but there are no other stations closer.",
-         "ru": "Это главный вокзал в Батуми. Он находится немного в стороне от основной части города, но других станций ближе нет."
+         "ru": "Это главный вокзал в Батуми. Он находится немного в стороне от основной части города, но других станций ближе нет.",
+         "ka": "ეს არის ბათუმის მთავარი სადგური. ის ქალაქის მთავარი ნაწილიდან ოდნავ მოშორებითაა, მაგრამ სხვა სადგური უფრო ახლოს არ არის."
       },
       "routes": {
          "departure": [
@@ -559,6 +560,18 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "08:00",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "14:10",
                "stop_time": null
             },
             {
@@ -645,6 +658,18 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "22:22",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "11:39",
                "stop_time": null
             },
             {
@@ -781,7 +806,8 @@ export const stations = {
       "gr_code": 57760,
       "description": {
          "en": "This station is located far from the center of the city. Tourists usually need to go to the station <a href='/stations/borjomiparki/'>Borjomi-Parki</a>, which is located in the center of the city near the park.",
-         "ru": "Эта станция находится далеко от центра города. Туристы обычно едут до станции <a href='/ru/stations/borjomiparki/'>Боржоми-Парк</a>, которая находится в центре города рядом с парком."
+         "ru": "Эта станция находится далеко от центра города. Туристы обычно едут до станции <a href='/ru/stations/borjomiparki/'>Боржоми-Парк</a>, которая находится в центре города рядом с парком.",
+         "ka": "ეს სადგური ქალაქის ცენტრიდან შორს მდებარეობს. ტურისტები ჩვეულებრივ მიემგზავრებიან სადგურ <a href='/ka/stations/borjomiparki/'>ბორჯომი-პარკი</a>-ში, რომელიც ქალაქის ცენტრში, პარკის მახლობლად მდებარეობს."
       },
       "routes": {
          "departure": [],
@@ -854,7 +880,8 @@ export const stations = {
       "gr_code": 57760,
       "description": {
          "en": "This station is the terminus for trains from Tbilisi. It's located in the center of the city, within walking distance of the park and other attractions. Tourists usually need this station.",
-         "ru": "Эта станция - конечная для поездов из Тбилиси. Она расположена в центре города, в пешей доступности от парка и остальных достопримечательностей. Обычно туристам нужна именно она."
+         "ru": "Эта станция - конечная для поездов из Тбилиси. Она расположена в центре города, в пешей доступности от парка и остальных достопримечательностей. Обычно туристам нужна именно она.",
+         "ka": "ეს სადგური თბილისიდან ჩამომავალი მატარებლებისთვის საბოლოო გაჩერებაა. ის ქალაქის ცენტრში მდებარეობს, პარკიდან და სხვა ღირსშესანიშნაობებიდან ფეხით სავალ მანძილზე. ჩვეულებრივ სწორედ ეს სადგური სჭირდება ტურისტებს."
       },
       "routes": {
          "departure": [
@@ -1398,54 +1425,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "11:22",
-               "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:20",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "19:02",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:00",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "09:22",
                "stop_time": null
             }
          ]
@@ -2509,54 +2488,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "19:59",
                "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:44",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:36",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:24",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:56",
-               "stop_time": null
             }
          ]
       }
@@ -2577,58 +2508,8 @@ export const stations = {
       "name_ru": "Хашури",
       "gr_code": 57720,
       "routes": {
-         "departure": [
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:25",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:45",
-               "stop_time": null
-            }
-         ],
-         "arrival": [
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:56",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:36",
-               "stop_time": null
-            }
-         ],
+         "departure": [],
+         "arrival": [],
          "via": [
             {
                "ref": 201,
@@ -3006,6 +2887,30 @@ export const stations = {
                "stop_time": null
             },
             {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "14:31",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "11:13",
+               "stop_time": null
+            },
+            {
                "ref": 807,
                "name_en": "Batumi → Tbilisi",
                "name_ru": "Батуми → Тбилиси",
@@ -3142,8 +3047,9 @@ export const stations = {
       "name_ru": "Международный аэропорт Кутаиси",
       "gr_code": 57450,
       "description": {
-         "en": "Kutaisi International Airport Station, also known as Kopitnari, is located next to the airport of the same name. It’s about 20 km southwest of the Kutaisi center and the railway station <a href='/stations/kutaisi1/'>Kutaisi-1</a>.<br>A free shuttle runs between the station and the airport.",
-         "ru": "Станция Международный аэропорт Кутаиси, она же Копитнари, расположена рядом с одноименным аэропортом. Она находится примерно в 20 км к юго-западу от центра Кутаиси и железнодорожной станции <a href='/ru/stations/kutaisi1/'>Кутаиси-1</a>.<br>Между станцией и аэропортом ходит бесплатный шаттл."
+         "en": "Kutaisi International Airport Station, also known as Kopitnari, is located next to the airport of the same name. It's about 20 km southwest of the Kutaisi center and the railway station <a href='/stations/kutaisi1/'>Kutaisi-1</a>.<br>A free shuttle runs between the station and the airport.",
+         "ru": "Станция Международный аэропорт Кутаиси, она же Копитнари, расположена рядом с одноименным аэропортом. Она находится примерно в 20 км к юго-западу от центра Кутаиси и железнодорожной станции <a href='/ru/stations/kutaisi1/'>Кутаиси-1</a>.<br>Между станцией и аэропортом ходит бесплатный шаттл.",
+         "ka": "კუტაისის საერთაშორისო აეროპორტის სადგური, ასევე ცნობილი როგორც კოპიტნარი, ამავე სახელწოდების აეროპორტის გვერდით მდებარეობს. ის კუტაისის ცენტრიდან და სარკინიგზო სადგური <a href='/ka/stations/kutaisi1/'>კუტაისი-1</a>-დან დაახლოებით 20 კმ-ით სამხრეთ-დასავლეთით მდებარეობს.<br>სადგურსა და აეროპორტს შორის უფასო შატლი დაიაეოლება."
       },
       "routes": {
          "departure": [],
@@ -3243,6 +3149,30 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "20:28",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "16:07",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "09:48",
                "stop_time": null
             },
             {
@@ -3384,7 +3314,8 @@ export const stations = {
       "gr_code": 57530,
       "description": {
          "en": "Kutaisi-1 is the only operating passenger railway station in Kutaisi. The main railway line from Tbilisi to Batumi runs south of the city, so Kutaisi-1 is a dead-end station with only a few route options.<br><br>9 km south of the city is <a href='/stations/rioni/'>Rioni Station</a>, where most local trains stop. Routes 6353/6354 and 6355/6356 Kutaisi-Rioni-Kutaisi run every other day and are synced with train 853/854 Tbilisi-Ozurgeti-Tbilisi, which stops at Rioni. You can also get to Rioni by minibus or taxi.<br><br>Express trains from Tbilisi to Batumi (Stadler) don’t stop at Rioni – they stop at <a href='/stations/kutaisiinternationalairport/'>Kutaisi International Airport</a> instead. The airport is 20 km southwest of Kutaisi-1, and you can get there by minibus, taxi or <a href='https://kutaisi.aero/en/transport/shuttle-bus' target='_blank'>shuttle bus</a>.",
-         "ru": "Кутаиси-1 — это единственный действующий пассажирский железнодорожный вокзал в Кутаиси. Основная железнодорожная линия из Тбилиси в Батуми проходит южнее города, поэтому Кутаиси-1 является тупиком и выбор маршрутов здесь небольшой.<br><br>В 9 км к югу находится станция <a href='/ru/stations/rioni/'>Риони</a>, на которой останавливается большинство местных поездов. Маршруты 6353/6354 и 6355/6356 Кутаиси-Риони-Кутаиси ходят через день и синхронизированы с 853/854 Тбилиси-Озургети-Тбилиси, который останавливается в Риони. Также до Риони можно добраться на маршрутке или такси.<br><br>Экспрессы из Тбилиси в Батуми (Stadler) останавливаются не в Риони, а в <a href='/ru/stations/kutaisiinternationalairport/'>Международном аэропорту Кутаиси</a>. Он находится в 20 км к юго-западу от Кутаиси-1 и добраться до него можно на маршрутке, такси или <a href='https://kutaisi.aero/en/transport/shuttle-bus' target='_blank'>шаттле аэропорта</a>."
+         "ru": "Кутаиси-1 — это единственный действующий пассажирский железнодорожный вокзал в Кутаиси. Основная железнодорожная линия из Тбилиси в Батуми проходит южнее города, поэтому Кутаиси-1 является тупиком и выбор маршрутов здесь небольшой.<br><br>В 9 км к югу находится станция <a href='/ru/stations/rioni/'>Риони</a>, на которой останавливается большинство местных поездов. Маршруты 6353/6354 и 6355/6356 Кутаиси-Риони-Кутаиси ходят через день и синхронизированы с 853/854 Тбилиси-Озургети-Тбилиси, который останавливается в Риони. Также до Риони можно добраться на маршрутке или такси.<br><br>Экспрессы из Тбилиси в Батуми (Stadler) останавливаются не в Риони, а в <a href='/ru/stations/kutaisiinternationalairport/'>Международном аэропорту Кутаиси</a>. Он находится в 20 км к юго-западу от Кутаиси-1 и добраться до него можно на маршрутке, такси или <a href='https://kutaisi.aero/en/transport/shuttle-bus' target='_blank'>шаттле аэропорта</a>.",
+         "ka": "კუტაისი-1 კუტაისის ერთადერთი მოქმედი სამგზავრო სარკინიგზო სადგურია. თბილისი-ბათუმის მთავარი სარკინიგზო ხაზი ქალაქის სამხრეთ მხარეს გადის, ამიტომ კუტაისი-1 ჩიხი სადგურია და მარშრუტების არჩევანი მცირეა.<br><br>ქალაქიდან 9 კმ-ით სამხრეთით მდებარეობს სადგური <a href='/ka/stations/rioni/'>რიონი</a>, სადაც ადგილობრივი მატარებლების უმეტესობა ჩერდება. მარშრუტები 6353/6354 და 6355/6356 კუტაისი-რიონი-კუტაისი ყოველ მეორე დღეს მიდის და სინქრონიზებულია 853/854 თბილისი-ოზურგეთი-თბილისთან, რომელიც რიონში ჩერდება. ასევე რიონამდე მიკროავტობუსით ან ტაქსით შეიძლება მისვლა.<br><br>თბილისი-ბათუმი ექსპრეს-მატარებლები (Stadler) რიონში კი არ ჩერდება, არამედ <a href='/ka/stations/kutaisiinternationalairport/'>კუტაისის საერთაშორისო აეროპორტში</a>. ის კუტაისი-1-დან 20 კმ-ით სამხრეთ-დასავლეთით მდებარეობს და მასში მიკროავტობუსით, ტაქსით ან <a href='https://kutaisi.aero/en/transport/shuttle-bus' target='_blank'>აეროპორტის შატლით</a> შეიძლება მისვლა."
       },
       "routes": {
          "departure": [
@@ -3889,54 +3820,6 @@ export const stations = {
                "arrival_time": null,
                "departure_time": "19:44",
                "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:07",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:14",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:47",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:34",
-               "stop_time": null
             }
          ]
       }
@@ -3989,7 +3872,7 @@ export const stations = {
    "moliti": {
       "id": [
          11453231327,
-         13857252842
+         13988795304
       ],
       "coords": [
          41.9816194,
@@ -4087,54 +3970,6 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "19:32",
-               "stop_time": null
-            },
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:23",
-               "stop_time": null
-            },
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "17:58",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "18:03",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "08:18",
                "stop_time": null
             }
          ]
@@ -4700,7 +4535,8 @@ export const stations = {
       "gr_code": 57210,
       "description": {
          "en": "To Poti you can get only one train from Tbilisi, with inconvenient arrival and departure times, so it's easier to get to Poti by minibus or taxi. You can also consider the station <a href='/stations/ureki/'>Ureki</a> in 20 km to the southeast: it serves all local trains, has direct trains to Batumi and Tbilisi, and there are minibuses between Poti and Ureki.",
-         "ru": "В Поти приезжает только один поезд из Тбилиси, причем с неудобным временем и прибытия, и отправления, поэтому до Поти проще добраться на маршрутке или такси. Также можно рассмотреть станцию <a href='/ru/stations/ureki/'>Уреки</a> в 20 км к юго-востоку: на ней останавливаются все местные поезда, есть прямые поезда в Батуми и Тбилиси. Между Поти и Уреки ходят маршрутки."
+         "ru": "В Поти приезжает только один поезд из Тбилиси, причем с неудобным временем и прибытия, и отправления, поэтому до Поти проще добраться на маршрутке или такси. Также можно рассмотреть станцию <a href='/ru/stations/ureki/'>Уреки</a> в 20 км к юго-востоку: на ней останавливаются все местные поезда, есть прямые поезда в Батуми и Тбилиси. Между Поти и Уреки ходят маршрутки.",
+         "ka": "ფოთში თბილისიდან მხოლოდ ერთი მატარებელი ჩამოდის, და ამასთანავე ჩამოსვლისა და გამგზავრების დრო არახელსაყრელია, ამიტომ ფოთამდე მიკროავტობუსით ან ტაქსით მისვლა უფრო მარტივია. ასევე შეიძლება განვიხილოთ სადგური <a href='/ka/stations/ureki/'>ურეკი</a> 20 კმ-ით სამხრეთ-აღმოსავლეთით: იქ ყველა ადგილობრივი მატარებელი ჩერდება, არის პირდაპირი მატარებლები ბათუმსა და თბილისში. ფოთსა და ურეკს შორის მიკროავტობუსები დადიოდა."
       },
       "routes": {
          "departure": [
@@ -4750,8 +4586,9 @@ export const stations = {
       "name_ru": "Риони",
       "gr_code": 57510,
       "description": {
-         "en": "Rioni Station is located a few kilometers south of Kutaisi. Since it’s on the main railway line connecting Western and Eastern Georgia, most local trains, except for the Tbilisi-Batumi (Stadler) express trains, stop here, making Rioni a good alternative to the dead-end <a href='/stations/kutaisi1/'>Kutaisi-1</a>. You can get from Rioni to Kutaisi-1 by minibus or taxi.<br><br>There are also trains 6353/6354 and 6355/6356 running between Rioni and Kutaisi every other day, synced with trains 853/854 Tbilisi-Ozurgeti-Tbilisi, which stop at Rioni.",
-         "ru": "Станция Риони находится в нескольких километрах к югу от Кутаиси. В связи с тем, что она расположена на главной железнодорожной линии, соединяющей Западную и Восточную Грузию, большинство местных поездов, кроме экспрессов Тбилиси-Батуми (Stadler), останавливаются здесь, и Риони можно рассматривать как альтернативу тупиковой <a href='/ru/stations/kutaisi1/'>Кутаиси-1</a>. Добраться от Риони до Кутаиси-1 можно на маршрутке или такси.<br><br>Также между Риони и Кутаиси через день курсируют поезда 6353/6354 и 6355/6356, синхронизированные с поездами 853/854 Тбилиси-Озургети-Тбилиси, которые останавливаются в Риони."
+         "en": "Rioni Station is located a few kilometers south of Kutaisi. Since it’s on the main railway line connecting Western and Eastern Georgia, most local trains, except for the Tbilisi-Batumi (Stadler) express trains, stop here, making Rioni a good alternative to the dead-end <a href='/stations/kutaisi1/'>Kutaisi-1</a>. You can get from Rioni to Kutaisi by bus #3 or taxi.<br><br>The ticket office at the station is open from 8:00 to 22:00 with breaks (9:30-11:00, 14:15-15:45), card payment is possible. There is no ticket vending machine.",
+         "ru": "Станция Риони находится в нескольких километрах к югу от Кутаиси. В связи с тем, что она расположена на главной железнодорожной линии, соединяющей Западную и Восточную Грузию, большинство местных поездов, кроме экспрессов Тбилиси-Батуми (Stadler), останавливаются здесь, и Риони можно рассматривать как альтернативу тупиковой <a href='/ru/stations/kutaisi1/'>Кутаиси-1</a>. Добраться от Риони до Кутаиси можно на маршрутке №3 или такси.<br><br>Касса на станции работает с 8:00 до 22:00 с перерывами (9:30-11:00, 14:15-15:45), возможна оплата картой. Автомата для продажи билетов нет.",
+         "ka": "რიონის სადგური კუტაისიდან რამდენიმე კილომეტრით სამხრეთით მდებარეობს. ვინაიდან ის დასავლეთ და აღმოსავლეთ საქართველოს დამაკავშირებელ მთავარ სარკინიგზო ხაზზეა, ადგილობრივი მატარებლების უმეტესობა, თბილისი-ბათუმი (Stadler) ექსპრეს-მატარებლების გარდა, აქ ჩერდება, და რიონი შეიძლება განვიხილოთ, როგორც ჩიხი სადგური <a href='/ka/stations/kutaisi1/'>კუტაისი-1</a>-ის ალტერნატივა. რიონიდან კუტაისამდე №3 მიკროავტობუსით ან ტაქსით შეიძლება მისვლა.<br><br>სადგურის სალარო მუშაობს 8:00-დან 22:00-მდე შესვენებებით (9:30-11:00, 14:15-15:45), შესაძლებელია ბარათით გადახდა. ბილეთების ავტომატი არ არის."
       },
       "routes": {
          "departure": [],
@@ -5726,7 +5563,8 @@ export const stations = {
       "gr_code": 56014,
       "description": {
          "en": "This is the main station in Tbilisi. All railway journeys in Georgia start here.",
-         "ru": "Это главный вокзал в Тбилиси. Здесь начинаются все железнодорожные путешествия по Грузии."
+         "ru": "Это главный вокзал в Тбилиси. Здесь начинаются все железнодорожные путешествия по Грузии.",
+         "ka": "ეს არის თბილისის მთავარი სადგური. საქართველოში ყველა სარკინიგზო მოგზაურობა სწორედ აქ იწყება."
       },
       "routes": {
          "departure": [
@@ -5788,6 +5626,18 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "17:10",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "06:30",
                "stop_time": null
             },
             {
@@ -5934,6 +5784,18 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "12:59",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "19:14",
                "stop_time": null
             },
             {
@@ -6205,7 +6067,8 @@ export const stations = {
       "gr_code": 57070,
       "description": {
          "en": "Ureki Station is located 1.5 km from the same-named village and beach, on the road to Batumi. To the beach you can get by taxi, and in the season - by a strange beach shuttle. Nearby minibuses stop in many settlements, including Tbilisi and Batumi.",
-         "ru": "Станция Уреки находится в 1.5 км от одноименного поселка и пляжа, на трассе в Батуми. До пляжа можно доехать на такси, а в сезон - на странном пляжном автобусе. Рядом останавливаются маршрутки во многие населенные пункты, включая Тбилиси и Батуми."
+         "ru": "Станция Уреки находится в 1.5 км от одноименного поселка и пляжа, на трассе в Батуми. До пляжа можно доехать на такси, а в сезон - на странном пляжном автобусе. Рядом останавливаются маршрутки во многие населенные пункты, включая Тбилиси и Батуми.",
+         "ka": "ურეკის სადგური ამავე სახელწოდების დასახლებიდან და პლაჟიდან 1,5 კმ-ში მდებარეობს, ბათუმისკენ მიმავალ გზატკეცილზე. პლაჟამდე ტაქსით, ხოლო სეზონზე — განსაკუთრებული პლაჟის ავტობუსით შეიძლება მისვლა. მახლობლად ბევრ დასახლებულ პუნქტში მიმავალი მიკროავტობუსები ჩერდება, მათ შორის თბილისსა და ბათუმში."
       },
       "routes": {
          "departure": [],
@@ -6329,6 +6192,30 @@ export const stations = {
                "end_date": null,
                "arrival_time": null,
                "departure_time": "21:28",
+               "stop_time": null
+            },
+            {
+               "ref": 805,
+               "name_en": "Batumi → Tbilisi",
+               "name_ru": "Батуми → Тбилиси",
+               "name_ka": "ბათუმი → თბილისი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "15:07",
+               "stop_time": null
+            },
+            {
+               "ref": 806,
+               "name_en": "Tbilisi → Batumi",
+               "name_ru": "Тбилиси → Батуми",
+               "name_ka": "თბილისი → ბათუმი",
+               "frequency": "daily",
+               "start_date": null,
+               "end_date": null,
+               "arrival_time": null,
+               "departure_time": "10:46",
                "stop_time": null
             },
             {
@@ -6698,58 +6585,8 @@ export const stations = {
       "name_ru": "Зестафони",
       "gr_code": 57600,
       "routes": {
-         "departure": [
-            {
-               "ref": 6417,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "07:00",
-               "stop_time": null
-            },
-            {
-               "ref": 6445,
-               "name_en": "Zestafoni → Khashuri",
-               "name_ru": "Зестафони → Хашури",
-               "name_ka": "ზესტაფონი → ხაშური",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "16:40",
-               "stop_time": null
-            }
-         ],
-         "arrival": [
-            {
-               "ref": 6418,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "19:24",
-               "stop_time": null
-            },
-            {
-               "ref": 6446,
-               "name_en": "Khashuri → Zestafoni",
-               "name_ru": "Хашури → Зестафони",
-               "name_ka": "ხაშური → ზესტაფონი",
-               "frequency": "daily",
-               "start_date": null,
-               "end_date": null,
-               "arrival_time": null,
-               "departure_time": "09:44",
-               "stop_time": null
-            }
-         ],
+         "departure": [],
+         "arrival": [],
          "via": [
             {
                "ref": 201,
