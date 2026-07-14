@@ -1,8 +1,13 @@
+import time
+
 import requests
 from utils.string_utils import *
 
 
 class OverpassHandler:
+    RETRY_COUNT = 4
+    RETRY_DELAY_SECONDS = 1
+
     def __init__(self):
         self.base_url = 'https://overpass-api.de/api/interpreter'
         self.base_url_test = 'https://maps.mail.ru/osm/tools/overpass/api/interpreter'
@@ -11,10 +16,18 @@ class OverpassHandler:
         headers = {
             "User-Agent": "georailway",
         }
-        result = requests.get(self.base_url, data={"data": query}, headers=headers, timeout=25)
-        if result.status_code != 200:
-            raise Exception(f"Failed to get data from Overpass API: {result.status_code} {result.text}")
-        return result.json()
+        last_error = None
+        for attempt in range(self.RETRY_COUNT + 1):
+            try:
+                result = requests.get(self.base_url, data={"data": query}, headers=headers, timeout=25)
+                if result.status_code != 200:
+                    raise Exception(f"Failed to get data from Overpass API: {result.status_code} {result.text}")
+                return result.json()
+            except Exception as error:
+                last_error = error
+                if attempt < self.RETRY_COUNT:
+                    time.sleep(self.RETRY_DELAY_SECONDS)
+        raise last_error
 
     def get_route_stations_id(self, route_id):
         stations = []

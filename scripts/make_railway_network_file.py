@@ -1,6 +1,5 @@
 import sys
 import os
-import time
 import json
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -67,13 +66,5 @@ def update_file(data):
 
 
 if __name__ == '__main__':
-    for attempt in range(1, 6):
-        try:
-            data = overpass.get_data(QUERY)
-            update_file(data)
-            break
-        except Exception as e:
-            if attempt == 5:
-                raise
-            print(f"Attempt {attempt} failed: {e}. Retrying in 3s...")
-            time.sleep(3)
+    data = overpass.get_data(QUERY)
+    update_file(data)
