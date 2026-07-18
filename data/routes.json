@@ -1423,14 +1423,14 @@
          {
             "code": "sajavakho",
             "role": "middle",
-            "departure_time": "07:40",
+            "departure_time": "07:50",
             "arrival_time": null,
             "stop_time": null
          },
          {
             "code": "nigoiti",
             "role": "middle",
-            "departure_time": "08:11",
+            "departure_time": "08:10",
             "arrival_time": null,
             "stop_time": null
          },
